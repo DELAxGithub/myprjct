@@ -1,0 +1,220 @@
+[
+    {
+        "type": "message",
+        "text": "87ワタナベさんのWAVをDropboxにアップしました。\nご確認よろしくお願いします:bow:",
+        "files": [
+            {
+                "id": "F04LV7L90S3",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1675155181.519449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XKvg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "87ワタナベさんのWAVをDropboxにアップしました。\nご確認よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "08482932-7C98-4E82-9C7E-9F85BD0B577B",
+        "thread_ts": "1675155181.519449",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1675157286.864129",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1675157286.864129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675157286.864129",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03G0LAPT3N> Macのスクショは、\n⌘＋⇧（シフト）＋コントロール＋４で範囲選択\nすると、コピーした状態になります\n⌘＋V\nで\n貼り付けするとその部分だでペーストできます!",
+        "files": [
+            {
+                "id": "F04MCCP1S92",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1675156976.553759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=IXK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Macのスクショは、\n⌘＋⇧（シフト）＋コントロール＋４で範囲選択\nすると、コピーした状態になります\n⌘＋V\nで\n貼り付けするとその部分だでペーストできます!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1675156986.000000"
+        },
+        "client_msg_id": "521becf9-0e39-4c6e-94f9-c35d236fc8eb",
+        "thread_ts": "1675156976.553759",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1675157483.316839",
+        "reply_users": [
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1675157483.316839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675157483.316839"
+    },
+    {
+        "client_msg_id": "9c7212e7-cfd1-46db-a071-326851b49529",
+        "type": "message",
+        "text": "<@U03P0T4KQMV> MAきましたー",
+        "user": "U03CXUXB5PF",
+        "ts": "1675157286.864129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rs+g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " MAきましたー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675155181.519449",
+        "parent_user_id": "U03G0LAPT3N",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1C2A4EBF-7A8E-424F-A4B2-4F4EF6820B88",
+        "type": "message",
+        "text": "ありがとうございます",
+        "user": "U03G0LAPT3N",
+        "ts": "1675157483.316839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F5OQV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675156976.553759",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

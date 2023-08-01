@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "16522cee-2703-46a1-9d49-c9050bde4269",
+        "type": "message",
+        "text": "<#C044PJ0DX60|3-edit-書き出し依頼>\n手元試写についてはこちらにて依頼ください\n24時間体制ですが、自分で書き出しても1本10分以下とかなら作業の合間で書き出しちゃったほうが早いと思います。",
+        "user": "U03CXUXB5PF",
+        "ts": "1664541098.833989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eRZy1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "channel",
+                                "channel_id": "C044PJ0DX60"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n手元試写についてはこちらにて依頼ください\n24時間体制ですが、自分で書き出しても1本10分以下とかなら作業の合間で書き出しちゃったほうが早いと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

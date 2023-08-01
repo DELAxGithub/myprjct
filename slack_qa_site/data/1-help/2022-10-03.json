@@ -1,0 +1,387 @@
+[
+    {
+        "type": "message",
+        "text": "<!channel>\n2Q2が保存できません",
+        "files": [
+            {
+                "id": "F044MNU844W",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03QQ3J656Z",
+        "display_as_bot": false,
+        "ts": "1664783480.829529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fAQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n2Q2が保存できません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "017259a1-60c3-4be1-a22d-a7e2843e9e31"
+    },
+    {
+        "client_msg_id": "1dfa98cc-5c3b-4b5b-8da6-109be79178e1",
+        "type": "message",
+        "text": "<@U03QQ3J656Z> すいません、その後どうなりました？\nローカルプロジェクトに一回変換しちゃうで、ひとまず作業が維持されてるなら。",
+        "user": "U03CXUXB5PF",
+        "ts": "1664789015.354349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tOV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すいません、その後どうなりました？\nローカルプロジェクトに一回変換しちゃうで、ひとまず作業が維持されてるなら。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664789015.354349",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1664790536.628199",
+        "reply_users": [
+            "U03QQ3J656Z",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1664789166.382239"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1664789591.080659"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1664790284.819559"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1664790401.768639"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1664790536.628199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1664790536.628199"
+    },
+    {
+        "client_msg_id": "4f24d06d-a4aa-466d-b9cb-87c66221ccdf",
+        "type": "message",
+        "text": "今2Q2を開きましたが、作業どこまでやったのかにもよるかも。\nそれ捨ててやり直すか。あと、強制終了しても一手しか戻らないので一回落としちゃっても大丈夫です。",
+        "user": "U03CXUXB5PF",
+        "ts": "1664789099.278429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q0Ei",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今2Q2を開きましたが、作業どこまでやったのかにもよるかも。\nそれ捨ててやり直すか。あと、強制終了しても一手しか戻らないので一回落としちゃっても大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "375FA0B7-0AD7-4F4F-A799-982F4888CE75",
+        "type": "message",
+        "text": "何度やってもダメで、ローカルの変更破棄を押したら、なぜか共有が動き出しました。\nしかし、どうやら一部共有ができていなかったようです。(取り切りのディゾルブくらいだったのでまだ被害は少なかったですが)",
+        "user": "U03QQ3J656Z",
+        "ts": "1664789166.382239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m78tt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "何度やってもダメで、ローカルの変更破棄を押したら、なぜか共有が動き出しました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "しかし、どうやら一部共有ができていなかったようです。(取り切りのディゾルブくらいだったのでまだ被害は少なかったですが)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664789015.354349",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "69051aae-72ca-411c-bcc5-acb896980600",
+        "type": "message",
+        "text": "premiereのチームプロジェクトは自動保存が優秀なのでなんかエラーおきたらひとまず再起動が最善手なきがします\nそれもむずかしいばあいは、ローカルプロジェクトに変換かなぁ。\nなんか共有するときのトラブルはどうにもならないことがおおいので、それでなんとかすることがおおかったです",
+        "user": "U03CXUXB5PF",
+        "ts": "1664789591.080659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RoYQk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "premiereのチームプロジェクトは自動保存が優秀なのでなんかエラーおきたらひとまず再起動が最善手なきがします\nそれもむずかしいばあいは、ローカルプロジェクトに変換かなぁ。\nなんか共有するときのトラブルはどうにもならないことがおおいので、それでなんとかすることがおおかったです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664789015.354349",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "ED1F4678-B22A-410F-8444-5995FB1A3D03",
+        "type": "message",
+        "text": "結構共有されてない編集多いですね。\nそうするしかないのか\n２回ずつ編集してることになるのでこれ辛いですね。",
+        "user": "U03QQ3J656Z",
+        "ts": "1664790284.819559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RADcl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "結構共有されてない編集多いですね。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "そうするしかないのか"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "２回ずつ編集してることになるのでこれ辛いですね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664789015.354349",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "メディアブラウザーにも残ってないですか？　チームプロジェクトとはいえローカルにものこってるので、そこからの再現もできるのかなぁ。",
+        "files": [
+            {
+                "id": "F044N8EEYB0",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1664790401.768639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+\/Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メディアブラウザーにも残ってないですか？　チームプロジェクトとはいえローカルにものこってるので、そこからの再現もできるのかなぁ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "167a69f8-f503-40b8-b413-6e48930d37ea",
+        "thread_ts": "1664789015.354349",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "6c503bfb-9a47-4a4c-bc76-1303c08aba90",
+        "type": "message",
+        "text": "共有できてたりできてなかったりしてるので\nできていないところは直しました。\nとりあえず大丈夫です",
+        "user": "U03QQ3J656Z",
+        "ts": "1664790536.628199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sYiN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "共有できてたりできてなかったりしてるので\nできていないところは直しました。\nとりあえず大丈夫です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664789015.354349",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,440 @@
+[
+    {
+        "client_msg_id": "c8db0415-ff08-440c-bb47-2b795813bd3c",
+        "type": "message",
+        "text": "<@U04J38PLGM6>\n<@U03V84JSHNK>\n本日進捗いかがですか？今週でリサーチを片付けたいと思ってたんですが、厳しそう？あれこれすいませんが、よろしくお願いいたします\n上のテロップのもどんなもんか使ってみてください。なんとなくエクセルを飛ばせるような気もしてきましたが、Document →スプレッドシートをひとまず試してみてね",
+        "user": "U03CXUXB5PF",
+        "ts": "1680780675.871849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DrA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n本日進捗いかがですか？今週でリサーチを片付けたいと思ってたんですが、厳しそう？あれこれすいませんが、よろしくお願いいたします\n上のテロップのもどんなもんか使ってみてください。なんとなくエクセルを飛ばせるような気もしてきましたが、Document →スプレッドシートをひとまず試してみてね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680780675.871849",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1680782813.276899",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1680782813.276899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1680782813.276899"
+    },
+    {
+        "client_msg_id": "E0C5045C-5C59-41AE-BDD1-40BFEB33AB4D",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> \nすみません、今日別件で時間食いすぎて半日の作業になってしまいました。\n100と103半分ずつ終わっている感じなので\n明日中に二つとも終わらせます。\n102、104、105が手付かずです。\n秋元さんはベネッセ待ちです。",
+        "user": "U04J38PLGM6",
+        "ts": "1680782813.276899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+XHRq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nすみません、今日別件で時間食いすぎて半日の作業になってしまいました。\n100と103半分ずつ終わっている感じなので\n明日中に二つとも終わらせます。\n102、104、105が手付かずです。\n秋元さんはベネッセ待ちです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680780675.871849",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "テロップ作成ですが、スプレッドシートからボタン一発で作れた！\nここのXML作成ボタンを押したら\nこのドライブにxmlが落ちてきます\n<https:\/\/drive.google.com\/drive\/folders\/1wSl7A238YJIfv5v28baif8s-NwGAZysh?usp=sharing>\n半日かかったけど、やったぜ！",
+        "files": [
+            {
+                "id": "F051SP9UCLF",
+                "created": 1680816110,
+                "timestamp": 1680816110,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03CXUXB5PF",
+                "user_team": "T03CU6RQ154",
+                "editable": false,
+                "size": 122930,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F051SP9UCLF\/image.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F051SP9UCLF\/download\/image.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F051SP9UCLF-3046311bfd\/image_64.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F051SP9UCLF-3046311bfd\/image_80.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F051SP9UCLF-3046311bfd\/image_360.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360_w": 360,
+                "thumb_360_h": 189,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F051SP9UCLF-3046311bfd\/image_480.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_480_w": 480,
+                "thumb_480_h": 252,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F051SP9UCLF-3046311bfd\/image_160.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F051SP9UCLF-3046311bfd\/image_720.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720_w": 720,
+                "thumb_720_h": 378,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F051SP9UCLF-3046311bfd\/image_800.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_800_w": 800,
+                "thumb_800_h": 420,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F051SP9UCLF-3046311bfd\/image_960.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_960_w": 960,
+                "thumb_960_h": 504,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F051SP9UCLF-3046311bfd\/image_1024.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 537,
+                "original_w": 1140,
+                "original_h": 598,
+                "thumb_tiny": "AwAZADDQ29e+TRt9qGOD1\/SlDe9ACbMHOOaXB7Uu4etG4etACc+9HIHQmlA75NLQAxutCsD2pTQKAFGD0b9aWmrTqACiiigD\/9k=",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/U03CXUXB5PF\/F051SP9UCLF\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03CU6RQ154-F051SP9UCLF-d4fdb0cfe9",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1680816161.177329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7M\/2V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "テロップ作成ですが、スプレッドシートからボタン一発で作れた！\nここのXML作成ボタンを押したら\nこのドライブにxmlが落ちてきます\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1wSl7A238YJIfv5v28baif8s-NwGAZysh?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n半日かかったけど、やったぜ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7bc6cccb-31ed-459c-af03-6b67b8d281da",
+        "thread_ts": "1680816161.177329",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1680835632.378689",
+        "reply_users": [
+            "U04J38PLGM6",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1680832791.695209"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1680835632.378689"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1680835632.378689",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "533f512c-6d7b-49f4-ada9-7861f0177bdc",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> すみません、このスプレッドシートはどこに入っていますか？",
+        "user": "U04J38PLGM6",
+        "ts": "1680832791.695209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kC3R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すみません、このスプレッドシートはどこに入っていますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680816161.177329",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "3a13a57c-2bdc-44d6-9e0b-3c64990c5803",
+        "type": "message",
+        "text": "台本の上の方にない？あ、台本どれだろ、反映してあったかな。",
+        "user": "U03CXUXB5PF",
+        "ts": "1680835632.378689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eBQv=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "台本の上の方にない？あ、台本どれだろ、反映してあったかな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680816161.177329",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "台本のテロップ作成メニューにtwって書いてあったら、ここの作成場所にテロップ原稿ができます\nで、*各シートを表示させた上でメニューにあるxml作成ボタンをおす*\nメニュー出てこなかったら、ログイン必要です\nテロップ作成場所\n<https:\/\/docs.google.com\/spreadsheets\/d\/1nlCzNOv-nC2BtX8F81R2J9JaIM72vIFxLQSTN0idl9Y\/edit#gid=249879401>\n\nあと、xmlフォルダにもログイン必要\n<https:\/\/drive.google.com\/drive\/folders\/1wSl7A238YJIfv5v28baif8s-NwGAZysh?usp=sharing>",
+        "files": [
+            {
+                "id": "F052AM7TA20",
+                "created": 1680837164,
+                "timestamp": 1680837164,
+                "name": "リベラルアーツテロップ作成場所",
+                "title": "リベラルアーツテロップ作成場所",
+                "mimetype": "application\/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "G Suite Spreadsheet",
+                "user": "U03CXUXB5PF",
+                "user_team": "T03CU6RQ154",
+                "editable": false,
+                "size": 19725,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/spreadsheets\/d\/1nlCzNOv-nC2BtX8F81R2J9JaIM72vIFxLQSTN0idl9Y\/edit#gid=249879401",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052AM7TA20-c39c358997\/______________________________________________64.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052AM7TA20-c39c358997\/______________________________________________80.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052AM7TA20-c39c358997\/______________________________________________360.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360_w": 254,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052AM7TA20-c39c358997\/______________________________________________480.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052AM7TA20-c39c358997\/______________________________________________160.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052AM7TA20-c39c358997\/______________________________________________720.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052AM7TA20-c39c358997\/______________________________________________800.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1132,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052AM7TA20-c39c358997\/______________________________________________960.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_960_w": 678,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052AM7TA20-c39c358997\/______________________________________________1024.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "original_w": 1024,
+                "original_h": 1449,
+                "thumb_tiny": "AwAwACHTpOfalooAOfaiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA\/\/Z",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/U03CXUXB5PF\/F052AM7TA20\/_____________________________________________",
+                "is_starred": false,
+                "external_id": "1nlCzNOv-nC2BtX8F81R2J9JaIM72vIFxLQSTN0idl9Y",
+                "external_url": "https:\/\/docs.google.com\/spreadsheets\/d\/1nlCzNOv-nC2BtX8F81R2J9JaIM72vIFxLQSTN0idl9Y\/edit#gid=249879401",
+                "has_rich_preview": true,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "x_files": [
+            "F052AM7TA20"
+        ],
+        "ts": "1680837161.411599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "US6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "台本のテロップ作成メニューにtwって書いてあったら、ここの作成場所にテロップ原稿ができます\nで、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "各シートを表示させた上でメニューにあるxml作成ボタンをおす",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nメニュー出てこなかったら、ログイン必要です\nテロップ作成場所\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1nlCzNOv-nC2BtX8F81R2J9JaIM72vIFxLQSTN0idl9Y\/edit#gid=249879401"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nあと、xmlフォルダにもログイン必要\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1wSl7A238YJIfv5v28baif8s-NwGAZysh?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "82d5f921-b3da-4733-9f0a-297050d60c4b",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,174 @@
+[
+    {
+        "client_msg_id": "18720C8B-3E70-439B-8A52-865FD9A0100C",
+        "type": "message",
+        "text": "すみません、白地図用意します。\nじわズームは大丈夫ですが、より過ぎて画像がトリミング状態になるのはNGです。\n",
+        "user": "U04J38PLGM6",
+        "ts": "1681805165.345059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fyBJc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません、白地図用意します。\nじわズームは大丈夫ですが、より過ぎて画像がトリミング状態になるのはNGです。\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681727910.579309",
+        "parent_user_id": "U04J38PLGM6"
+    },
+    {
+        "client_msg_id": "E1388EB6-37ED-4003-850E-037A5032D815",
+        "type": "message",
+        "text": "承知しました\n宜しくお願い致します",
+        "user": "U04JJB0MTB7",
+        "ts": "1681805200.242859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/jKIY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました\n宜しくお願い致します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681727910.579309",
+        "parent_user_id": "U04J38PLGM6"
+    },
+    {
+        "type": "message",
+        "text": "白地図を入れました。よろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F0543S6719P",
+                "created": 1681817550,
+                "timestamp": 1681817550,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04J38PLGM6",
+                "user_team": "T03CU6RQ154",
+                "editable": false,
+                "size": 182128,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F0543S6719P\/image.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F0543S6719P\/download\/image.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F0543S6719P-831811ada8\/image_64.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F0543S6719P-831811ada8\/image_80.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F0543S6719P-831811ada8\/image_360.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360_w": 360,
+                "thumb_360_h": 123,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F0543S6719P-831811ada8\/image_480.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_480_w": 480,
+                "thumb_480_h": 163,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F0543S6719P-831811ada8\/image_160.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F0543S6719P-831811ada8\/image_720.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720_w": 720,
+                "thumb_720_h": 245,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F0543S6719P-831811ada8\/image_800.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_800_w": 800,
+                "thumb_800_h": 272,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F0543S6719P-831811ada8\/image_960.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_960_w": 960,
+                "thumb_960_h": 327,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F0543S6719P-831811ada8\/image_1024.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 349,
+                "original_w": 1556,
+                "original_h": 530,
+                "thumb_tiny": "AwAQADDQyN2M0ox0BoH36U0ARsZASPk\/WlQOTltuPbNOwc9KdTuAzv0p2BS0UgP\/2Q==",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/U04J38PLGM6\/F0543S6719P\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03CU6RQ154-F0543S6719P-b3e739c7b5",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1681817575.062789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eeG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "白地図を入れました。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "fa6fed15-5fa5-4f4d-a0f1-27c458b59f83",
+        "thread_ts": "1681727910.579309",
+        "parent_user_id": "U04J38PLGM6",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

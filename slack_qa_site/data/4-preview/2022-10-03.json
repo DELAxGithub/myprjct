@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "c5982957-f829-4469-a0a2-777a72316314",
+        "type": "message",
+        "text": "<@U040YCC00V6>. <#C044PJ0DX60|3-edit-encorder書き出し依頼> にきたのは基本的に池田くんか僕で書き出しするわけですが、\nそれが\n・全体作業上どのタイミングの書き出し依頼なのか\n・プリセット、書き出し先\n・書き出し時のファイル名\n・書き出し後はどこのReplayに上げるか\n\nと書き出しといっても選択肢がたくさんあります\n\n\nそれぞれ\n・編集マンが書き出し連絡時に指定\n・プリセット、書き出し先、Replayのあげる場所もそれぞれタイミングによる\n・リネームせず、バージョンとして数字が増やす\n・その代わり古いのを捨てる\n\nってことなので、基本は機械的に処理できるはず。\n\n作業の段取りができたら\n今週中どこかで一回説明します",
+        "user": "U03CXUXB5PF",
+        "ts": "1664791785.806429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n2wx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C044PJ0DX60"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にきたのは基本的に池田くんか僕で書き出しするわけですが、\nそれが\n・全体作業上どのタイミングの書き出し依頼なのか\n・プリセット、書き出し先\n・書き出し時のファイル名\n・書き出し後はどこのReplayに上げるか\n\nと書き出しといっても選択肢がたくさんあります\n\n\nそれぞれ\n・編集マンが書き出し連絡時に指定\n・プリセット、書き出し先、Replayのあげる場所もそれぞれタイミングによる\n・リネームせず、バージョンとして数字が増やす\n・その代わり古いのを捨てる\n\nってことなので、基本は機械的に処理できるはず。\n\n作業の段取りができたら\n今週中どこかで一回説明します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

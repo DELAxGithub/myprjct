@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "bdde5be9-6e6b-4f8c-a1cd-1a166ad8d192",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> ルーチンや打ち合わせの時間、問題ございません。よろしくお願いいたします。",
+        "user": "U041XC6213P",
+        "ts": "1666500706.693659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fs1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ルーチンや打ち合わせの時間、問題ございません。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666362923.638769",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

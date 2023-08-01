@@ -1,0 +1,712 @@
+[
+    {
+        "client_msg_id": "9fb45eb7-ee95-4ae1-9102-1c03da969e1d",
+        "type": "message",
+        "text": "<@U04JJB0MTB7> 79藤田のMAがきてます　よろしくお願いいたします",
+        "user": "U03CXUXB5PF",
+        "ts": "1677139836.990749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZrY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 79藤田のMAがきてます　よろしくお願いいたします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF> \nこちら79_藤田さんのタイトル変更の件、いかがいたしましょう？",
+        "user": "U04JJB0MTB7",
+        "ts": "1677152514.497719",
+        "thread_ts": "1676678316.667659",
+        "root": {
+            "client_msg_id": "75fd051b-6902-4fdd-bdeb-b72bea3b70f4",
+            "type": "message",
+            "text": "<@U04JJB0MTB7> 79藤田　試写後の修正を台本に反映しました\nep2→ep3に一部移植とその後のテロップの文言変更\n\n修正箇所はコメントご確認ください\n\n→終わったらMAに進めてくださいー",
+            "user": "U03CXUXB5PF",
+            "ts": "1676678316.667659",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "tDEV",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04JJB0MTB7"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 79藤田　試写後の修正を台本に反映しました\nep2→ep3に一部移植とその後のテロップの文言変更\n\n修正箇所はコメントご確認ください\n\n→終わったらMAに進めてくださいー"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1676678316.667659",
+            "reply_count": 6,
+            "reply_users_count": 2,
+            "latest_reply": "1677154341.070369",
+            "reply_users": [
+                "U04JJB0MTB7",
+                "U03CXUXB5PF"
+            ],
+            "replies": [
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1676687885.502629"
+                },
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1676765884.734079"
+                },
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1676772151.186029"
+                },
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1677152514.497719"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1677154200.381199"
+                },
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1677154341.070369"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1677154341.070369"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kz3eY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nこちら79_藤田さんのタイトル変更の件、いかがいたしましょう？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "88ADB86D-1A2E-4C82-A8A2-BE4BDA4A0266"
+    },
+    {
+        "type": "message",
+        "text": "<@U04JJB0MTB7>\n変更をお願いします　あちこちにあります　お手数をおかけします\n\n_福祉国家 成立の歴史と現代的可能性_",
+        "files": [
+            {
+                "id": "F04QV4N15T7",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1677154200.381199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ELM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n変更をお願いします　あちこちにあります　お手数をおかけします\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "福祉国家 成立の歴史と現代的可能性",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ae360cc7-0573-4439-86ca-3130faaaf9f4",
+        "thread_ts": "1676678316.667659",
+        "parent_user_id": "U03CXUXB5PF",
+        "subtype": "thread_broadcast",
+        "root": {
+            "client_msg_id": "75fd051b-6902-4fdd-bdeb-b72bea3b70f4",
+            "type": "message",
+            "text": "<@U04JJB0MTB7> 79藤田　試写後の修正を台本に反映しました\nep2→ep3に一部移植とその後のテロップの文言変更\n\n修正箇所はコメントご確認ください\n\n→終わったらMAに進めてくださいー",
+            "user": "U03CXUXB5PF",
+            "ts": "1676678316.667659",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "tDEV",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04JJB0MTB7"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 79藤田　試写後の修正を台本に反映しました\nep2→ep3に一部移植とその後のテロップの文言変更\n\n修正箇所はコメントご確認ください\n\n→終わったらMAに進めてくださいー"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1676678316.667659",
+            "reply_count": 6,
+            "reply_users_count": 2,
+            "latest_reply": "1677154341.070369",
+            "reply_users": [
+                "U04JJB0MTB7",
+                "U03CXUXB5PF"
+            ],
+            "replies": [
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1676687885.502629"
+                },
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1676765884.734079"
+                },
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1676772151.186029"
+                },
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1677152514.497719"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1677154200.381199"
+                },
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1677154341.070369"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1677154341.070369"
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AA9938BF-38A3-4BC1-8DFF-F481C352631D",
+        "type": "message",
+        "text": "承知しました！\nありがとうございます",
+        "user": "U04JJB0MTB7",
+        "ts": "1677154341.070369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IJ3b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました！\nありがとうございます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676678316.667659",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "7CACE520-F0FF-4697-ADD3-E21B11FE6404",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> \n79_藤田さんの試写２をReplayにアップしました\n宜しくお願い致します",
+        "user": "U04JJB0MTB7",
+        "ts": "1677167319.046949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S1Kd0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n79_藤田さんの試写２をReplayにアップしました\n宜しくお願い致します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "eedf3438-d22e-4e14-91fa-f5a2bf97539d",
+        "type": "message",
+        "text": "<@U03RA83HRN0> 77試写1終わりました、Replayにも結構直しが多いのでご確認ください。また台本の上の方に試写コメント載せましたが、こちらにも。\n\n\n```77中尾さん、拝見。鷹揚な渡邉さんが鋭く批判する問題作、確かにデリケートなだけに、少しだけ細かく、言葉のカットなど書き込みました。広島、長崎の被爆体験を持つ人々への配慮のレベルと、世の中に物語が流布する現象への学問的考察というレベルとを、ごっちゃにせずに語ることが大事だと思います。最もおっしゃりたいのは、独り歩きする大衆の物語の逆説、集団心理のアイロニー、人間の性への警鐘…ということで、個人的には欲望という視点から資本主義、サブカルチャーなどにアプローチしようするのと同じ問題意識を感じ、その点お気持ちはよくわかりましたが。「人間が習慣に慣れ、すぐ失敗を忘れる動物であることだけは忘れてはいけない」と、ケインズが皮肉たっぷりに雄弁に語ってくれそうな話、と思いながら聴きました。\n★細かな言葉のカット、入れ替え案など書き込んでみました。\n★タイトル代案です。　原子力と大衆社会の皮肉な関係\n　　　　　　　　　　　第1章　日本社会のねじれた記憶から考える\n　　　　　　　　　　　第2章　世界を虜にする 核の魔術力\n　　　　　　　　　　　第3章　力をめぐる合意形成とは\n「科学史」の方というより「科学技術社会論」「社会学」的な問題意識の方が強い方だと感じましたが。\nどうぞ、少し丁寧にご検討のほど、よろしくお願いします。　\n\n◎もう一つ大事な確認、思い出しました。V3の「水銀還金実験」「ラジウム温泉」の２つの話こそ、「100%」間違いだったのに流布した話、と「断言」してよいのでしょうか？\nこちらの方がある意味、影響力が大きく、確認しないと気になりました。```\nタイトルはもうこのまま使ってください。ep3のこの「断言」については編集の言葉尻をちょっと削ってコメントしておきますので、台本ご確認ください。\n\n終わったらMAお願いしますー。",
+        "user": "U03CXUXB5PF",
+        "ts": "1677198133.239689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eb7C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 77試写1終わりました、Replayにも結構直しが多いのでご確認ください。また台本の上の方に試写コメント載せましたが、こちらにも。\n\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "77中尾さん、拝見。鷹揚な渡邉さんが鋭く批判する問題作、確かにデリケートなだけに、少しだけ細かく、言葉のカットなど書き込みました。広島、長崎の被爆体験を持つ人々への配慮のレベルと、世の中に物語が流布する現象への学問的考察というレベルとを、ごっちゃにせずに語ることが大事だと思います。最もおっしゃりたいのは、独り歩きする大衆の物語の逆説、集団心理のアイロニー、人間の性への警鐘…ということで、個人的には欲望という視点から資本主義、サブカルチャーなどにアプローチしようするのと同じ問題意識を感じ、その点お気持ちはよくわかりましたが。「人間が習慣に慣れ、すぐ失敗を忘れる動物であることだけは忘れてはいけない」と、ケインズが皮肉たっぷりに雄弁に語ってくれそうな話、と思いながら聴きました。\n★細かな言葉のカット、入れ替え案など書き込んでみました。\n★タイトル代案です。　原子力と大衆社会の皮肉な関係\n　　　　　　　　　　　第1章　日本社会のねじれた記憶から考える\n　　　　　　　　　　　第2章　世界を虜にする 核の魔術力\n　　　　　　　　　　　第3章　力をめぐる合意形成とは\n「科学史」の方というより「科学技術社会論」「社会学」的な問題意識の方が強い方だと感じましたが。\nどうぞ、少し丁寧にご検討のほど、よろしくお願いします。　\n\n◎もう一つ大事な確認、思い出しました。V3の「水銀還金実験」「ラジウム温泉」の２つの話こそ、「100%」間違いだったのに流布した話、と「断言」してよいのでしょうか？\nこちらの方がある意味、影響力が大きく、確認しないと気になりました。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nタイトルはもうこのまま使ってください。ep3のこの「断言」については編集の言葉尻をちょっと削ってコメントしておきますので、台本ご確認ください。\n\n終わったらMAお願いしますー。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03RA83HRN0> ep3のカット箇所増やしてしまいました。\nすでに手をつけてたらすいません、ご確認ください。",
+        "files": [
+            {
+                "id": "F04QNEA6VEK",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1677210758.569759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X4TUV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ep3のカット箇所増やしてしまいました。\nすでに手をつけてたらすいません、ご確認ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5419b1ec-8892-452c-a89c-d71ee07f2c60",
+        "thread_ts": "1677210758.569759",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677211823.780019",
+        "reply_users": [
+            "U03RA83HRN0"
+        ],
+        "replies": [
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1677211823.780019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677211823.780019",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff0e8157-be9c-4a37-99bb-6fedbe4ae89e",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nとりあえず文章の修正をしてからカットしていってますので大丈夫です。了解しました。",
+        "user": "U03RA83HRN0",
+        "ts": "1677211823.780019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "55J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nとりあえず文章の修正をしてからカットしていってますので大丈夫です。了解しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677210758.569759",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n77_中尾ep1のクライアントからの指摘部分はどうしましょうか？",
+        "files": [
+            {
+                "id": "F04RSPNRYGG",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04QWF8TB54",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03RA83HRN0",
+        "ts": "1677213108.523589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "abuSN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n77_中尾ep1のクライアントからの指摘部分はどうしましょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a18f7a54-e5b4-4e5c-9b0d-719fac0e0c45"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n77中尾 クライアントからの指摘部分ですが、修正してみました。\n言葉が足りない感じがしましたので追加して一般的な話にはなっているかと思います。\nちょっと編集感は否めませんが…\nカットの細かい部分に原発反対運動のインサートが入れられれば。\nご確認をよろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F04QWJQ4TF0",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03RA83HRN0",
+        "display_as_bot": false,
+        "ts": "1677215810.835789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XJC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n77中尾 クライアントからの指摘部分ですが、修正してみました。\n言葉が足りない感じがしましたので追加して一般的な話にはなっているかと思います。\nちょっと編集感は否めませんが…\nカットの細かい部分に原発反対運動のインサートが入れられれば。\nご確認をよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a39fc289-f054-4924-bcf9-ca07951e7a76"
+    },
+    {
+        "type": "message",
+        "text": "なんかもっとシンプルに歴史部分カットしてしまいました。元の台本はslackに貼っていただいたのを参考に、、",
+        "files": [
+            {
+                "id": "F04QNRB5W95",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1677219274.060279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pY6u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なんかもっとシンプルに歴史部分カットしてしまいました。元の台本はslackに貼っていただいたのを参考に、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f4ca3e13-b478-4be7-a617-3ec68fe0faea",
+        "thread_ts": "1677219274.060279",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677219429.439289",
+        "reply_users": [
+            "U03RA83HRN0"
+        ],
+        "replies": [
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1677219429.439289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677219429.439289",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "42ced021-1159-4e14-be7c-ffeb528d2b6d",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n承知いたしました。ありがとうございます。\nそれでは台本上の修正に沿って作業を進めます。",
+        "user": "U03RA83HRN0",
+        "ts": "1677219429.439289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zEj72",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n承知いたしました。ありがとうございます。\nそれでは台本上の修正に沿って作業を進めます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677219274.060279",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

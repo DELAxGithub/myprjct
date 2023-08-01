@@ -1,0 +1,386 @@
+[
+    {
+        "client_msg_id": "cff04a98-6bfa-4ab5-a53a-ed3ea07e9406",
+        "type": "message",
+        "text": "<@U04J38PLGM6> <@U054HSHFAAH> このチャンネルは、納品書き出し、納品後修正、など元素材扱う系の作業についてやりとりしています\n\n浦本さんちのアップロード速度ってどれくらい？\nいまKDDIから４K編済みの納品もしてほしーなーってきてまして、\n新藤さんから６０GBのを何本かアップロードしてもらってました。\n100人分で20TBあるので、流石にそれなりにスピード出ないと、物理HDD持ち込んだ方が早そうなのですが、\nちょっと速度確認してみてください。\nユニオンはクソ遅かった気がするので、そもそもユニオンからアップロードするなら、物理一択ですね。\n\nインターネット回線の速度テスト | <http:\/\/Fast.com|Fast.com>\n<https:\/\/fast.com\/ja\/#>",
+        "user": "U03CXUXB5PF",
+        "ts": "1682444765.572089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V2w8r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U054HSHFAAH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " このチャンネルは、納品書き出し、納品後修正、など元素材扱う系の作業についてやりとりしています\n\n浦本さんちのアップロード速度ってどれくらい？\nいまKDDIから４K編済みの納品もしてほしーなーってきてまして、\n新藤さんから６０GBのを何本かアップロードしてもらってました。\n100人分で20TBあるので、流石にそれなりにスピード出ないと、物理HDD持ち込んだ方が早そうなのですが、\nちょっと速度確認してみてください。\nユニオンはクソ遅かった気がするので、そもそもユニオンからアップロードするなら、物理一択ですね。\n\nインターネット回線の速度テスト | "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Fast.com",
+                                "text": "Fast.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fast.com\/ja\/#"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/fast.com\/ja\/",
+                "service_icon": "https:\/\/fast.com\/assets\/favicons\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/fast.com\/ja\/#",
+                "fallback": "インターネット回線の速度テスト",
+                "text": "ダウンロードスピードはどのくらいですか? FAST.comはお客様のISPスピードを数秒で測定いたします。",
+                "title": "インターネット回線の速度テスト",
+                "title_link": "https:\/\/fast.com\/ja\/",
+                "service_name": "fast.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f76d7b85-1c8f-4022-a9ee-39da1141864b",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> うちは上りだと80bps前後です。ユニオンの上りの数値はよく知りませんが、使用している人が多い昼は重い印象です",
+        "user": "U054HSHFAAH",
+        "ts": "1682471309.911699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "npY5x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " うちは上りだと80bps前後です。ユニオンの上りの数値はよく知りませんが、使用している人が多い昼は重い印象です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "3c0472cbdd87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5181600335649_3c0472cbdd874f9a32ff_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Uramoto",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "kuramoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682471309.911699",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1682982811.331189",
+        "reply_users": [
+            "U054HSHFAAH",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U054HSHFAAH",
+                "ts": "1682982377.348079"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1682982480.635049"
+            },
+            {
+                "user": "U054HSHFAAH",
+                "ts": "1682982499.225969"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1682982550.463269"
+            },
+            {
+                "user": "U054HSHFAAH",
+                "ts": "1682982697.134739"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1682982791.214969"
+            },
+            {
+                "user": "U054HSHFAAH",
+                "ts": "1682982811.331189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1682982811.331189"
+    },
+    {
+        "client_msg_id": "c1128bc4-41e6-4719-8f48-1565e1fd2994",
+        "type": "message",
+        "text": "<@U054HSHFAAH> 了解です。まぁ1時間で288GBなら、３、4日あれば一応全部２０TB転送できるな。参考にします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1682471728.973179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rz=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U054HSHFAAH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解です。まぁ1時間で288GBなら、３、4日あれば一応全部２０TB転送できるな。参考にします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682471728.973179",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1682474563.887489",
+        "reply_users": [
+            "U054HSHFAAH",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U054HSHFAAH",
+                "ts": "1682473771.530289"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1682474411.213589"
+            },
+            {
+                "user": "U054HSHFAAH",
+                "ts": "1682474563.887489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1682477686.578792"
+    },
+    {
+        "client_msg_id": "513a8748-2348-43cb-967b-741292e957dc",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 一点お伝えしておきたいのですが、浦本の自宅はまだ機材周りの受け入れ体制が整っておらず、家電廃棄したりが必要なため準備に数日かかりそうな状況です。\n収録が6月以降ということから自宅の準備をしていなかったのと、納品にこれだけ遅れがあることと、それを浦本が引き継ぐ状況にあることを昨日知ったので今日から動き始めたところです。\nなので、ここ数日中はで必要なものがあるのであればユニオン本社で作業します。",
+        "user": "U054HSHFAAH",
+        "ts": "1682473771.530289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n2gK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 一点お伝えしておきたいのですが、浦本の自宅はまだ機材周りの受け入れ体制が整っておらず、家電廃棄したりが必要なため準備に数日かかりそうな状況です。\n収録が6月以降ということから自宅の準備をしていなかったのと、納品にこれだけ遅れがあることと、それを浦本が引き継ぐ状況にあることを昨日知ったので今日から動き始めたところです。\nなので、ここ数日中はで必要なものがあるのであればユニオン本社で作業します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "3c0472cbdd87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5181600335649_3c0472cbdd874f9a32ff_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Uramoto",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "kuramoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682471728.973179",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "了解です。編アップ→書き出しは、基本的に急ぎの作業じゃないんで、何本かまとめてでも大丈夫です\n\nあと、書き出し用のプリセットですが、最終じゃなくてTELASA＿２k ってやつ使ってください。\nここ最近使ってるやつです。\n\nここにあります",
+        "files": [
+            {
+                "id": "F054HPJRBLP",
+                "created": 1682474401,
+                "timestamp": 1682474401,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03CXUXB5PF",
+                "user_team": "T03CU6RQ154",
+                "editable": false,
+                "size": 83386,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F054HPJRBLP\/image.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F054HPJRBLP\/download\/image.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F054HPJRBLP-a1424d784b\/image_64.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F054HPJRBLP-a1424d784b\/image_80.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F054HPJRBLP-a1424d784b\/image_360.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360_w": 360,
+                "thumb_360_h": 146,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F054HPJRBLP-a1424d784b\/image_480.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_480_w": 480,
+                "thumb_480_h": 195,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F054HPJRBLP-a1424d784b\/image_160.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F054HPJRBLP-a1424d784b\/image_720.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720_w": 720,
+                "thumb_720_h": 292,
+                "original_w": 722,
+                "original_h": 293,
+                "thumb_tiny": "AwATADCr0GaQOSe35UrDK9RTMdeRQA8KcZpPmpR90Zpp69MUDHkYA56imEkHFKX6DHTim5NADj92mjoacfu\/hTR0NADwBtH0pGAAGKcOg+lI3QUAMPU0lKeppKQH\/9k=",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/U03CXUXB5PF\/F054HPJRBLP\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03CU6RQ154-F054HPJRBLP-dba205002b",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1682474411.213589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cmgQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です。編アップ→書き出しは、基本的に急ぎの作業じゃないんで、何本かまとめてでも大丈夫です\n\nあと、書き出し用のプリセットですが、最終じゃなくてTELASA＿２k ってやつ使ってください。\nここ最近使ってるやつです。\n\nここにあります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "297f3e15-22c0-481a-b1f4-28185237559d",
+        "thread_ts": "1682471728.973179",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "26b5301b-3f11-4b5d-8eb0-81f7ca5d7277",
+        "type": "message",
+        "text": "了解です、ありがとうございます。",
+        "user": "U054HSHFAAH",
+        "ts": "1682474563.887489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dIbZt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です、ありがとうございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "3c0472cbdd87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5181600335649_3c0472cbdd874f9a32ff_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Uramoto",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "kuramoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682471728.973179",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+        "client_msg_id": "97a194e6-9d16-4d08-9889-fe7bb9fd2de4",
+        "type": "message",
+        "text": "<@U040YCC00V6>\n書き出し依頼です。\n【43平岡】、手元試写2のため書き出しをお願いいたします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1665910675.624629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cJS0I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n書き出し依頼です。\n【43平岡】、手元試写2のため書き出しをお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665910675.624629",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1665914251.504079",
+        "reply_users": [
+            "U040YCC00V6"
+        ],
+        "replies": [
+            {
+                "user": "U040YCC00V6",
+                "ts": "1665914251.504079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "clown_face",
+                "users": [
+                    "U040YCC00V6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "569B257D-BE9F-40D5-8407-D05BB5826FCC",
+        "type": "message",
+        "text": "<@U03P0T4KQMV> \n10_outputへあげました！ご確認くださいませ",
+        "user": "U040YCC00V6",
+        "ts": "1665914251.504079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xEDbA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n10_outputへあげました！ご確認くださいませ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665910675.624629",
+        "parent_user_id": "U03P0T4KQMV",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8df12062-6238-44ae-beb3-6dae2c43ce8b",
+        "type": "message",
+        "text": "<@U03P0T4KQMV> 書き出しに関してルールが変わっていますー\n<#C03DD5YH9D1|3-edit> をご確認くださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1665915413.207499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AR\/d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 書き出しに関してルールが変わっていますー\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03DD5YH9D1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " をご確認くださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665915413.207499",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1665917082.090629",
+        "reply_users": [
+            "U03P0T4KQMV"
+        ],
+        "replies": [
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1665917082.090629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1665917082.090629"
+    },
+    {
+        "client_msg_id": "46F07AB8-E266-42DA-AFA3-17BF68257C2A",
+        "type": "message",
+        "text": "見落とし失礼しました:woman-bowing:",
+        "user": "U03P0T4KQMV",
+        "ts": "1665917082.090629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sn8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "見落とし失礼しました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665915413.207499",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

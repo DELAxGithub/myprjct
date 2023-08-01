@@ -1,0 +1,120 @@
+[
+    {
+        "client_msg_id": "849313d9-8ddf-4934-96b7-23c045da8dbb",
+        "type": "message",
+        "text": "個人の読書録にも手を広げるか。。\n取材メモでも使えるし。\n\n重ね描き日記（rmaruy_blogあらため）\n<https:\/\/rmaruy.hatenablog.com\/>",
+        "user": "U03CXUXB5PF",
+        "ts": "1661484963.140319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DIQlB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "個人の読書録にも手を広げるか。。\n取材メモでも使えるし。\n\n重ね描き日記（rmaruy_blogあらため）\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/rmaruy.hatenablog.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/rmaruy.hatenablog.com\/",
+                "image_url": "https:\/\/cdn.blog.st-hatena.com\/images\/theme\/og-image-1500.png",
+                "image_width": 357,
+                "image_height": 250,
+                "image_bytes": 70050,
+                "service_icon": "https:\/\/rmaruy.hatenablog.com\/icon\/touch",
+                "id": 1,
+                "original_url": "https:\/\/rmaruy.hatenablog.com\/",
+                "fallback": "重ね描き日記（rmaruy_blogあらため）",
+                "text": "読書メモ、探究メモなど。",
+                "title": "重ね描き日記（rmaruy_blogあらため）",
+                "title_link": "https:\/\/rmaruy.hatenablog.com\/",
+                "service_name": "rmaruy.hatenablog.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2d847e9e-5653-4d01-8ad2-34af1115512a",
+        "type": "message",
+        "text": "サントリーも賞をあげてるけど、webはそんなかな\n\n<https:\/\/www.newsweekjapan.jp\/asteion\/>",
+        "user": "U03CXUXB5PF",
+        "ts": "1661488499.332699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xc0O8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サントリーも賞をあげてるけど、webはそんなかな\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.newsweekjapan.jp\/asteion\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.newsweekjapan.jp\/asteion\/",
+                "image_url": "https:\/\/www.newsweekjapan.jp\/asteion\/shared\/img\/ogp.png",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 31891,
+                "service_icon": "https:\/\/www.newsweekjapan.jp\/asteion\/favicon.ico?v=2",
+                "id": 1,
+                "original_url": "https:\/\/www.newsweekjapan.jp\/asteion\/",
+                "fallback": "WEBアステイオン",
+                "text": "サントリー文化財団がお届けする論壇誌『アステイオン』のウェブサイトです。過剰な表現や一過性の言説とは一線を画し、時代の大きな流れを読み解く本物の議論を提供いたします。",
+                "title": "WEBアステイオン",
+                "title_link": "https:\/\/www.newsweekjapan.jp\/asteion\/",
+                "service_name": "newsweekjapan.jp"
+            }
+        ]
+    }
+]

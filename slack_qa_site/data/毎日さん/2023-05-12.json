@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "eddd7a3c-ea49-49ba-9af6-ee9e8d644e0b",
+        "type": "message",
+        "text": "編集３が終わったけど、本人のリアクション待ちってやっぱあった方いいですね。\n毎日さんが、\n終わったのに編集３／待ちなのに本人編集\nっていうのの区別がつかないし\n本人待ちっていうフェーズを一個増やします",
+        "user": "U03CXUXB5PF",
+        "ts": "1683913101.183289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kqpJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "編集３が終わったけど、本人のリアクション待ちってやっぱあった方いいですね。\n毎日さんが、\n終わったのに編集３／待ちなのに本人編集\nっていうのの区別がつかないし\n本人待ちっていうフェーズを一個増やします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "在庫\n試写1:0 | MA:5 | 試写2:1 | 試写3:1\n————————————-\n<@U03Q17LBJP3> : #94、 泉谷閑示、 編集3、: 05-13\n<@U03RA83HRN0> : #104、 松岡聡、 本人編集、: 05-13\n",
+        "ts": "1683936696.368209",
+        "bot_id": "B0527SNLW83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+7RIX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "在庫\n試写1:0 | MA:5 | 試写2:1 | 試写3:1\n————————————-\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #94、 泉谷閑示、 編集3、: 05-13\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #104、 松岡聡、 本人編集、: 05-13"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

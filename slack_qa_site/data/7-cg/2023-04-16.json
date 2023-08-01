@@ -1,0 +1,340 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03V84JSHNK> このような感じでいかがでしょうか？",
+        "files": [
+            {
+                "id": "F053V0ABXS5",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": false,
+        "user": "U041XC6213P",
+        "display_as_bot": false,
+        "ts": "1681701605.382059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cemTd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " このような感じでいかがでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "35e19388-0776-40b0-b453-63a790aaa812",
+        "thread_ts": "1681626619.935429",
+        "parent_user_id": "U03V84JSHNK"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0531QVE90F",
+                "created": 1681701662,
+                "timestamp": 1681701662,
+                "name": "スクリーンショット 2023-04-17 12.20.38.png",
+                "title": "スクリーンショット 2023-04-17 12.20.38.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U041XC6213P",
+                "user_team": "T03CU6RQ154",
+                "editable": false,
+                "size": 58822,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F0531QVE90F\/____________________________2023-04-17_12.20.38.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F0531QVE90F\/download\/____________________________2023-04-17_12.20.38.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F0531QVE90F-b551d725c1\/____________________________2023-04-17_12.20.38_64.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F0531QVE90F-b551d725c1\/____________________________2023-04-17_12.20.38_80.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F0531QVE90F-b551d725c1\/____________________________2023-04-17_12.20.38_360.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F0531QVE90F-b551d725c1\/____________________________2023-04-17_12.20.38_480.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F0531QVE90F-b551d725c1\/____________________________2023-04-17_12.20.38_160.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F0531QVE90F-b551d725c1\/____________________________2023-04-17_12.20.38_720.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F0531QVE90F-b551d725c1\/____________________________2023-04-17_12.20.38_800.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_800_w": 800,
+                "thumb_800_h": 451,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F0531QVE90F-b551d725c1\/____________________________2023-04-17_12.20.38_960.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_960_w": 960,
+                "thumb_960_h": 541,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F0531QVE90F-b551d725c1\/____________________________2023-04-17_12.20.38_1024.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 577,
+                "original_w": 1140,
+                "original_h": 642,
+                "thumb_tiny": "AwAbADDToJwMmiopz8oHSgAMo5OQAKVZM+4qEj9w5xuI70q48hDjGc1VhFkHIyKKjhPBqSpGFMlTemB17U6igCunEbg8HPSh+Y0A5OelTlQ3UA0BQvQAU763DpYSNNiYPXvT6SikB\/\/Z",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/U041XC6213P\/F0531QVE90F\/____________________________2023-04-17_12.20.38.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03CU6RQ154-F0531QVE90F-dbd8b2d709",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U041XC6213P",
+        "display_as_bot": false,
+        "ts": "1681701666.107049",
+        "client_msg_id": "8d79bac7-45c4-4de7-b162-cf1e6db6e36a",
+        "thread_ts": "1681626619.935429",
+        "parent_user_id": "U03V84JSHNK"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF> 上記いかがでしょうか？",
+        "user": "U03V84JSHNK",
+        "ts": "1681702387.606129",
+        "thread_ts": "1681626619.935429",
+        "root": {
+            "type": "message",
+            "text": "<@U041XC6213P> お疲れさまです。94泉谷開示さんでイラスト発注です。\nこれをお願いできますでしょうか。意味合いとしては、下記です。よろしくお願いいたします。\nできそうな目処が見えましたら、お知らせいただけますと幸いです。\nーーーーーーーーーーーー\nで それは*感情の井戸*というちょっと僕なりのこう図で説明することが多いんですけども こう心というところに井戸みたいなのがあってですね その上にこう蓋があって 頭が都合が悪いとこいつを閉めちゃったりするんですけどもで そ\n\nこの*井戸の中に感情の4つの大きなボールが入っている*というふうにちょっとイメージしていただきたいんですがで これどういう順番で入っているか つまり*蓋が開いたら どの順番で感情が出てくるか*ということがどうも*ある種の法則性がある*なと\n\n\nで 蓋のすぐ下に控えている感情が*怒り*なんですね\nそして *その次に悲しみ*がいます そして あとは喜とか楽がいるんですで 大事なのは*上の2つは巷でマイナスの感情とかネガティブな感情と言われている 怒り 悲しみ*なんですねで その下にポジティブな感情と言われている喜とか楽がいるわけです\n\n\nそうしますと少なくとも心由来のそれを僕は深い感情と呼びますけれども *心由来の感情に関してマイナスを出さずにプラスだけ出せというのはできない*ことなんです",
+            "files": [
+                {
+                    "id": "F05385M3W6A",
+                    "created": 1681626504,
+                    "timestamp": 1681626504,
+                    "name": "image.png",
+                    "title": "image.png",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U03V84JSHNK",
+                    "user_team": "T03CU6RQ154",
+                    "editable": false,
+                    "size": 71915,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F05385M3W6A\/image.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F05385M3W6A\/download\/image.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                    "media_display_type": "unknown",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F05385M3W6A-d03984392c\/image_64.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F05385M3W6A-d03984392c\/image_80.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F05385M3W6A-d03984392c\/image_360.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 357,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F05385M3W6A-d03984392c\/image_160.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                    "original_w": 428,
+                    "original_h": 425,
+                    "thumb_tiny": "AwAvADDTpCQOtDHaMmoWJPQjPvTsBIZPQUCT1FR549T7Uc9TwKBEwYHpS1AGwcg1Mp3DNDQEc7YwKgGQfvE1LdD5VPpVfdVJaEt6lnBaEYODSN8sXJ70Jg24ycDmklwIePWkVrYZuqaBs5FVd1WLUcM34U2tCU9SZlDqVPQ1QkjaNsH8D61oUjKGGGGRUp2KauQxY+zrnPfpST4EHHrTjbgfddl9gaPs4P3nZvqaOtxa2sVY0aRsL\/8Aqq+ihFCjtQqhRhRgUtDdwSsf\/9k=",
+                    "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/U03V84JSHNK\/F05385M3W6A\/image.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T03CU6RQ154-F05385M3W6A-2e922e4cfd",
+                    "is_starred": false,
+                    "has_rich_preview": false,
+                    "file_access": "visible"
+                }
+            ],
+            "upload": false,
+            "user": "U03V84JSHNK",
+            "display_as_bot": false,
+            "ts": "1681626619.935429",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "h81q",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U041XC6213P"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " お疲れさまです。94泉谷開示さんでイラスト発注です。\nこれをお願いできますでしょうか。意味合いとしては、下記です。よろしくお願いいたします。\nできそうな目処が見えましたら、お知らせいただけますと幸いです。\nーーーーーーーーーーーー\nで それは"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "感情の井戸",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "というちょっと僕なりのこう図で説明することが多いんですけども こう心というところに井戸みたいなのがあってですね その上にこう蓋があって 頭が都合が悪いとこいつを閉めちゃったりするんですけどもで そ\n\nこの"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "井戸の中に感情の4つの大きなボールが入っている",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "というふうにちょっとイメージしていただきたいんですがで これどういう順番で入っているか つまり"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "蓋が開いたら どの順番で感情が出てくるか",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "ということがどうも"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "ある種の法則性がある",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "なと\n\n\nで 蓋のすぐ下に控えている感情が"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "怒り",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "なんですね\nそして "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "その次に悲しみ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "がいます そして あとは喜とか楽がいるんですで 大事なのは"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "上の2つは巷でマイナスの感情とかネガティブな感情と言われている 怒り 悲しみ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "なんですねで その下にポジティブな感情と言われている喜とか楽がいるわけです\n\n\nそうしますと少なくとも心由来のそれを僕は深い感情と呼びますけれども "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "心由来の感情に関してマイナスを出さずにプラスだけ出せというのはできない",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "ことなんです"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "client_msg_id": "b85e744b-22d0-464a-b945-44f331284357",
+            "thread_ts": "1681626619.935429",
+            "reply_count": 6,
+            "reply_users_count": 2,
+            "latest_reply": "1681724049.239179",
+            "reply_users": [
+                "U041XC6213P",
+                "U03V84JSHNK"
+            ],
+            "replies": [
+                {
+                    "user": "U041XC6213P",
+                    "ts": "1681701605.382059"
+                },
+                {
+                    "user": "U041XC6213P",
+                    "ts": "1681701666.107049"
+                },
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1681702387.606129"
+                },
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1681722313.732389"
+                },
+                {
+                    "user": "U041XC6213P",
+                    "ts": "1681724029.416419"
+                },
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1681724049.239179"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1681724049.239179"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NYyM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 上記いかがでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "FA972266-F900-424C-B314-1009924F9DEE",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,826 @@
+[
+    {
+        "client_msg_id": "4dabbbe1-9997-4a84-b97f-c22b9bdb4fd6",
+        "type": "message",
+        "text": "お疲れ様ですー。昨日分は終わりまして、現在本日分をコピーしています。\nズーム、よろしくお願いします",
+        "user": "U040YCC00V6",
+        "ts": "1663062495.636629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GXP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様ですー。昨日分は終わりまして、現在本日分をコピーしています。\nズーム、よろしくお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a45bda4-72e1-4f8f-9964-4c9cf7870d2a",
+        "type": "message",
+        "text": "先ほどのURLにて、待機しております:pray:",
+        "user": "U040YCC00V6",
+        "ts": "1663063421.206149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a8ZRD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "先ほどのURLにて、待機しております"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b7de57d8-547d-4d44-b174-8a83a5c6b522",
+        "type": "message",
+        "text": "<@U03V84JSHNK> <https:\/\/us02web.zoom.us\/j\/3423637728>",
+        "user": "U03CXUXB5PF",
+        "ts": "1663063570.306719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bie",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/3423637728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "60319BDB-2E62-43B9-BB71-419302470B32",
+        "type": "message",
+        "text": "すみません、別件押し、あと10分ほどで到着します。先に進めててください！",
+        "user": "U03V84JSHNK",
+        "ts": "1663063689.948139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d9qoW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません、別件押し、あと10分ほどで到着します。先に進めててください！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "mechanical_arm",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c197b12e-2f3f-4b4c-b9b0-ff353754ff3d",
+        "type": "message",
+        "text": "<https:\/\/replay.dropbox.com\/share-folder\/qtNRQUJeYWdAenXy>",
+        "user": "U03CXUXB5PF",
+        "ts": "1663064522.926139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9DKlr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/replay.dropbox.com\/share-folder\/qtNRQUJeYWdAenXy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/replay.dropbox.com\/share-folder\/qtNRQUJeYWdAenXy",
+                "image_url": "https:\/\/cfl.dropboxstatic.com\/static\/metaserver\/static\/images\/reel\/unfurl-image-vflJ2sZZi.jpeg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 115485,
+                "id": 1,
+                "original_url": "https:\/\/replay.dropbox.com\/share-folder\/qtNRQUJeYWdAenXy",
+                "fallback": "Dropbox Replay",
+                "text": "Dropbox Replay allows creative teams to better create, collaborate on and deliver content. No Dropbox account is required to give feedback.",
+                "title": "Dropbox Replay",
+                "title_link": "https:\/\/replay.dropbox.com\/share-folder\/qtNRQUJeYWdAenXy",
+                "service_name": "dropbox.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "751d4453-14e2-45a1-9a2b-a5c15577d4d2",
+        "type": "message",
+        "text": "<mailto:maikedapalmed0r@gmail.com|maikedapalmed0r@gmail.com>",
+        "user": "U040YCC00V6",
+        "ts": "1663067471.461779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3F=k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:maikedapalmed0r@gmail.com",
+                                "text": "maikedapalmed0r@gmail.com",
+                                "style": {
+                                    "unlink": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "204708fc-3f43-4cba-8dda-1965e070cca9",
+        "type": "message",
+        "text": "<@U040YCC00V6> マルチ・プロキシーを外付けHDDから作ってるのが遅い原因かも、ということで、一回、必要な収録素材をファイルをMac studioのローカルに持ってきて、そこからマルチ＆プロキシー＆起こしをやってみません？",
+        "user": "U03CXUXB5PF",
+        "ts": "1663071766.626609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dR4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " マルチ・プロキシーを外付けHDDから作ってるのが遅い原因かも、ということで、一回、必要な収録素材をファイルをMac studioのローカルに持ってきて、そこからマルチ＆プロキシー＆起こしをやってみません？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C70A0EE4-C866-442F-B987-FFA4D244000F",
+        "type": "message",
+        "text": "お、了解です。写してやってみますね…",
+        "user": "U040YCC00V6",
+        "ts": "1663077379.676619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vdlOF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お、了解です。写してやってみますね…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bed43ed9-5eb5-4d65-9b41-ad919948bf10",
+        "type": "message",
+        "text": "ひとまず、次の新しいやつからで大丈夫です。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663077625.571719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tPdgJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ひとまず、次の新しいやつからで大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "63184d88-8e1a-420e-9ee3-68a5e91126ad",
+        "type": "message",
+        "text": "40岡本さん、１章〜３章、テロップ可能な範囲で直しました。\npsdのテロップ直しはしていませんが大丈夫でしょうか？",
+        "user": "U03V84JSHNK",
+        "ts": "1663082379.788399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Qd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "40岡本さん、１章〜３章、テロップ可能な範囲で直しました。\npsdのテロップ直しはしていませんが大丈夫でしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "80E7CFEC-C751-4B5A-9066-4BE22D41CC0A",
+        "type": "message",
+        "text": "はい、それは任せてますので大丈夫です。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663082475.767039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZJ2IW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい、それは任せてますので大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "CACB859B-237E-420F-A857-9AC03502F627",
+        "type": "message",
+        "text": "了解です。",
+        "user": "U03V84JSHNK",
+        "ts": "1663084194.592969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ws1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d7b121f5-928e-47e4-91ff-913e7ead1f38",
+        "type": "message",
+        "text": "<@U03V84JSHNK> <@U040YCC00V6> テロップ作成もお願いしておりまして。マックブックでもできるので収録中にでもお伝えします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663101264.044289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xxc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " テロップ作成もお願いしておりまして。マックブックでもできるので収録中にでもお伝えします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "41bdb300-44da-4a07-b6ee-376d04be1dfd",
+        "type": "message",
+        "text": "<@U03V84JSHNK> ４１〜４４のイメージカットですが、\nもう少し増やせます？\n昨日replayご覧になってるかと思いますが、気持ち倍ぐらいほしいかな。。これも収録中暇なら。。\nReplayの修正は、やっぱり編集マンに託しました。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663104175.060359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kIm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ４１〜４４のイメージカットですが、\nもう少し増やせます？\n昨日replayご覧になってるかと思いますが、気持ち倍ぐらいほしいかな。。これも収録中暇なら。。\nReplayの修正は、やっぱり編集マンに託しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1663104279.000000"
+        }
+    },
+    {
+        "client_msg_id": "6d137d4c-a79d-4dc5-b180-a4827a42b242",
+        "type": "message",
+        "text": "あと、これも後出しすいません\n\nお礼メールですが、件名にご本人の名前があるとありがたいです。\nそのうち素材やり取り・試写チェックとかの連絡がバラバラに編集が進行するので、後々スレッドみたいになっていくことがありその方が検索しやすい。\nというわけで今日のお礼メールから。。\n\nまぁ何が正解かはやってみないと僕もわからないので、初回は色々とお手数をおかけますが、よろしくお願いいたします",
+        "user": "U03CXUXB5PF",
+        "ts": "1663104716.405749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IqpYU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あと、これも後出しすいません\n\nお礼メールですが、件名にご本人の名前があるとありがたいです。\nそのうち素材やり取り・試写チェックとかの連絡がバラバラに編集が進行するので、後々スレッドみたいになっていくことがありその方が検索しやすい。\nというわけで今日のお礼メールから。。\n\nまぁ何が正解かはやってみないと僕もわからないので、初回は色々とお手数をおかけますが、よろしくお願いいたします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ab91f526-1866-4ba2-a45e-284cfbf3857e",
+        "type": "message",
+        "text": "了解です！",
+        "user": "U03V84JSHNK",
+        "ts": "1663109821.001279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oWy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "mechanical_arm",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "966254e5-c05c-4634-87e4-efa1559c38da",
+        "type": "message",
+        "text": "そういや、収録の位置決めの時に、見切れない場所をバミっちゃってました。\nギャラリーが一旦座っちゃう前にお願いしますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1663116487.013019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g7w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そういや、収録の位置決めの時に、見切れない場所をバミっちゃってました。\nギャラリーが一旦座っちゃう前にお願いしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "485c050f-f9e9-4b3a-8983-e407c7c10f33",
+        "type": "message",
+        "text": "01ee6025\nstoryblock？",
+        "user": "U03CXUXB5PF",
+        "ts": "1663118056.256319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XNh=p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "01ee6025\nstoryblock？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663118056.256319",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1663118082.702459",
+        "reply_users": [
+            "U03V84JSHNK"
+        ],
+        "replies": [
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1663118082.702459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1663118082.702459"
+    },
+    {
+        "client_msg_id": "0d337c6c-22cf-4d74-8967-e4909096b41b",
+        "type": "message",
+        "text": "私です、ありがとうございます。",
+        "user": "U03V84JSHNK",
+        "ts": "1663118082.702459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "glF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私です、ありがとうございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663118056.256319",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

@@ -1,0 +1,229 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 54酒井CGの追加分です。ご確認ください。",
+        "files": [
+            {
+                "id": "F04FM10GQ8N",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04G67YLGN5",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04FM10SGMC",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U041XC6213P",
+        "ts": "1671446770.883039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JPCGj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 54酒井CGの追加分です。ご確認ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "0cc03f67-4f5e-48bd-9cdd-07d3d638362b",
+        "thread_ts": "1671446770.883039",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1671516976.649439",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U041XC6213P"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1671455150.594009"
+            },
+            {
+                "user": "U041XC6213P",
+                "ts": "1671516462.293759"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1671516976.649439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1671516976.649439",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "641d5a6e-5bfe-4d66-be52-af238a9ddc0e",
+        "type": "message",
+        "text": "<@U03RA83HRN0> 生成の方ですが、これよみきるには25秒ぐらいはのっけなきゃかなと思うので、酒井さんの話がこれに関係している間できるだけ長く表示をお願いします。\n例文羅列についてはテロップ処理してもらったのでそれそのまま生かしてください",
+        "user": "U03CXUXB5PF",
+        "ts": "1671455150.594009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ofVO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 生成の方ですが、これよみきるには25秒ぐらいはのっけなきゃかなと思うので、酒井さんの話がこれに関係している間できるだけ長く表示をお願いします。\n例文羅列についてはテロップ処理してもらったのでそれそのまま生かしてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1671446770.883039",
+        "parent_user_id": "U041XC6213P",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7baa4eb8-ed25-4b7a-90d0-cc15ba76cc6e",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 54酒井追加分、dropboxに格納済みです。ご確認ください。",
+        "user": "U041XC6213P",
+        "ts": "1671516462.293759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TRM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 54酒井追加分、dropboxに格納済みです。ご確認ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1671446770.883039",
+        "parent_user_id": "U041XC6213P"
+    },
+    {
+        "client_msg_id": "68e344ee-f5d7-4bfb-b110-9f8964489ef0",
+        "type": "message",
+        "text": "<@U03RA83HRN0> CGのところにあると思いますが、54のフォルダに引っ越してから編集に入れてくださいー。引き続きよろしくお願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1671516976.649439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Qgc0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " CGのところにあると思いますが、54のフォルダに引っ越してから編集に入れてくださいー。引き続きよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1671446770.883039",
+        "parent_user_id": "U041XC6213P",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

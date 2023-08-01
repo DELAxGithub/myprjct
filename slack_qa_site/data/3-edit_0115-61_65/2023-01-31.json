@@ -1,0 +1,227 @@
+[
+    {
+        "client_msg_id": "2BCADA21-3F56-4BF9-AED8-4ABE8D405ECA",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 承知しました！",
+        "user": "U04JJB0MTB7",
+        "ts": "1675155238.360159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UqyD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 承知しました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675147187.754709",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "e83a4427-40c6-4742-a64c-4bbe962dfd29",
+        "type": "message",
+        "text": "```「64桑木野さん」（2.0）→弊社視聴完了しました。```\n<@U03Q17LBJP3>\n修正終わったら本人に当てるので、3.0に進めてくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1675166803.114979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7y83",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「64桑木野さん」（2.0）→弊社視聴完了しました。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n修正終わったら本人に当てるので、3.0に進めてくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1675223133.904829",
+        "user": "U04KFCBLY9J",
+        "text": "<@U04KFCBLY9J>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "client_msg_id": "66b0ce88-2090-4b94-ad0f-3746f11a1a62",
+        "type": "message",
+        "text": "```山口さん3.0確認しましたので、進行ください！```\n<@U03RA83HRN0> 最終に進めてくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1675231576.855099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Ei+m",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "山口さん3.0確認しましたので、進行ください！"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 最終に進めてくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56c6988e-249d-43f8-9afd-b751ce2b0816",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n62_山口_最終にしました。",
+        "user": "U03RA83HRN0",
+        "ts": "1675232343.658569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "beP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n62_山口_最終にしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

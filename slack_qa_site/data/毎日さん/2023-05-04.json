@@ -1,0 +1,183 @@
+[
+    {
+        "client_msg_id": "9e586b38-7960-439e-8995-42e0008932e0",
+        "type": "message",
+        "text": "試写１が全部終わって、試写２、試写３の在庫が切れました\n連休明けよろしくお願いいたします",
+        "user": "U03CXUXB5PF",
+        "ts": "1683198928.825149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A=pw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "試写１が全部終わって、試写２、試写３の在庫が切れました\n連休明けよろしくお願いいたします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "在庫\n試写1:0 | MA:2 | 試写2:0 | 試写3:0\n————————————-\n<@U03P0T4KQMV> : #103、 清水晶子、 編集3、: 04-26\n<@U03Q17LBJP3> : #101、 相馬 雅代、 MA編集、: 05-04\n<@U03RA83HRN0> : #104、 松岡聡、 編集3、: 05-03\n<@U03RA83HRN0> : #106-1、 総集編 朝倉、 MA編集、: 05-04\n<@U03RA83HRN0> : #106-2、 総集編 柳川、 MA編集、: 05-04\n<@U03RA83HRN0> : #106-3、 総集編 北川、 MA編集、: 05-04\n<@U03RA83HRN0> : #106-4、 総集編 スゴ本、 MA編集、: 05-04\n<@U04JJB0MTB7> : #90、 秋元雄史、 MA編集、: 05-04\n<@U04KFCBLY9J> : #99、 パックン、 編集3、: 04-30\n<@U04KFCBLY9J> : #105、 久野愛、 編集3、: 05-04\n<@U04QC17DUEP> : #89、 成田聡子、 編集3、: 04-25\n<@U04QC17DUEP> : #100、 保坂 修司、 編集2、: 05-02\n",
+        "ts": "1683245496.901359",
+        "bot_id": "B0527SNLW83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j3i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "在庫\n試写1:0 | MA:2 | 試写2:0 | 試写3:0\n————————————-\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #103、 清水晶子、 編集3、: 04-26\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #101、 相馬 雅代、 MA編集、: 05-04\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #104、 松岡聡、 編集3、: 05-03\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #106-1、 総集編 朝倉、 MA編集、: 05-04\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #106-2、 総集編 柳川、 MA編集、: 05-04\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #106-3、 総集編 北川、 MA編集、: 05-04\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #106-4、 総集編 スゴ本、 MA編集、: 05-04\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #90、 秋元雄史、 MA編集、: 05-04\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #99、 パックン、 編集3、: 04-30\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #105、 久野愛、 編集3、: 05-04\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04QC17DUEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #89、 成田聡子、 編集3、: 04-25\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04QC17DUEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #100、 保坂 修司、 編集2、: 05-02"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

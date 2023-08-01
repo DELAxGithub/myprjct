@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "144b4310-e371-423f-b114-ab8a4aba2403",
+        "type": "message",
+        "text": "```「63伊達さん」（2.0）→弊社視聴終了しました。```\n<@U04JJB0MTB7> だそうです。修正終わったら本人に当てるので3.0にしてまたチェック用をお願いします",
+        "user": "U03CXUXB5PF",
+        "ts": "1675147187.754709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x=XEM",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「63伊達さん」（2.0）→弊社視聴終了しました。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " だそうです。修正終わったら本人に当てるので3.0にしてまたチェック用をお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675147187.754709",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1675155238.360159",
+        "reply_users": [
+            "U04JJB0MTB7"
+        ],
+        "replies": [
+            {
+                "user": "U04JJB0MTB7",
+                "ts": "1675155238.360159"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675155238.360159"
+    }
+]

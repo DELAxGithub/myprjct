@@ -1,0 +1,472 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1658833011.100719",
+        "user": "U03QQ3J656Z",
+        "text": "<@U03QQ3J656Z>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "8852AF9D-6EC5-45D0-BDAE-03166E660441",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 9時にzoomテストかねて一回繋がせてください",
+        "user": "U03HJRZK295",
+        "ts": "1658879611.975229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D1zv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 9時にzoomテストかねて一回繋がせてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d9feac16-cb52-4f76-b0c2-58992316104a",
+        "type": "message",
+        "text": "ちょっと遠くで音がしますが、大丈夫ですかね",
+        "user": "U03CXUXB5PF",
+        "ts": "1658886418.329169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ly8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちょっと遠くで音がしますが、大丈夫ですかね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B06A46E5-A2D1-4C5B-B043-A82A7D26C9DF",
+        "type": "message",
+        "text": "廊下ですかね、見ときます",
+        "user": "U03HJRZK295",
+        "ts": "1658886454.985169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5N05",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "廊下ですかね、見ときます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "07bee555-f884-4fd8-abc5-cf4a465324e6",
+        "type": "message",
+        "text": "菅野さんからもらえたら嬉しいやつ\n・MI Tで取材したってことなので、その時の写真とか",
+        "user": "U03CXUXB5PF",
+        "ts": "1658886896.636689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rFi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "菅野さんからもらえたら嬉しいやつ\n・MI Tで取材したってことなので、その時の写真とか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03HJRZK295"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7d7acc62-2122-45d9-bf3e-3c717ed63259",
+        "type": "message",
+        "text": "じゃ12時半ぐらいに戻ってきます　ちょっと一瞬席外すのでzoomは繋がってますが、反応しませんがslackはみます。",
+        "user": "U03CXUXB5PF",
+        "ts": "1658889658.544989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P500b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "じゃ12時半ぐらいに戻ってきます　ちょっと一瞬席外すのでzoomは繋がってますが、反応しませんがslackはみます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03HJRZK295"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "00F0DFBB-1546-4512-986E-ED94D4699B24",
+        "type": "message",
+        "text": "撮影隊のNG日です\n・8\/31〜9\/10\n・9\/18",
+        "user": "U03HJRZK295",
+        "ts": "1658891637.147749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8sp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "撮影隊のNG日です"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・8\/31〜9\/10"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・9\/18"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FD124077-015C-42C3-90A2-C038AA34463C",
+        "type": "message",
+        "text": "岡さん入られました。メイク始めます",
+        "user": "U03HJRZK295",
+        "ts": "1658892366.615349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jkICE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "岡さん入られました。メイク始めます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "991efa06-d4d6-4730-9a92-4055c8bd2400",
+        "type": "message",
+        "text": "プロキシー作成とか起こし作成とかプレミア触れるタイミングがきたらご連絡ください。起きてればzoom立ち合います。寝てたらお任せします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1658901713.262299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tUtaN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "プロキシー作成とか起こし作成とかプレミア触れるタイミングがきたらご連絡ください。起きてればzoom立ち合います。寝てたらお任せします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03HJRZK295"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E4585264-DAE1-4AC6-B800-6F23CE182C80",
+        "type": "message",
+        "text": "16:30にはスタンバイできるかと思います",
+        "user": "U03HJRZK295",
+        "ts": "1658903709.842199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BuCO4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "16:30にはスタンバイできるかと思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "05e62edd-a944-4f6f-a029-18d4fa41489c",
+        "type": "message",
+        "text": "あ、iPhone忘れてた。撮った？",
+        "user": "U03CXUXB5PF",
+        "ts": "1658904528.426469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a5\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あ、iPhone忘れてた。撮った？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

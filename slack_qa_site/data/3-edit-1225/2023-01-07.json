@@ -1,0 +1,77 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF>\n60阿部 Replayに試写2をアップしました。",
+        "user": "U03Q17LBJP3",
+        "ts": "1673154126.227219",
+        "thread_ts": "1673050297.861809",
+        "root": {
+            "client_msg_id": "2c6156a9-084c-4744-9643-e51081fa451b",
+            "type": "message",
+            "text": "<@U03Q17LBJP3>60阿部さんですが、ご本人に翻訳お願いしようと思っていますので、一旦これで書き出しいただけるとありがたいです　よろしくお願いいたします！",
+            "user": "U03CXUXB5PF",
+            "ts": "1673050297.861809",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "tgPGc",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03Q17LBJP3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "60阿部さんですが、ご本人に翻訳お願いしようと思っていますので、一旦これで書き出しいただけるとありがたいです　よろしくお願いいたします！"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1673050297.861809",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1673154126.227219",
+            "reply_users": [
+                "U03Q17LBJP3"
+            ],
+            "replies": [
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1673154126.227219"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1673154126.227219"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HDwuC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n60阿部 Replayに試写2をアップしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8fdfcacb-b7f9-4d71-9d80-7f8d4db0db5d"
+    }
+]

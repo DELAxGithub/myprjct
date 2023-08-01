@@ -1,0 +1,88 @@
+[
+    {
+        "client_msg_id": "b3b07d2b-18ff-47ea-8402-38f2ee128383",
+        "type": "message",
+        "text": "すいません本日1230でお願いしますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1666231378.339909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D2y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すいません本日1230でお願いしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-raising-hand",
+                "users": [
+                    "U03NZ0E09JN",
+                    "U041XC6213P"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "72ae9a31-efad-472c-9ad4-eb53c4c2455e",
+        "type": "message",
+        "text": "<https:\/\/us02web.zoom.us\/j\/3423637728>",
+        "user": "U03CXUXB5PF",
+        "ts": "1666236626.218159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ux5K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/3423637728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

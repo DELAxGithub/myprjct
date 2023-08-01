@@ -1,0 +1,95 @@
+[
+    {
+        "client_msg_id": "4bf49a72-e5b7-4339-ba81-c6798340a253",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> 今週末に向けて編集１ってなんか進めるのありますかねぇ。",
+        "user": "U03CXUXB5PF",
+        "ts": "1680236428.744159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qrQl0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今週末に向けて編集１ってなんか進めるのありますかねぇ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "596ce352-64ae-424b-86d4-eed9bda9ce52",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n88松原、89成田あたりが出てきそうですが、確認してみます。",
+        "user": "U03NZ0E09JN",
+        "ts": "1680244559.319069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UzrC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n88松原、89成田あたりが出てきそうですが、確認してみます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

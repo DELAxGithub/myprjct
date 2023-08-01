@@ -1,0 +1,73 @@
+[
+    {
+        "client_msg_id": "9f141df4-74f2-4144-b10f-80ba58846389",
+        "type": "message",
+        "text": "38前野の修正台本はできてます",
+        "user": "U03CXUXB5PF",
+        "ts": "1667912818.499969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FgE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "38前野の修正台本はできてます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1667975607.493259",
+        "user": "U03QQ3J656Z",
+        "text": "<@U03QQ3J656Z>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1667975624.512579",
+        "user": "U03NJATSEBH",
+        "text": "<@U03NJATSEBH>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1667975624.578839",
+        "user": "U03RA83HRN0",
+        "text": "<@U03RA83HRN0>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    }
+]

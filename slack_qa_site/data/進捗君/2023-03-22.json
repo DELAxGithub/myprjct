@@ -1,0 +1,502 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03P0T4KQMV> #82河田雅圭で変更がありました\n変更前：MA\n変更後：編集2\n担当者は辻井です",
+        "ts": "1679486925.565989",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xkp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #82河田雅圭で変更がありました\n変更前：MA\n変更後：編集2\n担当者は辻井です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03Q17LBJP3> #81早川英男で変更がありました\n変更前：MA\n変更後：編集2\n担当者は岡野です",
+        "ts": "1679500034.703459",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V3L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #81早川英男で変更がありました\n変更前：MA\n変更後：編集2\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03Q17LBJP3> #81早川英男で変更がありました\n変更前：編集2\n変更後：編集2\n担当者は岡野です",
+        "ts": "1679500064.633349",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R=P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #81早川英男で変更がありました\n変更前：編集2\n変更後：編集2\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03RA83HRN0> #83小幡績で変更がありました\n変更前：試写2\n変更後：編集3\n担当者は石橋です",
+        "ts": "1679500903.536359",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p5l0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #83小幡績で変更がありました\n変更前：試写2\n変更後：編集3\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "90c5cb90-c448-4d6f-90d9-6e4df1646689",
+        "type": "message",
+        "text": "ここ、編編チーム宛とMA宛とリサーチ宛と混在するので、なんか考えます。そのほか見落とし対策として進捗君には日報機能も持たせます（作業中一覧みたいなやつ）\n今月は使い勝手フィードバック期間で、編集台本を最後まで終わってから来月改修します",
+        "user": "U03CXUXB5PF",
+        "ts": "1679501438.275609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AU3rx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ここ、編編チーム宛とMA宛とリサーチ宛と混在するので、なんか考えます。そのほか見落とし対策として進捗君には日報機能も持たせます（作業中一覧みたいなやつ）\n今月は使い勝手フィードバック期間で、編集台本を最後まで終わってから来月改修します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03RA83HRN0> #86東島沙弥佳で変更がありました\n変更前：MA編集\n変更後：MA\n担当者は石橋です",
+        "ts": "1679505717.598129",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x7YZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #86東島沙弥佳で変更がありました\n変更前：MA編集\n変更後：MA\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04KFCBLY9J> #91納富信留で変更がありました\n変更前：台本作成\n変更後：リサーチ\n担当者は中野です",
+        "ts": "1679530672.255869",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EsV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #91納富信留で変更がありました\n変更前：台本作成\n変更後：リサーチ\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04KFCBLY9J> #84山下聖美で変更がありました\n変更前：編集2\n変更後：試写2\n担当者は中野です",
+        "ts": "1679533344.844879",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BYK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #84山下聖美で変更がありました\n変更前：編集2\n変更後：試写2\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04KFCBLY9J> #84山下聖美で変更がありました\n変更前：undefined\n変更後：<https:\/\/www.dropbox.com\/t\/eZKbvj3ZnlL80wtE>\n担当者は中野です",
+        "ts": "1679534234.272689",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k1fXc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #84山下聖美で変更がありました\n変更前：undefined\n変更後："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/t\/eZKbvj3ZnlL80wtE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04KFCBLY9J> #84山下聖美で変更がありました\n変更前：<https:\/\/www.dropbox.com\/t\/eZKbvj3ZnlL80wtE>\n変更後：<https:\/\/www.dropbox.com\/t\/eZKbvj3ZnlL80wtE>\n担当者は中野です",
+        "ts": "1679534236.311479",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Krs9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #84山下聖美で変更がありました\n変更前："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/t\/eZKbvj3ZnlL80wtE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n変更後："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/t\/eZKbvj3ZnlL80wtE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03Q17LBJP3> #85大場紀章で変更がありました\n変更前：MA編集\n変更後：MA\n担当者は岡野です",
+        "ts": "1679540373.390719",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yJQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #85大場紀章で変更がありました\n変更前：MA編集\n変更後：MA\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03Q17LBJP3> #81早川英男で変更がありました\n変更前：編集2\n変更後：試写2\n担当者は岡野です",
+        "ts": "1679542950.278099",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ISs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #81早川英男で変更がありました\n変更前：編集2\n変更後：試写2\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03Q17LBJP3> #81早川英男で変更がありました\n変更前：undefined\n変更後：<https:\/\/www.dropbox.com\/t\/nhK1E3LMBwpyzrSP>\n担当者は岡野です",
+        "ts": "1679544566.026059",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "StthY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #81早川英男で変更がありました\n変更前：undefined\n変更後："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/t\/nhK1E3LMBwpyzrSP"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7155b01d-7575-4d84-89ea-7d94fed76a11",
+        "type": "message",
+        "text": "作業に関係ないやつの通知は、飛ばないように外した方がいいですね",
+        "user": "U03CXUXB5PF",
+        "ts": "1679544590.698389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cwaY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "作業に関係ないやつの通知は、飛ばないように外した方がいいですね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1679544608.000000"
+        }
+    }
+]

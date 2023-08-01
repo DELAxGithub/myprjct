@@ -1,0 +1,102 @@
+[
+    {
+        "client_msg_id": "b7abace7-7ecc-4af4-b0f7-c1f81a3ade61",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 51湯澤　1試写アップしました。\n<@U03V84JSHNK> 不足素材を台本に★をつけているので、ご確認よろしくお願いします。",
+        "user": "U03Q17LBJP3",
+        "ts": "1669384387.735259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7lqf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 51湯澤　1試写アップしました。\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 不足素材を台本に★をつけているので、ご確認よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "36ab3682-2646-4bf4-acf4-34aec2357e54",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> すぐ上に書いてますが、ここのチャンネル終わってます、<#C04BB328NAC|3-edit-1215> にてお願いしますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1669384726.627199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AWd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すぐ上に書いてますが、ここのチャンネル終わってます、"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04BB328NAC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にてお願いしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03Q17LBJP3> #94泉谷閑示で変更がありました\n変更前：MA\n変更後：編集2\n担当者は岡野です",
+        "ts": "1683421014.259049",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V4y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #94泉谷閑示で変更がありました\n変更前：MA\n変更後：編集2\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

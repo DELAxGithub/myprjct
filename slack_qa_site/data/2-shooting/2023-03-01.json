@@ -1,0 +1,382 @@
+[
+    {
+        "client_msg_id": "1ba1ac9d-a11c-4c03-b711-0fe386fcd895",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nすみません。\nこれは誰の回でしょうか？",
+        "user": "U04J38PLGM6",
+        "ts": "1677657762.516799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PaUb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nすみません。\nこれは誰の回でしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677657010.115349",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "E4DB39D3-616E-45D5-AAF0-BD67FB340FD3",
+        "type": "message",
+        "text": "失礼しました　藤垣さん",
+        "user": "U03CXUXB5PF",
+        "ts": "1677657881.107069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KTTxN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "失礼しました　藤垣さん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677657010.115349",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4f93d741-af41-4fd8-beb3-435797f8cc16",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n45藤垣さんのプロジェクトデータ、\n見当たりません。2022年11月からdropbox削除したデータを探したのですが。",
+        "user": "U04J38PLGM6",
+        "ts": "1677662012.077209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S\/5vD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n45藤垣さんのプロジェクトデータ、\n見当たりません。2022年11月からdropbox削除したデータを探したのですが。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677657010.115349",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "358C43F2-057B-4E86-A2D9-561D75C6D6A9",
+        "type": "message",
+        "text": "あ、チームプロジェクトかも。あとで復活しときます",
+        "user": "U03CXUXB5PF",
+        "ts": "1677662052.633459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XB0mN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あ、チームプロジェクトかも。あとで復活しときます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677657010.115349",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "eec1b720-a7e7-408c-a922-a420c28711a3",
+        "type": "message",
+        "text": "了解です",
+        "user": "U04J38PLGM6",
+        "ts": "1677662148.490779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rIs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677657010.115349",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n45_藤垣の直しをはきだしました。\n吐き出してから思ったのですが、ep2「異分野交流論　他分野協力論」ではなく「異分野交流　他分野協力論」と「論」を１個\n取ったほうがいいですかね？アバンだとそうなってまして。",
+        "files": [
+            {
+                "id": "F04S1SVG69J",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1677728902.269979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QeoTZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n45_藤垣の直しをはきだしました。\n吐き出してから思ったのですが、ep2「異分野交流論　他分野協力論」ではなく「異分野交流　他分野協力論」と「論」を１個\n取ったほうがいいですかね？アバンだとそうなってまして。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "17fa4a07-569f-4e87-95ed-4e9b9a921d22"
+    },
+    {
+        "client_msg_id": "85dc11ae-ff62-425a-a46a-8f9af45c4311",
+        "type": "message",
+        "text": "そうしよう",
+        "user": "U03CXUXB5PF",
+        "ts": "1677728920.648569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yTAq8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうしよう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d167bc48-263c-4a5e-86b5-776c0b159b43",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 1\/18の場所、北川さんもスゴ本さん、二人とも中央線千葉よりのスタジオで大丈夫ですよね？\nスゴ本さんは顔出さないということは音声だけ収録するということですか？",
+        "user": "U04J38PLGM6",
+        "ts": "1677743349.554039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f8X1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 1\/18の場所、北川さんもスゴ本さん、二人とも中央線千葉よりのスタジオで大丈夫ですよね？\nスゴ本さんは顔出さないということは音声だけ収録するということですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "420361B3-6BD9-4A08-9F9F-4A076BB133A3",
+        "type": "message",
+        "text": "場所は2人一緒で大丈夫。\nすご本さんは手元とか後ろ姿とかだけで顔は切るかな。",
+        "user": "U03CXUXB5PF",
+        "ts": "1677743411.561429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=jnS9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "場所は2人一緒で大丈夫。\nすご本さんは手元とか後ろ姿とかだけで顔は切るかな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

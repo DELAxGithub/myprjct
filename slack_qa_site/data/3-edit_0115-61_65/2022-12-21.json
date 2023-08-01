@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "33e28e67-3893-4569-bce9-6a044f320fd9",
+        "type": "message",
+        "text": "これ、まだ台本修正されますよね？",
+        "user": "U03QQ3J656Z",
+        "ts": "1671609651.032449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CQUG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これ、まだ台本修正されますよね？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1671499252.880019",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "126a4a13-8c7f-421e-983d-e6ea5fb3a7f8",
+        "type": "message",
+        "text": "はい修正予定ですが、再開は年末になるので、もう作業止めます",
+        "user": "U03CXUXB5PF",
+        "ts": "1671609689.553249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0\/b9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい修正予定ですが、再開は年末になるので、もう作業止めます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1671499252.880019",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03QQ3J656Z"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

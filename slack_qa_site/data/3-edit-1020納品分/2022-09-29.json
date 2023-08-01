@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "c1d8f8ba-c50b-4bb8-bc57-39a8d348d592",
+        "type": "message",
+        "text": "台本を修正しました\n32小島,33中野,36吉永\nそんなに大直しってわけでもないですが、フォーマット、特に18分以下のものは編集リズムをゆっくり、しゃべりをけっこうきりはりしてるので、VTRあけでなく、間がはいるところは間を残す、ってことで編集リズムをゆっくり目になど。\ntwチェックは本日中にお渡しできます。\n\nあと、この日の収録はノイズが目立つかもです。\n手元試写でノイズ箇所をできるだけ発見して、\n整音に託せるよう、「ノイズ修正」テロップをおねがいします。\nクライアントチェックもやっぱり相変わらず激シビアでした\n\n修正指示は台本にありますが、\n修正後の連絡事項はマーカーに集約しようとおもっています。\nなにか残りtodoありましたら、マーカー、オレンジか赤色で、記入ください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1664496000.863449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z=g3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "台本を修正しました\n32小島,33中野,36吉永\nそんなに大直しってわけでもないですが、フォーマット、特に18分以下のものは編集リズムをゆっくり、しゃべりをけっこうきりはりしてるので、VTRあけでなく、間がはいるところは間を残す、ってことで編集リズムをゆっくり目になど。\ntwチェックは本日中にお渡しできます。\n\nあと、この日の収録はノイズが目立つかもです。\n手元試写でノイズ箇所をできるだけ発見して、\n整音に託せるよう、「ノイズ修正」テロップをおねがいします。\nクライアントチェックもやっぱり相変わらず激シビアでした\n\n修正指示は台本にありますが、\n修正後の連絡事項はマーカーに集約しようとおもっています。\nなにか残りtodoありましたら、マーカー、オレンジか赤色で、記入ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1664499767.000000"
+        }
+    },
+    {
+        "client_msg_id": "6a662997-ebfb-4477-8cce-bee321147d2c",
+        "type": "message",
+        "text": "twチェックだいたい終わりましたが、ほんとうにルールが安定しないので、悩みながらになってます\nまぁクライアントチェックで1本につき何十個みたいなことは避けられるとは思うので、お手数をおかけしますが、今しばらくお付き合いください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1664505648.422199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s\/36",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "twチェックだいたい終わりましたが、ほんとうにルールが安定しないので、悩みながらになってます\nまぁクライアントチェックで1本につき何十個みたいなことは避けられるとは思うので、お手数をおかけしますが、今しばらくお付き合いください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

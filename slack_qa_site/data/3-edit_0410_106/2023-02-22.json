@@ -1,0 +1,67 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03RA83HRN0>\n102_千葉のプロジェクトとproxyの用意ができました。\nよろしくお願いいたします。\n\nproxyのリンク\n<https:\/\/37.gigafile.nu\/0302-70b4aaef39a4151583b84d5b7777bf92>",
+        "files": [
+            {
+                "id": "F04QW8E1Q67",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1677127192.200339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pz5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n102_千葉のプロジェクトとproxyの用意ができました。\nよろしくお願いいたします。\n\nproxyのリンク\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/37.gigafile.nu\/0302-70b4aaef39a4151583b84d5b7777bf92"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "555fd218-4a6b-4b2f-aa59-f85e80c03d13",
+        "attachments": [
+            {
+                "from_url": "https:\/\/37.gigafile.nu\/0302-70b4aaef39a4151583b84d5b7777bf92",
+                "service_icon": "https:\/\/37.gigafile.nu\/favicon.ico",
+                "thumb_url": "https:\/\/src.gigafile.nu\/images\/og_new_200_60.png",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "id": 1,
+                "original_url": "https:\/\/37.gigafile.nu\/0302-70b4aaef39a4151583b84d5b7777bf92",
+                "fallback": "GigaFile（ギガファイル）便",
+                "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる６種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+                "title": "GigaFile（ギガファイル）便",
+                "title_link": "https:\/\/37.gigafile.nu\/0302-70b4aaef39a4151583b84d5b7777bf92",
+                "service_name": "37.gigafile.nu"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF>\n70松浦、試写2.1をReplyにアップしました。\nよろしくお願いいたします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1676652462.104109",
+        "thread_ts": "1676614537.831449",
+        "root": {
+            "client_msg_id": "52f39f13-88db-439c-bd93-8759c82062d3",
+            "type": "message",
+            "text": "<@U03P0T4KQMV>\n```「70松浦さん」（2.0）→弊社の視聴完了しました。```\n修正次第本人に当てますのでOutputをお願いします",
+            "user": "U03CXUXB5PF",
+            "ts": "1676614537.831449",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "0+n64",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03P0T4KQMV"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_preformatted",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "「70松浦さん」（2.0）→弊社の視聴完了しました。"
+                                }
+                            ],
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "修正次第本人に当てますのでOutputをお願いします"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1676614537.831449",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1676652462.104109",
+            "reply_users": [
+                "U03P0T4KQMV"
+            ],
+            "replies": [
+                {
+                    "user": "U03P0T4KQMV",
+                    "ts": "1676652462.104109"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1676652462.104109"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xaKv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n70松浦、試写2.1をReplyにアップしました。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "57c4690f-93e5-4fc2-8dfd-2361b58f2da5",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3643B66E-A59E-4A8F-9484-C86295A8E38D",
+        "type": "message",
+        "text": "<@U03P0T4KQMV> 松浦さん本人の修正依頼です\n対応できましたら試写3にしてReplyに上げてくださいー\n\n\n一通り拝見して、気になった点は以下の通りです。\n＜動画2本目＞\n・5:17--5:28にかけて\n「一方が赤ならもう一方は白、一方が白ならもう一方は赤」\nという文脈で、表示されている絵は両方とも左側が赤く表示されていますが、意図しているのは、\n「左が赤なら右は白、左が白なら右は赤」\nということです。そのように直していただけますでしょうか。\n\n・14:18周辺のテロップ\n2行目の\n「直感として認識できないことが観測された」\nは、人によっては誤解を生みます。おそらく次のような意図だと思うので、\n「古い直感の方が間違っていた」\nと変更していただけますでしょうか。\nまたは、単純に2行目を消していただいても構いません。\n",
+        "user": "U03CXUXB5PF",
+        "ts": "1676687907.036819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HOFK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 松浦さん本人の修正依頼です\n対応できましたら試写3にしてReplyに上げてくださいー\n\n\n一通り拝見して、気になった点は以下の通りです。\n＜動画2本目＞\n・5:17--5:28にかけて\n「一方が赤ならもう一方は白、一方が白ならもう一方は赤」\nという文脈で、表示されている絵は両方とも左側が赤く表示されていますが、意図しているのは、\n「左が赤なら右は白、左が白なら右は赤」\nということです。そのように直していただけますでしょうか。\n\n・14:18周辺のテロップ\n2行目の\n「直感として認識できないことが観測された」\nは、人によっては誤解を生みます。おそらく次のような意図だと思うので、\n「古い直感の方が間違っていた」\nと変更していただけますでしょうか。\nまたは、単純に2行目を消していただいても構いません。\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1676687917.000000"
+        },
+        "thread_ts": "1676687907.036819",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1676710657.270219",
+        "reply_users": [
+            "U03P0T4KQMV"
+        ],
+        "replies": [
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1676710657.270219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1676710657.270219"
+    }
+]

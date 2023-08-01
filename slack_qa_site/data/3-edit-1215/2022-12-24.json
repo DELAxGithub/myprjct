@@ -1,0 +1,160 @@
+[
+    {
+        "client_msg_id": "9e569d05-0033-4610-a023-87ca2e2df9b9",
+        "type": "message",
+        "text": "<@U03Q17LBJP3>\n```「52志田さん」（2.0）（PR,1,2,3章）→視聴完了しました！```\n",
+        "user": "U03CXUXB5PF",
+        "ts": "1671928876.348449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KNquP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「52志田さん」（2.0）（PR,1,2,3章）→視聴完了しました！"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03V84JSHNK> <@U040YCC00V6>\n52志田　イメージ修正のご対応をお願いします。",
+        "files": [
+            {
+                "id": "F04GDGSTZSS",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04H9RG1Y80",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04G5JKB0ET",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04GH6R5P45",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04GNJK953N",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03Q17LBJP3",
+        "ts": "1671949759.248269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d4UN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n52志田　イメージ修正のご対応をお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "620413f5-39ca-4caf-b5fd-3b9d1aeda478",
+        "thread_ts": "1671949759.248269",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1672300396.139439",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U03Q17LBJP3",
+            "U03V84JSHNK"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1672007998.573379"
+            },
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1672029583.925949"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1672300396.139439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1672300396.139439"
+    }
+]

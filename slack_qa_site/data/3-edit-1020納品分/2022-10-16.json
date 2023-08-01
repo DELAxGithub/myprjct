@@ -1,0 +1,463 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03V84JSHNK>\nBGMが入ったやつは出演者チェックにまわしてくださいー\nギガファイル経由でもDropboxからコピーを送信でもどっちでも。\n試写2って書いてあるやつですね\nてか平岡さんの書いてないけど。",
+        "files": [
+            {
+                "id": "F046QQ1D78S",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1665945471.928179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yip",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nBGMが入ったやつは出演者チェックにまわしてくださいー\nギガファイル経由でもDropboxからコピーを送信でもどっちでも。\n試写2って書いてあるやつですね\nてか平岡さんの書いてないけど。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "d85b8de7-b0d6-4e00-8b0a-6212c900a5cf",
+        "thread_ts": "1665945471.928179",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1665988614.972539",
+        "reply_users": [
+            "U03V84JSHNK",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1665986944.795419"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665988586.152599"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1665988614.972539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1665988614.972539"
+    },
+    {
+        "type": "message",
+        "text": "<@U03P0T4KQMV> Replayを反映したら、ステータスをEdits RequestedからNeeds Reviewに変更をお願いします 作業は終わってるようなので大丈夫ですが作業状況をここで判断しております。\nあれこれすいません、slackでコミュニケーションしてても結局忘れるので爪痕を残しておいていただけると助かります..",
+        "files": [
+            {
+                "id": "F046J67CLLW",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1665946013.063659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5xfWn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Replayを反映したら、ステータスをEdits RequestedからNeeds Reviewに変更をお願いします 作業は終わってるようなので大丈夫ですが作業状況をここで判断しております。\nあれこれすいません、slackでコミュニケーションしてても結局忘れるので爪痕を残しておいていただけると助かります.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4b17ef1c-21c2-4eba-a294-7d72fc8ba7d7",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03ee45f5-976d-40ff-9536-e71c915fbd78",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03P0T4KQMV>\n下記辻井さんとのLINEのやり取りを転送します。\n続きはこちらのSlackにて続きを行いたいと思います。\n\n43平岡について\n遅い時間になってしまうかもなのですが、本日中にはできます！\n\n細かいタイムなどまだ算出できてない中申し訳ないんですが、若干ノイズ処理ができていない箇所などがありまして、その際はMA再発注などお願いしてもよいでしょうか？？",
+        "user": "U03NZ0E09JN",
+        "ts": "1665980533.375149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FvK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n下記辻井さんとのLINEのやり取りを転送します。\n続きはこちらのSlackにて続きを行いたいと思います。\n\n43平岡について\n遅い時間になってしまうかもなのですが、本日中にはできます！\n\n細かいタイムなどまだ算出できてない中申し訳ないんですが、若干ノイズ処理ができていない箇所などがありまして、その際はMA再発注などお願いしてもよいでしょうか？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "02712F60-076C-4343-BD7A-70435F3B7D6E",
+        "type": "message",
+        "text": "MAは一回でやり切りたいので時間かけて洗い出しでいただけるとたすかります。どのレベルをチェックされるかは、1010のチェック表で。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665980628.539789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XXvo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MAは一回でやり切りたいので時間かけて洗い出しでいただけるとたすかります。どのレベルをチェックされるかは、1010のチェック表で。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665980628.539789",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1665981104.585929",
+        "reply_users": [
+            "U03NZ0E09JN"
+        ],
+        "replies": [
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1665981104.585929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1665981104.585929"
+    },
+    {
+        "client_msg_id": "747bebf7-e640-41b8-8482-bbc64a246e07",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nMAはすでに済んでおりましてシーケンスに反映も済んでおります。",
+        "user": "U03NZ0E09JN",
+        "ts": "1665981104.585929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ickg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMAはすでに済んでおりましてシーケンスに反映も済んでおります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665980628.539789",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "EA1CB453-5C81-46CD-8D83-55591CCD8B67",
+        "type": "message",
+        "text": "あ、そっか。そこは追加ですね。BGM引いてものいずになってます、とMAに連絡しましょう。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665981147.460359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "viA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あ、そっか。そこは追加ですね。BGM引いてものいずになってます、とMAに連絡しましょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> この件ですが、平さんと平岡さんの分、本人にギガファイル便か何かで送ってチェックしてもらうって理解で大丈夫ですか？",
+        "files": [
+            {
+                "id": "F046P0SNTBP",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03V84JSHNK",
+        "display_as_bot": false,
+        "ts": "1665986944.795419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GQIsF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " この件ですが、平さんと平岡さんの分、本人にギガファイル便か何かで送ってチェックしてもらうって理解で大丈夫ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "dbc8dfb5-51ef-4667-98fc-6854c5cb39e0",
+        "thread_ts": "1665945471.928179",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "59232509-f9ac-440b-b0a4-ebff722a8f7a",
+        "type": "message",
+        "text": "<@U03P0T4KQMV>\nというわけで43平岡は再MA待ちとなります。よろしくお願いいたします。",
+        "user": "U03NZ0E09JN",
+        "ts": "1665987307.511999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "toyFg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nというわけで43平岡は再MA待ちとなります。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9947CD1A-3FD6-432E-97B8-52949199B3AD",
+        "type": "message",
+        "text": "はい、そうです。なんか本人にもらう素材とかあればついでに聞いてみてください",
+        "user": "U03CXUXB5PF",
+        "ts": "1665988586.152599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gL5ww",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい、そうです。なんか本人にもらう素材とかあればついでに聞いてみてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665945471.928179",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "6ac6c189-1e5a-4f7b-9005-77e6c6446b60",
+        "type": "message",
+        "text": "了解です。",
+        "user": "U03V84JSHNK",
+        "ts": "1665988614.972539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uY5d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665945471.928179",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

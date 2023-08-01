@@ -1,0 +1,149 @@
+[
+    {
+        "type": "message",
+        "text": "63ダテさんのWAVをDropboxにアップしました。\nご確認よろしくお願いします:bow:",
+        "files": [
+            {
+                "id": "F04LLTA6RK7",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1674749603.835869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nsT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "63ダテさんのWAVをDropboxにアップしました。\nご確認よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3A1CF1A8-5A6D-443B-B563-E03041B09DB0",
+        "thread_ts": "1674749603.835869",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1674796723.797499",
+        "reply_users": [
+            "U04JJB0MTB7"
+        ],
+        "replies": [
+            {
+                "user": "U04JJB0MTB7",
+                "ts": "1674796723.797499"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03G0LAPT3N>\nありがとうございます！\n確認させていただきました！",
+        "user": "U04JJB0MTB7",
+        "ts": "1674796723.797499",
+        "thread_ts": "1674749603.835869",
+        "root": {
+            "type": "message",
+            "text": "63ダテさんのWAVをDropboxにアップしました。\nご確認よろしくお願いします:bow:",
+            "files": [
+                {
+                    "id": "F04LLTA6RK7",
+                    "mode": "hidden_by_limit"
+                }
+            ],
+            "upload": false,
+            "user": "U03G0LAPT3N",
+            "display_as_bot": false,
+            "ts": "1674749603.835869",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "nsT",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "63ダテさんのWAVをDropboxにアップしました。\nご確認よろしくお願いします"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "bow",
+                                    "unicode": "1f647"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "client_msg_id": "3A1CF1A8-5A6D-443B-B563-E03041B09DB0",
+            "thread_ts": "1674749603.835869",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1674796723.797499",
+            "reply_users": [
+                "U04JJB0MTB7"
+            ],
+            "replies": [
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1674796723.797499"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gyWk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nありがとうございます！\n確認させていただきました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5ab0d33f-d180-4fa3-ab58-7afd3f076c56",
+        "edited": {
+            "user": "U04JJB0MTB7",
+            "ts": "1674808930.000000"
+        }
+    }
+]

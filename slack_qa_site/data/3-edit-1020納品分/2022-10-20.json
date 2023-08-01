@@ -1,0 +1,89 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03P0T4KQMV> Replayにアップしたらステータスの更新までお願いします。今デフォルトですが、in reviewに。\nこれがクライアントチェックのQueとなってまして。。お手数ですが、非同期の仕事なので何卒。",
+        "files": [
+            {
+                "id": "F04773KQKK8",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1666276851.980729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pe4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Replayにアップしたらステータスの更新までお願いします。今デフォルトですが、in reviewに。\nこれがクライアントチェックのQueとなってまして。。お手数ですが、非同期の仕事なので何卒。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "256c9c2e-b9c7-489f-8540-eeae5ed2ad13"
+    },
+    {
+        "client_msg_id": "d3b5efcf-6410-4123-b20d-54680b3857a6",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n36吉永、試写２の反映と出演者の修正を反映したものをReplayへアップいたしました。\nクライアント試写２.１です。\n\n有料イメージの購入が1枚あります。\n1020納品分は最終試写前にまとめて購入をお願いできればと思います。",
+        "user": "U03NZ0E09JN",
+        "ts": "1666310401.616129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VPkv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n36吉永、試写２の反映と出演者の修正を反映したものをReplayへアップいたしました。\nクライアント試写２.１です。\n\n有料イメージの購入が1枚あります。\n1020納品分は最終試写前にまとめて購入をお願いできればと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

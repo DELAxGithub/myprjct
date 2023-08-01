@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "6569f8a8-cf0f-46a1-8ef6-51a16f608e6a",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n映像のみの差し替えになると思うので、確認と並行してMA依頼を進めてもよいでしょうか？",
+        "user": "U03Q17LBJP3",
+        "ts": "1683291528.105329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SpDv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n映像のみの差し替えになると思うので、確認と並行してMA依頼を進めてもよいでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1683198696.767459",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

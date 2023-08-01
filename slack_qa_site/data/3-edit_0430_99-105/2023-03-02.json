@@ -1,0 +1,38 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> ダーウィンが来た入れました",
+        "files": [
+            {
+                "id": "F04S0JSF0F5",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1677749627.484479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w+AT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ダーウィンが来た入れました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ba224d27-1783-416e-8e42-a221c4ad8084"
+    }
+]

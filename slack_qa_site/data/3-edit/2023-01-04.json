@@ -1,0 +1,162 @@
+[
+    {
+        "type": "message",
+        "text": "フォルダ分けしてから、結構競合コピーが増えてきました。\nこれ、Dropboxを圧迫するので、できたら回避できたらなと。\nファイル容量の問題だけならいいんですが、\nプロジェクトの競合コピーだとバージョン違いで書き出しミスったりするのが起こりそうで、、\n原因がわかればと思いますが、どうでしょうか？",
+        "files": [
+            {
+                "id": "F04HXKLTARX",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1672881998.084759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4QR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "フォルダ分けしてから、結構競合コピーが増えてきました。\nこれ、Dropboxを圧迫するので、できたら回避できたらなと。\nファイル容量の問題だけならいいんですが、\nプロジェクトの競合コピーだとバージョン違いで書き出しミスったりするのが起こりそうで、、\n原因がわかればと思いますが、どうでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "713c1c48-1a7f-49ff-a22d-fc9ff103bf3d",
+        "thread_ts": "1672881998.084759",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1672906654.681089",
+        "reply_users": [
+            "U03QQ3J656Z"
+        ],
+        "replies": [
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1672906654.681089"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1672906654.681089",
+        "reactions": [
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc332f79-9550-4090-8636-1944424e50a1",
+        "type": "message",
+        "text": "[編集バージョンの管理]\nシーケンスにバージョン情報をお願いしていると思うんですが、2→2.1の間に本人チェックが結構混じってくるのでこうしたいと思います\n\n編集2;MAを反映\n編集2.1；試写2を反映\n編集3 ；2,1を本人チェックしてもらったものを反映\n編集3.1：試写3を反映\n編集3.2；試写3.1がこぼれたら3.2　　以降追加\n\n最終；試写3.1,,,が終わったら最終\n\nって感じです。\nよろしくお願いいたします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1672885866.269639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7siR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[編集バージョンの管理]\nシーケンスにバージョン情報をお願いしていると思うんですが、2→2.1の間に本人チェックが結構混じってくるのでこうしたいと思います\n\n編集2;MAを反映\n編集2.1；試写2を反映\n編集3 ；2,1を本人チェックしてもらったものを反映\n編集3.1：試写3を反映\n編集3.2；試写3.1がこぼれたら3.2　　以降追加\n\n最終；試写3.1,,,が終わったら最終\n\nって感じです。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1672885866.269639",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1672886406.382359",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1672886406.382359"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1672886406.382359",
+        "reactions": [
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bcc18cd9-9c93-4de3-a4ad-304ac5980e50",
+        "type": "message",
+        "text": "試写2.1っていう試写2は\n反映しつつも本人修正まだっていう状態での試写はしなくていいかと思っています。",
+        "user": "U03CXUXB5PF",
+        "ts": "1672886406.382359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jPgm6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "試写2.1っていう試写2は\n反映しつつも本人修正まだっていう状態での試写はしなくていいかと思っています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1672885866.269639",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

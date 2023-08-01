@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "79949d0f-59ae-41b7-948e-be13ca973cbe",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n52志田 Replay試写2.1アップしました。",
+        "user": "U03Q17LBJP3",
+        "ts": "1672395746.800239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l0CO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n52志田 Replay試写2.1アップしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

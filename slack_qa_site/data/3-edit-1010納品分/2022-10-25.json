@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "f5734b6c-67a6-438d-a30b-bce7e316a189",
+        "type": "message",
+        "text": "出演者チェックが返信ないのですが、ひとまず納品しました。\nお疲れ様でしたー",
+        "user": "U03CXUXB5PF",
+        "ts": "1666755270.194669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+lV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "出演者チェックが返信ないのですが、ひとまず納品しました。\nお疲れ様でしたー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

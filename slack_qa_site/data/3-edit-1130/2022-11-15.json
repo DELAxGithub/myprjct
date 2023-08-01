@@ -1,0 +1,153 @@
+[
+    {
+        "client_msg_id": "526b08b2-b75b-4c50-bc89-6cb97eb81c8c",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n38前野ですが、ep1～3で雑音カットを検討いただきたい箇所の\n台本にコメントをお入れしましたので、ご確認いただければ幸いです。\n不明点も2点ほどコメントしましたので、あわせてご確認下さい。",
+        "user": "U03NJATSEBH",
+        "ts": "1668563609.516049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b3vK6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n38前野ですが、ep1～3で雑音カットを検討いただきたい箇所の\n台本にコメントをお入れしましたので、ご確認いただければ幸いです。\n不明点も2点ほどコメントしましたので、あわせてご確認下さい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668563609.516049",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1668580929.972079",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1668580929.972079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1668580929.972079",
+        "reactions": [
+            {
+                "name": "mechanical_arm",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "カット箇所、指示しました <@U03NJATSEBH>",
+        "user": "U03CXUXB5PF",
+        "ts": "1668580929.972079",
+        "thread_ts": "1668563609.516049",
+        "root": {
+            "client_msg_id": "526b08b2-b75b-4c50-bc89-6cb97eb81c8c",
+            "type": "message",
+            "text": "<@U03CXUXB5PF>\n38前野ですが、ep1～3で雑音カットを検討いただきたい箇所の\n台本にコメントをお入れしましたので、ご確認いただければ幸いです。\n不明点も2点ほどコメントしましたので、あわせてご確認下さい。",
+            "user": "U03NJATSEBH",
+            "ts": "1668563609.516049",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "b3vK6",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03CXUXB5PF"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n38前野ですが、ep1～3で雑音カットを検討いただきたい箇所の\n台本にコメントをお入れしましたので、ご確認いただければ幸いです。\n不明点も2点ほどコメントしましたので、あわせてご確認下さい。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1668563609.516049",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1668580929.972079",
+            "reply_users": [
+                "U03CXUXB5PF"
+            ],
+            "replies": [
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1668580929.972079"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1668580929.972079"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KAM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "カット箇所、指示しました "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1212b3c7-6456-4409-bb18-77eacaa17123",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

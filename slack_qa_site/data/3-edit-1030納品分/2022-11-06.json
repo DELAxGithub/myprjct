@@ -1,0 +1,428 @@
+[
+    {
+        "client_msg_id": "afc9a7cb-8aa8-4020-b5c2-96eeba429129",
+        "type": "message",
+        "text": "あれ、まだReplay更新されてますね\n一旦本日は触らずにいます",
+        "user": "U03Q17LBJP3",
+        "ts": "1667723179.836249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PZLz2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あれ、まだReplay更新されてますね\n一旦本日は触らずにいます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667715853.078459",
+        "parent_user_id": "U03Q17LBJP3"
+    },
+    {
+        "client_msg_id": "d7c4cac3-9154-4f5d-992c-d1741db77a70",
+        "type": "message",
+        "text": "```35岡さんは、修正一覧と照らし合わせながら確認しました。\nノイズは、ままの部分もありましたが編集上許容範囲とのご判断と理解し\nチェック☑　としました。\nep2　0：38　0：58　の2か所前回はなかったと思いますが\nプツっとなっています。```\nもし編集点で入ったノイズなら馴染ませますが、どういうのかご確認ください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667732875.494459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zQxI7",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "35岡さんは、修正一覧と照らし合わせながら確認しました。\nノイズは、ままの部分もありましたが編集上許容範囲とのご判断と理解し\nチェック☑　としました。\nep2　0：38　0：58　の2か所前回はなかったと思いますが\nプツっとなっています。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もし編集点で入ったノイズなら馴染ませますが、どういうのかご確認ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03QQ3J656Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ec1f653b-0f7d-4557-a667-dac9a4c43a4c",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 新しくチェックの人が増えたみたいです。あとどれくらいやるのか確認します。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667733060.390479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NE5B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 新しくチェックの人が増えたみたいです。あとどれくらいやるのか確認します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667715853.078459",
+        "parent_user_id": "U03Q17LBJP3",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "131cd35a-d1a2-43c7-bfe2-9ab3874c1ae6",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 27浅羽修正ですが、\nep1 火星航路の原典をチェックします\nあと、引用voiceですが、作品名と出版年は削っちゃっていいです\n他のも読んでないので.\nep1 2個目はそのままで\n\nep3 カットして詰めました　\n次作業するときは同期してからでお願いします。\n\n<@U03V84JSHNK> 引用作る時、出典不要です",
+        "user": "U03CXUXB5PF",
+        "ts": "1667734653.452869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MHE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 27浅羽修正ですが、\nep1 火星航路の原典をチェックします\nあと、引用voiceですが、作品名と出版年は削っちゃっていいです\n他のも読んでないので.\nep1 2個目はそのままで\n\nep3 カットして詰めました　\n次作業するときは同期してからでお願いします。\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 引用作る時、出典不要です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667734653.452869",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1667812701.436829",
+        "reply_users": [
+            "U03Q17LBJP3",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1667810171.744509"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1667811504.706679"
+            },
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1667812701.436829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1667812701.436829",
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "U03V84JSHNK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "deff4a10-598c-4b75-b557-97b9e145fb7a",
+        "type": "message",
+        "text": "“浅羽道明2Q2” “和泉 悠2Q2\"\nのReplayの修正終わったそうです\n<@U03Q17LBJP3> 2.1になったら出演者にもチェックしてもらうのでReplayにあげる前のをoutputにもおいといてください",
+        "user": "U03CXUXB5PF",
+        "ts": "1667746174.034069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mlB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“浅羽道明2Q2” “和泉 悠2Q2\"\nのReplayの修正終わったそうです\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 2.1になったら出演者にもチェックしてもらうのでReplayにあげる前のをoutputにもおいといてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667746174.034069",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1667747168.599119",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1667747168.599119"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1667747168.599119"
+    },
+    {
+        "client_msg_id": "886d1fae-2ccb-4cd6-939f-3cc904f5a5d4",
+        "type": "message",
+        "text": "<@U03Q17LBJP3>\n相変わらずノイズのこと言ってきてますが、元素材から修正が入ってればこれ以上の修正は不要です。\n\nこのタイミングの作業ではノイズレベルA大きい　のもMAに回っちゃってますが、元素材がAだと修正に限界があるので、編集で落とします。\n<#C03DD5YH9D1|3-edit> にてノイズ処理の方針書いてあるのでご確認ください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667747168.599119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Kpo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n相変わらずノイズのこと言ってきてますが、元素材から修正が入ってればこれ以上の修正は不要です。\n\nこのタイミングの作業ではノイズレベルA大きい　のもMAに回っちゃってますが、元素材がAだと修正に限界があるので、編集で落とします。\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03DD5YH9D1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にてノイズ処理の方針書いてあるのでご確認ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667746174.034069",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "d39528b7-2980-4d7c-b0ae-e3b72cddb77b",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n42松本　あとはvoiceの修正のみとなっております。",
+        "user": "U03QQ3J656Z",
+        "ts": "1667781702.737199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jC0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n42松本　あとはvoiceの修正のみとなっております。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U03QQ3J656Z> voice書き出しましたー",
+        "files": [
+            {
+                "id": "F049SQSBLBW",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1667785456.759419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tJY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " voice書き出しましたー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1547791c-fe70-4a9c-877d-cf2d857d2f7d"
+    }
+]

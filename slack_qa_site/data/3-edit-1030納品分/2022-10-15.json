@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "24be8502-7e60-41b7-b33b-3ee61a22f135",
+        "type": "message",
+        "text": "<https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3>\n44筒井もMA＋1試写反映したら試写2です",
+        "user": "U03CXUXB5PF",
+        "ts": "1665878401.425819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OGOAk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n44筒井もMA＋1試写反映したら試写2です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3",
+                "image_url": "https:\/\/cfl.dropboxstatic.com\/static\/metaserver\/static\/images\/reel\/unfurl-image-vflJ2sZZi.jpeg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 115485,
+                "id": 1,
+                "original_url": "https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3",
+                "fallback": "Dropbox Replay",
+                "text": "Dropbox Replay allows creative teams to better create, collaborate on and deliver content. No Dropbox account is required to give feedback.",
+                "title": "Dropbox Replay",
+                "title_link": "https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3",
+                "service_name": "dropbox.com"
+            }
+        ]
+    }
+]

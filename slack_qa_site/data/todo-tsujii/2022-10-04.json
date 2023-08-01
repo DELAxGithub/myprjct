@@ -1,0 +1,297 @@
+[
+    {
+        "client_msg_id": "ed0ad904-d1c0-4e8b-ad31-549b100d9cba",
+        "type": "message",
+        "text": "<@U03P0T4KQMV>\n43平岡　手元試写、\n33中野　修正台本の反映　ありがとうございます。\n\n中野は<#C043WQL9XK6|3-edit-1020納品分> へポストいただいていますが、\n\n平岡は制作に引き継ぐことありますか？<#C043GEGAGQ3|3-edit-2q4_39-44>\nなければ<#C044PJ0DX60|3-edit-encorder書き出し依頼> で書き出し依頼→クライアント試写１になります。",
+        "user": "U03NZ0E09JN",
+        "ts": "1664866827.769169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NiHvb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n43平岡　手元試写、\n33中野　修正台本の反映　ありがとうございます。\n\n中野は"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043WQL9XK6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " へポストいただいていますが、\n\n平岡は制作に引き継ぐことありますか？"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043GEGAGQ3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nなければ"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C044PJ0DX60"
+                            },
+                            {
+                                "type": "text",
+                                "text": " で書き出し依頼→クライアント試写１になります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c86a34c7-0d2b-4fe4-a4ad-9546ce22c94c",
+        "type": "message",
+        "text": "<@U03NZ0E09JN>\nわかりづらくすみません、昨日リプライでお伝えさせていただいたのですが\nイメージがないものが複数あるためマーカーで引き継ぎしています。\nよろしくお願いします。\n<https:\/\/kdddipresidentnep2022.slack.com\/archives\/C043GEGAGQ3\/p1664783281375399?thread_ts=1664622176.505339&amp;cid=C043GEGAGQ3>",
+        "user": "U03P0T4KQMV",
+        "ts": "1664866955.659869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T\/Me",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nわかりづらくすみません、昨日リプライでお伝えさせていただいたのですが\nイメージがないものが複数あるためマーカーで引き継ぎしています。\nよろしくお願いします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kdddipresidentnep2022.slack.com\/archives\/C043GEGAGQ3\/p1664783281375399?thread_ts=1664622176.505339&cid=C043GEGAGQ3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03P0T4KQMV",
+            "ts": "1664866968.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/kdddipresidentnep2022.slack.com\/archives\/C043GEGAGQ3\/p1664783281375399?thread_ts=1664622176.505339&amp;cid=C043GEGAGQ3",
+                "ts": "1664783281.375399",
+                "author_id": "U03P0T4KQMV",
+                "channel_id": "C043GEGAGQ3",
+                "channel_team": "T03CU6RQ154",
+                "channel_name": "3-edit-2q4_39-44",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T03CU6RQ154",
+                        "channel": "C043GEGAGQ3",
+                        "ts": "1664783281.375399",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "dHrkp",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U03CXUXB5PF"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " 46平岡手元試写完了し、微修正しました。\n引き継ぎ事項はマーカー入れていますのでよろしくお願いします。\n1枚目からep1,2,3です。"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "files": [
+                    {
+                        "id": "F044WPUQ94L",
+                        "created": 1664782958,
+                        "timestamp": 1664782958,
+                        "user": "U03P0T4KQMV",
+                        "is_hidden_by_limit": 1
+                    },
+                    {
+                        "id": "F044DQ1L4TZ",
+                        "created": 1664783199,
+                        "timestamp": 1664783199,
+                        "user": "U03P0T4KQMV",
+                        "is_hidden_by_limit": 1
+                    },
+                    {
+                        "id": "F044WQCT3N0",
+                        "created": 1664783228,
+                        "timestamp": 1664783228,
+                        "user": "U03P0T4KQMV",
+                        "is_hidden_by_limit": 1
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/kdddipresidentnep2022.slack.com\/archives\/C043GEGAGQ3\/p1664783281375399?thread_ts=1664622176.505339&amp;cid=C043GEGAGQ3",
+                "fallback": "[October 3rd, 2022 12:48 AM] kib.gnk: <@U03CXUXB5PF> 46平岡手元試写完了し、微修正しました。\n引き継ぎ事項はマーカー入れていますのでよろしくお願いします。\n1枚目からep1,2,3です。",
+                "text": "<@U03CXUXB5PF> 46平岡手元試写完了し、微修正しました。\n引き継ぎ事項はマーカー入れていますのでよろしくお願いします。\n1枚目からep1,2,3です。",
+                "author_name": "ツジイヒトミ",
+                "author_link": "https:\/\/kdddipresidentnep2022.slack.com\/team\/U03P0T4KQMV",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_48.png",
+                "author_subname": "ツジイヒトミ",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "#3-edit-2q4_39-44 のスレッドから"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cda9099d-5018-45f7-acf4-09dc665b2840",
+        "type": "message",
+        "text": "<@U03P0T4KQMV>\n見落としていいました:pray:すいません。\nありがとうございます！",
+        "user": "U03NZ0E09JN",
+        "ts": "1664867137.403749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zBM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n見落としていいました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "すいません。\nありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4a0ad37b-bba8-41c5-a95a-ba9267f656ea",
+        "type": "message",
+        "text": "<@U03P0T4KQMV> 作業後にtodoにチェックしたら、多分ここに通知が来るので見失いにくいかもというのと、\nSlackの仕様上、古いポストにリプライすると見失うので、時間が3時間ぐらい空いたら（たぶん流れが一旦途絶えたら）、表に投げてください\n。",
+        "user": "U03CXUXB5PF",
+        "ts": "1664875572.321089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O+Qm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 作業後にtodoにチェックしたら、多分ここに通知が来るので見失いにくいかもというのと、\nSlackの仕様上、古いポストにリプライすると見失うので、時間が3時間ぐらい空いたら（たぶん流れが一旦途絶えたら）、表に投げてください\n。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

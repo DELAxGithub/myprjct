@@ -1,0 +1,79 @@
+[
+    {
+        "type": "message",
+        "text": "<@U04JJB0MTB7>\n92_斉藤さんのイメージとテロップ入れました。\nよろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F050DPDAX9C",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1679999585.407749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BPE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n92_斉藤さんのイメージとテロップ入れました。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b19aa25a-fc6c-443c-b996-72e933336af5",
+        "thread_ts": "1679999585.407749",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1680172606.195939",
+        "reply_users": [
+            "U04JJB0MTB7",
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04JJB0MTB7",
+                "ts": "1680156668.612049"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1680168469.116179"
+            },
+            {
+                "user": "U04JJB0MTB7",
+                "ts": "1680171029.621169"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1680172537.337399"
+            },
+            {
+                "user": "U04JJB0MTB7",
+                "ts": "1680172606.195939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

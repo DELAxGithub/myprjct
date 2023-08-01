@@ -1,0 +1,138 @@
+[
+    {
+        "client_msg_id": "8429a2a4-d3a9-4663-92b1-80b7b405bd61",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> <@U03CXUXB5PF> <@U040YCC00V6> voice3つ入れました。まだ追加あるようですけど、取り急ぎ。",
+        "user": "U03V84JSHNK",
+        "ts": "1669895309.161179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wa0g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " voice3つ入れました。まだ追加あるようですけど、取り急ぎ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669879306.693089",
+        "parent_user_id": "U040YCC00V6",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03V84JSHNK>\n大塚さんのAI生成ですが、\n<https:\/\/open.ai>\nでcastleって入れて出てくるまでを画像収録する感じです\nまぁ暇な時にやってみてください。面白いので。",
+        "files": [
+            {
+                "id": "F04DAA24ZCJ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1669900199.197049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vyeu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n大塚さんのAI生成ですが、\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nでcastleって入れて出てくるまでを画像収録する感じです\nまぁ暇な時にやってみてください。面白いので。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ec58e415-5a3b-4ad1-8612-830920cfe910",
+        "thread_ts": "1669900199.197049",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1671731265.077739",
+        "reply_users": [
+            "U03V84JSHNK"
+        ],
+        "replies": [
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1671731265.077739"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1671731265.077739"
+    }
+]

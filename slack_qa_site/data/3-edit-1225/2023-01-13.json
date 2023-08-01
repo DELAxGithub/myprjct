@@ -1,0 +1,216 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03V84JSHNK> <@U04J38PLGM6>　60阿部　1点イメージ修正をお願いします。\n\n<@U03CXUXB5PF> 「老人と海」の翻訳部分は来ていますか？voice修正になると思うので、こちらもMA回すかどうかご確認よろしくお願いします。",
+        "files": [
+            {
+                "id": "F04JQKSVB61",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03Q17LBJP3",
+        "display_as_bot": false,
+        "ts": "1673617888.550569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RCD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　60阿部　1点イメージ修正をお願いします。\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 「老人と海」の翻訳部分は来ていますか？voice修正になると思うので、こちらもMA回すかどうかご確認よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3a1aff7b-c2f4-464e-b20d-351a40a223e7",
+        "thread_ts": "1673617888.550569",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1673758329.326249",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1673758329.326249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1673758329.326249"
+    },
+    {
+        "client_msg_id": "083E5DCD-1FC5-47FD-B335-EE79BDE35E9E",
+        "type": "message",
+        "text": "翻訳はこのままで大丈夫でした。先生本にのものなので。",
+        "user": "U03CXUXB5PF",
+        "ts": "1673625381.416159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "em+M+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "翻訳はこのままで大丈夫でした。先生本にのものなので。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "be72afa6-2f01-4d94-8192-b08e80f81cbd",
+        "type": "message",
+        "text": "<@U03P0T4KQMV> 58山本OKでした\n```58山本さん 3.2　確認いたしました。　\nep 2～3　⇒   Approved```\n最終にお願いします\n\n確認しましたら、<@U04J38PLGM6> が最終書き出し担当していますので、お知らせください",
+        "user": "U03CXUXB5PF",
+        "ts": "1673627022.268969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hHs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 58山本OKでした\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "58山本さん 3.2　確認いたしました。　\nep 2～3　⇒   Approved"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "最終にお願いします\n\n確認しましたら、"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " が最終書き出し担当していますので、お知らせください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673627022.268969",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1673686761.499849",
+        "reply_users": [
+            "U03P0T4KQMV",
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1673686639.278299"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1673686761.499849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1673686761.499849",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "4c99e40c-f5dd-4808-9dbc-9e13e20c39c3",
+        "type": "message",
+        "text": "<@U03QQ3J656Z> 三宅の最終に\n荒画質「もらい」が最後まで残っちゃってますね。。\n基本「もらい」「荒画質」は基本ダミーで差し替えなので、お知らせください。。\n僕が確認してないのが悪いんですが、、今後あったらもしお願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1669641896.196769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SKG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 三宅の最終に\n荒画質「もらい」が最後まで残っちゃってますね。。\n基本「もらい」「荒画質」は基本ダミーで差し替えなので、お知らせください。。\n僕が確認してないのが悪いんですが、、今後あったらもしお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NZ0E09JN",
+                    "U03QQ3J656Z"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

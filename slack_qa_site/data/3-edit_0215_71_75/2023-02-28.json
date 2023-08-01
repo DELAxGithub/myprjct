@@ -1,0 +1,969 @@
+[
+    {
+        "client_msg_id": "b5da78b5-f6c4-46c9-9280-69728c47fd00",
+        "type": "message",
+        "text": "<@U03RA83HRN0>\n```「75藤井一至さん」（2.0）→弊社、視聴を完了しました。```\n",
+        "user": "U03CXUXB5PF",
+        "ts": "1677613533.237029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t1q+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「75藤井一至さん」（2.0）→弊社、視聴を完了しました。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U04J38PLGM6> <@U03CXUXB5PF>\n「73_田中_最終.prproj」\nDropboxに納品しました\n\nMA後の試写2で指摘があった\nノイズ軽減素材\n「73_田中_ep2修正.wav」\nと田中先生のパワポから書き出した\n「貞観政要.jpeg」も一緒に\n「100_73」フォルダに入れてあります\n宜しくお願い致します",
+        "user": "U04JJB0MTB7",
+        "ts": "1677634287.417919",
+        "thread_ts": "1677559054.540959",
+        "root": {
+            "client_msg_id": "74d99ea5-b18d-4aa1-8604-5aec514ec2ec",
+            "type": "message",
+            "text": "<@U04JJB0MTB7>\n```73 田中優子さん　試写3　\nご本人からの修正ご依頼部分も含めて 確認しました。\nep 1～3・PR    ⇒  Approved```\n\n最終書き出しに向けて、\nプロジェクト・シーケンス名を最終\n素材が揃ってるか確認\nして<@U04J38PLGM6> までー",
+            "user": "U03CXUXB5PF",
+            "ts": "1677559054.540959",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Ac=",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04JJB0MTB7"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_preformatted",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "73 田中優子さん　試写3　\nご本人からの修正ご依頼部分も含めて 確認しました。\nep 1～3・PR    ⇒  Approved"
+                                }
+                            ],
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n\n最終書き出しに向けて、\nプロジェクト・シーケンス名を最終\n素材が揃ってるか確認\nして"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " までー"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1677559054.540959",
+            "reply_count": 5,
+            "reply_users_count": 2,
+            "latest_reply": "1677653755.566309",
+            "reply_users": [
+                "U04JJB0MTB7",
+                "U04J38PLGM6"
+            ],
+            "replies": [
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1677634287.417919"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1677634368.712529"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1677642673.561459"
+                },
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1677648987.362509"
+                },
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1677653755.566309"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1677653755.566309"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7P2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n「73_田中_最終.prproj」\nDropboxに納品しました\n\nMA後の試写2で指摘があった\nノイズ軽減素材\n「73_田中_ep2修正.wav」\nと田中先生のパワポから書き出した\n「貞観政要.jpeg」も一緒に\n「100_73」フォルダに入れてあります\n宜しくお願い致します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "13582A17-C785-42B3-B7F5-489D15DE1687"
+    },
+    {
+        "client_msg_id": "DF464256-7261-4B8C-8712-2A9BD02715B4",
+        "type": "message",
+        "text": ":saluting_face:了解です！",
+        "user": "U04J38PLGM6",
+        "ts": "1677634368.712529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cER",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "saluting_face",
+                                "unicode": "1fae1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "了解です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677559054.540959",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n75_藤井 クライアントの指示で\n2点イラスト作成しているものの出典元を明記となっていますが、\nわかりますでしょうか？",
+        "files": [
+            {
+                "id": "F04RUKBE7QC",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04RP7G50A1",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03RA83HRN0",
+        "ts": "1677640436.705419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m+Jr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n75_藤井 クライアントの指示で\n2点イラスト作成しているものの出典元を明記となっていますが、\nわかりますでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "22651c9f-b557-4a85-bb59-c926eae67dbe",
+        "thread_ts": "1677640436.705419",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1677649247.730859",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1677649212.722289"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1677649247.730859"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677649247.730859"
+    },
+    {
+        "client_msg_id": "CDB0C74D-600A-4DAF-965F-669252E5ED15",
+        "type": "message",
+        "text": "<@U04J38PLGM6> 藤井さんにクレジットの入れ方聞いてくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1677640505.483699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z9s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 藤井さんにクレジットの入れ方聞いてくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U04JJB0MTB7>\nこのtwファイル、どこに入っていますか？",
+        "files": [
+            {
+                "id": "F04RKKYF45C",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1677642673.561459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FejlV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこのtwファイル、どこに入っていますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7a79733b-8076-4ac6-9758-979b581eb987",
+        "thread_ts": "1677559054.540959",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "0ce97653-9776-49ba-950c-bdb257461942",
+        "type": "message",
+        "text": "一枚目は　大地の五億年\n二枚目は　土　地球最後のナゾ\n\n本のタイトルなので\nこうしましょう\n\n藤井一至「大地の五億年」（山と渓谷社）2022より改変\n藤井一至「土　地球最後のナゾ」（光文社）2018より改変",
+        "user": "U03CXUXB5PF",
+        "ts": "1677648914.041069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xbfX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一枚目は　大地の五億年\n二枚目は　土　地球最後のナゾ\n\n本のタイトルなので\nこうしましょう\n\n藤井一至「大地の五億年」（山と渓谷社）2022より改変\n藤井一至「土　地球最後のナゾ」（光文社）2018より改変"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677648914.041069",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677648958.493849",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1677648958.493849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677648958.493849"
+    },
+    {
+        "client_msg_id": "928c8a12-2c83-4692-a22a-7c839ca7bfaf",
+        "type": "message",
+        "text": "了解しました！",
+        "user": "U04J38PLGM6",
+        "ts": "1677648958.493849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G2ap4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解しました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677648914.041069",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "29B4DC54-03A1-468E-8A8F-CD0A534808C4",
+        "type": "message",
+        "text": "<@U04J38PLGM6> \n失礼しました！\n1時間後に納品します",
+        "user": "U04JJB0MTB7",
+        "ts": "1677648987.362509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sGIDk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n失礼しました！\n1時間後に納品します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677559054.540959",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03RA83HRN0> <@U03CXUXB5PF>\nこの図のクレジットは以下でお願いします。\n\n藤井一至「大地の五億年」（山と渓谷社）2022より改変",
+        "files": [
+            {
+                "id": "F04RC16NC6B",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1677649212.722289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2a2PP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこの図のクレジットは以下でお願いします。\n\n藤井一至「大地の五億年」（山と渓谷社）2022より改変"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "0227458e-3bff-46d5-bd65-24752aab097d",
+        "thread_ts": "1677640436.705419",
+        "parent_user_id": "U03RA83HRN0",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03RA83HRN0> <@U03CXUXB5PF>\nこの図は以下でお願いします。\n\n藤井一至「土　地球最後のナゾ」（光文社）2018より改変",
+        "files": [
+            {
+                "id": "F04RC19NQ7R",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1677649247.730859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uwK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこの図は以下でお願いします。\n\n藤井一至「土　地球最後のナゾ」（光文社）2018より改変"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "12c42c11-9c6d-44fb-8925-92a68a19c4a4",
+        "thread_ts": "1677640436.705419",
+        "parent_user_id": "U03RA83HRN0",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> \nお疲れ様です。\n74平野さんep3の演者コメントですが、04’00辺りで〜の部分は赤くなっていないのですが、カットしないままでしょうか？\nそして「兵庫県立芸術文化センター〜」の画像はどちらになりますでしょうか？\nよろしくお願い致します :blush: :woman-bowing: ",
+        "files": [
+            {
+                "id": "F04RSJXKL3U",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04KFCBLY9J",
+        "display_as_bot": false,
+        "ts": "1677650555.423189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EHlA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です。\n74平野さんep3の演者コメントですが、04’00辺りで〜の部分は赤くなっていないのですが、カットしないままでしょうか？\nそして「兵庫県立芸術文化センター〜」の画像はどちらになりますでしょうか？\nよろしくお願い致します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "269EFD90-DAD4-4C17-8E1F-BD453F8BF67D",
+        "thread_ts": "1677650555.423189",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1677817853.394819",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U04KFCBLY9J",
+            "U03V84JSHNK"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1677814654.452919"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1677814793.910379"
+            },
+            {
+                "user": "U04KFCBLY9J",
+                "ts": "1677815937.316019"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1677817084.064679"
+            },
+            {
+                "user": "U04KFCBLY9J",
+                "ts": "1677817540.413489"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1677817651.940229"
+            },
+            {
+                "user": "U04KFCBLY9J",
+                "ts": "1677817853.394819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677817853.394819"
+    },
+    {
+        "client_msg_id": "2c600f0d-4c9e-4ae2-a15a-329d6cb8ff14",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n75_藤井の試写3をアップいたしました。",
+        "user": "U03RA83HRN0",
+        "ts": "1677653145.175369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f6SC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n75_藤井の試写3をアップいたしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0e7bf498-57bb-4b82-869e-d3a169bd70ad",
+        "type": "message",
+        "text": "<@U03RA83HRN0> ありがとうございます\n\n<@U04J38PLGM6> 75はご本人からってきましたっけ？",
+        "user": "U03CXUXB5PF",
+        "ts": "1677653522.193469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ijtx8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 75はご本人からってきましたっけ？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U04J38PLGM6> \nテロップ\n「TW_Tanaka」のフォルダに入れました\n宜しくお願い致します",
+        "user": "U04JJB0MTB7",
+        "ts": "1677653755.566309",
+        "thread_ts": "1677559054.540959",
+        "root": {
+            "client_msg_id": "74d99ea5-b18d-4aa1-8604-5aec514ec2ec",
+            "type": "message",
+            "text": "<@U04JJB0MTB7>\n```73 田中優子さん　試写3　\nご本人からの修正ご依頼部分も含めて 確認しました。\nep 1～3・PR    ⇒  Approved```\n\n最終書き出しに向けて、\nプロジェクト・シーケンス名を最終\n素材が揃ってるか確認\nして<@U04J38PLGM6> までー",
+            "user": "U03CXUXB5PF",
+            "ts": "1677559054.540959",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Ac=",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04JJB0MTB7"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_preformatted",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "73 田中優子さん　試写3　\nご本人からの修正ご依頼部分も含めて 確認しました。\nep 1～3・PR    ⇒  Approved"
+                                }
+                            ],
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n\n最終書き出しに向けて、\nプロジェクト・シーケンス名を最終\n素材が揃ってるか確認\nして"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " までー"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1677559054.540959",
+            "reply_count": 5,
+            "reply_users_count": 2,
+            "latest_reply": "1677653755.566309",
+            "reply_users": [
+                "U04JJB0MTB7",
+                "U04J38PLGM6"
+            ],
+            "replies": [
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1677634287.417919"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1677634368.712529"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1677642673.561459"
+                },
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1677648987.362509"
+                },
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1677653755.566309"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1677653755.566309"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3raIU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nテロップ\n「TW_Tanaka」のフォルダに入れました\n宜しくお願い致します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "B9BFF3D1-0ABB-4F06-8C64-26168CD4A3F0",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

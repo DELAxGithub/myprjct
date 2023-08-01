@@ -1,0 +1,148 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03G0LAPT3N> ありがとうございます。\nOMF＝今回編集は素材のプロキシ化を行ってます。プロキシは映像に関することなんで収録音声的には多分関係ないとおもうんですが、今一人分の最終MA準備を始めてますのでそこでご確認お願いします。\n\nあと、トラック分けガイドも助かります。そもそも編集時に１と２だけすればいいですね。\nちなみに\nこっちでリクエストあったBGMとか先方の持ち込み素材の音、\nまた編集で作ったナレーション＝機械ボイス\nなど、どのトラックにしましょうか。\nご指示くださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1661944150.319299",
+        "thread_ts": "1661868554.694739",
+        "root": {
+            "client_msg_id": "c9cccc1c-e453-41b3-9ba9-d11420cf1b8f",
+            "type": "message",
+            "text": "<@U03G0LAPT3N> 本番MAの時って、OMFはプロキシーのやつでいいんですかね。このタイミングでプロキシージャなくて元データ？どうなんでしょう。\n短いPR素材で一回試してみましょうか。",
+            "user": "U03CXUXB5PF",
+            "ts": "1661868554.694739",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "+u21",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03G0LAPT3N"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 本番MAの時って、OMFはプロキシーのやつでいいんですかね。このタイミングでプロキシージャなくて元データ？どうなんでしょう。\n短いPR素材で一回試してみましょうか。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1661868554.694739",
+            "reply_count": 4,
+            "reply_users_count": 2,
+            "latest_reply": "1662045333.176299",
+            "reply_users": [
+                "U03G0LAPT3N",
+                "U03CXUXB5PF"
+            ],
+            "replies": [
+                {
+                    "user": "U03G0LAPT3N",
+                    "ts": "1661923131.197899"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1661944150.319299"
+                },
+                {
+                    "user": "U03G0LAPT3N",
+                    "ts": "1662045025.886839"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1662045333.176299"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1662045333.176299"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ICuq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます。\nOMF＝今回編集は素材のプロキシ化を行ってます。プロキシは映像に関することなんで収録音声的には多分関係ないとおもうんですが、今一人分の最終MA準備を始めてますのでそこでご確認お願いします。\n\nあと、トラック分けガイドも助かります。そもそも編集時に１と２だけすればいいですね。\nちなみに\nこっちでリクエストあったBGMとか先方の持ち込み素材の音、\nまた編集で作ったナレーション＝機械ボイス\nなど、どのトラックにしましょうか。\nご指示くださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "41300caa-6efe-4e73-894c-10991f507f69"
+    },
+    {
+        "client_msg_id": "a257ab69-3525-475f-8c5e-cd01380c67b4",
+        "type": "message",
+        "text": "<@U03G0LAPT3N>\n今週末にまとめて5人分本番MAとかって行けますかねぇ。\n木曜1人、金曜2人、土曜2人、、とかに渡せたとして、、\nこっちの都合で押しちゃってるのにすいませんねぇ。",
+        "user": "U03CXUXB5PF",
+        "ts": "1661999249.259959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L9sgc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今週末にまとめて5人分本番MAとかって行けますかねぇ。\n木曜1人、金曜2人、土曜2人、、とかに渡せたとして、、\nこっちの都合で押しちゃってるのにすいませんねぇ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1661999249.259959",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1662043929.469029",
+        "reply_users": [
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1662043929.469029"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1662043929.469029"
+    }
+]

@@ -1,0 +1,715 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1665197359.990399",
+        "user": "U03CXUXB5PF",
+        "text": "<@U03CXUXB5PF>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1665197517.649319",
+        "user": "U03NZ0E09JN",
+        "text": "<@U03NZ0E09JN>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "58e9db5d-6d79-4f3b-82d5-cbb84c00012c",
+        "type": "message",
+        "text": "*39松永_1010(岡野)*\n• 権利確認→（　）\n• イメージ画像変更→（有料購入 差し替え完了）\n• プロフィール変更→（完了）\n<https:\/\/kdddipresidentnep2022.slack.com\/archives\/C043LR54ERX\/p1664897022196069>",
+        "user": "U03NZ0E09JN",
+        "ts": "1665198012.472309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8avM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "39松永_1010(岡野)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "権利確認→（　）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "イメージ画像変更→（有料購入 差し替え完了）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "プロフィール変更→（完了）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kdddipresidentnep2022.slack.com\/archives\/C043LR54ERX\/p1664897022196069"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03NZ0E09JN",
+            "ts": "1665200029.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/kdddipresidentnep2022.slack.com\/archives\/C043LR54ERX\/p1664897022196069",
+                "ts": "1664897022.196069",
+                "author_id": "U03Q17LBJP3",
+                "channel_id": "C043LR54ERX",
+                "channel_team": "T03CU6RQ154",
+                "channel_name": "3-edit-1010納品分",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T03CU6RQ154",
+                        "channel": "C043LR54ERX",
+                        "ts": "1664897022.196069",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "7Dc",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U03CXUXB5PF"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " 39松永 MA・tw反映しました。\n本人確認のプロフィールについてですが、台本反映されていなかったのでとりいそぎ1つ目の「京都大学～」だけ直しました。\n\n"
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U040YCC00V6"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U03V84JSHNK"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " 本人修正の画像差し替え分はまだアップされていないですよね？\n別の場所の権利確認画像のことも記載されているのでご確認お願いします。"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "files": [
+                    {
+                        "id": "F0452PXCXNE",
+                        "created": 1664896503,
+                        "timestamp": 1664896503,
+                        "user": "U03Q17LBJP3",
+                        "is_hidden_by_limit": 1
+                    },
+                    {
+                        "id": "F044W5W9P2S",
+                        "created": 1664896560,
+                        "timestamp": 1664896560,
+                        "user": "U03Q17LBJP3",
+                        "is_hidden_by_limit": 1
+                    },
+                    {
+                        "id": "F045SFE13K2",
+                        "created": 1664896593,
+                        "timestamp": 1664896593,
+                        "user": "U03Q17LBJP3",
+                        "is_hidden_by_limit": 1
+                    },
+                    {
+                        "id": "F0452MLLV5H",
+                        "created": 1664896607,
+                        "timestamp": 1664896607,
+                        "user": "U03Q17LBJP3",
+                        "is_hidden_by_limit": 1
+                    },
+                    {
+                        "id": "F044N88FHC7",
+                        "created": 1664896749,
+                        "timestamp": 1664896749,
+                        "user": "U03Q17LBJP3",
+                        "is_hidden_by_limit": 1
+                    },
+                    {
+                        "id": "F045FDZGD6D",
+                        "created": 1664896763,
+                        "timestamp": 1664896763,
+                        "user": "U03Q17LBJP3",
+                        "is_hidden_by_limit": 1
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/kdddipresidentnep2022.slack.com\/archives\/C043LR54ERX\/p1664897022196069",
+                "fallback": "[October 4th, 2022 8:23 AM] kanzaki.movie: <@U03CXUXB5PF> 39松永 MA・tw反映しました。\n本人確認のプロフィールについてですが、台本反映されていなかったのでとりいそぎ1つ目の「京都大学～」だけ直しました。\n\n<@U040YCC00V6> <@U03V84JSHNK> 本人修正の画像差し替え分はまだアップされていないですよね？\n別の場所の権利確認画像のことも記載されているのでご確認お願いします。",
+                "text": "<@U03CXUXB5PF> 39松永 MA・tw反映しました。\n本人確認のプロフィールについてですが、台本反映されていなかったのでとりいそぎ1つ目の「京都大学～」だけ直しました。\n\n<@U040YCC00V6> <@U03V84JSHNK> 本人修正の画像差し替え分はまだアップされていないですよね？\n別の場所の権利確認画像のことも記載されているのでご確認お願いします。",
+                "author_name": "Yukiko Okano",
+                "author_link": "https:\/\/kdddipresidentnep2022.slack.com\/team\/U03Q17LBJP3",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_48.png",
+                "author_subname": "Yukiko Okano",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "#3-edit-1010納品分 に投稿"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "*32小島_1020(高山)*\n• イメージ待ち",
+        "files": [
+            {
+                "id": "F045LPLTVMK",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1665199082.454449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cKwr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "32小島_1020(高山)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "イメージ待ち"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "bec94d36-2970-48cc-bfba-110bf8ee98ce",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "*33中野_1020(辻井)*\n• 映像差し替え確認",
+        "files": [
+            {
+                "id": "F0462BVAGV7",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1665199603.322429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "57IQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "33中野_1020(辻井)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "映像差し替え確認"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03NZ0E09JN",
+            "ts": "1665199966.000000"
+        },
+        "client_msg_id": "69bb22dd-8bdc-420f-97ce-0abf44bd6844"
+    },
+    {
+        "type": "message",
+        "text": "*36吉永_1020(高山)*\n• イメージ２箇所待ち",
+        "files": [
+            {
+                "id": "F045S6HE57W",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F045PNLL4TU",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "ts": "1665199952.193429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UNoU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "36吉永_1020(高山)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "イメージ２箇所待ち"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a4b01e27-d37e-4444-baff-e6ea73ccfaea",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ead46f0d-88e8-473a-807e-270105597d1a",
+        "type": "message",
+        "text": "*25中島_1010（岡野）*\n• 作人名本人確認待ち\n&gt; 作品タイトル確認　→本人に聞いてます　来なかったらテロップカット\n<https:\/\/kdddipresidentnep2022.slack.com\/archives\/C043LR54ERX\/p1664804943933939>",
+        "user": "U03NZ0E09JN",
+        "ts": "1665200821.905699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0tRIM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "25中島_1010（岡野）",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "作人名本人確認待ち"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "作品タイトル確認　→本人に聞いてます　来なかったらテロップカット"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kdddipresidentnep2022.slack.com\/archives\/C043LR54ERX\/p1664804943933939"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/kdddipresidentnep2022.slack.com\/archives\/C043LR54ERX\/p1664804943933939",
+                "ts": "1664804943.933939",
+                "author_id": "U03Q17LBJP3",
+                "channel_id": "C043LR54ERX",
+                "channel_team": "T03CU6RQ154",
+                "channel_name": "3-edit-1010納品分",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T03CU6RQ154",
+                        "channel": "C043LR54ERX",
+                        "ts": "1664804943.933939",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "eNLQ7",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U03CXUXB5PF"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " 25中島　\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "twチェック反映"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": " ep3マーカー反映"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "PR MA載せ換え"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nアップしました。ご確認後、手元試写にすすみたいと思います。\nマーカーはほぼノイズで\n一部作品名待ち、テロップ案の漢字orひらがなの要確認事項です"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "files": [
+                    {
+                        "id": "F044YD58ZFE",
+                        "created": 1664804771,
+                        "timestamp": 1664804771,
+                        "user": "U03Q17LBJP3",
+                        "is_hidden_by_limit": 1
+                    },
+                    {
+                        "id": "F044VVCE22E",
+                        "created": 1664804775,
+                        "timestamp": 1664804775,
+                        "user": "U03Q17LBJP3",
+                        "is_hidden_by_limit": 1
+                    },
+                    {
+                        "id": "F044T14U4Q5",
+                        "created": 1664804778,
+                        "timestamp": 1664804778,
+                        "user": "U03Q17LBJP3",
+                        "is_hidden_by_limit": 1
+                    },
+                    {
+                        "id": "F044YD67S12",
+                        "created": 1664804781,
+                        "timestamp": 1664804781,
+                        "user": "U03Q17LBJP3",
+                        "is_hidden_by_limit": 1
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/kdddipresidentnep2022.slack.com\/archives\/C043LR54ERX\/p1664804943933939",
+                "fallback": "[October 3rd, 2022 6:49 AM] kanzaki.movie: <@U03CXUXB5PF> 25中島　\n• twチェック反映\n•  ep3マーカー反映\n• PR MA載せ換え\nアップしました。ご確認後、手元試写にすすみたいと思います。\nマーカーはほぼノイズで\n一部作品名待ち、テロップ案の漢字orひらがなの要確認事項です",
+                "text": "<@U03CXUXB5PF> 25中島　\n• twチェック反映\n•  ep3マーカー反映\n• PR MA載せ換え\nアップしました。ご確認後、手元試写にすすみたいと思います。\nマーカーはほぼノイズで\n一部作品名待ち、テロップ案の漢字orひらがなの要確認事項です",
+                "author_name": "Yukiko Okano",
+                "author_link": "https:\/\/kdddipresidentnep2022.slack.com\/team\/U03Q17LBJP3",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_48.png",
+                "author_subname": "Yukiko Okano",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "#3-edit-1010納品分 に投稿"
+            }
+        ],
+        "thread_ts": "1665200821.905699",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1665455686.745449",
+        "reply_users": [
+            "U03NZ0E09JN"
+        ],
+        "replies": [
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1665455686.745449"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "*26武田_1010（高山）*\n• イメージ２箇所待ち",
+        "files": [
+            {
+                "id": "F045PQVNWLA",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1665205268.944259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TVl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "26武田_1010（高山）",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "イメージ２箇所待ち"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "418fd861-0c08-4406-b6fb-a9d601c9dc5a",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

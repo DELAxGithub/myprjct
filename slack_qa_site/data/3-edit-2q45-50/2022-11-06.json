@@ -1,0 +1,94 @@
+[
+    {
+        "client_msg_id": "bce6039f-fa01-4bf4-b409-9e43b7fe1814",
+        "type": "message",
+        "text": "<#C048CGTB45A|3-edit-1115納品分> <#C049HRQGGNQ|3-edit-6-1130納品分> に振り分けたのでここ間も無く閉店します",
+        "user": "U03CXUXB5PF",
+        "ts": "1667776132.794999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Qc6p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "channel",
+                                "channel_id": "C048CGTB45A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C049HRQGGNQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " に振り分けたのでここ間も無く閉店します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6263d1bd-b083-4bf8-8015-153a7eee26d6",
+        "type": "message",
+        "text": "<@U040YCC00V6> 46吉永の素材集まってたらお知らせください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667788681.454349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XdX0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 46吉永の素材集まってたらお知らせください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

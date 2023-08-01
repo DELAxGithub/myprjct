@@ -1,0 +1,26 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#102千葉聡で変更がありました\n変更前：技術確認\n変更後：納品試写\n担当者は辻井です",
+        "ts": "1685270895.130239",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OhcAI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#102千葉聡で変更がありました\n変更前：技術確認\n変更後：納品試写\n担当者は辻井です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "type": "message",
+        "text": "46ヨシオカさんのWAVデータをDropboxにアップしました。\nご確認よろしくお願いします:bow:",
+        "files": [
+            {
+                "id": "F04CCBCHWQ4",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1669244059.705199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Un4M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "46ヨシオカさんのWAVデータをDropboxにアップしました。\nご確認よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "92DE4B95-174D-4A51-A103-DD0250F70FF4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2ed4f1ff-cf48-445f-a7c8-60ea0e13f2da",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> ご対応いただきありがとうございます！",
+        "user": "U03NJATSEBH",
+        "ts": "1669246811.778769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+qcOf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ご対応いただきありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669184954.691129",
+        "parent_user_id": "U03G0LAPT3N"
+    }
+]

@@ -1,0 +1,133 @@
+[
+    {
+        "client_msg_id": "528f26fe-d1a0-4658-8244-d7173b67c0c3",
+        "type": "message",
+        "text": "[ノイズについて]\n<!channel> KDDI2022\/8_MA\/ノイズ検証サンプル\n\n新しい人もいますんで一斉通知でお休み中にすいません。\n\nどれくらいをノイズとして処理しなきゃいけないかの基準についてです。本件クライアントは、ノイズに対してものすごい神経質です（だいぶマシになってきましたが）\n\n\n収録現場での物音については、\nMAの時に\n・ノイズ修正\n・BGMを追加\nっていう２段階で対応しています。\n\n編集としては、\n・編集1の段階で、もうこれは修正／BGMでもどうにもならんわっていう場合は、インタビューとして使うって台本にあってもどうにか落とします。\n・試写2の段階で、ノイズが気になるってきたら、元音をチェックしMAで処理ずみ／BGMが追加されてる、つまりなんかしら処理してあるようならスルーしていいです\n\nで、編集1の段階で、このノイズはMAでどうにもなるまい、というもの基準は、MAフォルダに入ってますが、それを聞いてみてください。あるいは、premierの波形にて明確にノイズが確認できる場合は、多分処理しきれないのでカットになると思います。\n\n\nうーんどっちだろ、と思ったら、そのノイズの前後をmp4で書き出して<#C03DFG6ERL4|5-ma> とかに投げてみてください。\nこれ何回かやれば多分基準ができてくると思います。\n\nご不明な点があれば何なりと。\nあとこのチャンネルに編集tipsがあるので、なんとなく見返してみてください。連絡関係は今はもう使ってないルールありますが、編集の感覚的なものは、結構今も使えると思います。",
+        "user": "U03CXUXB5PF",
+        "ts": "1675558611.458689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vj5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[ノイズについて]\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " KDDI2022\/8_MA\/ノイズ検証サンプル\n\n新しい人もいますんで一斉通知でお休み中にすいません。\n\nどれくらいをノイズとして処理しなきゃいけないかの基準についてです。本件クライアントは、ノイズに対してものすごい神経質です（だいぶマシになってきましたが）\n\n\n収録現場での物音については、\nMAの時に\n・ノイズ修正\n・BGMを追加\nっていう２段階で対応しています。\n\n編集としては、\n・編集1の段階で、もうこれは修正／BGMでもどうにもならんわっていう場合は、インタビューとして使うって台本にあってもどうにか落とします。\n・試写2の段階で、ノイズが気になるってきたら、元音をチェックしMAで処理ずみ／BGMが追加されてる、つまりなんかしら処理してあるようならスルーしていいです\n\nで、編集1の段階で、このノイズはMAでどうにもなるまい、というもの基準は、MAフォルダに入ってますが、それを聞いてみてください。あるいは、premierの波形にて明確にノイズが確認できる場合は、多分処理しきれないのでカットになると思います。\n\n\nうーんどっちだろ、と思ったら、そのノイズの前後をmp4で書き出して"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03DFG6ERL4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " とかに投げてみてください。\nこれ何回かやれば多分基準ができてくると思います。\n\nご不明な点があれば何なりと。\nあとこのチャンネルに編集tipsがあるので、なんとなく見返してみてください。連絡関係は今はもう使ってないルールありますが、編集の感覚的なものは、結構今も使えると思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U04KFCBLY9J",
+                    "U04JJB0MTB7"
+                ],
+                "count": 2
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D361092E-FDFA-4B3E-ABD4-2889B12A3831",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> \nありがとうございます :blush: :woman-bowing: ！",
+        "user": "U04KFCBLY9J",
+        "ts": "1675558836.258059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jKV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nありがとうございます "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

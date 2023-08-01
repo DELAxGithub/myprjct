@@ -1,0 +1,145 @@
+[
+    {
+        "client_msg_id": "05d92d48-7fe6-4833-839f-a7c08affd990",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n余談ですが、Dropboxがパンクしてます",
+        "user": "U03QQ3J656Z",
+        "ts": "1671602584.605679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rvsd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n余談ですが、Dropboxがパンクしてます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fe8a37f1-b1e1-4c6e-bac3-08f3d017b969",
+        "type": "message",
+        "text": "ファイルいくつか消しましたが、いかがですか？",
+        "user": "U03CXUXB5PF",
+        "ts": "1671603018.394279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tApb5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ファイルいくつか消しましたが、いかがですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a1480124-f010-4ca8-9c3a-5c70245e0b77",
+        "type": "message",
+        "text": "100GBくらい空きができました！",
+        "user": "U03QQ3J656Z",
+        "ts": "1671605549.122199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zXa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "100GBくらい空きができました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03QQ3J656Z"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "client_msg_id": "9233e299-e6cf-435c-bd29-f6de09ee96ce",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> ここなんですが、わかりますか？太字を参考にDropboxを見てみてくださいー\nkin production Dropbox\/KODERA Hiroshi\/*KDDI2022\/8_MA\/仮BGM*",
+        "user": "U03CXUXB5PF",
+        "ts": "1660294084.249059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fnzM8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ここなんですが、わかりますか？太字を参考にDropboxを見てみてくださいー\nkin production Dropbox\/KODERA Hiroshi\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "KDDI2022\/8_MA\/仮BGM",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8E3965CD-D7BC-400A-BD5A-E5241AF2BFE1",
+        "type": "message",
+        "text": "仮BGMフォルダに仕込み終えたものから入れていきます！よろしくお願いします。",
+        "user": "U03G0LAPT3N",
+        "ts": "1660325326.796809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gv1Sc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "仮BGMフォルダに仕込み終えたものから入れていきます！よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

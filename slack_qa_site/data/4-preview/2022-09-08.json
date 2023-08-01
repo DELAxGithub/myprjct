@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "8E39FAA4-2E21-40E5-B626-F24AF3FE07C9",
+        "type": "message",
+        "text": "<@U040YCC00V6> パックンPRが完パケできますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1662628153.067039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7vSF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " パックンPRが完パケできますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "clown_face",
+                "users": [
+                    "U040YCC00V6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

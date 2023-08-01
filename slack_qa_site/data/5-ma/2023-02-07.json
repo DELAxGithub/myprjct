@@ -1,0 +1,121 @@
+[
+    {
+        "type": "message",
+        "text": "66カラサワさんのWAVをDropboxにアップしました。\nご確認よろしくお願いします:bow:",
+        "files": [
+            {
+                "id": "F04ND5MGM1C",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1675836416.350139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5=3Hn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "66カラサワさんのWAVをDropboxにアップしました。\nご確認よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "28E0E8EB-CBC6-4D19-A611-F21E4D3FB6CC",
+        "thread_ts": "1675836416.350139",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1675838485.966829",
+        "reply_users": [
+            "U04KFCBLY9J"
+        ],
+        "replies": [
+            {
+                "user": "U04KFCBLY9J",
+                "ts": "1675838485.966829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "CFBD1744-201C-4DDE-BB7B-A43661AE6C9A",
+        "type": "message",
+        "text": "了解です！ありがとうございます:blush:！",
+        "user": "U04KFCBLY9J",
+        "ts": "1675838485.966829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wa\/X5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です！ありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675836416.350139",
+        "parent_user_id": "U03G0LAPT3N",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03G0LAPT3N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

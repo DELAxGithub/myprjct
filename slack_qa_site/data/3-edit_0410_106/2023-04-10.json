@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "1a9d59d9-8b02-49e4-85af-ed5e733f1cd6",
+        "type": "message",
+        "text": "このチャンネル１０６専用で。\n\n<@U04J38PLGM6>\nとりあえず朝倉さんの分だけはじめてください\n\n磯田１、２\n小野塚１、２\n岡１\nの完パケを個別フォルダにお願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1681175435.441219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bq4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "このチャンネル１０６専用で。\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nとりあえず朝倉さんの分だけはじめてください\n\n磯田１、２\n小野塚１、２\n岡１\nの完パケを個別フォルダにお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

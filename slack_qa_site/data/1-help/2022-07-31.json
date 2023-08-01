@@ -1,0 +1,131 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1659266173.587979",
+        "user": "U03S1LXFFRN",
+        "text": "<@U03S1LXFFRN>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1659266173.637109",
+        "user": "U03RDSN3ZMG",
+        "text": "<@U03RDSN3ZMG>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1659266173.694189",
+        "user": "U03RA83HRN0",
+        "text": "<@U03RA83HRN0>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1659266173.745969",
+        "user": "U03Q17LBJP3",
+        "text": "<@U03Q17LBJP3>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "type": "message",
+        "text": "【映像が小さくなる問題】\n・プロジェクトを再度立ち上げ直す（３回程実施）\n・プロキシ切り替えボタンを押す（ON・OFF連打）\nこちらで解決しました。\nどちらも１回の操作で解決していないことから、おそらく正しい解決法ではないと思いますが・・・\n推測では、単純にデータが噛み合っていなかっただけと思います。\n現に、これ以降は再発しておりません。",
+        "files": [
+            {
+                "id": "F03RN9Y894M",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03QQ3J656Z",
+        "display_as_bot": false,
+        "ts": "1659314053.291539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b\/NY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【映像が小さくなる問題】\n・プロジェクトを再度立ち上げ直す（３回程実施）\n・プロキシ切り替えボタンを押す（ON・OFF連打）\nこちらで解決しました。\nどちらも１回の操作で解決していないことから、おそらく正しい解決法ではないと思いますが・・・\n推測では、単純にデータが噛み合っていなかっただけと思います。\n現に、これ以降は再発しておりません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "765e200d-e943-4b81-bc30-eb56eee2f728",
+        "thread_ts": "1659314053.291539",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1659314825.647929",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1659314825.647929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1659314825.647929",
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "20b79521-1860-46d8-8186-b2193387a4b2",
+        "type": "message",
+        "text": "僕も小さくはならないんですが、すぐプロキシー外れる問題があって、結局何回か繋ぎ直すと落ち着くんで、まぁそういうことなのかもしれませんね。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1659314825.647929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gF=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "僕も小さくはならないんですが、すぐプロキシー外れる問題があって、結局何回か繋ぎ直すと落ち着くんで、まぁそういうことなのかもしれませんね。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659314053.291539",
+        "parent_user_id": "U03QQ3J656Z"
+    }
+]

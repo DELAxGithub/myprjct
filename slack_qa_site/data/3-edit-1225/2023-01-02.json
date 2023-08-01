@@ -1,0 +1,89 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 60阿部　修正しているのですが\nたったいま丸山さんという方から新規コメントが追加されました。\nもう少し待っていたほうがよろしいでしょうか？\nいったんスクショ撮ってしまったのでナレーション修正だけここに投稿します。イメージ等差し替えも追加になったらあとでまとめます。",
+        "files": [
+            {
+                "id": "F04H2T5J23X",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03Q17LBJP3",
+        "display_as_bot": false,
+        "ts": "1672652037.625959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qw9tg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 60阿部　修正しているのですが\nたったいま丸山さんという方から新規コメントが追加されました。\nもう少し待っていたほうがよろしいでしょうか？\nいったんスクショ撮ってしまったのでナレーション修正だけここに投稿します。イメージ等差し替えも追加になったらあとでまとめます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "cb13a45d-aa27-4a23-85d8-c52569e49f23"
+    },
+    {
+        "client_msg_id": "15B49883-E260-457F-B0B7-578D7EDB50EC",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> まるやまさんもクライアントのプロデューサーです　修正反映は、2.1の段階でも出演者チェック後の2.2の後でもいずれは反映お願いします。\nそんなに急いでもないので、待ってても大丈夫だと思います。",
+        "user": "U03CXUXB5PF",
+        "ts": "1672652358.479959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hdTy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " まるやまさんもクライアントのプロデューサーです　修正反映は、2.1の段階でも出演者チェック後の2.2の後でもいずれは反映お願いします。\nそんなに急いでもないので、待ってても大丈夫だと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

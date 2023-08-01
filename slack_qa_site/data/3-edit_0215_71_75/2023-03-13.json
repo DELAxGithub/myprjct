@@ -1,0 +1,240 @@
+[
+    {
+        "client_msg_id": "c222cf80-021c-46d0-a55f-3d887adb7774",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> こちらReplayには修正箇所が無かったので、最終に進めてもよいでしょうか？",
+        "user": "U03Q17LBJP3",
+        "ts": "1678690899.256369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EQg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こちらReplayには修正箇所が無かったので、最終に進めてもよいでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678681264.624669",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "2fb9c0b4-b246-4fed-b29b-bc9ba45a951a",
+        "type": "message",
+        "text": "ちょっと確認します",
+        "user": "U03CXUXB5PF",
+        "ts": "1678690923.867479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OKJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちょっと確認します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678681264.624669",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "8ba037a7-5b5e-46df-aaa5-62c1da696d46",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> あ、すいません、これコピペでした\n\n最終でお願いします",
+        "user": "U03CXUXB5PF",
+        "ts": "1678690982.386159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GJq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " あ、すいません、これコピペでした\n\n最終でお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678681264.624669",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF> <@U04J38PLGM6>\n72_石田 最終版にしました。\nよろしくお願いいたします。",
+        "user": "U03Q17LBJP3",
+        "ts": "1678705145.983519",
+        "thread_ts": "1678681264.624669",
+        "root": {
+            "client_msg_id": "5D6C1035-B698-46AB-ABB8-65197D063BD4",
+            "type": "message",
+            "text": "72 \n試写3 72石田さん確認致しました。\nお願いします",
+            "user": "U03CXUXB5PF",
+            "ts": "1678681264.624669",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "G6hU",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "72 \n試写3 72石田さん確認致しました。\nお願いします"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1678681264.624669",
+            "reply_count": 4,
+            "reply_users_count": 2,
+            "latest_reply": "1678705145.983519",
+            "reply_users": [
+                "U03Q17LBJP3",
+                "U03CXUXB5PF"
+            ],
+            "replies": [
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1678690899.256369"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1678690923.867479"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1678690982.386159"
+                },
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1678705145.983519"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1678705145.983519"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GKdH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n72_石田 最終版にしました。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "0b7e6003-877c-49fa-8ec1-be685434e3ec",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

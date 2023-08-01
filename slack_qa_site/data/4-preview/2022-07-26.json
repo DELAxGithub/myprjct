@@ -1,0 +1,51 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1658833004.829759",
+        "user": "U03QQ3J656Z",
+        "text": "<@U03QQ3J656Z>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "8ef988f2-e5a1-401f-8262-22352a6e985e",
+        "type": "message",
+        "text": "<@U03HJRZK295> 誤差と見るか30%早いと見るか。。\nまぁどれを試写用書き出しするかどうか、編集会議後に相談させてください",
+        "user": "U03CXUXB5PF",
+        "ts": "1658836316.990479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rr5P=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 誤差と見るか30%早いと見るか。。\nまぁどれを試写用書き出しするかどうか、編集会議後に相談させてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

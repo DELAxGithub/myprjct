@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "6156f339-3e5c-493b-b1e2-d05b4c59d69b",
+        "type": "message",
+        "text": "これは。。。\nワークフローも見直すかも。\n来期に試しましょう。\n\nアドビ、Premiere Pro超大型アップデート。“文章で動画を編集“可能に - AV Watch\n<https:\/\/av.watch.impress.co.jp\/docs\/news\/1493417.html>",
+        "user": "U03CXUXB5PF",
+        "ts": "1681428756.430039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PCdR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これは。。。\nワークフローも見直すかも。\n来期に試しましょう。\n\nアドビ、Premiere Pro超大型アップデート。“文章で動画を編集“可能に - AV Watch\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/av.watch.impress.co.jp\/docs\/news\/1493417.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/av.watch.impress.co.jp\/img\/avw\/list\/1493\/417\/ad1.jpg",
+                "image_width": 1200,
+                "image_height": 722,
+                "image_bytes": 491198,
+                "from_url": "https:\/\/av.watch.impress.co.jp\/docs\/news\/1493417.html",
+                "service_icon": "https:\/\/av.watch.impress.co.jp\/favicon.ico",
+                "ts": 1681390800,
+                "id": 1,
+                "original_url": "https:\/\/av.watch.impress.co.jp\/docs\/news\/1493417.html",
+                "fallback": "AV Watch: アドビ、Premiere Pro超大型アップデート。”文章で動画を編集”可能に",
+                "text": "アドビは、ビデオ製品のアップデートを5月に実施する。Premiere Proでは、音声のテキスト化で文字起こしした文章を編集することで動画の編集も行なえる「文字起こしベースの編集」機能を新たに実装。After Effectsではプロパティパネルを実装する。なお、これらの新機能はすでに公開されているパブリックベータ版で使用できる。",
+                "title": "アドビ、Premiere Pro超大型アップデート。”文章で動画を編集”可能に",
+                "title_link": "https:\/\/av.watch.impress.co.jp\/docs\/news\/1493417.html",
+                "service_name": "AV Watch"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "partying_face",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "client_msg_id": "9a8576c1-6282-4b50-8e25-f5c245744fb7",
+        "type": "message",
+        "text": "<@U040YCC00V6> <#C043LP5RA81|3-edit-0930納品分> の最終最終版ですが、Replayプラグインの導入を兼ねて、今後の作業をお願いします\n現在書き出してるやつはApprovedにしました。書き出し先は0930納品で、あえて上書きじゃなくてep2_1とかつけてます。\n渡邉さんによる検品のペースはよくわかりませんが、何本かまとまって作業していきましょう。多分明日また何本か来ると思います。",
+        "user": "U03CXUXB5PF",
+        "ts": "1664341454.689819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Q4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043LP5RA81"
+                            },
+                            {
+                                "type": "text",
+                                "text": " の最終最終版ですが、Replayプラグインの導入を兼ねて、今後の作業をお願いします\n現在書き出してるやつはApprovedにしました。書き出し先は0930納品で、あえて上書きじゃなくてep2_1とかつけてます。\n渡邉さんによる検品のペースはよくわかりませんが、何本かまとまって作業していきましょう。多分明日また何本か来ると思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1664341472.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "こんな感じで修正・書き出し中のがApprovedにしてます",
+        "files": [
+            {
+                "id": "F0443NEE5S9",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1664341499.263339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1+Dp3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こんな感じで修正・書き出し中のがApprovedにしてます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "0c34f88f-35a1-4f53-adaa-9214a07eda6d"
+    }
+]

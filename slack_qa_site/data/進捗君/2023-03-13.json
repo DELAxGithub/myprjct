@@ -1,0 +1,58 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04KFCBLY9J> #84山下聖美で変更がありました\n変更前：MA編集\n変更後：MA\n担当者は中野です",
+        "ts": "1678721511.349939",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PbaW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #84山下聖美で変更がありました\n変更前：MA編集\n変更後：MA\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03RA83HRN0> #86東島沙弥佳で変更がありました\n変更前：台本作成\n変更後：リサーチ\n担当者は石橋です",
+        "ts": "1678723025.862529",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oz54B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #86東島沙弥佳で変更がありました\n変更前：台本作成\n変更後：リサーチ\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

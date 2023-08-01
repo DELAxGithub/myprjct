@@ -1,0 +1,446 @@
+[
+    {
+        "client_msg_id": "F78D0134-612D-4B28-98A5-69141DF753A7",
+        "type": "message",
+        "text": "<@U03RA83HRN0> \n試写2\n終わりました\n修正お願いします",
+        "user": "U03CXUXB5PF",
+        "ts": "1677638403.729279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VABw6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n試写2\n終わりました\n修正お願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677638403.729279",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1677640153.815129",
+        "reply_users": [
+            "U03RA83HRN0",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1677639904.367929"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1677640022.804139"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1677640153.815129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677640153.815129"
+    },
+    {
+        "client_msg_id": "d297a11b-b909-44d9-b314-779d1b1d3ba5",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n試写2の修正は完了して、試写2.1としてアップしましたが、試写3にした方がいいでしょうか？",
+        "user": "U03RA83HRN0",
+        "ts": "1677639904.367929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cz2uk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n試写2の修正は完了して、試写2.1としてアップしましたが、試写3にした方がいいでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677638403.729279",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "F0D84A2F-4DDE-4A6D-A050-DD8D1C6A7339",
+        "type": "message",
+        "text": "本人チェックしないので、終わりなら終わりかも",
+        "user": "U03CXUXB5PF",
+        "ts": "1677640022.804139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FqD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本人チェックしないので、終わりなら終わりかも"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677638403.729279",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "6af45f69-9505-41b1-9cfa-f296d4d54f9b",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nそれでしたら、最終のプロジェクト等を準備します。",
+        "user": "U03RA83HRN0",
+        "ts": "1677640153.815129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rPH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nそれでしたら、最終のプロジェクト等を準備します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677638403.729279",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a4083d4e-06d6-4464-a98a-1d051aa73bc1",
+        "type": "message",
+        "text": "<@U03RA83HRN0>\n```古市、修正確認しました。\n最終版進んで頂けましたら。```\nということですので、書出しできるようにして、最終に進めて、<@U04J38PLGM6> にお知らせください",
+        "user": "U03CXUXB5PF",
+        "ts": "1677649740.808979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DgYxc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "古市、修正確認しました。\n最終版進んで頂けましたら。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ということですので、書出しできるようにして、最終に進めて、"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にお知らせください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6c51d56e-626b-4213-a389-fef81f73eee7",
+        "type": "message",
+        "text": "<@U04J38PLGM6>\n95_古市を最終版にしました。\nよろしくお願いいたします。",
+        "user": "U03RA83HRN0",
+        "ts": "1677651411.436189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dWuQZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n95_古市を最終版にしました。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677651411.436189",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1677652905.368869",
+        "reply_users": [
+            "U04J38PLGM6",
+            "U03RA83HRN0"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1677652448.212759"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1677652905.368869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03RA83HRN0>\n静止画とpsd、Dropboxに入っていますか？",
+        "files": [
+            {
+                "id": "F04RSJ4UKDH",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1677652448.212759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8RN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n静止画とpsd、Dropboxに入っていますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7a827522-d36b-48cf-836a-64d9ba1e7f28",
+        "thread_ts": "1677651411.436189",
+        "parent_user_id": "U03RA83HRN0"
+    },
+    {
+        "client_msg_id": "c2497db7-903d-4399-aab4-0e63dfcef18a",
+        "type": "message",
+        "text": "<@U04J38PLGM6>\n失礼しました。\nアップいたしました。よろしくおねがいいたします。",
+        "user": "U03RA83HRN0",
+        "ts": "1677652905.368869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ise",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n失礼しました。\nアップいたしました。よろしくおねがいいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677651411.436189",
+        "parent_user_id": "U03RA83HRN0",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

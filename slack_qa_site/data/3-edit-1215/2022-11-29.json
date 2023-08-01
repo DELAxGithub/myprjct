@@ -1,0 +1,97 @@
+[
+    {
+        "client_msg_id": "add93292-e635-4088-989e-74cf58dc00e6",
+        "type": "message",
+        "text": "<@U03V84JSHNK> ボイスパークで抑揚とかつけようとおもえばつけられます。まぁ余程の棒読みだったら少しいじりましょう。",
+        "user": "U03CXUXB5PF",
+        "ts": "1669728777.765949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tlmgQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ボイスパークで抑揚とかつけようとおもえばつけられます。まぁ余程の棒読みだったら少しいじりましょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669698983.852719",
+        "parent_user_id": "U03Q17LBJP3"
+    },
+    {
+        "client_msg_id": "3fdf74dd-fa43-40f5-9dab-c2246e80cf37",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n54_酒井 ep1~ep3の試写1をReplayにアップしました。",
+        "user": "U03RA83HRN0",
+        "ts": "1669784586.435789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Tobq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n54_酒井 ep1~ep3の試写1をReplayにアップしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "mechanical_arm",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

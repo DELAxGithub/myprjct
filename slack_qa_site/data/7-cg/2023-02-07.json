@@ -1,0 +1,144 @@
+[
+    {
+        "type": "message",
+        "text": "<@U041XC6213P>\nあらためまして地図ワイプの件、添付のサイズにしたいです。\nレイショーも16:9ではなく正方形に近くしたいです。パーツの大きさを整えて頂けたらと思います。追加で、アイコンから文字まで線を引っ張る必要が出てくる可能性があると思いますので、アイコンと文字と同じ色の線もお願いします。奈良県からはテンプレで作ってもらいましょう。\nよろしくお願いいたします:man-bowing:",
+        "files": [
+            {
+                "id": "F04P37CR0F2",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1675762893.531939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q6\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nあらためまして地図ワイプの件、添付のサイズにしたいです。\nレイショーも16:9ではなく正方形に近くしたいです。パーツの大きさを整えて頂けたらと思います。追加で、アイコンから文字まで線を引っ張る必要が出てくる可能性があると思いますので、アイコンと文字と同じ色の線もお願いします。奈良県からはテンプレで作ってもらいましょう。\nよろしくお願いいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b4baffa9-2616-40ad-84b7-1b12002cb018",
+        "thread_ts": "1675762893.531939",
+        "reply_count": 9,
+        "reply_users_count": 2,
+        "latest_reply": "1675921966.610889",
+        "reply_users": [
+            "U041XC6213P",
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U041XC6213P",
+                "ts": "1675763948.444009"
+            },
+            {
+                "user": "U041XC6213P",
+                "ts": "1675855713.088609"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1675855977.814929"
+            },
+            {
+                "user": "U041XC6213P",
+                "ts": "1675860202.903879"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1675901058.293799"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1675906452.140979"
+            },
+            {
+                "user": "U041XC6213P",
+                "ts": "1675906559.708549"
+            },
+            {
+                "user": "U041XC6213P",
+                "ts": "1675916771.016689"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1675921966.610889"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e1c1ba6a-6255-4b69-afc9-8d8d1db7bbdb",
+        "type": "message",
+        "text": "<@U04J38PLGM6> 承知いたしました！では、72石田のデータを、いただいたサイズ、地名とアイコン入りの地図に修正いたしますね。",
+        "user": "U041XC6213P",
+        "ts": "1675763948.444009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cDI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 承知いたしました！では、72石田のデータを、いただいたサイズ、地名とアイコン入りの地図に修正いたしますね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675762893.531939",
+        "parent_user_id": "U04J38PLGM6",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

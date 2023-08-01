@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "8989231e-1e7f-4639-a139-cb14e11727f4",
+        "type": "message",
+        "text": "Projectのフォーマットを作成中\n\nあんまり階層深くしたくないのでこんなイメージ\n\n作業フォルダ　100_番号_名前\n中身　要検討\n・プロジェクト\n・Proxy　　　　　\n・TW\n・CG（ダミーも）\n・もらい\n・MA（受け取りは現状と同じMAですが、作業時に移動する）\n\n注意\n・決まり・フリー・購入は使いまわせるので現状と同じ場所\n・Proxyは複数作らない　←Dropbox圧迫するのでコピーではなく、こ個別フォルダに移す\n\nフォルダがむちゃくちゃ増える問題は納品後に\n作業後フォルダに写す\n\n検討\nAutosaveとかpekファイルとかその辺どうしますかね。ご自身のローカルでいいか。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667779906.775839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D3OH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Projectのフォーマットを作成中\n\nあんまり階層深くしたくないのでこんなイメージ\n\n作業フォルダ　100_番号_名前\n中身　要検討\n・プロジェクト\n・Proxy　　　　　\n・TW\n・CG（ダミーも）\n・もらい\n・MA（受け取りは現状と同じMAですが、作業時に移動する）\n\n注意\n・決まり・フリー・購入は使いまわせるので現状と同じ場所\n・Proxyは複数作らない　←Dropbox圧迫するのでコピーではなく、こ個別フォルダに移す\n\nフォルダがむちゃくちゃ増える問題は納品後に\n作業後フォルダに写す\n\n検討\nAutosaveとかpekファイルとかその辺どうしますかね。ご自身のローカルでいいか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1667845679.000000"
+        }
+    }
+]

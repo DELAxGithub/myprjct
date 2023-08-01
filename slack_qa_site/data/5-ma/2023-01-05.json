@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "a96d2d84-0a6d-4080-92cd-031595527e30",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> 今週末はまだMAないですが来週ぐらいからMA始められそうです\nというわけで、来週のざっくりMA稼働予定日があればお知らせください。\n1月は15本目標です！",
+        "user": "U03CXUXB5PF",
+        "ts": "1672974436.668589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cax9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今週末はまだMAないですが来週ぐらいからMA始められそうです\nというわけで、来週のざっくりMA稼働予定日があればお知らせください。\n1月は15本目標です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1672974436.668589",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1673444037.914859",
+        "reply_users": [
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1673009424.069759"
+            },
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1673444037.914859"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1673444037.914859"
+    }
+]

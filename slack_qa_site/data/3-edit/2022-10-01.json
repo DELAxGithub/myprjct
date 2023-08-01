@@ -1,0 +1,297 @@
+[
+    {
+        "client_msg_id": "76b10fa0-617f-4d06-8e60-a1ae750a1447",
+        "type": "message",
+        "text": "新規チャンネルの解説\n\n\n<#C044PJ0DX60|3-edit-encorder書き出し依頼> は割と重要\n*編集１→手元試写→内容試写→出演者試写→手元試写2→外見試写→納品書き出し*\n*この矢印のときに書き出しします*\n書き出しのタイミングで色々引き継ぎをお願いします\n• 制作へはマーカーを　抜けてる映像とか\n• MAへはテロップを　ノイズとか　マーカーでもいいですがマーカーにノイズってコメントを\n\n<#C0452JN9ZU1|todo-ishibashi> <#C045DLRKV40|todo-ikenomoto> <#C0452JS8UQZ|todo-takayama> <#C0449D0NN87|todo-okano> <#C0449D4817H|todo-tsujii>\n\nどれがどこまで行ったかわからないので、それぞれtodoにしました\nslackはとにかく流れるので、todoが終わる前に次々とくると消えてきます\n定期的にtodoを見返すポストをするとか、この辺はいい運用あればご提案ください",
+        "user": "U03CXUXB5PF",
+        "ts": "1664621597.396879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WrVTE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "新規チャンネルの解説\n\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C044PJ0DX60"
+                            },
+                            {
+                                "type": "text",
+                                "text": " は割と重要\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "編集１→手元試写→内容試写→出演者試写→手元試写2→外見試写→納品書き出し",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "この矢印のときに書き出しします",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n書き出しのタイミングで色々引き継ぎをお願いします\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "制作へはマーカーを　抜けてる映像とか"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "MAへはテロップを　ノイズとか　マーカーでもいいですがマーカーにノイズってコメントを"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0452JN9ZU1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C045DLRKV40"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0452JS8UQZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0449D0NN87"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0449D4817H"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nどれがどこまで行ったかわからないので、それぞれtodoにしました\nslackはとにかく流れるので、todoが終わる前に次々とくると消えてきます\n定期的にtodoを見返すポストをするとか、この辺はいい運用あればご提案ください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1664621856.000000"
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "*Replayのステータス*\n\n作業前後で更新をおねがいします\n\n◯無印 Add status → 作業あり\n●Needs Review → 編集作業終わり→制作チェック待ち\n▲In review → クライアントチェック中\n◯Edits requested→ 制作チェック・クライアントチェックなどで追加で出た作業をお願い中\n▲Approved →書き出し済み",
+        "files": [
+            {
+                "id": "F0453TCBMLH",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1664632578.224499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kJ6ab",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Replayのステータス",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n作業前後で更新をおねがいします\n\n◯無印 Add status → 作業あり\n●Needs Review → 編集作業終わり→制作チェック待ち\n▲In review → クライアントチェック中\n◯Edits requested→ 制作チェック・クライアントチェックなどで追加で出た作業をお願い中\n▲Approved →書き出し済み"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1664721100.000000"
+        },
+        "client_msg_id": "b45470f8-a7c4-4d88-b220-3aef0e819381"
+    },
+    {
+        "type": "message",
+        "text": "todoが流れないようにするテスト。\nslackのポスト機能ってあんまり使い勝手良くないので、spreadsheetよりとにかくslackに専念するための中継ぎ的に\n理想はtodoを書き出さなくても、進捗に応じて次の作業は何かの引き継ぎが同時に終わってることですが。。",
+        "files": [
+            {
+                "id": "F044RKC6RJ7",
+                "created": 1664655095,
+                "timestamp": 1664671068,
+                "name": "todo__________for_____________",
+                "title": "todo リストfor それぞれ",
+                "mimetype": "application\/vnd.slack-docs",
+                "filetype": "docs",
+                "pretty_type": "Arugula",
+                "user": "U03CXUXB5PF",
+                "user_team": "T03CU6RQ154",
+                "editable": true,
+                "size": 390,
+                "mode": "docs",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F044RKC6RJ7\/todo__________for_____________?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F044RKC6RJ7\/download\/todo__________for_____________?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/T03CU6RQ154\/F044RKC6RJ7",
+                "permalink_public": "https:\/\/slack-files.com\/T03CU6RQ154-F044RKC6RJ7-0960f948ab",
+                "preview": "<h1>ここに名前<\/h1><ul><li data-checked=\"false\">なんとか　締め切り<\/li><li data-checked=\"false\">かんとか<\/li><li data-checked=\"false\">---＋スペースで区切り線<\/li><\/ul><p><\/p><hr><h1>ここに名前<\/h1><ul><li data-checked=\"false\">なんとか<\/li><li data-checked=\"false\"> 誰々<\/li><\/ul><p><br><br><\/p><h2>終わったtodo<\/h2><ul><li data-checked=\"true\">ここにコピペ<\/li><\/ul><h1>納品後はこちらに<\/h1><ul><li data-checked=\"false\">なんとか<\/li><\/ul><p><br><\/p>",
+                "editor": null,
+                "last_editor": "U03CXUXB5PF",
+                "non_owner_editable": true,
+                "updated": 1664671068,
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1664655517.003019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7zhID",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "todoが流れないようにするテスト。\nslackのポスト機能ってあんまり使い勝手良くないので、spreadsheetよりとにかくslackに専念するための中継ぎ的に\n理想はtodoを書き出さなくても、進捗に応じて次の作業は何かの引き継ぎが同時に終わってることですが。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "premiereのマーカールール案　10\/1\nマーカー＝引き継ぎ指示ということで相手ごとに色を変えるというのはどうでしょうか\n\n赤は制作へのレビュー依頼（テロップどうするとかイメージ抜けてるとか）\n緑は編集への作業依頼（編集直しとか）\nオレンジはMAへの連絡（ノイズとか）\n白は、作業完了　\n\n編集するとずれるのでできるだけ都度都度対処します、、\nいますでにつけてるやつはもうそのままでいいです\n新規の編入でこういう感じに。。\n覚えることいっぱいですいませんが、引き継ぎでロスなく。。\n\n\n引き継ぎのための情報が散乱してたので、\n今後はマーカーに集約します\nよほど大規模な一斉修正とかは台本を見て、とかにしますが、そうじゃなければ緑でお知らせします",
+        "files": [
+            {
+                "id": "F044BCVVB8F",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1664671538.963489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xU\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "premiereのマーカールール案　10\/1\nマーカー＝引き継ぎ指示ということで相手ごとに色を変えるというのはどうでしょうか\n\n赤は制作へのレビュー依頼（テロップどうするとかイメージ抜けてるとか）\n緑は編集への作業依頼（編集直しとか）\nオレンジはMAへの連絡（ノイズとか）\n白は、作業完了　\n\n編集するとずれるのでできるだけ都度都度対処します、、\nいますでにつけてるやつはもうそのままでいいです\n新規の編入でこういう感じに。。\n覚えることいっぱいですいませんが、引き継ぎでロスなく。。\n\n\n引き継ぎのための情報が散乱してたので、\n今後はマーカーに集約します\nよほど大規模な一斉修正とかは台本を見て、とかにしますが、そうじゃなければ緑でお知らせします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1664671605.000000"
+        },
+        "client_msg_id": "eb2d22be-4c56-41f8-8343-83ba9405fc72"
+    }
+]

@@ -1,0 +1,198 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657502066.584399",
+        "user": "U03NJATSEBH",
+        "text": "<@U03NJATSEBH>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "590da81a-b549-44b6-ac96-ba3f8698ded6",
+        "type": "message",
+        "text": "新規で制作に参加いたします池野本です。\n何卒よろしくお願い致します！",
+        "user": "U03NJATSEBH",
+        "ts": "1657502389.056209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c41H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "新規で制作に参加いたします池野本です。\n何卒よろしくお願い致します！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bow",
+                "users": [
+                    "U03L0UFJF70"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657504173.867079",
+        "user": "U03NZ0E09JN",
+        "text": "<@U03NZ0E09JN>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "aec7689c-55ca-44c1-ba6a-f5142c23ce84",
+        "type": "message",
+        "text": "動画クリエイターズの福田です。\nよろしくお願いいたします。",
+        "user": "U03NZ0E09JN",
+        "ts": "1657505823.329739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bK8V\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "動画クリエイターズの福田です。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "U03L0UFJF70"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657509093.360229",
+        "user": "U03NJGXEPL7",
+        "text": "<@U03NJGXEPL7>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "053001da-c6a3-4b3e-8ef8-653f1f37ec2e",
+        "type": "message",
+        "text": "<#C03D0S69B0T|0-starterkit>  書類一式　\n<#C03CY2TFJS1|1-help> ヘルプセンター　質問全般\n<#C03DD5YH9D1|3-edit> 編集全般　\n<#C03DFG6ERL4|5-ma> MA絡み　１試写後の仮BGM発注〜２試写後の本番BGM発注〜出演者試写後の整音発注\n<#C03GXCQBBG8|6-ecs> ECS　２試写後のデザインテロップ・CG発注",
+        "user": "U03CXUXB5PF",
+        "ts": "1657511904.731439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6c2dw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "channel",
+                                "channel_id": "C03D0S69B0T"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  書類一式　\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03CY2TFJS1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ヘルプセンター　質問全般\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03DD5YH9D1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 編集全般　\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03DFG6ERL4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " MA絡み　１試写後の仮BGM発注〜２試写後の本番BGM発注〜出演者試写後の整音発注\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03GXCQBBG8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ECS　２試写後のデザインテロップ・CG発注"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

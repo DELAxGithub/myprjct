@@ -1,0 +1,410 @@
+[
+    {
+        "client_msg_id": "e8b07a2d-f45a-4f7a-a9d9-c752fa3a3a10",
+        "type": "message",
+        "text": "MAが月曜・水曜・土曜に稼働できるので、修正軽めのやつから作業してMAの在庫をお願いします。\n<@U03NJATSEBH>47平藤はMAに関する修正がなさそうなんで、修正はMA後にして、とりあえずMA発注でいいかも。PRも作って<#C03DFG6ERL4|5-ma> に提出をお願いします",
+        "user": "U03CXUXB5PF",
+        "ts": "1668937171.319669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1cF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MAが月曜・水曜・土曜に稼働できるので、修正軽めのやつから作業してMAの在庫をお願いします。\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": "47平藤はMAに関する修正がなさそうなんで、修正はMA後にして、とりあえずMA発注でいいかも。PRも作って"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03DFG6ERL4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " に提出をお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668937171.319669",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1668991517.866769",
+        "reply_users": [
+            "U03NJATSEBH",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1668989109.755009"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1668991457.759089"
+            },
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1668991517.866769"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1668991517.866769",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ac16cf91-556e-4f6f-a7e2-495bc2f872d1",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n47平藤　PRを制作し、各OMFをMAフォルダに格納いたしました。\nカメラの不具合でQT出力が出来ない為、出力をしていただいても\nよろしいでしょうか:woman-bowing:",
+        "user": "U03NJATSEBH",
+        "ts": "1668989109.755009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c3iR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n47平藤　PRを制作し、各OMFをMAフォルダに格納いたしました。\nカメラの不具合でQT出力が出来ない為、出力をしていただいても\nよろしいでしょうか"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668937171.319669",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "61cd95a6-54b3-4501-b548-0f3fbaa979d0",
+        "type": "message",
+        "text": "<@U03NJATSEBH> 書き出しましたー",
+        "user": "U03CXUXB5PF",
+        "ts": "1668991457.759089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1\/NDi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 書き出しましたー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668937171.319669",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "aa7aef80-34cd-42ba-a7b1-b4fee608255e",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> ご対応ありがとうございます！",
+        "user": "U03NJATSEBH",
+        "ts": "1668991517.866769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+=D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ご対応ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668937171.319669",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "2f0fb62c-e35f-4b03-a895-735d41e93f6d",
+        "type": "message",
+        "text": "MAが来た前野を試写2へ\n試写1が終わった46,55はMAヘ\n\n<@U03NJATSEBH>38前野MA　きました\n試写２に入るまえにダミーとかあれば差し替えしますので、お知らせください\n\n<@U03QQ3J656Z>\n46吉岡 試写1終わりました\n\n<@U03RA83HRN0>\n55長谷 試写1終わりました\n\nMA用修正にあたって\n・ノイズの指摘について、確かにランクAのノイズだわっていうのは発言ごとカットしますので、あればお知らせください\n・そのほか尺に関して関わるところは早めにお知らせください\n・内容的にややこしいあればReplyaとかでスクショいただければ本日お昼までならすぐ反応します。\n→以上MA準備出来次第、QT書き出し＆OMFをお願いします\n\nまた、要差し替え映像はこのタイミングで連絡いただければ、MAのwavができるまでに本番素材をお渡しします\n\n51以降の新作ではできるだけこちらでもダミーは把握するようにしてこの報告業務をしないで済むようにしますが、〜５０まではお手数をおかけします。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1668991854.729829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+gJNd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MAが来た前野を試写2へ\n試写1が終わった46,55はMAヘ\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": "38前野MA　きました\n試写２に入るまえにダミーとかあれば差し替えしますので、お知らせください\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n46吉岡 試写1終わりました\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n55長谷 試写1終わりました\n\nMA用修正にあたって\n・ノイズの指摘について、確かにランクAのノイズだわっていうのは発言ごとカットしますので、あればお知らせください\n・そのほか尺に関して関わるところは早めにお知らせください\n・内容的にややこしいあればReplyaとかでスクショいただければ本日お昼までならすぐ反応します。\n→以上MA準備出来次第、QT書き出し＆OMFをお願いします\n\nまた、要差し替え映像はこのタイミングで連絡いただければ、MAのwavができるまでに本番素材をお渡しします\n\n51以降の新作ではできるだけこちらでもダミーは把握するようにしてこの報告業務をしないで済むようにしますが、〜５０まではお手数をおかけします。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c95c746-02bf-41b7-85b0-8320e0174bd1",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03V84JSHNK>\n38前野　ダミーをv6におまとめしました。\n待ちイメージもv6にございますので、もしあればよろしくお願い致します。",
+        "user": "U03NJATSEBH",
+        "ts": "1668993684.765399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "59bfB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n38前野　ダミーをv6におまとめしました。\n待ちイメージもv6にございますので、もしあればよろしくお願い致します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U03NJATSEBH> <@U03CXUXB5PF> 38前野の待ち、ダミーを購入しました。「購入」フォルダに「38前野購入」というフォルダに3枚入っています。よろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F04BPHWGMCM",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03V84JSHNK",
+        "display_as_bot": false,
+        "ts": "1669004508.054919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9xn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 38前野の待ち、ダミーを購入しました。「購入」フォルダに「38前野購入」というフォルダに3枚入っています。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5fa21ffc-8b42-4c2d-bf4e-4075205f85aa",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,288 @@
+[
+    {
+        "client_msg_id": "8452abe2-378b-4bd8-9739-3a4467b2cf97",
+        "type": "message",
+        "text": "<@U04J38PLGM6> 72石田\nイメージ素材の不足がありました。\n台本に★つけているのでご確認ください。",
+        "user": "U03Q17LBJP3",
+        "ts": "1675518049.091629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b0O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 72石田\nイメージ素材の不足がありました。\n台本に★つけているのでご確認ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675518049.091629",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1675570381.200159",
+        "reply_users": [
+            "U04J38PLGM6",
+            "U03Q17LBJP3"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1675559664.560339"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1675562745.856249"
+            },
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1675569625.066269"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1675570381.200159"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3>\n大変失礼しました。追加素材入れました。\n★法廷／待ってる人→槌／砂時計に変更しました。これをマルチにして頂けますか？\n２つの画像の境目はぼかした方がいいかもしれませんが、塩梅はご検討ください。\n\nひとつご相談です。\n★ひび割れの画像加工×天秤\nですが、以下のの添付にひび割れっぽい加工を施すことは可能でしょうか？\nそれとも、こちらで何かひび割れっぽいイメージを探した方が良いですか？",
+        "files": [
+            {
+                "id": "F04N3JED9FU",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1675559664.560339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qdkw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n大変失礼しました。追加素材入れました。\n★法廷／待ってる人→槌／砂時計に変更しました。これをマルチにして頂けますか？\n２つの画像の境目はぼかした方がいいかもしれませんが、塩梅はご検討ください。\n\nひとつご相談です。\n★ひび割れの画像加工×天秤\nですが、以下のの添付にひび割れっぽい加工を施すことは可能でしょうか？\nそれとも、こちらで何かひび割れっぽいイメージを探した方が良いですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7d655126-99e5-462b-be98-2f1bde0e6126",
+        "thread_ts": "1675518049.091629",
+        "parent_user_id": "U03Q17LBJP3",
+        "subtype": "thread_broadcast",
+        "root": {
+            "client_msg_id": "8452abe2-378b-4bd8-9739-3a4467b2cf97",
+            "type": "message",
+            "text": "<@U04J38PLGM6> 72石田\nイメージ素材の不足がありました。\n台本に★つけているのでご確認ください。",
+            "user": "U03Q17LBJP3",
+            "ts": "1675518049.091629",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "b0O",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 72石田\nイメージ素材の不足がありました。\n台本に★つけているのでご確認ください。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1675518049.091629",
+            "reply_count": 4,
+            "reply_users_count": 2,
+            "latest_reply": "1675570381.200159",
+            "reply_users": [
+                "U04J38PLGM6",
+                "U03Q17LBJP3"
+            ],
+            "replies": [
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1675559664.560339"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1675562745.856249"
+                },
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1675569625.066269"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1675570381.200159"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3>\nこちらに入れました。",
+        "files": [
+            {
+                "id": "F04N6492R2Q",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1675562745.856249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OGOwj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこちらに入れました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "90ceb75e-8108-45b3-a765-f2d184d18fe7",
+        "thread_ts": "1675518049.091629",
+        "parent_user_id": "U03Q17LBJP3"
+    },
+    {
+        "client_msg_id": "1513897f-3f80-4e26-94e4-a247ee25ead0",
+        "type": "message",
+        "text": "<@U04J38PLGM6>ありがとうございます。\nひび割れ欲しいです！合成はこちらでやります。",
+        "user": "U03Q17LBJP3",
+        "ts": "1675569625.066269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sSGY4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます。\nひび割れ欲しいです！合成はこちらでやります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675518049.091629",
+        "parent_user_id": "U03Q17LBJP3"
+    },
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3>\nいくつかひび割れを入れました。\nご確認ください。",
+        "files": [
+            {
+                "id": "F04NTE1LQRE",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1675570381.200159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lme",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nいくつかひび割れを入れました。\nご確認ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "62d927a6-e6f7-458e-a721-d3dcbf5d1165",
+        "thread_ts": "1675518049.091629",
+        "parent_user_id": "U03Q17LBJP3"
+    }
+]

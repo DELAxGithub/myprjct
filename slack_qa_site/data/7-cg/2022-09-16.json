@@ -1,0 +1,209 @@
+[
+    {
+        "type": "message",
+        "text": "武田　アニメ５ってなんか意味わかります？作れたらお願いします。",
+        "files": [
+            {
+                "id": "F04331GT21F",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1663330209.502999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W4yt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "武田　アニメ５ってなんか意味わかります？作れたらお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "fe2ac37c-74a9-4b00-954f-45315d32d135",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n重ね合わせの説明になると思うのですが、\n一つの粒子が両方のスリットを同時に通るみたいなことですか？\n\n<https:\/\/ameblo.jp\/narapapi\/entry-12617693711.html>",
+        "files": [
+            {
+                "id": "F042QNVDGRZ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1663335739.218519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S09EB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n重ね合わせの説明になると思うのですが、\n一つの粒子が両方のスリットを同時に通るみたいなことですか？\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ameblo.jp\/narapapi\/entry-12617693711.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f8adff80-fd0d-4f9c-89cf-37c13a43d58d",
+        "attachments": [
+            {
+                "from_url": "https:\/\/ameblo.jp\/narapapi\/entry-12617693711.html",
+                "image_url": "https:\/\/stat.ameba.jp\/user_images\/20200909\/12\/narapapi\/f7\/3d\/j\/o0302030214816822095.jpg",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 9195,
+                "service_icon": "https:\/\/stat100.ameba.jp\/common_style\/img\/sp\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/ameblo.jp\/narapapi\/entry-12617693711.html",
+                "fallback": "奈良の鹿: 『『量子』 第３回  量子の振る舞い ②』",
+                "text": "『量子』第３回「量子の振る舞い ②」＜量子の重ね合わせ＞  第２回の「量子の波と粒子の二面性」では、仕切り箱の右に現れたり左に現れたりして粒子が確率的に発見さ…",
+                "title": "『『量子』 第３回  量子の振る舞い ②』",
+                "title_link": "https:\/\/ameblo.jp\/narapapi\/entry-12617693711.html",
+                "service_name": "奈良の鹿"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16d17ac9-c997-4a9c-bb3b-7caf48db5c4b",
+        "type": "message",
+        "text": "テロップで補足します。とりあえず重ねあってる瞬間はAE上で表現してるコマがあればそれを静止画にして編集で使っていきましょう。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663335888.428859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fy3d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "テロップで補足します。とりあえず重ねあってる瞬間はAE上で表現してるコマがあればそれを静止画にして編集で使っていきましょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1663335895.000000"
+        },
+        "thread_ts": "1663335888.428859",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1663401889.599889",
+        "reply_users": [
+            "U03NZ0E09JN"
+        ],
+        "replies": [
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1663401889.599889"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1663401889.599889"
+    },
+    {
+        "client_msg_id": "f6519a87-e342-4d5a-94d5-888cc58a65a1",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> すいません、時間外は放置でいいですよ。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663335969.005889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ec\/B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すいません、時間外は放置でいいですよ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

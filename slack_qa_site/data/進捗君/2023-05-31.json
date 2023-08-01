@@ -1,0 +1,39 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03RA83HRN0> #106-5総集編 予告で変更がありました\n変更前：MA\n変更後：編集2\n担当者は石橋です",
+        "ts": "1685571560.433039",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KxP=P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #106-5総集編 予告で変更がありました\n変更前：MA\n変更後：編集2\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

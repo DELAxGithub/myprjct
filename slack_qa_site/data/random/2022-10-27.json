@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "e7c67a9e-3669-408b-aa4d-5769d720f0cb",
+        "type": "message",
+        "text": "日進月歩ですねぇ　荒い素材をアップするやつ\n\nCodeFormer - a Hugging Face Space by sczhou\n<https:\/\/huggingface.co\/spaces\/sczhou\/CodeFormer>",
+        "user": "U03CXUXB5PF",
+        "ts": "1666929353.421239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JXd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "日進月歩ですねぇ　荒い素材をアップするやつ\n\nCodeFormer - a Hugging Face Space by sczhou\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/huggingface.co\/spaces\/sczhou\/CodeFormer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/huggingface.co\/spaces\/sczhou\/CodeFormer",
+                "image_url": "https:\/\/thumbnails.huggingface.co\/social-thumbnails\/spaces\/sczhou\/CodeFormer.png",
+                "image_width": 463,
+                "image_height": 250,
+                "image_bytes": 325723,
+                "id": 1,
+                "original_url": "https:\/\/huggingface.co\/spaces\/sczhou\/CodeFormer",
+                "fallback": "CodeFormer - a Hugging Face Space by sczhou",
+                "text": "Discover amazing ML apps made by the community",
+                "title": "CodeFormer - a Hugging Face Space by sczhou",
+                "title_link": "https:\/\/huggingface.co\/spaces\/sczhou\/CodeFormer",
+                "service_name": "huggingface.co"
+            }
+        ]
+    }
+]

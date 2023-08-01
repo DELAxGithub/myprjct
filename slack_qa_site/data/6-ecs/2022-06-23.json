@@ -1,0 +1,110 @@
+[
+    {
+        "client_msg_id": "9f83063a-59a9-4794-b473-20e72ca5e75b",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03HJRZK295> お待たせしました。いつでも大丈夫です。",
+        "user": "U03L0UFJF70",
+        "ts": "1655986065.916869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nJz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お待たせしました。いつでも大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c102214d3e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-17\/3687513129379_c102214d3e84dc081236_72.png",
+            "first_name": "Ryosuke",
+            "real_name": "Ryosuke Sakurai",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "r.sakurai1015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2a514f4e-9287-4857-a92a-6883d0b0ffa2",
+        "type": "message",
+        "text": "<@U03L0UFJF70> <@U03HJRZK295> <https:\/\/us02web.zoom.us\/j\/3423637728>\nですー",
+        "user": "U03CXUXB5PF",
+        "ts": "1655986133.731119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qR5b8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03L0UFJF70"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/3423637728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nですー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

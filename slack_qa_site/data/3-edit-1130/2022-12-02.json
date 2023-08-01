@@ -1,0 +1,495 @@
+[
+    {
+        "client_msg_id": "802ff6ad-08f9-4a13-ade4-e0607ec0ed05",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 38前野 Replay修正中です。\n一部指示に先にチェックが入っていたため修正スルーし\n未チェックのみを修正いたしました。\n(小寺さん先にチェックいただいていましたか?)\n今夜2.2出力予定ですが、スルーがNGであればお知らせ下さい。",
+        "user": "U03NJATSEBH",
+        "ts": "1669971032.963709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u+Q0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 38前野 Replay修正中です。\n一部指示に先にチェックが入っていたため修正スルーし\n未チェックのみを修正いたしました。\n(小寺さん先にチェックいただいていましたか?)\n今夜2.2出力予定ですが、スルーがNGであればお知らせ下さい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9F682C57-7C31-40E5-8BEE-6032BC31FF35",
+        "type": "message",
+        "text": "<@U03NJATSEBH> 変則で直し回数増えてすいません。僕はチェックしてないです。",
+        "user": "U03CXUXB5PF",
+        "ts": "1669986346.813159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LktUz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 変則で直し回数増えてすいません。僕はチェックしてないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> ありがとうございます。\n11\/30→38前野 2.1アップ\n12\/2→初見で既に9割チェックが入っていた\nという感じで?となりまして…\n\nチェック済みの指示が内容に関する事だったので\nタイミング的な事もあって先方が取りやめられたんでしょうか。",
+        "files": [
+            {
+                "id": "F04DKUG07L3",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04DH3RGBA9",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04DDE8CPBQ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NJATSEBH",
+        "ts": "1670024463.405489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sy4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます。\n11\/30→38前野 2.1アップ\n12\/2→初見で既に9割チェックが入っていた\nという感じで?となりまして…\n\nチェック済みの指示が内容に関する事だったので\nタイミング的な事もあって先方が取りやめられたんでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "31fce3e5-de32-405e-95a3-740ff7b62d33"
+    },
+    {
+        "client_msg_id": "1678ADE2-8281-4E6D-AA90-59AA943CF079",
+        "type": "message",
+        "text": "前野は大直しがあったから2.0が試写1みたいな感じになったのかも。",
+        "user": "U03CXUXB5PF",
+        "ts": "1670025084.130089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nV9GQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "前野は大直しがあったから2.0が試写1みたいな感じになったのかも。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "75C0DF44-8A43-44E7-ADFE-A7E7912D5A00",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 前野Replay2.1 チェックが既に先方？に入れられていた部分については、チェック済みの意図が不明のため未修正です。いかがいたしましょうか。",
+        "user": "U03NJATSEBH",
+        "ts": "1670027841.947169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CgiU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "前野"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Replay2.1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " チェックが既に先方？に入れられていた部分については、チェック済みの意図が不明のため未修正です。いかがいたしましょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1f7dee90-b1b7-4458-9202-ef4ece9584e6",
+        "type": "message",
+        "text": "<@U03NJATSEBH> すいません、チェック済みってどれのことです？",
+        "user": "U03CXUXB5PF",
+        "ts": "1670028119.532679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TLks",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すいません、チェック済みってどれのことです？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670028119.532679",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1670028711.998789",
+        "reply_users": [
+            "U03NJATSEBH",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1670028578.710699"
+            },
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1670028609.485539"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1670028664.343609"
+            },
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1670028711.998789"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1670028711.998789"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 38前野 試写2.1　ep1~prです\n初見の段階で既に大半の指示にチェックが入っていたので\nチェックが入っていた部分は作業スルーしておりますが\nそれで問題無いでしょうか。\n<https:\/\/replay.dropbox.com\/project\/pid_rp:AAAAACB0naiMvKUYC7qL4P7q3vuWOKKIX7dp5toPksy-0zgS\/video\/pid_rv:AAAAAGmDb5eEJ56OmO9-K4uwRxSCqApqSrPyKH_vMMPQNPvj|https:\/\/replay.dropbox.com\/project\/pid_rp:AAAAACB0naiMvKUYC7qL4P7q3vuWOKKIX7dp5toPksy-[…]deo\/pid_rv:AAAAAGmDb5eEJ56OmO9-K4uwRxSCqApqSrPyKH_vMMPQNPvj>",
+        "files": [
+            {
+                "id": "F04D5L6RW95",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04DYRQ9R7T",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NJATSEBH",
+        "ts": "1670028578.710699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0oH7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 38前野 試写2.1　ep1~prです\n初見の段階で既に大半の指示にチェックが入っていたので\nチェックが入っていた部分は作業スルーしておりますが\nそれで問題無いでしょうか。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/replay.dropbox.com\/project\/pid_rp:AAAAACB0naiMvKUYC7qL4P7q3vuWOKKIX7dp5toPksy-0zgS\/video\/pid_rv:AAAAAGmDb5eEJ56OmO9-K4uwRxSCqApqSrPyKH_vMMPQNPvj",
+                                "text": "https:\/\/replay.dropbox.com\/project\/pid_rp:AAAAACB0naiMvKUYC7qL4P7q3vuWOKKIX7dp5toPksy-[…]deo\/pid_rv:AAAAAGmDb5eEJ56OmO9-K4uwRxSCqApqSrPyKH_vMMPQNPvj"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03NJATSEBH",
+            "ts": "1670028593.000000"
+        },
+        "client_msg_id": "959f11ec-31a5-4c49-a579-35c924446649",
+        "thread_ts": "1670028119.532679",
+        "parent_user_id": "U03CXUXB5PF",
+        "attachments": [
+            {
+                "from_url": "https:\/\/replay.dropbox.com\/project\/pid_rp:AAAAACB0naiMvKUYC7qL4P7q3vuWOKKIX7dp5toPksy-0zgS\/video\/pid_rv:AAAAAGmDb5eEJ56OmO9-K4uwRxSCqApqSrPyKH_vMMPQNPvj",
+                "image_url": "https:\/\/cfl.dropboxstatic.com\/static\/metaserver\/static\/images\/reel\/unfurl-image-vflJ2sZZi.jpeg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 115485,
+                "id": 1,
+                "original_url": "https:\/\/replay.dropbox.com\/project\/pid_rp:AAAAACB0naiMvKUYC7qL4P7q3vuWOKKIX7dp5toPksy-0zgS\/video\/pid_rv:AAAAAGmDb5eEJ56OmO9-K4uwRxSCqApqSrPyKH_vMMPQNPvj",
+                "fallback": "Dropbox Replay",
+                "text": "Dropbox Replay allows creative teams to better create, collaborate on and deliver content. No Dropbox account is required to give feedback.",
+                "title": "Dropbox Replay",
+                "title_link": "https:\/\/replay.dropbox.com\/project\/pid_rp:AAAAACB0naiMvKUYC7qL4P7q3vuWOKKIX7dp5toPksy-0zgS\/video\/pid_rv:AAAAAGmDb5eEJ56OmO9-K4uwRxSCqApqSrPyKH_vMMPQNPvj",
+                "service_name": "dropbox.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e68f734b-2288-4aa1-bd25-245f1789295e",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 私の勘違いなどでしたら申し訳ありません。",
+        "user": "U03NJATSEBH",
+        "ts": "1670028609.485539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YE+4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 私の勘違いなどでしたら申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670028119.532679",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "803951e3-273d-47c2-8ca1-1e08c66ddbb1",
+        "type": "message",
+        "text": "確かに暗くなってますね。じゃひとまずスルーで。",
+        "user": "U03CXUXB5PF",
+        "ts": "1670028664.343609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WyW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "確かに暗くなってますね。じゃひとまずスルーで。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670028119.532679",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "faabebf5-b029-4518-ace8-21825d9ddfe0",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> ありがとうございます:woman-bowing:お騒がせしました。",
+        "user": "U03NJATSEBH",
+        "ts": "1670028711.998789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kTa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お騒がせしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670028119.532679",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

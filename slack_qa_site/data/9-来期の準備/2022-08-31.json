@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "96876b89-8f46-47b5-87fd-e9b813906660",
+        "type": "message",
+        "text": "あと30人。。\n\nけいそうビブリオフィル - 勁草書房編集部ウェブサイト\n<https:\/\/keisobiblio.com\/>",
+        "user": "U03CXUXB5PF",
+        "ts": "1661953596.383169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tkNr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あと30人。。\n\nけいそうビブリオフィル - 勁草書房編集部ウェブサイト\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/keisobiblio.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/keisobiblio.com\/",
+                "id": 1,
+                "original_url": "https:\/\/keisobiblio.com\/",
+                "fallback": "けいそうビブリオフィル: けいそうビブリオフィル - 勁草書房編集部ウェブサイト",
+                "text": "勁草書房編集部によるウェブサイトが2016年1月上旬よりスタートしました。 ウェブサイトのタイトルには、私たちの書籍を通じた「知に対する愛」を込めました。 ゆっくりではありますが、少しずつ作っていきたいと思います。ぜひ応援してください。",
+                "title": "けいそうビブリオフィル - 勁草書房編集部ウェブサイト",
+                "title_link": "https:\/\/keisobiblio.com\/",
+                "service_name": "けいそうビブリオフィル"
+            }
+        ]
+    }
+]

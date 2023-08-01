@@ -1,0 +1,116 @@
+[
+    {
+        "client_msg_id": "6ead7993-e1c1-435c-a24c-8951385eed3a",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n42_Kojima 修正終わりましたが、CG待ちです",
+        "user": "U03QQ3J656Z",
+        "ts": "1664766553.649659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T\/W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n42_Kojima 修正終わりましたが、CG待ちです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664766553.649659",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1664767183.711939",
+        "reply_users": [
+            "U03QQ3J656Z"
+        ],
+        "replies": [
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1664767183.711939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1664767183.711939",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a92f415f-c58f-4ad7-bb59-01c225290ff5",
+        "type": "message",
+        "text": "またもやReplayにDoneマークが出てこずで\nDoneできてませんので、Doneマーク出てきたら付けておきます",
+        "user": "U03QQ3J656Z",
+        "ts": "1664767183.711939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QaAl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "またもやReplayにDoneマークが出てこずで\nDoneできてませんので、Doneマーク出てきたら付けておきます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664766553.649659",
+        "parent_user_id": "U03QQ3J656Z"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "DC55C9A8-C8DB-4F02-BEA7-4D4F4CC143B0",
+        "type": "message",
+        "text": "スケジュール表では3\/16が試写1に設定されており、何本かは間に合うと思いますが、土日に編集スタート出来なかったものは、ギリギリ間に合わないかもしれません。",
+        "user": "U03NZ0E09JN",
+        "ts": "1678437658.945249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UUNG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スケジュール表では3\/16が試写1に設定されており、何本かは間に合うと思いますが、土日に編集スタート出来なかったものは、ギリギリ間に合わないかもしれません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03NZ0E09JN",
+            "ts": "1678437689.000000"
+        },
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

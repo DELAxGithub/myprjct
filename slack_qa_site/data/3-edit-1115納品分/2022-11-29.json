@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "5CF2085E-9C05-4F4C-AC92-DF4DB05FE6DA",
+        "type": "message",
+        "text": "<@U03NJATSEBH> 菅野さんの修正反映　2.1っていけるんでしたっか？本人修正のさらにMA待ちか。失礼しました",
+        "user": "U03CXUXB5PF",
+        "ts": "1669720359.425319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dQ7+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 菅野さんの修正反映　2.1っていけるんでしたっか？本人修正のさらにMA待ちか。失礼しました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1669720405.000000"
+        },
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

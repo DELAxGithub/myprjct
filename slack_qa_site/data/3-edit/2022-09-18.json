@@ -1,0 +1,136 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF> <@U03P0T4KQMV> <@U03QQ3J656Z>\nみなさま\n43平岡,44筒井の素材集めも終わりました。よろしくお願いいたします。\nテロップは夜作業します。",
+        "user": "U03V84JSHNK",
+        "ts": "1663569180.103429",
+        "thread_ts": "1663381853.252659",
+        "root": {
+            "client_msg_id": "ae75e216-f027-4046-8cee-bef72a8bdd82",
+            "type": "message",
+            "text": "<@U03QQ3J656Z> <@U03RA83HRN0>\nお世話になっております。\n41平と42松本の素材集め一通り終わりました、よろしくお願いいたします。",
+            "user": "U03V84JSHNK",
+            "ts": "1663381853.252659",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "tkAD9",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03QQ3J656Z"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03RA83HRN0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nお世話になっております。\n41平と42松本の素材集め一通り終わりました、よろしくお願いいたします。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1663381853.252659",
+            "reply_count": 7,
+            "reply_users_count": 3,
+            "latest_reply": "1663643118.531789",
+            "reply_users": [
+                "U03CXUXB5PF",
+                "U03V84JSHNK",
+                "U03NZ0E09JN"
+            ],
+            "replies": [
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1663381907.415809"
+                },
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1663384664.146579"
+                },
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1663569180.103429"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1663642483.411129"
+                },
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1663642728.957799"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1663642884.976239"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1663643118.531789"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1663643118.531789"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nHVYr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nみなさま\n43平岡,44筒井の素材集めも終わりました。よろしくお願いいたします。\nテロップは夜作業します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5924686b-78e1-4e0c-8116-afae3958c114",
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

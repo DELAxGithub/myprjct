@@ -1,0 +1,480 @@
+[
+    {
+        "client_msg_id": "87149b2d-fce5-4aa6-94fa-e5be7bb95882",
+        "type": "message",
+        "text": "<@U03QQ3J656Z>\n試写1.0時点Replayでのノイズ処理\n\n<#C03DD5YH9D1|3-edit> のノイズ処理でお伝えしてますが、<https:\/\/kdddipresidentnep2022.slack.com\/archives\/C03DD5YH9D1\/p1667223632163299>\n\n基準で*「ノイズA」判定は編集1で落とし済み*と思うんですが、と思ったら*MA前*って書いてますね。編集1で使い所にノイズ乗ってても気にせずでしたっけ、、すいません、あやふやで。\n\nというのは結構試写1Replayで「ノイズ」の依頼が来てます\n\n正直、相変わらずの細かさですが、先方から来てるノイズで、本当にAランクってどれくらいありますか？\n1. ノイズサンプル基準でAランクはない\n2. Bランクに対して、A判定（ぜひ処理を）、とか１段上がってる\n3. Cランクに対して、A判定　とか２段上がって\nる\n\n１〜３で相手をどう諌めようかのトーンを変えようと思います。\n\nが、そもそも編集1でノイズ落としてないようでしたら、僕の勘違いでした。\n\n一応今後の新作では、最初の編集時点でノイズあったら、Aランクはカットする方向で、台本にその箇所コメントいただき、内容的に切れるかどうか確認してから編集1アップに向かうっていうことでお願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1668441660.750379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bkP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n試写1.0時点Replayでのノイズ処理\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03DD5YH9D1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " のノイズ処理でお伝えしてますが、"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kdddipresidentnep2022.slack.com\/archives\/C03DD5YH9D1\/p1667223632163299"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n基準で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "「ノイズA」判定は編集1で落とし済み",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "と思うんですが、と思ったら"
+                            },
+                            {
+                                "type": "text",
+                                "text": "MA前",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "って書いてますね。編集1で使い所にノイズ乗ってても気にせずでしたっけ、、すいません、あやふやで。\n\nというのは結構試写1Replayで「ノイズ」の依頼が来てます\n\n正直、相変わらずの細かさですが、先方から来てるノイズで、本当にAランクってどれくらいありますか？\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ノイズサンプル基準でAランクはない"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Bランクに対して、A判定（ぜひ処理を）、とか１段上がってる"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Cランクに対して、A判定　とか２段上がって"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "る\n\n１〜３で相手をどう諌めようかのトーンを変えようと思います。\n\nが、そもそも編集1でノイズ落としてないようでしたら、僕の勘違いでした。\n\n一応今後の新作では、最初の編集時点でノイズあったら、Aランクはカットする方向で、台本にその箇所コメントいただき、内容的に切れるかどうか確認してから編集1アップに向かうっていうことでお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/kdddipresidentnep2022.slack.com\/archives\/C03DD5YH9D1\/p1667223632163299",
+                "ts": "1667223632.163299",
+                "author_id": "U03CXUXB5PF",
+                "channel_id": "C03DD5YH9D1",
+                "channel_team": "T03CU6RQ154",
+                "channel_name": "3-edit",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T03CU6RQ154",
+                        "channel": "C03DD5YH9D1",
+                        "ts": "1667223632.163299",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "CjAVw",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "重要 ノイズ処理",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\n音声ノイズ処理にかなり神経質なクライアントに対応するためこちらもだいぶあれこれやりましたが、\n一応合格ラインをもとに、編集時点でどうするか考えてみました\n\nMA前の編集をやってるものについては以下、お願いします。\n\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "波形ですら確認できるほど明確なノイズ"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "→MA前に編集でカットします　\n　台本にコメント／台本の前後をスクショ→slack\n　いただければ、代案考えます\n\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "しゃべりに被ってるノイズ"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "→MAにて直してもらいます\n　マーカーで「ノイズ（ 長い）」とかしておいて、マーカー一覧\n　スクショをMA（QT＋OMF）のフォルダに入れといてください　長いか短いかはBGM入れた方がいいかどうかの判断になるので、ノイズの特徴も軽く書いといてもらえるとありがたいです\n\n\n→"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "試写1時点で「ノイズ処理」というテロップは不要です。",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n　試写に集中してもらいたいと思います\n\nMA後\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "しゃべりに被ってるノイズ"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "マーカー箇所のノイズ、軽減されてるか確認し、白マーカーに\n\nクライアントチェック\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "修正すんでる箇所でまだ言ってきたら「修正ずみ」とリアクションします。これ以上修正すると歪みます、とは伝えてあります"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "こちらの修正もれっぽいところ"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "それはMAでの見落としかもしれないので、再MA\n\n\n聴き比べ素材がMAフォルダにあります。今後の参考に聞いといてくださいー"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "files": [
+                    {
+                        "id": "F049620CYTB",
+                        "created": 1667223234,
+                        "timestamp": 1667223234,
+                        "user": "U03CXUXB5PF",
+                        "is_hidden_by_limit": 1
+                    },
+                    {
+                        "id": "F048TAV038B",
+                        "created": 1667223628,
+                        "timestamp": 1667223628,
+                        "user": "U03CXUXB5PF",
+                        "is_hidden_by_limit": 1
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/kdddipresidentnep2022.slack.com\/archives\/C03DD5YH9D1\/p1667223632163299",
+                "fallback": "[October 31st, 2022 6:40 AM] h.kodera: *重要 ノイズ処理*\n\n音声ノイズ処理にかなり神経質なクライアントに対応するためこちらもだいぶあれこれやりましたが、\n一応合格ラインをもとに、編集時点でどうするか考えてみました\n\nMA前の編集をやってるものについては以下、お願いします。\n\n• 波形ですら確認できるほど明確なノイズ\n→MA前に編集でカットします　\n　台本にコメント／台本の前後をスクショ→slack\n　いただければ、代案考えます\n\n• しゃべりに被ってるノイズ\n→MAにて直してもらいます\n　マーカーで「ノイズ（ 長い）」とかしておいて、マーカー一覧\n　スクショをMA（QT＋OMF）のフォルダに入れといてください　長いか短いかはBGM入れた方がいいかどうかの判断になるので、ノイズの特徴も軽く書いといてもらえるとありがたいです\n\n\n→*試写1時点で「ノイズ処理」というテロップは不要です。*\n　試写に集中してもらいたいと思います\n\nMA後\n• しゃべりに被ってるノイズ\nマーカー箇所のノイズ、軽減されてるか確認し、白マーカーに\n\nクライアントチェック\n• 修正すんでる箇所でまだ言ってきたら「修正ずみ」とリアクションします。これ以上修正すると歪みます、とは伝えてあります\n• こちらの修正もれっぽいところ\nそれはMAでの見落としかもしれないので、再MA\n\n\n聴き比べ素材がMAフォルダにあります。今後の参考に聞いといてくださいー",
+                "text": "*重要 ノイズ処理*\n\n音声ノイズ処理にかなり神経質なクライアントに対応するためこちらもだいぶあれこれやりましたが、\n一応合格ラインをもとに、編集時点でどうするか考えてみました\n\nMA前の編集をやってるものについては以下、お願いします。\n\n• 波形ですら確認できるほど明確なノイズ\n→MA前に編集でカットします　\n　台本にコメント／台本の前後をスクショ→slack\n　いただければ、代案考えます\n\n• しゃべりに被ってるノイズ\n→MAにて直してもらいます\n　マーカーで「ノイズ（ 長い）」とかしておいて、マーカー一覧\n　スクショをMA（QT＋OMF）のフォルダに入れといてください　長いか短いかはBGM入れた方がいいかどうかの判断になるので、ノイズの特徴も軽く書いといてもらえるとありがたいです\n\n\n→*試写1時点で「ノイズ処理」というテロップは不要です。*\n　試写に集中してもらいたいと思います\n\nMA後\n• しゃべりに被ってるノイズ\nマーカー箇所のノイズ、軽減されてるか確認し、白マーカーに\n\nクライアントチェック\n• 修正すんでる箇所でまだ言ってきたら「修正ずみ」とリアクションします。これ以上修正すると歪みます、とは伝えてあります\n• こちらの修正もれっぽいところ\nそれはMAでの見落としかもしれないので、再MA\n\n\n聴き比べ素材がMAフォルダにあります。今後の参考に聞いといてくださいー",
+                "author_name": "h.kodera",
+                "author_link": "https:\/\/kdddipresidentnep2022.slack.com\/team\/U03CXUXB5PF",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_48.png",
+                "author_subname": "h.kodera",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "#3-edit のスレッド"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C042B468-77C9-4DB4-9140-45B29EEBAE03",
+        "type": "message",
+        "text": "編集１ではノイズ気にせずの認識でした。\nあってます？\n\nちなみに編集１で上げてる吉岡・坂井は\nAランクに該当するノイズはありませんでした。",
+        "user": "U03QQ3J656Z",
+        "ts": "1668462997.618809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Df5I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "編集１ではノイズ気にせずの認識でした。\nあってます？\n\nちなみに編集１で上げてる吉岡・坂井は\nAランクに該当するノイズはありませんでした。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F62725E3-EFF3-4558-875B-B374FAFA001F",
+        "type": "message",
+        "text": "ありがとうございます。今後は編集1の段階でAランクノイズあればお知らせください。カット方法考えます。そのほうが修正台本が単純になってMAが早められるので。\n\nというわけで試写1に関してはカット対応するほどのノイズはなかったったことで、もう少し感度をおとさてもらうよういっときます。内容に集中して欲しい。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1668463242.367159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VJbJK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます。今後は編集1の段階でAランクノイズあればお知らせください。カット方法考えます。そのほうが修正台本が単純になってMAが早められるので。\n\nというわけで試写1に関してはカット対応するほどのノイズはなかったったことで、もう少し感度をおとさてもらうよういっときます。内容に集中して欲しい。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1668463299.000000"
+        }
+    },
+    {
+        "client_msg_id": "62a2ec30-96c7-4166-81c7-742524ac95c6",
+        "type": "message",
+        "text": "<@U03QQ3J656Z>\n前野・吉岡、CGきてます\nご確認ください",
+        "user": "U03CXUXB5PF",
+        "ts": "1668485122.899889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I0Xa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n前野・吉岡、CGきてます\nご確認ください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

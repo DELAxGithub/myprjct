@@ -1,0 +1,322 @@
+[
+    {
+        "client_msg_id": "4d5d4c9a-7194-4f17-9f8f-d02a8e5e783a",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> だいぶ催促の声が真剣みをましてまして、\n一方で<#C048CGTB45A|3-edit-1115納品分> <#C04A8UH8L0Z|3-edit-1130> の納品できるやつは納品進めましょう。\n\nあと、試写１→MAがボトルネックになってるので、二人で見てたのが、\nどちらか一人がみたらMAに進めるっていうことになりました。\n\nというわけで、新作はMAのスケジュール・在庫を見ながら在庫を切らなさないよう進めつつ、締め切り過ぎてるやつはさっさと納品していきたいなと。\n\nよろしくお願いいたします",
+        "user": "U03CXUXB5PF",
+        "ts": "1669668605.085849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wDf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " だいぶ催促の声が真剣みをましてまして、\n一方で"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C048CGTB45A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04A8UH8L0Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " の納品できるやつは納品進めましょう。\n\nあと、試写１→MAがボトルネックになってるので、二人で見てたのが、\nどちらか一人がみたらMAに進めるっていうことになりました。\n\nというわけで、新作はMAのスケジュール・在庫を見ながら在庫を切らなさないよう進めつつ、締め切り過ぎてるやつはさっさと納品していきたいなと。\n\nよろしくお願いいたします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-raising-hand",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BF73189D-2AE0-468E-A2C5-32AA29EE1219",
+        "type": "message",
+        "text": "\n\nM A予定→11月29日、12月2日、5日\nその間で音響効果仕込み\nといった感じです。\n\nだそうです",
+        "user": "U03CXUXB5PF",
+        "ts": "1669672624.429919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qvNpd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "M A予定→11月29日、12月2日、5日"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "その間で音響効果仕込み"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "といった感じです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nだそうです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc353278-1c7f-40ff-843d-17a1f89c74b8",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n本日の在庫確認\n\n試写１：２本（51湯澤、52志田）\nMA ：１本（48坂井）\n試写２：２本（46吉岡、37片岡）\n\n試写2.1,2.2以降は試写２にカウントしてないです。\n51湯澤のReplayの渡辺さんのコメントがそろってるようなのですがまだ進めない方がいいでしょうか。",
+        "user": "U03NZ0E09JN",
+        "ts": "1669685600.941329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lmw9\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n本日の在庫確認\n\n試写１：２本（51湯澤、52志田）\nMA ：１本（48坂井）\n試写２：２本（46吉岡、37片岡）\n\n試写2.1,2.2以降は試写２にカウントしてないです。\n51湯澤のReplayの渡辺さんのコメントがそろってるようなのですがまだ進めない方がいいでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "85ad5b1a-ae8b-46e2-8145-143d05b524a7",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> 51は進めて大丈夫ですー",
+        "user": "U03CXUXB5PF",
+        "ts": "1669685746.337169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ckC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 51は進めて大丈夫ですー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ba67a39b-c674-4acc-938f-74a5ace3696a",
+        "type": "message",
+        "text": "<@U03NZ0E09JN>\nで、試写2.1以降は締切過ぎてたら優先度高いって感じです\n試写1,MA,試写2が在庫が1以上の場合、試写2.1（締切前後）の優先度はこんな感じ。\n\n試写2.1（締切前）&lt;試写2&lt;試写1&lt;MA＜試写2.1以降（締切後）\n\nだんだんややこしくなってきましたが、\n在庫がなければそれをやるけど、締切がすぎてたらそっちやる、と。\n\n10月はあんまり締切こと言わなれなかったんですが、\n11月でペースがあんまり上がらなかったこともあり、ちくちく言われ始めました。\n12月は実は大元のクライアントと本数の約束してないので、1月の貯金を作る感じです。\n\nただ、12月で本数を稼げない場合は、増員のご相談などお願いするかもです。\n1月〜4月は月15本納品ペースになりそうです。",
+        "user": "U03CXUXB5PF",
+        "ts": "1669686219.857219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MqW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nで、試写2.1以降は締切過ぎてたら優先度高いって感じです\n試写1,MA,試写2が在庫が1以上の場合、試写2.1（締切前後）の優先度はこんな感じ。\n\n試写2.1（締切前）<試写2<試写1<MA＜試写2.1以降（締切後）\n\nだんだんややこしくなってきましたが、\n在庫がなければそれをやるけど、締切がすぎてたらそっちやる、と。\n\n10月はあんまり締切こと言わなれなかったんですが、\n11月でペースがあんまり上がらなかったこともあり、ちくちく言われ始めました。\n12月は実は大元のクライアントと本数の約束してないので、1月の貯金を作る感じです。\n\nただ、12月で本数を稼げない場合は、増員のご相談などお願いするかもです。\n1月〜4月は月15本納品ペースになりそうです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6d2f3b51-1cc1-4832-a013-c68862dd4aab",
+        "type": "message",
+        "text": "11\/28週の目標\n\n【試写１】12\/2までに\n52志田\n54酒井\n53林\n56託摩\n\n【MA】\n11\/29 51湯澤\n12\/2（52志田）　\n12\/5（54酒井、53林）\n\n【試写２】\n48坂井\n47平藤\n55長谷",
+        "user": "U03NZ0E09JN",
+        "ts": "1669690463.858319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kClU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "11\/28週の目標\n\n【試写１】12\/2までに\n52志田\n54酒井\n53林\n56託摩\n\n【MA】\n11\/29 51湯澤\n12\/2（52志田）　\n12\/5（54酒井、53林）\n\n【試写２】\n48坂井\n47平藤\n55長谷"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

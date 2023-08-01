@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "f524bcb0-0686-4eda-b11b-34c809072ce7",
+        "type": "message",
+        "text": "<@U03QQ3J656Z> 坂井さんご本人からの修正依頼です。ご確認よろしくお願いいたします\n上の方に修正箇所記入していますが、ご不明な点があれば何なりとおしらせください。\n<https:\/\/docs.google.com\/document\/d\/10b_ilfYAIk9aPrI52NUlw_kaZolCNn-7DwCXkhQs9hA\/edit?usp=sharing>",
+        "user": "U03CXUXB5PF",
+        "ts": "1671422254.104479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SSg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 坂井さんご本人からの修正依頼です。ご確認よろしくお願いいたします\n上の方に修正箇所記入していますが、ご不明な点があれば何なりとおしらせください。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/10b_ilfYAIk9aPrI52NUlw_kaZolCNn-7DwCXkhQs9hA\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

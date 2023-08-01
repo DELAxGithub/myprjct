@@ -1,0 +1,567 @@
+[
+    {
+        "client_msg_id": "fd157e72-c567-42c6-a058-e87a13d3c18f",
+        "type": "message",
+        "text": "35岡のシークエンスep3とprがエンコーダーに入りません、、、\nこのバグの経験ありますか？",
+        "user": "U040YCC00V6",
+        "ts": "1665648228.048759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zSrWO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "35岡のシークエンスep3とprがエンコーダーに入りません、、、\nこのバグの経験ありますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d4391fde-f672-4dc3-8ef1-a3ceea5ea980",
+        "type": "message",
+        "text": "エンコーダー入れ直したら解決しました。",
+        "user": "U040YCC00V6",
+        "ts": "1665653654.599069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lgg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "エンコーダー入れ直したら解決しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "書き出し中の役割分担についてです。\n極論、一人で全部できるんですよね。。\nそれを目先の書き出し速度にとらわれて分業をあっちこっちやればやるほどミスが増えていく（確認コストが跳ね上がっていく）ような。\n\nプロキシ編集してるので、本番書き出し以外は全部編集サイドにやってもらう＋制作はラストの本編書き出しだけ\nっていうのが実は一番確実な気がしてきました。\nどうでしょうか。\n1020以降のやり方として相談させてください",
+        "files": [
+            {
+                "id": "F046V3HHA3T",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1665705257.139139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ihw6t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "書き出し中の役割分担についてです。\n極論、一人で全部できるんですよね。。\nそれを目先の書き出し速度にとらわれて分業をあっちこっちやればやるほどミスが増えていく（確認コストが跳ね上がっていく）ような。\n\nプロキシ編集してるので、本番書き出し以外は全部編集サイドにやってもらう＋制作はラストの本編書き出しだけ\nっていうのが実は一番確実な気がしてきました。\nどうでしょうか。\n1020以降のやり方として相談させてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "68cf5b3f-bdf7-4cba-9abe-81731296c3f1",
+        "reactions": [
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "06677f31-49e1-4c40-8e6c-8b2171f00669",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n11:30のCG打合せですが、一旦キャンセルとさせてください。申し訳ありません。",
+        "user": "U03NZ0E09JN",
+        "ts": "1665710318.546059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y\/QCe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n11:30のCG打合せですが、一旦キャンセルとさせてください。申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "814244c7-c915-4d70-bdb2-454dc9687898",
+        "type": "message",
+        "text": "<@U040YCC00V6> <@U03NZ0E09JN> <@U03V84JSHNK> 週末かつ来週は収録なので、やること整理しておきましょう。やすながくんは週末から動けたりするとありがたいですけど。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665710993.700909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EkSdG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 週末かつ来週は収録なので、やること整理しておきましょう。やすながくんは週末から動けたりするとありがたいですけど。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1665711000.000000"
+        },
+        "thread_ts": "1665710993.700909",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1665711261.194789",
+        "reply_users": [
+            "U03V84JSHNK",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1665711089.778349"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665711160.021829"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1665711200.274319"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665711239.664259"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1665711261.194789"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1665711261.194789"
+    },
+    {
+        "client_msg_id": "675CD632-97C3-401A-BC64-5932F26F75F3",
+        "type": "message",
+        "text": "今日で別件が完パケなので、明日明後日はわりかし動けます！\n来週の収録にもハード持っていく予定なので、収録の合間に素材探しとか諸々はできます。",
+        "user": "U03V84JSHNK",
+        "ts": "1665711089.778349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ICnS1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日で別件が完パケなので、明日明後日はわりかし動けます！\n来週の収録にもハード持っていく予定なので、収録の合間に素材探しとか諸々はできます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665710993.700909",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "20eacc20-2c13-43e0-be5a-21eb3b8321e8",
+        "type": "message",
+        "text": "お疲れ様です。収録に付き合わなくてもいいかなと。。去年は僕現場で一人、今年は寺田君一人だったのですがまぁ別にうまくできるので。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665711160.021829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sU+SY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。収録に付き合わなくてもいいかなと。。去年は僕現場で一人、今年は寺田君一人だったのですがまぁ別にうまくできるので。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665710993.700909",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "0E18FA7F-328B-4D34-8309-587E548AD199",
+        "type": "message",
+        "text": "そうですか、まあ池田くんと相談してみます！",
+        "user": "U03V84JSHNK",
+        "ts": "1665711200.274319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=ttsd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうですか、まあ池田くんと相談してみます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665710993.700909",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "70a586c9-9e2d-4b68-9cab-b6e8da607a81",
+        "type": "message",
+        "text": "結構制作業務たまったんで、できれば編集に専念できるような体制を考えましょうー",
+        "user": "U03CXUXB5PF",
+        "ts": "1665711239.664259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+D1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "結構制作業務たまったんで、できれば編集に専念できるような体制を考えましょうー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665710993.700909",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "FAA2CD5B-6090-4904-8136-60EC0D04E1DC",
+        "type": "message",
+        "text": "了解しました！",
+        "user": "U03V84JSHNK",
+        "ts": "1665711261.194789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XD\/cj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解しました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665710993.700909",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "71c628d1-a593-4de2-81f2-63180285e86e",
+        "type": "message",
+        "text": "10\/14 todo\n\n<#C043WQL9XK6|3-edit-1020納品分>\n41平\n・MAが上がったのでMA反映（もう反映されてるようです）\n・クライアント確認事項２つ（映像追加に関することでした２試写前に用意する必要があれば）\n・手元試写〜クライアント２試写までのフォロー\n\n44筒井\n・MA発注",
+        "user": "U03NZ0E09JN",
+        "ts": "1665717609.374509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GuoKN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10\/14 todo\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043WQL9XK6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n41平\n・MAが上がったのでMA反映（もう反映されてるようです）\n・クライアント確認事項２つ（映像追加に関することでした２試写前に用意する必要があれば）\n・手元試写〜クライアント２試写までのフォロー\n\n44筒井\n・MA発注"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "242cbd2b-1a28-4f4e-b670-8a0f8ad49fa1",
+        "type": "message",
+        "text": "ありがとうございます\n平の2カットを制作チームで手配次第、試写2です\nそれ含めて、週末の制作todoは18時までにかんがえます\nクライアントチェックが土日になるので、金曜まででもろもろ書き出せるのはかきだしておきたいです\n\n今日はひとまず、1010の納品ですかね\nＭＡ発注が数本きてる、くるので、今晩まとめて書き出ししましょう。ＭＡも結局作業するの週末なので、18時時点で見逃さないようおねがいします\n\nってことでハドル、するかどうかは別として、19時にもう一回確認しましょう。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665718049.703669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jcl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます\n平の2カットを制作チームで手配次第、試写2です\nそれ含めて、週末の制作todoは18時までにかんがえます\nクライアントチェックが土日になるので、金曜まででもろもろ書き出せるのはかきだしておきたいです\n\n今日はひとまず、1010の納品ですかね\nＭＡ発注が数本きてる、くるので、今晩まとめて書き出ししましょう。ＭＡも結局作業するの週末なので、18時時点で見逃さないようおねがいします\n\nってことでハドル、するかどうかは別として、19時にもう一回確認しましょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-raising-hand",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

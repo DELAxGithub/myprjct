@@ -1,0 +1,245 @@
+[
+    {
+        "client_msg_id": "a0e2559c-725a-4ed7-9225-6abed2ae8348",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 101相馬さん、ドロップボックスにあるプロジェクト内のシーケンスが「試写３」となっています。このデータで間違いないか確認したいです。\n書き出し作業は進めていて、これで間違いないと確認できたら技術試写に進めたいと思います。",
+        "user": "U054HSHFAAH",
+        "ts": "1685964761.256409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wCa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 101相馬さん、ドロップボックスにあるプロジェクト内のシーケンスが「試写３」となっています。このデータで間違いないか確認したいです。\n書き出し作業は進めていて、これで間違いないと確認できたら技術試写に進めたいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "3c0472cbdd87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5181600335649_3c0472cbdd874f9a32ff_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Uramoto",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "kuramoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685964761.256409",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1686024950.721619",
+        "reply_users": [
+            "U03Q17LBJP3",
+            "U054HSHFAAH"
+        ],
+        "replies": [
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1685966572.189969"
+            },
+            {
+                "user": "U054HSHFAAH",
+                "ts": "1685972439.626519"
+            },
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1686024430.689879"
+            },
+            {
+                "user": "U054HSHFAAH",
+                "ts": "1686024950.721619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "20df93e9-d7cc-4893-a6cc-5fc4eb8a09ab",
+        "type": "message",
+        "text": "まだアップもプルダウンもしてませんでした。完了ですね。\nそれでは明日納品用の作業すすめますので少々お待ち下さい。",
+        "user": "U03Q17LBJP3",
+        "ts": "1685966572.189969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qBSu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まだアップもプルダウンもしてませんでした。完了ですね。\nそれでは明日納品用の作業すすめますので少々お待ち下さい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685964761.256409",
+        "parent_user_id": "U054HSHFAAH"
+    },
+    {
+        "client_msg_id": "4d0c5a85-2bca-4ff5-af50-a6b20506e7d9",
+        "type": "message",
+        "text": "編アップの通知が来たので作業進めましたが、一旦止めます。明日の作業、よろしくお願い致します。",
+        "user": "U054HSHFAAH",
+        "ts": "1685972439.626519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tZPg8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "編アップの通知が来たので作業進めましたが、一旦止めます。明日の作業、よろしくお願い致します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "3c0472cbdd87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5181600335649_3c0472cbdd874f9a32ff_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Uramoto",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "kuramoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685964761.256409",
+        "parent_user_id": "U054HSHFAAH"
+    },
+    {
+        "client_msg_id": "2a5a7358-101c-47db-93e8-2cf4628ecc0c",
+        "type": "message",
+        "text": "<@U054HSHFAAH>\n101相馬\nたいへんお待たせいたしました。\n最終プロジェクトとコピーをアップしました。よろしくお願いします。",
+        "user": "U03Q17LBJP3",
+        "ts": "1686024430.689879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DQ3hS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U054HSHFAAH"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n101相馬\nたいへんお待たせいたしました。\n最終プロジェクトとコピーをアップしました。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685964761.256409",
+        "parent_user_id": "U054HSHFAAH"
+    },
+    {
+        "client_msg_id": "d99b8cd7-d553-4011-aaff-28d40182e59a",
+        "type": "message",
+        "text": "了解です、ありがとうございます。今晩作業しますー",
+        "user": "U054HSHFAAH",
+        "ts": "1686024950.721619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p95EZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です、ありがとうございます。今晩作業しますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "3c0472cbdd87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5181600335649_3c0472cbdd874f9a32ff_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Uramoto",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "kuramoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685964761.256409",
+        "parent_user_id": "U054HSHFAAH",
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

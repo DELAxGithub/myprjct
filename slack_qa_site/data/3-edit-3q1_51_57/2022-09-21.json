@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "134873b9-5c7a-4664-86f3-78d8375f649a",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n54_酒井 55_長谷 57_大塚の３本\nプロキシをダウンロード後プロジェクトに追加した結果、\n３本とも問題なく動きました。\nよろしくお願いいたします。",
+        "user": "U03RA83HRN0",
+        "ts": "1663817215.364619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NZ+\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n54_酒井 55_長谷 57_大塚の３本\nプロキシをダウンロード後プロジェクトに追加した結果、\n３本とも問題なく動きました。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "mechanical_arm",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "innocent",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

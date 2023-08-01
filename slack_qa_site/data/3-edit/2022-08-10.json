@@ -1,0 +1,282 @@
+[
+    {
+        "client_msg_id": "1f48e33d-13e1-4d44-9c1c-c9c475e023c2",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03HJRZK295>\nお世話になっております。ご報告させていただきます。\n(#36 吉永先生)\nep1のみ全てカット済み。全部で12分02秒でございます。\n（アバン・あらすじ・ダイジェストはなし）\n\n何卒よろしくお願いいたします。",
+        "user": "U03RDSN3ZMG",
+        "ts": "1660125329.010459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2amg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお世話になっております。ご報告させていただきます。\n(#36 吉永先生)\nep1のみ全てカット済み。全部で12分02秒でございます。\n（アバン・あらすじ・ダイジェストはなし）\n\n何卒よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ba4756d9ff45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-28\/3852142960871_ba4756d9ff450cdff3d5_72.png",
+            "first_name": "村井希",
+            "real_name": "村井希",
+            "display_name": "Murai Nozomi",
+            "team": "T03CU6RQ154",
+            "name": "fukuoka.nozomi620",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1660125329.010459",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1660262585.766179",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U03QQ3J656Z",
+            "U03RDSN3ZMG",
+            "U03NZ0E09JN"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1660126456.302229"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1660182680.977719"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1660203714.075319"
+            },
+            {
+                "user": "U03RDSN3ZMG",
+                "ts": "1660208215.970859"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1660208420.523259"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1660208519.343679"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1660262585.766179"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1660262585.766179",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Slackなんで挨拶とかなくても大丈夫ですよ\n\nep2か3から移植するか起こしの使ってないところから復活するか考えます。\n移植を優先的に考えるので、2と3も尺教えてくださいー\n<@U03RDSN3ZMG>\n",
+        "user": "U03CXUXB5PF",
+        "ts": "1660126456.302229",
+        "thread_ts": "1660125329.010459",
+        "root": {
+            "client_msg_id": "1f48e33d-13e1-4d44-9c1c-c9c475e023c2",
+            "type": "message",
+            "text": "<@U03CXUXB5PF> <@U03HJRZK295>\nお世話になっております。ご報告させていただきます。\n(#36 吉永先生)\nep1のみ全てカット済み。全部で12分02秒でございます。\n（アバン・あらすじ・ダイジェストはなし）\n\n何卒よろしくお願いいたします。",
+            "user": "U03RDSN3ZMG",
+            "ts": "1660125329.010459",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "2amg",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03CXUXB5PF"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03HJRZK295"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nお世話になっております。ご報告させていただきます。\n(#36 吉永先生)\nep1のみ全てカット済み。全部で12分02秒でございます。\n（アバン・あらすじ・ダイジェストはなし）\n\n何卒よろしくお願いいたします。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1660125329.010459",
+            "reply_count": 7,
+            "reply_users_count": 4,
+            "latest_reply": "1660262585.766179",
+            "reply_users": [
+                "U03CXUXB5PF",
+                "U03QQ3J656Z",
+                "U03RDSN3ZMG",
+                "U03NZ0E09JN"
+            ],
+            "replies": [
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1660126456.302229"
+                },
+                {
+                    "user": "U03QQ3J656Z",
+                    "ts": "1660182680.977719"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1660203714.075319"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1660208215.970859"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1660208420.523259"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1660208519.343679"
+                },
+                {
+                    "user": "U03QQ3J656Z",
+                    "ts": "1660262585.766179"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1660262585.766179"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gJBE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Slackなんで挨拶とかなくても大丈夫ですよ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nep2か3から移植するか起こしの使ってないところから復活するか考えます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "移植を優先的に考えるので、2と3も尺教えてくださいー"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RDSN3ZMG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "E0E4965C-E2D5-45ED-A406-98A1554A8762"
+    },
+    {
+        "client_msg_id": "3fa9b2a4-3e7f-4309-8479-bc8a43bb39c1",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nこちら、１７分超えるので問題ないです。",
+        "user": "U03QQ3J656Z",
+        "ts": "1660182680.977719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/eUi5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこちら、１７分超えるので問題ないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1660125329.010459",
+        "parent_user_id": "U03RDSN3ZMG"
+    }
+]

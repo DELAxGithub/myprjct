@@ -1,0 +1,129 @@
+[
+    {
+        "client_msg_id": "a8e6a43e-377d-42eb-b6db-5832566ae0a4",
+        "type": "message",
+        "text": "小寺さん、お手隙の時にハドル、お願いしたいです",
+        "user": "U040YCC00V6",
+        "ts": "1663936654.432579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t05",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "小寺さん、お手隙の時にハドル、お願いしたいです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8f9cc660-27c6-4459-8140-03d1cab139c2",
+        "type": "message",
+        "text": "小野塚の書き出しのことです",
+        "user": "U040YCC00V6",
+        "ts": "1663936795.049849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U=ynE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "小野塚の書き出しのことです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9a9afeb9-e6ba-4bb4-998b-ce3f4ff998cb",
+        "type": "message",
+        "text": "<@U040YCC00V6> あと、店じまいの時に、リモートデスクトップしておきましょう",
+        "user": "U03CXUXB5PF",
+        "ts": "1663941666.319249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JTK3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " あと、店じまいの時に、リモートデスクトップしておきましょう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U040YCC00V6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

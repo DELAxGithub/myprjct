@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "bc14510b-5f74-4c2e-9123-f816975fc0c7",
+        "type": "message",
+        "text": "ここは各チャンネルに振り分けたから解散でいいかも",
+        "user": "U03CXUXB5PF",
+        "ts": "1667962228.124709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tdt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ここは各チャンネルに振り分けたから解散でいいかも"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

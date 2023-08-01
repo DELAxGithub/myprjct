@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "cc4a2e5d-6380-44c4-9935-0a74c758e069",
+        "type": "message",
+        "text": "<@U04J38PLGM6> <@U03V84JSHNK> 69廣野 使い所決めました\n\nまたイメージカットの選び方のポイントを書いておきますのでご確認の上、作業をお願いします\n\n今週13日までに70まで編集スタートしたいと思ってますのでよろしくお願いいたします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1673184721.882069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0eT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 69廣野 使い所決めました\n\nまたイメージカットの選び方のポイントを書いておきますのでご確認の上、作業をお願いします\n\n今週13日までに70まで編集スタートしたいと思ってますのでよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673187251.779319",
+        "user": "U03V84JSHNK",
+        "text": "<@U03V84JSHNK>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "b9bb39fd-a3b3-48ee-b2c4-7abe1b3c19de",
+        "type": "message",
+        "text": "```「68多湖さん」（2.0）→弊社視聴完了しました。```\n<@U03Q17LBJP3> 修正終わったら出演者当てますので、編集3.0ということでお願いします",
+        "user": "U03CXUXB5PF",
+        "ts": "1675166836.860239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sqMI",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「68多湖さん」（2.0）→弊社視聴完了しました。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 修正終わったら出演者当てますので、編集3.0ということでお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

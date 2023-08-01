@@ -1,0 +1,280 @@
+[
+    {
+        "client_msg_id": "5dfcf431-01d5-43b4-a6aa-c5ffd9c64ee2",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> ようやく試写が始まりまして、尺が変わらなそうなやつから仮BGM用の書き出し始めます。\n<@U03HJRZK295> というわけでどれからやるかは、previewチャンネルと進捗表にてお伝えします。\n書き出しのテストとして作業できるやつから一回やってみましょうかね。\n\n田中さんV1で\n・OMFの書き出し設定\n・Proresの書き出し方\nとかをお願いします。\nご不明な点があれば何なりとおしらせください",
+        "user": "U03CXUXB5PF",
+        "ts": "1659398400.973799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mFh+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ようやく試写が始まりまして、尺が変わらなそうなやつから仮BGM用の書き出し始めます。\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " というわけでどれからやるかは、previewチャンネルと進捗表にてお伝えします。\n書き出しのテストとして作業できるやつから一回やってみましょうかね。\n\n田中さんV1で\n・OMFの書き出し設定\n・Proresの書き出し方\nとかをお願いします。\nご不明な点があれば何なりとおしらせください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1bbf41c1-11cb-4385-a15e-a08862a2f625",
+        "type": "message",
+        "text": "承知しました。\nデータお待ちしてます。",
+        "user": "U03G0LAPT3N",
+        "ts": "1659399974.529209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k56l2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "データお待ちしてます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03HJRZK295"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "KDDI_MA&gt;21_tanakaにV1のOMFとprores書き出しました。ご確認よろしくお願いいたします",
+        "files": [
+            {
+                "id": "F03RZR4HEVA",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03HJRZK295",
+        "display_as_bot": false,
+        "ts": "1659409104.558279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q=R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "KDDI_MA>21_tanakaにV1のOMFとprores書き出しました。ご確認よろしくお願いいたします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "640de842-4fe1-49c0-930d-204790173bbc"
+    },
+    {
+        "type": "message",
+        "text": "MEで書き出すときに4K素材ないのでプロキシに変換しますと警告が出ました。ここでは問題ないかと思いますが、報告までに",
+        "files": [
+            {
+                "id": "F03SM4F6CNL",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03HJRZK295",
+        "display_as_bot": false,
+        "ts": "1659409213.232699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NFE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MEで書き出すときに4K素材ないのでプロキシに変換しますと警告が出ました。ここでは問題ないかと思いますが、報告までに"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3a252ecb-4c14-42dc-a4c9-a42ae8478490"
+    },
+    {
+        "type": "message",
+        "text": "読み込み検証結果です。",
+        "files": [
+            {
+                "id": "F03SAA29H4Z",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1659416150.257599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XWO4l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "読み込み検証結果です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6cebfb7e-16af-41bd-92ea-a32474eb0014"
+    },
+    {
+        "client_msg_id": "A58042D5-DC91-4941-980B-BFC395E13415",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 音効金子さんのDropboxがまだ本案件のフォルダが作成されていないようです。\nアカウントは、toprisecreative@gmail.comです。よろしくお願いします。",
+        "user": "U03G0LAPT3N",
+        "ts": "1659416425.678199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hJkdy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "音効金子さんの"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Dropbox"
+                            },
+                            {
+                                "type": "text",
+                                "text": "がまだ本案件のフォルダが作成されていないようです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "アカウントは、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "toprisecreative@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "です。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

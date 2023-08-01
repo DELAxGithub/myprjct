@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "42b869cb-2cc0-48fb-b2f1-292794b3d2bd",
+        "type": "message",
+        "text": "これも便利そう。。\n\n<https:\/\/twitter.com\/kurubushi_rm\/status\/1612802575702839296?s=20&amp;t=H0bKBKRQCXn2Ofa597h82g>",
+        "user": "U03CXUXB5PF",
+        "ts": "1673440011.076619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YaAbi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これも便利そう。。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/kurubushi_rm\/status\/1612802575702839296?s=20&t=H0bKBKRQCXn2Ofa597h82g"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

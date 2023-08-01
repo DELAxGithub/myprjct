@@ -1,0 +1,113 @@
+[
+    {
+        "client_msg_id": "ad0e6a94-6820-4bb7-a17a-ce5b40113fe0",
+        "type": "message",
+        "text": "<@U03L0UFJF70> あ、そうだ、カラコレ（調整レイヤー）がなんかばらばらな感じがするんだけど、どうなんだろう。これ挙動もよくわかってないんだけど、どうやってフォーマットにできるのだろうか。",
+        "user": "U03CXUXB5PF",
+        "ts": "1664330206.408539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AbYEU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03L0UFJF70"
+                            },
+                            {
+                                "type": "text",
+                                "text": " あ、そうだ、カラコレ（調整レイヤー）がなんかばらばらな感じがするんだけど、どうなんだろう。これ挙動もよくわかってないんだけど、どうやってフォーマットにできるのだろうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664330206.408539",
+        "reply_count": 14,
+        "reply_users_count": 2,
+        "latest_reply": "1664401759.986269",
+        "reply_users": [
+            "U03L0UFJF70",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03L0UFJF70",
+                "ts": "1664400200.074119"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1664400320.386359"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1664400391.823629"
+            },
+            {
+                "user": "U03L0UFJF70",
+                "ts": "1664400953.867679"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1664401011.070559"
+            },
+            {
+                "user": "U03L0UFJF70",
+                "ts": "1664401203.072159"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1664401217.013489"
+            },
+            {
+                "user": "U03L0UFJF70",
+                "ts": "1664401237.584379"
+            },
+            {
+                "user": "U03L0UFJF70",
+                "ts": "1664401253.253079"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1664401307.340239"
+            },
+            {
+                "user": "U03L0UFJF70",
+                "ts": "1664401604.785569"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1664401637.671049"
+            },
+            {
+                "user": "U03L0UFJF70",
+                "ts": "1664401654.024919"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1664401759.986269"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1664401759.986269"
+    }
+]

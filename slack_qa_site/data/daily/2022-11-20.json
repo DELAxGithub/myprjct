@@ -1,0 +1,93 @@
+[
+    {
+        "client_msg_id": "3bc4b356-80f4-4644-bfd7-cc8a38f9707f",
+        "type": "message",
+        "text": "11\/21 月曜\n在庫 試写1（2） MA(0）試写2（0）\n\nMAできるやつ(46,55)、MAきたやつ(38)を優先しつつ、制作作業の発注（ダミー→本番、修正確認）はできたら午前中にください。すぐ対応します。\n\n<#C048CGTB45A|3-edit-1115納品分>\n2.0の試写が終わっています　\n差し替え必要な素材の連絡しつつなど、2.1への移行\n\n<#C04A8UH8L0Z|3-edit-1130>\nMAが来た前野を試写2へ\n試写1が終わった46,55はMAヘ\n\n<#C04BB328NAC|3-edit-1215>\n新作始める場合 <#C03D36KA10U|general> にあげてる編集会議動画をご確認いただき、プロジェクトの移行をお願いします\n\n24時間以内にやること\n・57の編集台本仕上げ\n・37、57のCG発注\n・<#C048CGTB45A|3-edit-1115納品分> のダミー→本番差し替えなど",
+        "user": "U03CXUXB5PF",
+        "ts": "1668981031.787479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p7EkK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "11\/21 月曜\n在庫 試写1（2） MA(0）試写2（0）\n\nMAできるやつ(46,55)、MAきたやつ(38)を優先しつつ、制作作業の発注（ダミー→本番、修正確認）はできたら午前中にください。すぐ対応します。\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C048CGTB45A"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n2.0の試写が終わっています　\n差し替え必要な素材の連絡しつつなど、2.1への移行\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04A8UH8L0Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMAが来た前野を試写2へ\n試写1が終わった46,55はMAヘ\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04BB328NAC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n新作始める場合 "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03D36KA10U"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にあげてる編集会議動画をご確認いただき、プロジェクトの移行をお願いします\n\n24時間以内にやること\n・57の編集台本仕上げ\n・37、57のCG発注\n・"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C048CGTB45A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " のダミー→本番差し替えなど"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1668991469.000000"
+        },
+        "reactions": [
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

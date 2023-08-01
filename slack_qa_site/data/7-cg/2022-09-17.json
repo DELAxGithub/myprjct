@@ -1,0 +1,86 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF> \nこちらはpremierの方で担当編集マンがAEの静止画とテロップで編集するということでよろしいでしょうか。\n",
+        "user": "U03NZ0E09JN",
+        "ts": "1663401889.599889",
+        "thread_ts": "1663335888.428859",
+        "root": {
+            "client_msg_id": "16d17ac9-c997-4a9c-bb3b-7caf48db5c4b",
+            "type": "message",
+            "text": "テロップで補足します。とりあえず重ねあってる瞬間はAE上で表現してるコマがあればそれを静止画にして編集で使っていきましょう。",
+            "user": "U03CXUXB5PF",
+            "ts": "1663335888.428859",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "fy3d",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "テロップで補足します。とりあえず重ねあってる瞬間はAE上で表現してるコマがあればそれを静止画にして編集で使っていきましょう。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "edited": {
+                "user": "U03CXUXB5PF",
+                "ts": "1663335895.000000"
+            },
+            "thread_ts": "1663335888.428859",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1663401889.599889",
+            "reply_users": [
+                "U03NZ0E09JN"
+            ],
+            "replies": [
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1663401889.599889"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1663401889.599889"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nxe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nこちらはpremierの方で担当編集マンがAEの静止画とテロップで編集するということでよろしいでしょうか。\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "B10D53E1-BD63-4FEC-AB0F-637EB223E507",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

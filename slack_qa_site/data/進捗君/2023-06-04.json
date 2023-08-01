@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#103清水晶子で変更がありました\n変更前：技術確認\n変更後：納品試写\n担当者は辻井です",
+        "ts": "1685893767.271789",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G7u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#103清水晶子で変更がありました\n変更前：技術確認\n変更後：納品試写\n担当者は辻井です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U054HSHFAAH> #101相馬 雅代で変更がありました\n変更前：試写3\n変更後：編集アップ\n担当者は岡野です",
+        "ts": "1685930829.739069",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BAQ1r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U054HSHFAAH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #101相馬 雅代で変更がありました\n変更前：試写3\n変更後：編集アップ\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

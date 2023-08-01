@@ -1,0 +1,58 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03RA83HRN0> #86東島沙弥佳で変更がありました\n変更前：リサーチ\n変更後：編集1\n担当者は石橋です",
+        "ts": "1678794654.834539",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jfv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #86東島沙弥佳で変更がありました\n変更前：リサーチ\n変更後：編集1\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03P0T4KQMV> #82河田雅圭で変更がありました\n変更前：試写1\n変更後：MA編集\n担当者は辻井です",
+        "ts": "1678801808.325579",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ian9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #82河田雅圭で変更がありました\n変更前：試写1\n変更後：MA編集\n担当者は辻井です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

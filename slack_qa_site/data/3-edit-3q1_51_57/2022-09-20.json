@@ -1,0 +1,291 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663732341.839399",
+        "user": "U03CXUXB5PF",
+        "text": "<@U03CXUXB5PF>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663732637.773799",
+        "user": "U03NZ0E09JN",
+        "text": "<@U03NZ0E09JN>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "d4e04200-9060-4b73-81b8-bad7cf806837",
+        "type": "message",
+        "text": "担当者決まったらチャンネルに招待",
+        "user": "U03CXUXB5PF",
+        "ts": "1663733011.128139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "grq7U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "担当者決まったらチャンネルに招待"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663733650.578229",
+        "user": "U03Q17LBJP3",
+        "text": "<@U03Q17LBJP3>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663733657.908139",
+        "user": "U03RA83HRN0",
+        "text": "<@U03RA83HRN0>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663733665.579489",
+        "user": "U03QQ3J656Z",
+        "text": "<@U03QQ3J656Z>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663733673.019659",
+        "user": "U03NJGXEPL7",
+        "text": "<@U03NJGXEPL7>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "client_msg_id": "da7da161-95c2-4e96-8b15-0ca6229ef7d1",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n51-57の担当分け完了しました。",
+        "user": "U03NZ0E09JN",
+        "ts": "1663739179.997069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5bC1f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n51-57の担当分け完了しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "19614c6c-d74b-40ca-b50d-6db9ae662d50",
+        "type": "message",
+        "text": "ではこちらも自分の担当のプロキシーをダウンロード→全部落ちてきたのを確認の上、３Q1にてちゃんと動くか確認ください",
+        "user": "U03CXUXB5PF",
+        "ts": "1663739276.722039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VUXw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ではこちらも自分の担当のプロキシーをダウンロード→全部落ちてきたのを確認の上、３Q1にてちゃんと動くか確認ください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8bc10e55-46a7-4eec-80d7-5e0cda41eb1d",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n3Q1のシーケンスの招待が来てなかったようです。\nお手数ですが招待をお願いいたします。\n<mailto:koyama@douga-creators.co.jp|koyama@douga-creators.co.jp>",
+        "user": "U03NZ0E09JN",
+        "ts": "1663739752.998549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dXa1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n3Q1のシーケンスの招待が来てなかったようです。\nお手数ですが招待をお願いいたします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:koyama@douga-creators.co.jp",
+                                "text": "koyama@douga-creators.co.jp",
+                                "unsafe": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a3d88515-a019-48f2-b59a-c8408b901558",
+        "type": "message",
+        "text": "しましたー、というかしてありましたー",
+        "user": "U03CXUXB5PF",
+        "ts": "1663739862.562099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h=Mhl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しましたー、というかしてありましたー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d78a33dc-ef05-412b-b06c-876ad54d7079",
+        "type": "message",
+        "text": "失礼いたしました。見落としておりました。\n早速ありがとうございます！",
+        "user": "U03NZ0E09JN",
+        "ts": "1663739983.788229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7f87v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "失礼いたしました。見落としておりました。\n早速ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

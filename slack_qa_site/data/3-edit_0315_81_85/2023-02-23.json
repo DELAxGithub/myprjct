@@ -1,0 +1,190 @@
+[
+    {
+        "client_msg_id": "33c59f2c-37b5-4ece-9ac2-fb3728f0b56d",
+        "type": "message",
+        "text": "<@U04J38PLGM6> 83小幡のプロジェクトとproxyの準備がまだのようでしたのでご確認のほどよろしくお願いいたします。",
+        "user": "U03NZ0E09JN",
+        "ts": "1677211813.938879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m9jW3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 83小幡のプロジェクトとproxyの準備がまだのようでしたのでご確認のほどよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677211813.938879",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677212118.085249",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1677212118.085249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "889A6143-2177-46E5-917B-01B643CDE686",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> 失礼しました。\n今収録中なので夜に対応します :man-bowing:\n",
+        "user": "U04J38PLGM6",
+        "ts": "1677212118.085249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6yklF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 失礼しました。\n今収録中なので夜に対応します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677211813.938879",
+        "parent_user_id": "U03NZ0E09JN",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9EA6A050-4C7E-4D8E-8525-645DA450C0DD",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> \nお疲れ様です。84山下さんの粗編をアップいたしました。よろしくお願い致します :blush: :woman-bowing: ",
+        "user": "U04KFCBLY9J",
+        "ts": "1677212572.512009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F7M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です。84山下さんの粗編をアップいたしました。よろしくお願い致します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "92c38854-e99d-4d4a-a07d-5d67975afd7e",
+        "type": "message",
+        "text": "もらい素材の画像サイズが小さいのは何回か問題になってましたが、これで解決ですね。フォトショのプラグインで使えるようになるようです。助かる。。\n\n<https:\/\/exchange.adobe.com\/apps\/cc\/114117da\/stable-diffusion|Install it from the Adobe Exchange>.\n\n\nStability AIが画像アップスケーリングAPIをリリース\n<https:\/\/ja.stability.ai\/blog\/stability-ai-releases-image-upscaling-api>",
+        "user": "U03CXUXB5PF",
+        "ts": "1682627194.830349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xBxW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もらい素材の画像サイズが小さいのは何回か問題になってましたが、これで解決ですね。フォトショのプラグインで使えるようになるようです。助かる。。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/exchange.adobe.com\/apps\/cc\/114117da\/stable-diffusion",
+                                "text": "Install it from the Adobe Exchange"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\n\nStability AIが画像アップスケーリングAPIをリリース\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ja.stability.ai\/blog\/stability-ai-releases-image-upscaling-api"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1682627309.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ja.stability.ai\/blog\/stability-ai-releases-image-upscaling-api",
+                "service_icon": "https:\/\/images.squarespace-cdn.com\/content\/v1\/6213c340453c3f502425776e\/cfbf5bc5-47d4-4f4a-b133-23bd12a7d7c2\/favicon.ico?format=100w",
+                "id": 1,
+                "original_url": "https:\/\/ja.stability.ai\/blog\/stability-ai-releases-image-upscaling-api",
+                "fallback": "Stability AI: Stability AIが画像アップスケーリングAPIをリリース",
+                "text": "Image UpscalingAPI は、Stability AI 'の既存の画像生成および編集API（人気のあるテキストから画像、画像から画像、インペインティングAPIなど）の最新の追加です。アップスケーリングは、これらの人気のあるツールに追加され、小さな画像をより大きな画像に拡大し、その画像を維持、あるいは改善することができます。",
+                "title": "Stability AIが画像アップスケーリングAPIをリリース",
+                "title_link": "https:\/\/ja.stability.ai\/blog\/stability-ai-releases-image-upscaling-api",
+                "service_name": "Stability AI"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "partying_face",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,842 @@
+[
+    {
+        "client_msg_id": "D02491D7-063E-40DB-8827-391811A21E4D",
+        "type": "message",
+        "text": "これクライアント試写1へ回してください",
+        "user": "U03QQ3J656Z",
+        "ts": "1665301292.415679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m+Iqk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これクライアント試写1へ回してください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665294108.244699",
+        "parent_user_id": "U03QQ3J656Z"
+    },
+    {
+        "client_msg_id": "7CF23579-E5BA-4947-B242-B42F3475A122",
+        "type": "message",
+        "text": "了解です",
+        "user": "U040YCC00V6",
+        "ts": "1665301318.136419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XBSk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665294108.244699",
+        "parent_user_id": "U03QQ3J656Z"
+    },
+    {
+        "type": "message",
+        "text": "<@U040YCC00V6> 書き出し依頼です。\n【31 土井】\n・ep1　試写2(enc.5)\n\n手元試写分は問題なかったのですが、いまプロジェクトを開くと音声が1チャンネルで右しか流れないようにになってました。\nご確認よろしくお願いします。",
+        "files": [
+            {
+                "id": "F045NE271C5",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03Q17LBJP3",
+        "display_as_bot": false,
+        "ts": "1665302273.520099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UpHr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 書き出し依頼です。\n【31 土井】\n・ep1　試写2(enc.5)\n\n手元試写分は問題なかったのですが、いまプロジェクトを開くと音声が1チャンネルで右しか流れないようにになってました。\nご確認よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "119445cd-e133-4a67-8856-ce7de928708a",
+        "thread_ts": "1665302273.520099",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1665302574.734429",
+        "reply_users": [
+            "U040YCC00V6"
+        ],
+        "replies": [
+            {
+                "user": "U040YCC00V6",
+                "ts": "1665302574.734429"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "clown_face",
+                "users": [
+                    "U040YCC00V6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "537E6A61-59C2-41E2-84F4-924A995DEB1E",
+        "type": "message",
+        "text": "ありがとうございます。\n確認し、書き出します",
+        "user": "U040YCC00V6",
+        "ts": "1665302574.734429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tPj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます。\n確認し、書き出します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665302273.520099",
+        "parent_user_id": "U03Q17LBJP3"
+    },
+    {
+        "client_msg_id": "aef670d3-9f19-4831-8283-8f98eb90a903",
+        "type": "message",
+        "text": "<@U040YCC00V6> 書き出し依頼です。\n【39 松永】1010納品分\n2.1回目チェック\n\nよろしくお願いします。",
+        "user": "U03Q17LBJP3",
+        "ts": "1665318113.796429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zovi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 書き出し依頼です。\n【39 松永】1010納品分\n2.1回目チェック\n\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "書き出し発注時／書き出し作業時で、お互いに連絡取り合えない場合は、忘れないようtodoの更新＋share をお願いします。",
+        "files": [
+            {
+                "id": "F044V4ZH2HZ",
+                "created": 1664795647,
+                "timestamp": 1665727268,
+                "name": "____________Que",
+                "title": "書き出しQue",
+                "mimetype": "application\/vnd.slack-docs",
+                "filetype": "docs",
+                "pretty_type": "Arugula",
+                "user": "U03CXUXB5PF",
+                "user_team": "T03CU6RQ154",
+                "editable": true,
+                "size": 1859,
+                "mode": "docs",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F044V4ZH2HZ\/____________que?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F044V4ZH2HZ\/download\/____________que?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/T03CU6RQ154\/F044V4ZH2HZ",
+                "permalink_public": "https:\/\/slack-files.com\/T03CU6RQ154-F044V4ZH2HZ-1dc16cf1ea",
+                "preview": "<p><br><\/p><h1><strong>KDDI_1010納品(21,25,26,31,39)  10\/9~　<\/strong><\/h1><p><a href=\"https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2\"><strong>https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2<\/strong><\/a><br><\/p><h2>試写2~<\/h2><ul><li data-checked=\"false\">26武田 2.４試写<\/li><li data-checked=\"false\"><br><\/li><\/ul><p><br><\/p><h2>試写3~ シーケンスに最終って書いてるやつを納品＜1010納品へ書き出し<\/h2><ul><li data-checked=\"false\"><br><\/li><\/ul><p><\/p><hr><h1>1020納品(32小島33中野36吉永41平+1）<\/h1><p><br><\/p><h2>手元1<\/h2><ul><li data-checked=\"true\">吉永<\/li><li data-checked=\"true\">32小島<\/li><\/ul><p><br><\/p><h2>試写2<\/h2><ul><li data-checked=\"true\">吉永<\/li><li data-checked=\"true\">32小島<\/li><li data-checked=\"true\">33中野<\/li><\/ul><p><br>試写2.1<br><br>試写2.2<br><br><br><br><\/p><h1>1030以降<\/h1><p><br><\/p><ul><li data-checked=\"false\">35岡　修正完了<\/li><\/ul><p><br><br><\/p><hr><h1>KDDI_41-50_1試写 10\/9~　<\/h1><p>対応は尺に関するもののみ＋修正台本待ち<br><a href=\"https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3\">https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3<\/a><\/p><ul><li data-checked=\"false\"><br><\/li><\/ul><p><br>Done<\/p><ul><li data-checked=\"true\">39松永　Replay：KDDI_1015納品(21,25,26,31,39)へ<\/li><li data-checked=\"true\">43平岡　Replay：KDDI_41-50_1試写<\/li><li data-checked=\"true\">44筒井　Replay：KDDI_41-50_1試写<\/li><li data-checked=\"true\">21田中　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\">31土井 ep2,3,PR　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\">25中島　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\"> 44筒井　PR<\/li><li data-checked=\"true\">21田中　2.1試写<\/li><li data-checked=\"false\">42松本　MA<\/li><\/ul><p><br><br><br><br><\/p><h1>納品<\/h1><ul><li>静止画（現場iPhone＋足りなきゃ切り出し）<ul><li data-checked=\"true\">9月収録分<\/li><li data-checked=\"true\">10月収録分<\/li><\/ul><\/li><\/ul><p><br><\/p>",
+                "editor": null,
+                "last_editor": "U040YCC00V6",
+                "non_owner_editable": true,
+                "updated": 1665727268,
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1665348785.096569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FL0P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "書き出し発注時／書き出し作業時で、お互いに連絡取り合えない場合は、忘れないようtodoの更新＋share をお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F044V4ZH2HZ",
+                "created": 1664795647,
+                "timestamp": 1665727268,
+                "name": "____________Que",
+                "title": "書き出しQue",
+                "mimetype": "application\/vnd.slack-docs",
+                "filetype": "docs",
+                "pretty_type": "Arugula",
+                "user": "U03CXUXB5PF",
+                "user_team": "T03CU6RQ154",
+                "editable": true,
+                "size": 1859,
+                "mode": "docs",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F044V4ZH2HZ\/____________que?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F044V4ZH2HZ\/download\/____________que?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/T03CU6RQ154\/F044V4ZH2HZ",
+                "permalink_public": "https:\/\/slack-files.com\/T03CU6RQ154-F044V4ZH2HZ-1dc16cf1ea",
+                "preview": "<p><br><\/p><h1><strong>KDDI_1010納品(21,25,26,31,39)  10\/9~　<\/strong><\/h1><p><a href=\"https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2\"><strong>https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2<\/strong><\/a><br><\/p><h2>試写2~<\/h2><ul><li data-checked=\"false\">26武田 2.４試写<\/li><li data-checked=\"false\"><br><\/li><\/ul><p><br><\/p><h2>試写3~ シーケンスに最終って書いてるやつを納品＜1010納品へ書き出し<\/h2><ul><li data-checked=\"false\"><br><\/li><\/ul><p><\/p><hr><h1>1020納品(32小島33中野36吉永41平+1）<\/h1><p><br><\/p><h2>手元1<\/h2><ul><li data-checked=\"true\">吉永<\/li><li data-checked=\"true\">32小島<\/li><\/ul><p><br><\/p><h2>試写2<\/h2><ul><li data-checked=\"true\">吉永<\/li><li data-checked=\"true\">32小島<\/li><li data-checked=\"true\">33中野<\/li><\/ul><p><br>試写2.1<br><br>試写2.2<br><br><br><br><\/p><h1>1030以降<\/h1><p><br><\/p><ul><li data-checked=\"false\">35岡　修正完了<\/li><\/ul><p><br><br><\/p><hr><h1>KDDI_41-50_1試写 10\/9~　<\/h1><p>対応は尺に関するもののみ＋修正台本待ち<br><a href=\"https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3\">https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3<\/a><\/p><ul><li data-checked=\"false\"><br><\/li><\/ul><p><br>Done<\/p><ul><li data-checked=\"true\">39松永　Replay：KDDI_1015納品(21,25,26,31,39)へ<\/li><li data-checked=\"true\">43平岡　Replay：KDDI_41-50_1試写<\/li><li data-checked=\"true\">44筒井　Replay：KDDI_41-50_1試写<\/li><li data-checked=\"true\">21田中　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\">31土井 ep2,3,PR　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\">25中島　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\"> 44筒井　PR<\/li><li data-checked=\"true\">21田中　2.1試写<\/li><li data-checked=\"false\">42松本　MA<\/li><\/ul><p><br><br><br><br><\/p><h1>納品<\/h1><ul><li>静止画（現場iPhone＋足りなきゃ切り出し）<ul><li data-checked=\"true\">9月収録分<\/li><li data-checked=\"true\">10月収録分<\/li><\/ul><\/li><\/ul><p><br><\/p>",
+                "editor": null,
+                "last_editor": "U040YCC00V6",
+                "non_owner_editable": true,
+                "updated": 1665727268,
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03QQ3J656Z",
+        "display_as_bot": false,
+        "ts": "1665358637.102649"
+    },
+    {
+        "client_msg_id": "b0fd585e-74c9-44e5-ae57-1c98d15e54a4",
+        "type": "message",
+        "text": "<@U040YCC00V6>\n26_武田　修正作業など終了しましたので、\n手元試写用書き出しをお願いします、",
+        "user": "U03QQ3J656Z",
+        "ts": "1665358680.851009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "forw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n26_武田　修正作業など終了しましたので、\n手元試写用書き出しをお願いします、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665358680.851009",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1665360383.289759",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665360383.289759"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1665360383.289759"
+    },
+    {
+        "type": "message",
+        "text": "<@U03QQ3J656Z> 書き出してアップロード中です。\nあんまりアップロードの調子が良くないので、もう少しかかるかもですが。。。\nあと、ep1だけマーカーで２、３書き込みましたが、最初だけなので残りも\nよろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F045URP7T7E",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1665360383.289759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ATd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 書き出してアップロード中です。\nあんまりアップロードの調子が良くないので、もう少しかかるかもですが。。。\nあと、ep1だけマーカーで２、３書き込みましたが、最初だけなので残りも\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1665360420.000000"
+        },
+        "client_msg_id": "1ca583cc-6864-46ec-83fe-a95ed4d9148a",
+        "thread_ts": "1665358680.851009",
+        "parent_user_id": "U03QQ3J656Z"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F044V4ZH2HZ",
+                "created": 1664795647,
+                "timestamp": 1665727268,
+                "name": "____________Que",
+                "title": "書き出しQue",
+                "mimetype": "application\/vnd.slack-docs",
+                "filetype": "docs",
+                "pretty_type": "Arugula",
+                "user": "U03CXUXB5PF",
+                "user_team": "T03CU6RQ154",
+                "editable": true,
+                "size": 1859,
+                "mode": "docs",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F044V4ZH2HZ\/____________que?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F044V4ZH2HZ\/download\/____________que?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/T03CU6RQ154\/F044V4ZH2HZ",
+                "permalink_public": "https:\/\/slack-files.com\/T03CU6RQ154-F044V4ZH2HZ-1dc16cf1ea",
+                "preview": "<p><br><\/p><h1><strong>KDDI_1010納品(21,25,26,31,39)  10\/9~　<\/strong><\/h1><p><a href=\"https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2\"><strong>https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2<\/strong><\/a><br><\/p><h2>試写2~<\/h2><ul><li data-checked=\"false\">26武田 2.４試写<\/li><li data-checked=\"false\"><br><\/li><\/ul><p><br><\/p><h2>試写3~ シーケンスに最終って書いてるやつを納品＜1010納品へ書き出し<\/h2><ul><li data-checked=\"false\"><br><\/li><\/ul><p><\/p><hr><h1>1020納品(32小島33中野36吉永41平+1）<\/h1><p><br><\/p><h2>手元1<\/h2><ul><li data-checked=\"true\">吉永<\/li><li data-checked=\"true\">32小島<\/li><\/ul><p><br><\/p><h2>試写2<\/h2><ul><li data-checked=\"true\">吉永<\/li><li data-checked=\"true\">32小島<\/li><li data-checked=\"true\">33中野<\/li><\/ul><p><br>試写2.1<br><br>試写2.2<br><br><br><br><\/p><h1>1030以降<\/h1><p><br><\/p><ul><li data-checked=\"false\">35岡　修正完了<\/li><\/ul><p><br><br><\/p><hr><h1>KDDI_41-50_1試写 10\/9~　<\/h1><p>対応は尺に関するもののみ＋修正台本待ち<br><a href=\"https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3\">https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3<\/a><\/p><ul><li data-checked=\"false\"><br><\/li><\/ul><p><br>Done<\/p><ul><li data-checked=\"true\">39松永　Replay：KDDI_1015納品(21,25,26,31,39)へ<\/li><li data-checked=\"true\">43平岡　Replay：KDDI_41-50_1試写<\/li><li data-checked=\"true\">44筒井　Replay：KDDI_41-50_1試写<\/li><li data-checked=\"true\">21田中　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\">31土井 ep2,3,PR　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\">25中島　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\"> 44筒井　PR<\/li><li data-checked=\"true\">21田中　2.1試写<\/li><li data-checked=\"false\">42松本　MA<\/li><\/ul><p><br><br><br><br><\/p><h1>納品<\/h1><ul><li>静止画（現場iPhone＋足りなきゃ切り出し）<ul><li data-checked=\"true\">9月収録分<\/li><li data-checked=\"true\">10月収録分<\/li><\/ul><\/li><\/ul><p><br><\/p>",
+                "editor": null,
+                "last_editor": "U040YCC00V6",
+                "non_owner_editable": true,
+                "updated": 1665727268,
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03QQ3J656Z",
+        "display_as_bot": false,
+        "ts": "1665366674.195679"
+    },
+    {
+        "client_msg_id": "9ce24f5b-7db1-4745-862d-4dcba3b92da8",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U040YCC00V6>\n26_武田　<http:\/\/ep1.2.3.PR|ep1.2.3.PR>\n手元試写終了し、微修正を行いました。\n3試写へお願いいたします。",
+        "user": "U03QQ3J656Z",
+        "ts": "1665366740.869589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A77",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n26_武田　"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/ep1.2.3.PR",
+                                "text": "ep1.2.3.PR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n手元試写終了し、微修正を行いました。\n3試写へお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U040YCC00V6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "88809eec-8c9c-41a5-9ba4-7928e3ad8020",
+        "type": "message",
+        "text": "ありがとうございます。これ２試写ですね。クライアントサイドでテロップチェックが実質されてないと思います。\nいずれにせよ少々お待ちください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665366807.458709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mg2w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます。これ２試写ですね。クライアントサイドでテロップチェックが実質されてないと思います。\nいずれにせよ少々お待ちください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F044V4ZH2HZ",
+                "created": 1664795647,
+                "timestamp": 1665727268,
+                "name": "____________Que",
+                "title": "書き出しQue",
+                "mimetype": "application\/vnd.slack-docs",
+                "filetype": "docs",
+                "pretty_type": "Arugula",
+                "user": "U03CXUXB5PF",
+                "user_team": "T03CU6RQ154",
+                "editable": true,
+                "size": 1859,
+                "mode": "docs",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F044V4ZH2HZ\/____________que?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F044V4ZH2HZ\/download\/____________que?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/T03CU6RQ154\/F044V4ZH2HZ",
+                "permalink_public": "https:\/\/slack-files.com\/T03CU6RQ154-F044V4ZH2HZ-1dc16cf1ea",
+                "preview": "<p><br><\/p><h1><strong>KDDI_1010納品(21,25,26,31,39)  10\/9~　<\/strong><\/h1><p><a href=\"https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2\"><strong>https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2<\/strong><\/a><br><\/p><h2>試写2~<\/h2><ul><li data-checked=\"false\">26武田 2.４試写<\/li><li data-checked=\"false\"><br><\/li><\/ul><p><br><\/p><h2>試写3~ シーケンスに最終って書いてるやつを納品＜1010納品へ書き出し<\/h2><ul><li data-checked=\"false\"><br><\/li><\/ul><p><\/p><hr><h1>1020納品(32小島33中野36吉永41平+1）<\/h1><p><br><\/p><h2>手元1<\/h2><ul><li data-checked=\"true\">吉永<\/li><li data-checked=\"true\">32小島<\/li><\/ul><p><br><\/p><h2>試写2<\/h2><ul><li data-checked=\"true\">吉永<\/li><li data-checked=\"true\">32小島<\/li><li data-checked=\"true\">33中野<\/li><\/ul><p><br>試写2.1<br><br>試写2.2<br><br><br><br><\/p><h1>1030以降<\/h1><p><br><\/p><ul><li data-checked=\"false\">35岡　修正完了<\/li><\/ul><p><br><br><\/p><hr><h1>KDDI_41-50_1試写 10\/9~　<\/h1><p>対応は尺に関するもののみ＋修正台本待ち<br><a href=\"https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3\">https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3<\/a><\/p><ul><li data-checked=\"false\"><br><\/li><\/ul><p><br>Done<\/p><ul><li data-checked=\"true\">39松永　Replay：KDDI_1015納品(21,25,26,31,39)へ<\/li><li data-checked=\"true\">43平岡　Replay：KDDI_41-50_1試写<\/li><li data-checked=\"true\">44筒井　Replay：KDDI_41-50_1試写<\/li><li data-checked=\"true\">21田中　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\">31土井 ep2,3,PR　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\">25中島　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\"> 44筒井　PR<\/li><li data-checked=\"true\">21田中　2.1試写<\/li><li data-checked=\"false\">42松本　MA<\/li><\/ul><p><br><br><br><br><\/p><h1>納品<\/h1><ul><li>静止画（現場iPhone＋足りなきゃ切り出し）<ul><li data-checked=\"true\">9月収録分<\/li><li data-checked=\"true\">10月収録分<\/li><\/ul><\/li><\/ul><p><br><\/p>",
+                "editor": null,
+                "last_editor": "U040YCC00V6",
+                "non_owner_editable": true,
+                "updated": 1665727268,
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1665368539.919009"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F044V4ZH2HZ",
+                "created": 1664795647,
+                "timestamp": 1665727268,
+                "name": "____________Que",
+                "title": "書き出しQue",
+                "mimetype": "application\/vnd.slack-docs",
+                "filetype": "docs",
+                "pretty_type": "Arugula",
+                "user": "U03CXUXB5PF",
+                "user_team": "T03CU6RQ154",
+                "editable": true,
+                "size": 1859,
+                "mode": "docs",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F044V4ZH2HZ\/____________que?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F044V4ZH2HZ\/download\/____________que?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/T03CU6RQ154\/F044V4ZH2HZ",
+                "permalink_public": "https:\/\/slack-files.com\/T03CU6RQ154-F044V4ZH2HZ-1dc16cf1ea",
+                "preview": "<p><br><\/p><h1><strong>KDDI_1010納品(21,25,26,31,39)  10\/9~　<\/strong><\/h1><p><a href=\"https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2\"><strong>https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2<\/strong><\/a><br><\/p><h2>試写2~<\/h2><ul><li data-checked=\"false\">26武田 2.４試写<\/li><li data-checked=\"false\"><br><\/li><\/ul><p><br><\/p><h2>試写3~ シーケンスに最終って書いてるやつを納品＜1010納品へ書き出し<\/h2><ul><li data-checked=\"false\"><br><\/li><\/ul><p><\/p><hr><h1>1020納品(32小島33中野36吉永41平+1）<\/h1><p><br><\/p><h2>手元1<\/h2><ul><li data-checked=\"true\">吉永<\/li><li data-checked=\"true\">32小島<\/li><\/ul><p><br><\/p><h2>試写2<\/h2><ul><li data-checked=\"true\">吉永<\/li><li data-checked=\"true\">32小島<\/li><li data-checked=\"true\">33中野<\/li><\/ul><p><br>試写2.1<br><br>試写2.2<br><br><br><br><\/p><h1>1030以降<\/h1><p><br><\/p><ul><li data-checked=\"false\">35岡　修正完了<\/li><\/ul><p><br><br><\/p><hr><h1>KDDI_41-50_1試写 10\/9~　<\/h1><p>対応は尺に関するもののみ＋修正台本待ち<br><a href=\"https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3\">https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3<\/a><\/p><ul><li data-checked=\"false\"><br><\/li><\/ul><p><br>Done<\/p><ul><li data-checked=\"true\">39松永　Replay：KDDI_1015納品(21,25,26,31,39)へ<\/li><li data-checked=\"true\">43平岡　Replay：KDDI_41-50_1試写<\/li><li data-checked=\"true\">44筒井　Replay：KDDI_41-50_1試写<\/li><li data-checked=\"true\">21田中　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\">31土井 ep2,3,PR　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\">25中島　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\"> 44筒井　PR<\/li><li data-checked=\"true\">21田中　2.1試写<\/li><li data-checked=\"false\">42松本　MA<\/li><\/ul><p><br><br><br><br><\/p><h1>納品<\/h1><ul><li>静止画（現場iPhone＋足りなきゃ切り出し）<ul><li data-checked=\"true\">9月収録分<\/li><li data-checked=\"true\">10月収録分<\/li><\/ul><\/li><\/ul><p><br><\/p>",
+                "editor": null,
+                "last_editor": "U040YCC00V6",
+                "non_owner_editable": true,
+                "updated": 1665727268,
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03RA83HRN0",
+        "display_as_bot": false,
+        "ts": "1665372542.205699"
+    },
+    {
+        "client_msg_id": "373acc24-4a37-4bbc-8544-4dd64e7a83ab",
+        "type": "message",
+        "text": "<@U040YCC00V6>\n書き出し依頼になります。\n41_平 ep1 ep2 ep3 PR MA用書き出し\nよろしくお願いいたします！",
+        "user": "U03RA83HRN0",
+        "ts": "1665372643.294799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OPQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n書き出し依頼になります。\n41_平 ep1 ep2 ep3 PR MA用書き出し\nよろしくお願いいたします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665372643.294799",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1665390870.940669",
+        "reply_users": [
+            "U040YCC00V6"
+        ],
+        "replies": [
+            {
+                "user": "U040YCC00V6",
+                "ts": "1665390870.940669"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "clown_face",
+                "users": [
+                    "U040YCC00V6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F044V4ZH2HZ",
+                "created": 1664795647,
+                "timestamp": 1665727268,
+                "name": "____________Que",
+                "title": "書き出しQue",
+                "mimetype": "application\/vnd.slack-docs",
+                "filetype": "docs",
+                "pretty_type": "Arugula",
+                "user": "U03CXUXB5PF",
+                "user_team": "T03CU6RQ154",
+                "editable": true,
+                "size": 1859,
+                "mode": "docs",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F044V4ZH2HZ\/____________que?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F044V4ZH2HZ\/download\/____________que?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/T03CU6RQ154\/F044V4ZH2HZ",
+                "permalink_public": "https:\/\/slack-files.com\/T03CU6RQ154-F044V4ZH2HZ-1dc16cf1ea",
+                "preview": "<p><br><\/p><h1><strong>KDDI_1010納品(21,25,26,31,39)  10\/9~　<\/strong><\/h1><p><a href=\"https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2\"><strong>https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2<\/strong><\/a><br><\/p><h2>試写2~<\/h2><ul><li data-checked=\"false\">26武田 2.４試写<\/li><li data-checked=\"false\"><br><\/li><\/ul><p><br><\/p><h2>試写3~ シーケンスに最終って書いてるやつを納品＜1010納品へ書き出し<\/h2><ul><li data-checked=\"false\"><br><\/li><\/ul><p><\/p><hr><h1>1020納品(32小島33中野36吉永41平+1）<\/h1><p><br><\/p><h2>手元1<\/h2><ul><li data-checked=\"true\">吉永<\/li><li data-checked=\"true\">32小島<\/li><\/ul><p><br><\/p><h2>試写2<\/h2><ul><li data-checked=\"true\">吉永<\/li><li data-checked=\"true\">32小島<\/li><li data-checked=\"true\">33中野<\/li><\/ul><p><br>試写2.1<br><br>試写2.2<br><br><br><br><\/p><h1>1030以降<\/h1><p><br><\/p><ul><li data-checked=\"false\">35岡　修正完了<\/li><\/ul><p><br><br><\/p><hr><h1>KDDI_41-50_1試写 10\/9~　<\/h1><p>対応は尺に関するもののみ＋修正台本待ち<br><a href=\"https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3\">https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3<\/a><\/p><ul><li data-checked=\"false\"><br><\/li><\/ul><p><br>Done<\/p><ul><li data-checked=\"true\">39松永　Replay：KDDI_1015納品(21,25,26,31,39)へ<\/li><li data-checked=\"true\">43平岡　Replay：KDDI_41-50_1試写<\/li><li data-checked=\"true\">44筒井　Replay：KDDI_41-50_1試写<\/li><li data-checked=\"true\">21田中　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\">31土井 ep2,3,PR　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\">25中島　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\"> 44筒井　PR<\/li><li data-checked=\"true\">21田中　2.1試写<\/li><li data-checked=\"false\">42松本　MA<\/li><\/ul><p><br><br><br><br><\/p><h1>納品<\/h1><ul><li>静止画（現場iPhone＋足りなきゃ切り出し）<ul><li data-checked=\"true\">9月収録分<\/li><li data-checked=\"true\">10月収録分<\/li><\/ul><\/li><\/ul><p><br><\/p>",
+                "editor": null,
+                "last_editor": "U040YCC00V6",
+                "non_owner_editable": true,
+                "updated": 1665727268,
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03NJATSEBH",
+        "display_as_bot": false,
+        "ts": "1665374438.110979"
+    },
+    {
+        "client_msg_id": "43b4166e-db9f-4bc9-94a4-496409b49422",
+        "type": "message",
+        "text": "<@U040YCC00V6>\n21_田中 ep1-3,PR\n手元試写と修正を行いましたので\n2試写をお願いいたします。",
+        "user": "U03NJATSEBH",
+        "ts": "1665374474.313959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g+Yy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n21_田中 ep1-3,PR\n手元試写と修正を行いましたので\n2試写をお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665374474.313959",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1665391558.549219",
+        "reply_users": [
+            "U040YCC00V6",
+            "U03NJATSEBH"
+        ],
+        "replies": [
+            {
+                "user": "U040YCC00V6",
+                "ts": "1665388447.419839"
+            },
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1665391558.549219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "clown_face",
+                "users": [
+                    "U040YCC00V6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

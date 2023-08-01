@@ -1,0 +1,114 @@
+[
+    {
+        "client_msg_id": "4ca43d5a-a9a2-49e5-8e10-6cacb96feb22",
+        "type": "message",
+        "text": "11\/14 月曜\n*在庫　試写1（３）　MA（０）　試写2（０）*\n最優先は上記在庫を補充をお願いします\n試写１に向けたものより、MAや試写２の作業ができるなら。\n手元に在庫潤沢なものしかなければ、修正を。\n\nまた、作業に足りない素材があればそれぞれのチャンネルにてお知らせください\n素材不足は\n*毎日午前中にその日の作業に必要なもの*を連絡頂きつつ、\n*金曜夜に翌週予定の作業に必要なもの*をにいただけると先回りできます\n\n<#C043UBH5VFC|3-edit-1030納品分>\n浅羽・和泉の修正　→素材差し替えなど　詳しくはチャンネルで\n\n<#C048CGTB45A|3-edit-1115納品分>\n試写２のリアクションあり　三宅、ふじがき・森山\nMAがきてます　菅野・川上→試写２へ\n\n<#C04A8UH8L0Z|3-edit-1130>\n前野→MAへ　　　テロップ再生成必要かも\n平藤→試写１へ\n\n<#C04BB328NAC|3-edit-1215>\n片岡→MAへ　テロップ再生成必要・C G発注\n湯澤・志田・林・坂井→試写１へ　テロップ再生成必要・C G発注\n\n本日24時間\n収録のため新規台本は難しいですが、修正のサポートします",
+        "user": "U03CXUXB5PF",
+        "ts": "1668375828.300609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vsqS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "11\/14 月曜\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "在庫　試写1（３）　MA（０）　試写2（０）",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n最優先は上記在庫を補充をお願いします\n試写１に向けたものより、MAや試写２の作業ができるなら。\n手元に在庫潤沢なものしかなければ、修正を。\n\nまた、作業に足りない素材があればそれぞれのチャンネルにてお知らせください\n素材不足は\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "毎日午前中にその日の作業に必要なもの",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "を連絡頂きつつ、\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "金曜夜に翌週予定の作業に必要なもの",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "をにいただけると先回りできます\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043UBH5VFC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n浅羽・和泉の修正　→素材差し替えなど　詳しくはチャンネルで\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C048CGTB45A"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n試写２のリアクションあり　三宅、ふじがき・森山\nMAがきてます　菅野・川上→試写２へ\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04A8UH8L0Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n前野→MAへ　　　テロップ再生成必要かも\n平藤→試写１へ\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04BB328NAC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n片岡→MAへ　テロップ再生成必要・C G発注\n湯澤・志田・林・坂井→試写１へ　テロップ再生成必要・C G発注\n\n本日24時間\n収録のため新規台本は難しいですが、修正のサポートします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

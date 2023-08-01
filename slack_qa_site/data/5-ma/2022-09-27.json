@@ -1,0 +1,144 @@
+[
+    {
+        "client_msg_id": "ba21887a-5c8f-451d-9ed7-c2014da55bdb",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> ２１田中ep２がちょっと修正発生しました。0928という方を使ってください\n３９松永のは全部揃って入っています\nというわけで、どっちももう入ってますー\nもしかしたら今回のクールでいうと、31土井、25中島 あたりは本番MA発注時にまだ荒かったので修正版をお願いするかも。一応9月納期10本分の修正があるということでしたので、手に負えなかったらお願いします\n\nまた、ノイズの箇所については、本番MA用QuickTimeにおいて「ノイズあり」みたいなテロップを入れるようにしました。　タイムコードとか渡すより、多分これが一番見逃さないだろうと。。\n\nというわけで、引き続きよろしくお願いしますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1664314131.200549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5pFM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ２１田中ep２がちょっと修正発生しました。0928という方を使ってください\n３９松永のは全部揃って入っています\nというわけで、どっちももう入ってますー\nもしかしたら今回のクールでいうと、31土井、25中島 あたりは本番MA発注時にまだ荒かったので修正版をお願いするかも。一応9月納期10本分の修正があるということでしたので、手に負えなかったらお願いします\n\nまた、ノイズの箇所については、本番MA用QuickTimeにおいて「ノイズあり」みたいなテロップを入れるようにしました。　タイムコードとか渡すより、多分これが一番見逃さないだろうと。。\n\nというわけで、引き続きよろしくお願いしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664314131.200549",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1664334762.054249",
+        "reply_users": [
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1664334437.803499"
+            },
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1664334762.054249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1664334762.054249"
+    },
+    {
+        "client_msg_id": "DDD8D11E-9EC4-4F60-B61A-ACADEC1B573A",
+        "type": "message",
+        "text": "承知しました。\n引き続き、よろしくお願いします。",
+        "user": "U03G0LAPT3N",
+        "ts": "1664334437.803499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P2y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました。\n引き続き、よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664314131.200549",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "24DF9BB8-D3C7-44E6-9A96-7B1312237A36",
+        "type": "message",
+        "text": "ノイズについては、除去できるノイズは引き続き、丁寧に取り除きます。\n言葉と被っていたりと除去不可なものに関しては、軽減または、そのままの判断をさせていただきます。\nよろしくお願いします。",
+        "user": "U03G0LAPT3N",
+        "ts": "1664334762.054249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hGoQH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ノイズについては、除去できるノイズは引き続き、丁寧に取り除きます。\n言葉と被っていたりと除去不可なものに関しては、軽減または、そのままの判断をさせていただきます。\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664314131.200549",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

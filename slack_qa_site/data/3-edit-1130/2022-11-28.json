@@ -1,0 +1,153 @@
+[
+    {
+        "type": "message",
+        "text": "Replayに来てますが、Approvedとかクライアント側で変更したいということなので、ステータスは、無印→in Review以外さわないようお願いします。",
+        "files": [
+            {
+                "id": "F04D5KX970R",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1669668384.983659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6qlP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Replayに来てますが、Approvedとかクライアント側で変更したいということなので、ステータスは、無印→in Review以外さわないようお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "601250ac-3356-4536-8a40-fb2c9bcc1b10",
+        "reactions": [
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH",
+                    "U03QQ3J656Z"
+                ],
+                "count": 2
+            },
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 【38前野 試写2.0】確認\n現在Replay修正中ですが、判断に迷う箇所があり\nご確認いただければ幸いです(ep1,ep2,PR) 添付はep1～の順です。\n※PRはep1と同箇所です。\n\nep2該当箇所は動画最後の音声ですが、曖昧な発音になっており\n音切れと感じているようです。この後ハッキリした音声もないためスルーで問題無いでしょうか。",
+        "files": [
+            {
+                "id": "F04CS5SN5BP",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04D7P0FNAD",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04DJQY9N7J",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04DJQZ735E",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04CNGHHWSJ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NJATSEBH",
+        "ts": "1669707741.088079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m9Tv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 【38前野 試写2.0】確認\n現在Replay修正中ですが、判断に迷う箇所があり\nご確認いただければ幸いです(ep1,ep2,PR) 添付はep1～の順です。\n※PRはep1と同箇所です。\n\nep2該当箇所は動画最後の音声ですが、曖昧な発音になっており\n音切れと感じているようです。この後ハッキリした音声もないためスルーで問題無いでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1cf9da5f-05f7-4aa0-854e-78bccdf2d457"
+    },
+    {
+        "client_msg_id": "ec10de16-8928-415b-a9d6-d3581c6d5255",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 【47平藤 試写2.0】\n試写2.0までの対応完了→シーケンスのリネームを致しました。\nお手数ですが、mp4を出力いただいてもよろしいでしょうか。",
+        "user": "U03NJATSEBH",
+        "ts": "1669708032.886829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NIX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 【47平藤 試写2.0】\n試写2.0までの対応完了→シーケンスのリネームを致しました。\nお手数ですが、mp4を出力いただいてもよろしいでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

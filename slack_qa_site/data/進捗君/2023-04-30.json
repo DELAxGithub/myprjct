@@ -1,0 +1,212 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#104松岡聡で変更がありました\n変更前：編集2\n変更後：試写2\n担当者は石橋です",
+        "ts": "1682856641.556669",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oYFMw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#104松岡聡で変更がありました\n変更前：編集2\n変更後：試写2\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#104松岡聡で変更がありました\n変更前：undefined\n変更後：<https:\/\/www.dropbox.com\/t\/PWr62lL2pX9zuL4z>\n担当者は石橋です",
+        "ts": "1682856652.276109",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P\/MmA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#104松岡聡で変更がありました\n変更前：undefined\n変更後："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/t\/PWr62lL2pX9zuL4z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04KFCBLY9J> #99パックンで変更がありました\n変更前：試写2\n変更後：編集3\n担当者は中野です",
+        "ts": "1682858502.218419",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Z=Ma",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #99パックンで変更がありました\n変更前：試写2\n変更後：編集3\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03Q17LBJP3> #94泉谷閑示で変更がありました\n変更前：試写1\n変更後：MA編集\n担当者は岡野です",
+        "ts": "1682871760.733629",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "exTfN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #94泉谷閑示で変更がありました\n変更前：試写1\n変更後：MA編集\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03P0T4KQMV> #102千葉聡で変更がありました\n変更前：試写1\n変更後：MA編集\n担当者は辻井です",
+        "ts": "1682873628.269669",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LRM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #102千葉聡で変更がありました\n変更前：試写1\n変更後：MA編集\n担当者は辻井です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04KFCBLY9J> #105久野愛で変更がありました\n変更前：MA\n変更後：編集2\n担当者は中野です",
+        "ts": "1682897832.148009",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "il=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #105久野愛で変更がありました\n変更前：MA\n変更後：編集2\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#88松原 正樹で変更がありました\n変更前：本人編集\n変更後：試写3\n担当者は石橋です",
+        "ts": "1682901544.933199",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1aY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#88松原 正樹で変更がありました\n変更前：本人編集\n変更後：試写3\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

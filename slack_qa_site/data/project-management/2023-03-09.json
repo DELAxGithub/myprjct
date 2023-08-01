@@ -1,0 +1,337 @@
+[
+    {
+        "client_msg_id": "27ad3b5b-1c17-4c6a-a75a-6b402718896e",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n編集マンがプルダウンを操作する必要があるのは以下の認識でよろしいですか？\n\n①編集1→試写1\n\n②MA編集→MA\n\n③編集2→試写2\n\n④編集3→試写3\n\n⑤→編集アップ",
+        "user": "U03NZ0E09JN",
+        "ts": "1678426713.180879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aIJr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n編集マンがプルダウンを操作する必要があるのは以下の認識でよろしいですか？\n\n①編集1→試写1\n\n②MA編集→MA\n\n③編集2→試写2\n\n④編集3→試写3\n\n⑤→編集アップ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "それに加えて一個増やしていただきたく、\n・出演者チェック用のURLの発行\nです\noutputにアップし終わったら、ep1~3を選択して右クリック→「コピーを送信」\n→リンクをコピーして貼り付け\nをお願いします",
+        "files": [
+            {
+                "id": "F04T3T47HGW",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1678426938.991069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VYRA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それに加えて一個増やしていただきたく、\n・出演者チェック用のURLの発行\nです\noutputにアップし終わったら、ep1~3を選択して右クリック→「コピーを送信」\n→リンクをコピーして貼り付け\nをお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b095eaba-aa31-4169-90ed-a043492c24a6"
+    },
+    {
+        "client_msg_id": "f0347775-0e66-474f-90c4-73584b22199d",
+        "type": "message",
+        "text": "試写2のタイミングで出演者用URLを発行ですね。\n承知いたしました。",
+        "user": "U03NZ0E09JN",
+        "ts": "1678427902.064399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hI1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "試写2のタイミングで出演者用URLを発行ですね。\n承知いたしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b7cf9a32-6d42-4d1a-99ee-a70b002cbeb9",
+        "type": "message",
+        "text": "出演者用URLの作成方法なのですが、編集マンの中にはブラウザのみの方もいるので、ブラウザからURLを作成する方法をご教授いただけないでしょうか。",
+        "user": "U03NZ0E09JN",
+        "ts": "1678428859.477429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PIX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "出演者用URLの作成方法なのですが、編集マンの中にはブラウザのみの方もいるので、ブラウザからURLを作成する方法をご教授いただけないでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1D3FEFF3-32CD-4B7F-B465-478707DC6C36",
+        "type": "message",
+        "text": "ちょっと調べます",
+        "user": "U03CXUXB5PF",
+        "ts": "1678428966.219509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+6ivf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちょっと調べます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "67411c09-11f0-4c29-b444-d8424339bf21",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nスケジュールの件なのですが、次の15区の編集スタートの目安はいつ頃になりそうでしょうか。\n編集マンのスケジュールをおさえている関係でお伝えいただけると幸いです。",
+        "user": "U03NZ0E09JN",
+        "ts": "1678430601.995899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6CO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nスケジュールの件なのですが、次の15区の編集スタートの目安はいつ頃になりそうでしょうか。\n編集マンのスケジュールをおさえている関係でお伝えいただけると幸いです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8DD728EA-E3A9-4E60-8AAB-0BF42281A8FA",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> 明日11日からリサーチスタート随時なので、12日から14日にかけて1-2本ずつの予定です。\n\n<@U03V84JSHNK> <@U04J38PLGM6> で大丈夫ですか？台本は今日から2本ずつ渡します。",
+        "user": "U03CXUXB5PF",
+        "ts": "1678430900.698999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tb2qC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 明日11日からリサーチスタート随時なので、12日から14日にかけて1-2本ずつの予定です。\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " で大丈夫ですか？台本は今日から2本ずつ渡します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "aeb43b1d-8e96-4982-b3f0-e66b906a15fa",
+        "type": "message",
+        "text": "承知いたしました。ありがとうございます。よろしくお願いいたします。",
+        "user": "U03NZ0E09JN",
+        "ts": "1678431028.614659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u4W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知いたしました。ありがとうございます。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

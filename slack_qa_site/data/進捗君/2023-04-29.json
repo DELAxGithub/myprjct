@@ -1,0 +1,194 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03RA83HRN0> #88松原 正樹で変更がありました\n変更前：編集1\n変更後：本人編集\n担当者は石橋です",
+        "ts": "1682813631.784349",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3ai8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #88松原 正樹で変更がありました\n変更前：編集1\n変更後：本人編集\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#88松原 正樹で変更がありました\n変更前：undefined\n変更後：undefined\n担当者はSun Apr 30 2023 09:15:45 GMT+0900 (Japan Standard Time)です",
+        "ts": "1682813746.676829",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cv0vm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#88松原 正樹で変更がありました\n変更前：undefined\n変更後：undefined\n担当者はSun Apr 30 2023 09:15:45 GMT+0900 (Japan Standard Time)です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "794FE588-8F8B-4197-9112-26F3F3C25DC4",
+        "type": "message",
+        "text": "すいません、進捗ないんですが、なんか列が消えてたので弄りました",
+        "user": "U03CXUXB5PF",
+        "ts": "1682814376.072339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uiOct",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すいません、進捗ないんですが、なんか列が消えてたので弄りました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03RA83HRN0> #104松岡聡で変更がありました\n変更前：MA\n変更後：編集2\n担当者は石橋です",
+        "ts": "1682829110.951919",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P\/1D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #104松岡聡で変更がありました\n変更前：MA\n変更後：編集2\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#91納富信留で変更がありました\n変更前：undefined\n変更後：<https:\/\/www.dropbox.com\/t\/W1T9Eqq98zQr864w>\n担当者は中野です",
+        "ts": "1682836998.030209",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DC1Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#91納富信留で変更がありました\n変更前：undefined\n変更後："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/t\/W1T9Eqq98zQr864w"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#91納富信留で変更がありました\n変更前：編集アップ\n変更後：技術確認\n担当者は中野です",
+        "ts": "1682837011.929419",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jGce",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#91納富信留で変更がありました\n変更前：編集アップ\n変更後：技術確認\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

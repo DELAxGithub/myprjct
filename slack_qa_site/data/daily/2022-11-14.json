@@ -1,0 +1,108 @@
+[
+    {
+        "client_msg_id": "b3337baa-25af-47a7-adad-9ce052eb6e21",
+        "type": "message",
+        "text": "11\/15 火曜\n*在庫* 　*試写1（3）　MA（０）　試写2（2）*\n→今MAに渡せるのは、、３７片岡、３８前野ですので、そちら担当の<@U03NJATSEBH> <@U03QQ3J656Z> はMA優先いただければ。\n\nそのほか今週金曜の目標は各自todoへ記入します\n\n<#C03DD5YH9D1|3-edit> にて色々諸注意ありますのでまたご確認を。\n\n<#C03CY2TFJS1|1-help> にて５１〜のPRプロジェクトをローカル化する作業してます。まだ作業自体はチームプロジェクトでやってもいいんですが、不具合出てきたらお知らせください。\n\n本日24時間\n57台本仕上げ\nプロジェクト変換作業\n\n\n\n<#C043UBH5VFC|3-edit-1030納品分>",
+        "user": "U03CXUXB5PF",
+        "ts": "1668474814.669759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hcv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "11\/15 火曜\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "在庫",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 　"
+                            },
+                            {
+                                "type": "text",
+                                "text": "試写1（3）　MA（０）　試写2（2）",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n→今MAに渡せるのは、、３７片岡、３８前野ですので、そちら担当の"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " はMA優先いただければ。\n\nそのほか今週金曜の目標は各自todoへ記入します\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03DD5YH9D1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にて色々諸注意ありますのでまたご確認を。\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03CY2TFJS1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にて５１〜のPRプロジェクトをローカル化する作業してます。まだ作業自体はチームプロジェクトでやってもいいんですが、不具合出てきたらお知らせください。\n\n本日24時間\n57台本仕上げ\nプロジェクト変換作業\n\n\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043UBH5VFC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH",
+                    "U03QQ3J656Z"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

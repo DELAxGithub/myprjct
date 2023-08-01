@@ -1,0 +1,390 @@
+[
+    {
+        "client_msg_id": "e64df5d5-cd65-4f0b-8c6c-32b553aedb5e",
+        "type": "message",
+        "text": "```多湖さん確認しました、念のためep02だけコメントしました```\n<@U03Q17LBJP3>\nこれ治したら最終ですね　ややこしかったらお知らせください",
+        "user": "U03CXUXB5PF",
+        "ts": "1675675503.562319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s3FbL",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "多湖さん確認しました、念のためep02だけコメントしました"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこれ治したら最終ですね　ややこしかったらお知らせください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675675503.562319",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1675685813.908169",
+        "reply_users": [
+            "U03Q17LBJP3",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1675677130.541189"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1675677974.904509"
+            },
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1675685813.908169"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675685813.908169"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nこちら、記載間違いで13:18の指摘でした\n念のためこちらでご確認いただければと思います。",
+        "files": [
+            {
+                "id": "F04NWF80DH6",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03Q17LBJP3",
+        "display_as_bot": false,
+        "ts": "1675677130.541189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BT8Xn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこちら、記載間違いで13:18の指摘でした\n念のためこちらでご確認いただければと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "c6e64d09-e0e7-40ed-b662-c6312cd1e27e",
+        "thread_ts": "1675675503.562319",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "要は、この内戦の定義ってのが、ウプサラデータが定めましたよ、っていうことなので、こういうふうにしてください。\nPSDで見出しのやつで、\n出典；ウプサラなんちゃら　っていうのをクレジットのフォーマットで。普通のクレジットよりちょい大きめでいいです。",
+        "files": [
+            {
+                "id": "F04N3UFE6G5",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1675677974.904509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JJn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "要は、この内戦の定義ってのが、ウプサラデータが定めましたよ、っていうことなので、こういうふうにしてください。\nPSDで見出しのやつで、\n出典；ウプサラなんちゃら　っていうのをクレジットのフォーマットで。普通のクレジットよりちょい大きめでいいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "efe7fe2f-fd82-4ac7-a043-76d74a2e6fe5",
+        "thread_ts": "1675675503.562319",
+        "parent_user_id": "U03CXUXB5PF",
+        "subtype": "thread_broadcast",
+        "root": {
+            "client_msg_id": "e64df5d5-cd65-4f0b-8c6c-32b553aedb5e",
+            "type": "message",
+            "text": "```多湖さん確認しました、念のためep02だけコメントしました```\n<@U03Q17LBJP3>\nこれ治したら最終ですね　ややこしかったらお知らせください",
+            "user": "U03CXUXB5PF",
+            "ts": "1675675503.562319",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "s3FbL",
+                    "elements": [
+                        {
+                            "type": "rich_text_preformatted",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "多湖さん確認しました、念のためep02だけコメントしました"
+                                }
+                            ],
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03Q17LBJP3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nこれ治したら最終ですね　ややこしかったらお知らせください"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1675675503.562319",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1675685813.908169",
+            "reply_users": [
+                "U03Q17LBJP3",
+                "U03CXUXB5PF"
+            ],
+            "replies": [
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1675677130.541189"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1675677974.904509"
+                },
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1675685813.908169"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1675685813.908169"
+        },
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nご確認ありがとうございます。\nこちら直して最終のプロジェクトアップしました。",
+        "files": [
+            {
+                "id": "F04MSUKH5U7",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03Q17LBJP3",
+        "display_as_bot": false,
+        "ts": "1675685813.908169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JEet",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nご確認ありがとうございます。\nこちら直して最終のプロジェクトアップしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a7634506-6d51-4714-92ad-9bf1d87ef881",
+        "thread_ts": "1675675503.562319",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1675732036.318989",
+        "user": "U03NJGXEPL7",
+        "text": "<@U03NJGXEPL7>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "client_msg_id": "16375ed1-d61c-486c-aaeb-570c7ce7ceb2",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 68タゴさん　最終までお疲れ様でした。\nシーケンス名を最終にアップデートして、プロジェクト名にも最終になった際には、\n書き出し担当の<@U04J38PLGM6> にお知らせくださいー。",
+        "user": "U03CXUXB5PF",
+        "ts": "1675735354.256719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tmppy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 68タゴさん　最終までお疲れ様でした。\nシーケンス名を最終にアップデートして、プロジェクト名にも最終になった際には、\n書き出し担当の"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にお知らせくださいー。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "be462a7c-35da-40fc-9560-b5d6c3043b93",
+        "type": "message",
+        "text": "<@U04J38PLGM6>\n68多湖\n最終のプロジェクトアップしました。よろしくお願いします。",
+        "user": "U03Q17LBJP3",
+        "ts": "1675738404.335589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4\/PP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n68多湖\n最終のプロジェクトアップしました。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

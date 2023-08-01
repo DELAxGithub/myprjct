@@ -1,0 +1,282 @@
+[
+    {
+        "client_msg_id": "3204819f-61f9-4119-ac91-ae1fa3b9c378",
+        "type": "message",
+        "text": "こちら完了しております。\nご確認よろしくお願いします。",
+        "user": "U03QQ3J656Z",
+        "ts": "1661937064.598409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ENz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こちら完了しております。\nご確認よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1661912763.602559",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U03P0T4KQMV>\n23_小野塚さんから修正箇所いただきました。\n台本に反映しますが、簡単なものもあればそうでないのも。\n\n修正→完了っていう感じにしましょう。修正依頼来てるけど、作業自体は素材待ちみたいなやつは「待ち」にして、後日最終修正のタイミングで作業忘れぬようフラグとして使ってください。\nまた尺が変わる箇所については、現状ひいてる仮BGMごと編集点入れて、伸ばしたら隙間のまま、詰めたらその分詰めちゃってください\n尺に関すること反映次第、PRも含めて本番MA用の書き出しをします。\nその際にOMFもこちらで作りますが、音声トラックを以下のようにしておくこと可能でしょうか。\n\n1ch ピン\n2ch ガン\n3-4ch　BGM1\n5-6ch　BGM2\n7-8ch　SE\nご不明点あればお知らせください。\n\n引き続きよろしくお願いします。",
+        "files": [
+            {
+                "id": "F0415QSAK24",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F040UNN8S9F",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "ts": "1661943940.249699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Qj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n23_小野塚さんから修正箇所いただきました。\n台本に反映しますが、簡単なものもあればそうでないのも。\n\n修正→完了っていう感じにしましょう。修正依頼来てるけど、作業自体は素材待ちみたいなやつは「待ち」にして、後日最終修正のタイミングで作業忘れぬようフラグとして使ってください。\nまた尺が変わる箇所については、現状ひいてる仮BGMごと編集点入れて、伸ばしたら隙間のまま、詰めたらその分詰めちゃってください\n尺に関すること反映次第、PRも含めて本番MA用の書き出しをします。\nその際にOMFもこちらで作りますが、音声トラックを以下のようにしておくこと可能でしょうか。\n\n1ch ピン\n2ch ガン\n3-4ch　BGM1\n5-6ch　BGM2\n7-8ch　SE\nご不明点あればお知らせください。\n\n引き続きよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f004a8c7-c05c-49dd-829b-c09861fc7047",
+        "thread_ts": "1661943940.249699",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1661949426.088489",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1661949426.088489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1661949426.088489",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b7d7f0ab-f183-4f4b-9aef-afa532a94f6c",
+        "type": "message",
+        "text": "<@U03P0T4KQMV>\n修正箇所、台本に反映しましたー\nなんか長くなってたので、色々カット箇所増やしてしまいました。ご不明な点があれば何なりとおしらせください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1661949426.088489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+gI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n修正箇所、台本に反映しましたー\nなんか長くなってたので、色々カット箇所増やしてしまいました。ご不明な点があれば何なりとおしらせください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1661943940.249699",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "528e2482-80ee-401a-8528-4f2ef1a00b34",
+        "type": "message",
+        "text": "9\/1\n修正作業 出演者チェックを待ちつつ一回修正箇所の指示\n41~は今週末に収録準備が終わってからにします\n\n\n完パケ仕上げ作業を進めなきゃいけないものに関しては、ちょっと急かしちゃうかもですが、よろしくお願いします。\n<@U03P0T4KQMV> 　小野塚さんの修正っていつごろ可能でしょう？本番MAの作業量を散らしたいので、尺変更できたものから書き出ししていくので、お知らせください。\n\n\nあと、誰のがどこまで行ってるのかステータスについて プルダウンじゃよくわからなくなってきたので、進捗具体的な作業依頼状況など買いときます。（主には自分メモ用です）",
+        "user": "U03CXUXB5PF",
+        "ts": "1661998593.645409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sU2NM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "9\/1\n修正作業 出演者チェックを待ちつつ一回修正箇所の指示\n41~は今週末に収録準備が終わってからにします\n\n\n完パケ仕上げ作業を進めなきゃいけないものに関しては、ちょっと急かしちゃうかもですが、よろしくお願いします。\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 　小野塚さんの修正っていつごろ可能でしょう？本番MAの作業量を散らしたいので、尺変更できたものから書き出ししていくので、お知らせください。\n\n\nあと、誰のがどこまで行ってるのかステータスについて プルダウンじゃよくわからなくなってきたので、進捗具体的な作業依頼状況など買いときます。（主には自分メモ用です）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1661998593.645409",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1661999346.879089",
+        "reply_users": [
+            "U03P0T4KQMV"
+        ],
+        "replies": [
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1661999346.879089"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1661999346.879089"
+    },
+    {
+        "client_msg_id": "530E128A-ED90-4DE1-819A-D5E429BA642C",
+        "type": "message",
+        "text": "本日は作業が難しいため、明日になるかと思います。\nよろしくお願いします。\n",
+        "user": "U03P0T4KQMV",
+        "ts": "1661999346.879089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Dbv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本日は作業が難しいため、明日になるかと思います。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1661998593.645409",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

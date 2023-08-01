@@ -1,0 +1,163 @@
+[
+    {
+        "client_msg_id": "5E8B08D5-3651-46B7-A0F4-8EA9EA891099",
+        "type": "message",
+        "text": "岡は１８分ありますよ",
+        "user": "U03QQ3J656Z",
+        "ts": "1665650277.322269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vrDr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "岡は１８分ありますよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665650277.322269",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1665650658.561699",
+        "reply_users": [
+            "U03NZ0E09JN",
+            "U03QQ3J656Z"
+        ],
+        "replies": [
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1665650372.070029"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1665650658.561699"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "D63D5954-37E8-4C4E-B5D7-58FDA9136567",
+        "type": "message",
+        "text": "了解です:saluting_face:\nありがとうございます！\n進捗表の尺を更新いただけると助かります:pray:",
+        "user": "U03NZ0E09JN",
+        "ts": "1665650372.070029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0+O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "saluting_face",
+                                "unicode": "1fae1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nありがとうございます！\n進捗表の尺を更新いただけると助かります"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665650277.322269",
+        "parent_user_id": "U03QQ3J656Z"
+    },
+    {
+        "client_msg_id": "A2AEF3BC-A107-42F6-9BC2-5AFF1998BB1F",
+        "type": "message",
+        "text": "進行表は一番最後にまとめて直すので\n後ほどやります",
+        "user": "U03QQ3J656Z",
+        "ts": "1665650658.561699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k5f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "進行表は一番最後にまとめて直すので\n後ほどやります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665650277.322269",
+        "parent_user_id": "U03QQ3J656Z",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,923 @@
+[
+    {
+        "client_msg_id": "a5e1c58b-5a38-4fce-b65e-f01c8834d865",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n#25　中島さまを担当します岡野です。\n先ほどカット抜粋したものを共有いたしました。\n夜外出いたしますので、インサートなど続きは明日以降進めます。\nよろしくお願いします。",
+        "user": "U03Q17LBJP3",
+        "ts": "1658215580.451309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sx\/oG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n#25　中島さまを担当します岡野です。\n先ほどカット抜粋したものを共有いたしました。\n夜外出いたしますので、インサートなど続きは明日以降進めます。\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E50D63C8-27CD-48BD-B553-155B57813493",
+        "type": "message",
+        "text": "下絵につかってるだけで、音もなにもかも違いますし、乗り入れになると同期がややこしくなるので、複製してからにしたほうがいいと思います。",
+        "user": "U03CXUXB5PF",
+        "ts": "1658221766.920429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oCV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "下絵につかってるだけで、音もなにもかも違いますし、乗り入れになると同期がややこしくなるので、複製してからにしたほうがいいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1658204419.090759",
+        "parent_user_id": "U03NZ0E09JN"
+    },
+    {
+        "type": "message",
+        "text": "おはようございます\n\n進捗連絡票のTodoとリクエスト、分けました（リクエスト＝制作のTodo）。またゴール目標作りました。\n\n当初予定では、全ての素材が揃ったところで編集スタートの予定なのでリクエストがあること自体良くないので2区からはなんとかと思いますが、インタ台本遅れのためすいません。todoを意識しながら次の作業に足りないものも早めにお知らせください。\n\nまた、ゴール＝1回目試写の日程もあってないようなものとはいえ、一旦ゴール目標として記入してます。スタートから１週間目安としてますが、ほか作業との兼ね合いもあるでしょうし、慣れるまではもうちょっと長めでもいいかもです。\nご確認よろしくお願いしますー",
+        "files": [
+            {
+                "id": "F03PYPW6YTF",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1658224956.172779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h1YYn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おはようございます\n\n進捗連絡票のTodoとリクエスト、分けました（リクエスト＝制作のTodo）。またゴール目標作りました。\n\n当初予定では、全ての素材が揃ったところで編集スタートの予定なのでリクエストがあること自体良くないので2区からはなんとかと思いますが、インタ台本遅れのためすいません。todoを意識しながら次の作業に足りないものも早めにお知らせください。\n\nまた、ゴール＝1回目試写の日程もあってないようなものとはいえ、一旦ゴール目標として記入してます。スタートから１週間目安としてますが、ほか作業との兼ね合いもあるでしょうし、慣れるまではもうちょっと長めでもいいかもです。\nご確認よろしくお願いしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1658225449.000000"
+        },
+        "client_msg_id": "c00882ee-d042-4b5b-bc19-f8b9f7af4dea",
+        "thread_ts": "1658224956.172779",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1658289307.847099",
+        "reply_users": [
+            "U03NZ0E09JN",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1658234385.807189"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1658234909.752279"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1658234948.596409"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1658289307.847099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1658289307.847099",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03HJRZK295> もしお手隙なら21-田中さんの2章以降の全文フォローテロップをお願いしますー。\nPR分も必要です。",
+        "files": [
+            {
+                "id": "F03QRPSMLQY",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1658227462.200289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aGd0U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " もしお手隙なら21-田中さんの2章以降の全文フォローテロップをお願いしますー。\nPR分も必要です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "bfcd2b07-35ca-4608-aa7f-aca7b47450db",
+        "thread_ts": "1658227462.200289",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1658279289.451379",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U03HJRZK295",
+            "U03NJATSEBH"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1658227554.084549"
+            },
+            {
+                "user": "U03HJRZK295",
+                "ts": "1658228006.785689"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1658228080.104309"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1658228156.599039"
+            },
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1658244955.081499"
+            },
+            {
+                "user": "U03HJRZK295",
+                "ts": "1658276246.980599"
+            },
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1658279289.451379"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1658279289.451379"
+    },
+    {
+        "client_msg_id": "f941ab56-fa8a-405a-b012-a0f432fa582c",
+        "type": "message",
+        "text": "句読点は 使わないでください。\nなんとなく意味の区切りで１行・２行を分けてますが、結局インタビューの区切りで微調整あると思うので、、ひとまず文字数目安でいいかと。",
+        "user": "U03CXUXB5PF",
+        "ts": "1658227554.084549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DSGcm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "句読点は 使わないでください。\nなんとなく意味の区切りで１行・２行を分けてますが、結局インタビューの区切りで微調整あると思うので、、ひとまず文字数目安でいいかと。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1658227568.000000"
+        },
+        "thread_ts": "1658227462.200289",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "516d0fff-c19c-438c-8c6b-de12cc3b2f49",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 承知いたしました。ありがとうございます。",
+        "user": "U03NZ0E09JN",
+        "ts": "1658227696.420239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q3S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 承知いたしました。ありがとうございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1658204419.090759",
+        "parent_user_id": "U03NZ0E09JN"
+    },
+    {
+        "client_msg_id": "f1635af2-5350-4b24-9d30-d3fb585f3801",
+        "type": "message",
+        "text": "了解です、微妙に３行になってしまうものとか必要あれば文字削っても大丈夫ですか？",
+        "user": "U03HJRZK295",
+        "ts": "1658228006.785689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SFvkl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です、微妙に３行になってしまうものとか必要あれば文字削っても大丈夫ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1658227462.200289",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "25d88528-a78a-4531-b9e4-e986a398d157",
+        "type": "message",
+        "text": "削っていいです！",
+        "user": "U03CXUXB5PF",
+        "ts": "1658228080.104309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SAjc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "削っていいです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1658227462.200289",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03HJRZK295"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cd018f3e-415e-4588-8ba9-3ffab34b3e17",
+        "type": "message",
+        "text": "<@U03NJATSEBH> 全文フォローテロップですが、文字面で作っちゃってるので、明らかに話の区切りと合ってなかったら、文言修正しちゃっていいです。迷ったらプレミア上でマーカーでも、うっとていくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1658228156.599039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cdV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 全文フォローテロップですが、文字面で作っちゃってるので、明らかに話の区切りと合ってなかったら、文言修正しちゃっていいです。迷ったらプレミア上でマーカーでも、うっとていくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1658227462.200289",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "a5657c25-aa4c-47d3-a187-c87e537cf7e8",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nありがとうございます。\n進め方について思い違いがあると怖いので念の為確認をさせてください。\n\n①\nゴール=1回目試写というのは以下を全て完了させてということでしょうか。\n\n1. 本編抜き ep1~3←取り切り部分や決まり部分は一旦開けとく 6h\n2. 本編アバン ep1~3　←抜きからダイジェストなので、そこから作る　多少キレ良くしたいので間は気持ち詰める 1h\n3. PR並べ（これようのシーケンスを作っていいです）←８割型アバン使い回しなので 1h\n4. 取り切りにイメージカット入れてく 1h\n5. もらいや有料カットや決まりを置いてく 1.5h\n6. インタのインサート　1.5h\n7. 各種テロップを載っけてく＋スイッチング（間延びを詰めたり、音的にNGのところをどうにかする）　4h\n8. インサート、取り切り、テロップのフレーム残りをチェック（テロップ種別＝トラックごとにインアウト確認）　1h\n9. テロップの誤字脱字チェック 1h\n上記の際に足りないもの（イメージカットや決まり素材など）をtodoとして書き出して欲しいという認識でよろしいでしょうか。\n\n\n②\nテロップの入力について、当初「ジゲンの早撃ち」を使用するということで、テロップについては\"待ち\"の状態でしたが、現状先行して各自テロップを進めている状態です。\n・現行進めているテロップの方法で問題はないでしょうか。\n・今後「ジゲン・・」について使用法などについて共有があるのでしょうか。\n\n後になってやり直しということは避けたいので、一度ご確認をいただけると幸いです。よろしくお願いいたします。",
+        "user": "U03NZ0E09JN",
+        "ts": "1658234385.807189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QpIf3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nありがとうございます。\n進め方について思い違いがあると怖いので念の為確認をさせてください。\n\n①\nゴール=1回目試写というのは以下を全て完了させてということでしょうか。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "本編抜き ep1~3←取り切り部分や決まり部分は一旦開けとく 6h"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "本編アバン ep1~3　←抜きからダイジェストなので、そこから作る　多少キレ良くしたいので間は気持ち詰める 1h"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "PR並べ（これようのシーケンスを作っていいです）←８割型アバン使い回しなので 1h"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "取り切りにイメージカット入れてく 1h"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "もらいや有料カットや決まりを置いてく 1.5h"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "インタのインサート　1.5h"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各種テロップを載っけてく＋スイッチング（間延びを詰めたり、音的にNGのところをどうにかする）　4h"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "インサート、取り切り、テロップのフレーム残りをチェック（テロップ種別＝トラックごとにインアウト確認）　1h"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "テロップの誤字脱字チェック 1h"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n上記の際に足りないもの（イメージカットや決まり素材など）をtodoとして書き出して欲しいという認識でよろしいでしょうか。\n\n\n②\nテロップの入力について、当初「ジゲンの早撃ち」を使用するということで、テロップについては\"待ち\"の状態でしたが、現状先行して各自テロップを進めている状態です。\n・現行進めているテロップの方法で問題はないでしょうか。\n・今後「ジゲン・・」について使用法などについて共有があるのでしょうか。\n\n後になってやり直しということは避けたいので、一度ご確認をいただけると幸いです。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1658224956.172779",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "1についてはその通りです\n９までの作業をやったところで書き出し→試写にします\nとなるとtodoっていうのは別に報告不要で、なんか足りないものがあったときにリクエストするっていうだけでいいかもですね。todoは９までのゴール目標までに終わるかどうかの中間報告みたいなものでして、普通に間に合うならいらないです。\n\n2はテロップをpremierで支給してるはず。プロジェクト上にありますが、それ使ってください。やり直す必要はないのですが、台本文言→premierでのテロップを最短作業でやるのに、制作サイドで作業したほうが早いだろうということで、一括制作体制にしています。台本→premierに載っけるが実は編集でやったほうが早い、ということなら、もちろんそれはそれでいいので、ぜひやり方をその方法で進めたいと思います。\nジゲン、導入までがややこしいので、よほど人手が足りなくならない限りは、制作マターにしようかと思っています。",
+        "files": [
+            {
+                "id": "F03Q2ET97U3",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1658234909.752279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Z9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1についてはその通りです\n９までの作業をやったところで書き出し→試写にします\nとなるとtodoっていうのは別に報告不要で、なんか足りないものがあったときにリクエストするっていうだけでいいかもですね。todoは９までのゴール目標までに終わるかどうかの中間報告みたいなものでして、普通に間に合うならいらないです。\n\n2はテロップをpremierで支給してるはず。プロジェクト上にありますが、それ使ってください。やり直す必要はないのですが、台本文言→premierでのテロップを最短作業でやるのに、制作サイドで作業したほうが早いだろうということで、一括制作体制にしています。台本→premierに載っけるが実は編集でやったほうが早い、ということなら、もちろんそれはそれでいいので、ぜひやり方をその方法で進めたいと思います。\nジゲン、導入までがややこしいので、よほど人手が足りなくならない限りは、制作マターにしようかと思っています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "0a54ee68-df76-4787-a405-0e921b14ec1e",
+        "thread_ts": "1658224956.172779",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "b5488edf-92c5-4fe3-908c-7436c9d4d790",
+        "type": "message",
+        "text": "1区がみんなが９まで行ったらzoomで中間振り返りしようと思ったんですが、ep1だけでも９まで行ったら一回振り返りしましょうかね。",
+        "user": "U03CXUXB5PF",
+        "ts": "1658234948.596409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FO01S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1区がみんなが９まで行ったらzoomで中間振り返りしようと思ったんですが、ep1だけでも９まで行ったら一回振り返りしましょうかね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1658224956.172779",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "90d4a8a5-d04f-4960-bc8c-ef6dc44472bc",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 文言修正の件、承知いたしました！",
+        "user": "U03NJATSEBH",
+        "ts": "1658244955.081499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=PUuo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 文言修正の件、承知いたしました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1658227462.200289",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "451f3c35-2586-4e50-a5fb-614c54c42e61",
+        "type": "message",
+        "text": "おはようございます。\n今日も収録台本に取り掛かっています\n編集台本は、29パックン・31土井が本編編集できます。\nもし手元の作業が終わってたら、そちら始めてもらっても大丈夫です。\n\n・決まりテロップなど決まり作業の説明が不十分ですいません。\n「決まり」なので誰かが作業したらそれをベースに進めるので基本的にはいけるのではないかと。\nというわけで、決まり関係が先行している方がいればそれをベースに説明します。\n\nそれ以外にもリクエスト関係あればお知らせください。\nこちらに投稿いただければ、僕か寺田が対応します。\npremiere特にチームプロジェクト周り、dropbox、slackなどツールの質問は<#C03CY2TFJS1|1-help> ですが、素材の場所やら進め方はこっちで。まぁどっちでもいいですけど。\n\nでは今日は午後1時ぐらいまでやった後は午後4時過ぎから午後9時ぐらいまで稼働します。\nよろしくお願いいたします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1658275810.562669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZXA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おはようございます。\n今日も収録台本に取り掛かっています\n編集台本は、29パックン・31土井が本編編集できます。\nもし手元の作業が終わってたら、そちら始めてもらっても大丈夫です。\n\n・決まりテロップなど決まり作業の説明が不十分ですいません。\n「決まり」なので誰かが作業したらそれをベースに進めるので基本的にはいけるのではないかと。\nというわけで、決まり関係が先行している方がいればそれをベースに説明します。\n\nそれ以外にもリクエスト関係あればお知らせください。\nこちらに投稿いただければ、僕か寺田が対応します。\npremiere特にチームプロジェクト周り、dropbox、slackなどツールの質問は"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03CY2TFJS1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ですが、素材の場所やら進め方はこっちで。まぁどっちでもいいですけど。\n\nでは今日は午後1時ぐらいまでやった後は午後4時過ぎから午後9時ぐらいまで稼働します。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03NJATSEBH",
+                    "U03NZ0E09JN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03NJATSEBH> 田中さをりさんのep2,ep3,PR分のオンフォロテロップ取り込みました。よろしくお願いいたします:bow:",
+        "files": [
+            {
+                "id": "F03Q8K2MK4L",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03HJRZK295",
+        "display_as_bot": false,
+        "ts": "1658276246.980599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3kE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 田中さをりさんのep2,ep3,PR分のオンフォロテロップ取り込みました。よろしくお願いいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "c3f4a89c-6a40-4843-9c0c-0b17d2a1d754",
+        "thread_ts": "1658227462.200289",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "03498de9-361d-4ec6-bf7c-788be75c4658",
+        "type": "message",
+        "text": "<@U03HJRZK295> ご対応ありがとうございます！:pray:",
+        "user": "U03NJATSEBH",
+        "ts": "1658279289.451379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xkl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ご対応ありがとうございます！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1658227462.200289",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "57cddc56-773f-41d1-b3c8-eff448606140",
+        "type": "message",
+        "text": "①について承知いたしました。\n②はテロップの支給をいただいていたのですね。編集者の中には気がついて進めている人もいたのかもしれません。\n振り返りのzoomについても承知いたしました。よろしくお願いいたします。",
+        "user": "U03NZ0E09JN",
+        "ts": "1658289307.847099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GO2=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "①について承知いたしました。\n②はテロップの支給をいただいていたのですね。編集者の中には気がついて進めている人もいたのかもしれません。\n振り返りのzoomについても承知いたしました。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1658224956.172779",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

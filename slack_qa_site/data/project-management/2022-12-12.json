@@ -1,0 +1,76 @@
+[
+    {
+        "type": "message",
+        "text": "12\/13(火)　本日の在庫確認",
+        "files": [
+            {
+                "id": "F04EQDGKHQW",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1670896265.975289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pl3tD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "12\/13(火)　本日の在庫確認"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "861f2cde-2f91-4545-a09b-96eea372092d"
+    },
+    {
+        "client_msg_id": "5d175f00-7508-41fa-99c2-fd208f557fb7",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n【待ち状況】\n46吉岡　CG修正（本日UP）\n48坂井　2.1修正→最終（本日UP）\n37片岡　2.1試写（本日UP）\n59岡本　MA発注（本日UP）\n61横道　編集１（14日以降着手）\n\n53林　　２試写（池田さん台本修正待ち）\n60阿部　試写１（池田さん引用原稿待ち）\n62山口　編集１（テロップ\/イメージ待ち）",
+        "user": "U03NZ0E09JN",
+        "ts": "1670899789.031189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bqz+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【待ち状況】\n46吉岡　CG修正（本日UP）\n48坂井　2.1修正→最終（本日UP）\n37片岡　2.1試写（本日UP）\n59岡本　MA発注（本日UP）\n61横道　編集１（14日以降着手）\n\n53林　　２試写（池田さん台本修正待ち）\n60阿部　試写１（池田さん引用原稿待ち）\n62山口　編集１（テロップ\/イメージ待ち）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

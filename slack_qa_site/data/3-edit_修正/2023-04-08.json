@@ -1,0 +1,147 @@
+[
+    {
+        "client_msg_id": "1e1af0e0-56bb-41a7-b7fd-c9271d560d35",
+        "type": "message",
+        "text": "<@U04J38PLGM6> ８１早川って書き出ししてる？一応リマインダーでした",
+        "user": "U03CXUXB5PF",
+        "ts": "1680999671.745619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UO5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ８１早川って書き出ししてる？一応リマインダーでした"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U04J38PLGM6>\n<https:\/\/docs.google.com\/spreadsheets\/d\/1DNPNfjXprb6GhRCOCfC9t_T1ye8VpRCVp60HeXRfl0Q\/edit?usp=sharing>\nここ技術確認用のURLに入れてね\n→チェック担当者にメールが届くようにします",
+        "files": [
+            {
+                "id": "F04TZ1XGHT9",
+                "created": 1679012098,
+                "timestamp": 1679012098,
+                "name": "2022残り",
+                "title": "2022残り",
+                "mimetype": "application\/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "G Suite Spreadsheet",
+                "user": "U03CXUXB5PF",
+                "user_team": "T03CU6RQ154",
+                "editable": false,
+                "size": 0,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/spreadsheets\/d\/1DNPNfjXprb6GhRCOCfC9t_T1ye8VpRCVp60HeXRfl0Q\/edit?usp=sharing",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04TZ1XGHT9-02159c069d\/2022_______64.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04TZ1XGHT9-02159c069d\/2022_______80.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04TZ1XGHT9-02159c069d\/2022_______360.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360_w": 254,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04TZ1XGHT9-02159c069d\/2022_______480.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04TZ1XGHT9-02159c069d\/2022_______160.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04TZ1XGHT9-02159c069d\/2022_______720.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04TZ1XGHT9-02159c069d\/2022_______800.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1132,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04TZ1XGHT9-02159c069d\/2022_______960.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_960_w": 678,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04TZ1XGHT9-02159c069d\/2022_______1024.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "thumb_tiny": "AwAwACHRZiDSbj7U4qD1pNgoATcfUflShiTRsFKFAOaAFooooAKKKKACiiigAooooAKKKKACiiigAooooA\/\/2Q==",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/U03CXUXB5PF\/F04TZ1XGHT9\/2022______",
+                "is_starred": false,
+                "external_id": "1DNPNfjXprb6GhRCOCfC9t_T1ye8VpRCVp60HeXRfl0Q",
+                "external_url": "https:\/\/docs.google.com\/spreadsheets\/d\/1DNPNfjXprb6GhRCOCfC9t_T1ye8VpRCVp60HeXRfl0Q\/edit?usp=sharing",
+                "has_rich_preview": true,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "x_files": [
+            "F04TZ1XGHT9"
+        ],
+        "ts": "1681008660.216359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "svU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1DNPNfjXprb6GhRCOCfC9t_T1ye8VpRCVp60HeXRfl0Q\/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nここ技術確認用のURLに入れてね\n→チェック担当者にメールが届くようにします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f483f5df-21f4-4628-bbe4-b8d51a8d421a",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

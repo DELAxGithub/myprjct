@@ -1,0 +1,91 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04KFCBLY9J> #99パックンで変更がありました\n変更前：返事待ち\n変更後：本人編集\n担当者は中野です",
+        "ts": "1684240341.955069",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CGi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #99パックンで変更がありました\n変更前：返事待ち\n変更後：本人編集\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U054HSHFAAH> #89成田聡子で変更がありました\n変更前：試写3\n変更後：編集アップ\n担当者は杉谷です",
+        "ts": "1684242002.269449",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E4M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U054HSHFAAH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #89成田聡子で変更がありました\n変更前：試写3\n変更後：編集アップ\n担当者は杉谷です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#99パックンで変更がありました\n変更前：本人編集\n変更後：試写3\n担当者は中野です",
+        "ts": "1684296519.748829",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e7K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#99パックンで変更がありました\n変更前：本人編集\n変更後：試写3\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657768170.906259",
+        "user": "U03P0T4C4F9",
+        "text": "<@U03P0T4C4F9>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657768173.400369",
+        "user": "U03P0T4KQMV",
+        "text": "<@U03P0T4KQMV>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "a400c4eb-b5f9-4aac-8567-5c874ea1a9af",
+        "type": "message",
+        "text": "<#C03DD5YH9D1|3-edit> こちらで編集の進捗やら指示をお伝えしています",
+        "user": "U03CXUXB5PF",
+        "ts": "1657768176.531549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2+h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "channel",
+                                "channel_id": "C03DD5YH9D1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こちらで編集の進捗やら指示をお伝えしています"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657768288.030229",
+        "user": "U03P0T4J5BR",
+        "text": "<@U03P0T4J5BR>さんがチャンネルに参加しました"
+    }
+]

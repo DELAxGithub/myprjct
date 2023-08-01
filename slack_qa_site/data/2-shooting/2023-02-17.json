@@ -1,0 +1,227 @@
+[
+    {
+        "client_msg_id": "a8911cf0-8697-412d-a40d-1617be451f72",
+        "type": "message",
+        "text": "秦さんから下記メール来ました。結局Wordだったのですが、EXCELにしてほしいみたいです…。\n↓\n\n安永様\nＣＣ：丸山様\n\nお世話になっております。ＮＥＰ　秦です。\n権利報告データについてご連絡いたします。\n丸山からお聞き及びと思いますが、データ修正のお願いです。\n\nエクセルデータに変更していただきたくひな形を探したのですが、\n小寺さんからいただいていたのもワードでした。\n<https:\/\/docs.google.com\/document\/d\/1T2fvKbKiGYbZyK_4vWwRTHcScRLe2UnrwPjuqkzfA7E\/edit?usp=sharing>\n同じ内容が網羅されていれば良いのですが、上記を参考にエクセルに変えていただく事は可能でしょうか。\nお忙しい中ご面倒をお掛けしてしまい申し訳ありません。\n全部でなくとも、できる範囲でご協力いただけますよう宜しくお願いいたします。",
+        "user": "U03V84JSHNK",
+        "ts": "1676621209.433859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ilb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "秦さんから下記メール来ました。結局Wordだったのですが、EXCELにしてほしいみたいです…。\n↓\n\n安永様\nＣＣ：丸山様\n\nお世話になっております。ＮＥＰ　秦です。\n権利報告データについてご連絡いたします。\n丸山からお聞き及びと思いますが、データ修正のお願いです。\n\nエクセルデータに変更していただきたくひな形を探したのですが、\n小寺さんからいただいていたのもワードでした。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1T2fvKbKiGYbZyK_4vWwRTHcScRLe2UnrwPjuqkzfA7E\/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n同じ内容が網羅されていれば良いのですが、上記を参考にエクセルに変えていただく事は可能でしょうか。\nお忙しい中ご面倒をお掛けしてしまい申し訳ありません。\n全部でなくとも、できる範囲でご協力いただけますよう宜しくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676598497.994599",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03V84JSHNK> 　２０日収録のカンペ作りました。",
+        "files": [
+            {
+                "id": "F04Q5PNNGDS",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1676622872.384289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yU7GH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 　２０日収録のカンペ作りました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "13cf5562-bfe4-431d-956a-e7665e77824b",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bf61dc35-dd92-42d9-8dbc-421565c54ded",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> googleドキュメント⇒スプレッドシート、コピペすると画像の欄だけがついてこないんですけどどうすればいいか分かりますか？？\n今の所、画像を１個１個コピーしてセルに合わせて貼り付け、って作業をしているんですが、これ途方も無い時間がかかりそうなんですが。。wordやEXCELに落っことしても画像だけがついてこず…。",
+        "user": "U03V84JSHNK",
+        "ts": "1676638092.188679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wI7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " googleドキュメント⇒スプレッドシート、コピペすると画像の欄だけがついてこないんですけどどうすればいいか分かりますか？？\n今の所、画像を１個１個コピーしてセルに合わせて貼り付け、って作業をしているんですが、これ途方も無い時間がかかりそうなんですが。。wordやEXCELに落っことしても画像だけがついてこず…。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676598497.994599",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "868F0464-1194-487A-AA78-602D6CA00CC6",
+        "type": "message",
+        "text": "画像の扱いが邪魔くさいのよねぇ。ってことで、画像なしエクセルと画像ありワード両方提出勘弁してもらうかなってのがベストかと。池上さんがどういう作業したいのか知らんけど、両方見ながらで別に不具合ないんじゃないのという。\n\n次回以降は最初からエクセル使うってことで。",
+        "user": "U03CXUXB5PF",
+        "ts": "1676638284.770769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YxWf1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "画像の扱いが邪魔くさいのよねぇ。ってことで、画像なしエクセルと画像ありワード両方提出勘弁してもらうかなってのがベストかと。池上さんがどういう作業したいのか知らんけど、両方見ながらで別に不具合ないんじゃないのという。\n\n次回以降は最初からエクセル使うってことで。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676598497.994599",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "facfe5ce-242b-4dff-bb86-f273e860713c",
+        "type": "message",
+        "text": "そうですね、ちょっとそれで相談してみます。ありがとうございます。",
+        "user": "U03V84JSHNK",
+        "ts": "1676638357.328439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FNF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうですね、ちょっとそれで相談してみます。ありがとうございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676598497.994599",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

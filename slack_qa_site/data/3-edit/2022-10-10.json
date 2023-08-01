@@ -1,0 +1,65 @@
+[
+    {
+        "type": "message",
+        "text": "Encoderの書き出し先について\n\nこれまでエンコーダーのなかの書き出し先設定で置き場やリネームをやろうとしてましたが、変更します\n\nいったん 10_outputに全部書き出します\n・MAも手元試写もクライアント試写も起こしも納品も\n→そのあとそれぞれの用途にむけて引っ越し\n\n*・手元試写必要な人は 各自で手元試写用に引っ越す or output上で見て終わったら捨てる*\n・クライアントチェック用は、このフォルダから試写フォルダに引っ越しして、そこからReplayであげる（Recentじゃなくてフォルダ指定で）\n・Dropboxの自動リネーム機能で日付時間がファイルの頭につきます（出演者番号管理が死ぬのでとりあえずテスト）",
+        "files": [
+            {
+                "id": "F046HNCMPG8",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1665399361.543129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TkB2z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Encoderの書き出し先について\n\nこれまでエンコーダーのなかの書き出し先設定で置き場やリネームをやろうとしてましたが、変更します\n\nいったん 10_outputに全部書き出します\n・MAも手元試写もクライアント試写も起こしも納品も\n→そのあとそれぞれの用途にむけて引っ越し\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・手元試写必要な人は 各自で手元試写用に引っ越す or output上で見て終わったら捨てる",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n・クライアントチェック用は、このフォルダから試写フォルダに引っ越しして、そこからReplayであげる（Recentじゃなくてフォルダ指定で）\n・Dropboxの自動リネーム機能で日付時間がファイルの頭につきます（出演者番号管理が死ぬのでとりあえずテスト）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1665399454.000000"
+        },
+        "client_msg_id": "9f311083-0447-4227-85b3-3e2992babb48",
+        "reactions": [
+            {
+                "name": "clown_face",
+                "users": [
+                    "U040YCC00V6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

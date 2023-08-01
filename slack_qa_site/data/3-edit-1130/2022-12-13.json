@@ -1,0 +1,231 @@
+[
+    {
+        "client_msg_id": "804C0AE8-9359-4B88-85B4-A33BFA4E9042",
+        "type": "message",
+        "text": "吉岡さん、図は修正反映されていますが\nep3　14：21あたり　「僕は専門じゃないんですけど」部分　右側の音が極端に小さく感じます。\n\nだそうです、なんでしょうかね。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1670940502.707039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cu3Eq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "吉岡さん、図は修正反映されていますが\nep3　14：21あたり　「僕は専門じゃないんですけど」部分　右側の音が極端に小さく感じます。\n\nだそうです、なんでしょうかね。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0017982e-ebeb-4c30-bf05-5d21f819807f",
+        "type": "message",
+        "text": "<@U03QQ3J656Z> シーケンスで確認したけどよくわかりませんでした。\n今吉岡 ep3の最終→地図修正した1213版→なんかよくわからんけどもう一回書き出し1214版を出してみて、比較してみます。\n\nまじで勝手に音に違和感感じるのよくわからんすね。。\n一応報告まで。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1670983544.337289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/EY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " シーケンスで確認したけどよくわかりませんでした。\n今吉岡 ep3の最終→地図修正した1213版→なんかよくわからんけどもう一回書き出し1214版を出してみて、比較してみます。\n\nまじで勝手に音に違和感感じるのよくわからんすね。。\n一応報告まで。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1670983567.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U03QQ3J656Z> すいません、これ確かに、ep3どのバージョンも1421からちょっと、プツッとした、なんかトランジション崩れみたいな音ありますね。\nで、1213,1214版は、音があっちゃこっちゃいってる感じ。MAマターですかね。\nちょっとMAにて確認します。",
+        "files": [
+            {
+                "id": "F04F3UKUGF4",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1670984272.338469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hq7Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すいません、これ確かに、ep3どのバージョンも1421からちょっと、プツッとした、なんかトランジション崩れみたいな音ありますね。\nで、1213,1214版は、音があっちゃこっちゃいってる感じ。MAマターですかね。\nちょっとMAにて確認します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1e7d6fae-f926-408d-b8ef-1ac546723c69"
+    },
+    {
+        "client_msg_id": "3cf6c583-7945-49a4-9a6b-30fe019686a4",
+        "type": "message",
+        "text": "んー音に違和感は編集していて全く気にならなかったですけどね。\n音の振り分けがぐちゃぐちゃになってしまってますかね？",
+        "user": "U03QQ3J656Z",
+        "ts": "1670985046.700039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3H7Xz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "んー音に違和感は編集していて全く気にならなかったですけどね。\n音の振り分けがぐちゃぐちゃになってしまってますかね？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0e50bf20-a421-495d-8256-ceeab373394c",
+        "type": "message",
+        "text": "いや、シーケンス上でバランスは取れてたと思います。\n\n確かに聴き比べるとわかります。\n\n修正したせいで歪んでるとかならMAマターかつ改善した結果なのでまぁいいかなんですが。\n\nプチっていうのは、なんか編集点のぽいのかなと思いました。\n<https:\/\/www.dropbox.com\/t\/TbFpMUMwYljIMfdu>\n\nま、気にしないで、というレベルでもありますが。",
+        "user": "U03CXUXB5PF",
+        "ts": "1670985263.839349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cBg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いや、シーケンス上でバランスは取れてたと思います。\n\n確かに聴き比べるとわかります。\n\n修正したせいで歪んでるとかならMAマターかつ改善した結果なのでまぁいいかなんですが。\n\nプチっていうのは、なんか編集点のぽいのかなと思いました。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/t\/TbFpMUMwYljIMfdu"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nま、気にしないで、というレベルでもありますが。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.dropbox.com\/t\/TbFpMUMwYljIMfdu",
+                "image_url": "https:\/\/uc4b56f0b99f1787d6475721d45b.previews.dropboxusercontent.com\/p\/thumb\/ABtnZIMa6V_lCcOBwLt4lAG1g8x0dkQi7Croo-06PgKu7C9bwcJTGMK5X8VZKR0jPqYlt9mdBXxjCDv6_kdb57_i--eklaKpAIM6_L98do4S6adheR_cwQN3DngjGwhs2uS3W94Pfb5ix7OoXn47BqFCKazW6VSAlitSC9vPC0FoWw6XtMl4GekCNHP7C69zm96TkHTLcgqU_F-B2gbIg3KQ5m-vOKrvxl7DFrNHdjwxA4cIsGhCujIGWSkj9qp4ZC3fm8Gb76GHwIrbNJVo9XjkV25Odl065uMan15igKrhwzPNC0TX6CG5IqrwAPq0t94\/p.png",
+                "image_width": 392,
+                "image_height": 220,
+                "image_bytes": 88550,
+                "id": 1,
+                "original_url": "https:\/\/www.dropbox.com\/t\/TbFpMUMwYljIMfdu",
+                "fallback": "Dropbox: KODERA Hiroshi sent you 3 items",
+                "text": "46_yoshioka_ep3_最終.mp4 + 2 more items",
+                "title": "KODERA Hiroshi sent you 3 items",
+                "title_link": "https:\/\/www.dropbox.com\/t\/TbFpMUMwYljIMfdu",
+                "service_name": "Dropbox"
+            }
+        ]
+    }
+]

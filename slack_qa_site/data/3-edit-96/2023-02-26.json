@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "1cc38554-1dd7-4b30-b74d-c45dfb3e075a",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n96宮本試写2をReplyにアップしました。\nよろしくお願いいたします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1677480699.832489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "taZKZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n96宮本試写2をReplyにアップしました。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

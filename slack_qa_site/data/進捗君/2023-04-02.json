@@ -1,0 +1,137 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#89成田聡子で変更がありました\n変更前：試写1\n変更後：MA台本\n担当者は杉谷です",
+        "ts": "1680432768.968559",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pWl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#89成田聡子で変更がありました\n変更前：試写1\n変更後：MA台本\n担当者は杉谷です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04QC17DUEP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04QC17DUEP> #89成田聡子で変更がありました\n変更前：MA台本\n変更後：MA編集\n担当者は杉谷です",
+        "ts": "1680436023.324799",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U5wg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04QC17DUEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #89成田聡子で変更がありました\n変更前：MA台本\n変更後：MA編集\n担当者は杉谷です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04QC17DUEP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03Q17LBJP3> #85大場紀章で変更がありました\n変更前：編集3\n変更後：本人編集\n担当者は岡野です",
+        "ts": "1680485525.934029",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IYa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #85大場紀章で変更がありました\n変更前：編集3\n変更後：本人編集\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04KFCBLY9J> #84山下聖美で変更がありました\n変更前：試写3\n変更後：編集アップ\n担当者は中野です",
+        "ts": "1680503174.650359",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BqU6g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #84山下聖美で変更がありました\n変更前：試写3\n変更後：編集アップ\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

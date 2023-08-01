@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "1c003816-d773-48f2-b1ef-4c62e72f9d31",
+        "type": "message",
+        "text": "<@U03V84JSHNK> 最近の出演者情報って、安永くんが収録後に当ててるけど、あれって情報どういう状態？\n動画用のプロフィールも同時に確認してるんなら、その一覧があるといいなと思ってまして、どっかにあるなら共有いただければ。",
+        "user": "U03CXUXB5PF",
+        "ts": "1672953383.687579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zuo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 最近の出演者情報って、安永くんが収録後に当ててるけど、あれって情報どういう状態？\n動画用のプロフィールも同時に確認してるんなら、その一覧があるといいなと思ってまして、どっかにあるなら共有いただければ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1672953383.687579",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1673074866.578409",
+        "reply_users": [
+            "U03V84JSHNK"
+        ],
+        "replies": [
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1673074866.578409"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1673074866.578409"
+    }
+]

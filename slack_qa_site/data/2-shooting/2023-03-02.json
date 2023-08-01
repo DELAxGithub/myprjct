@@ -1,0 +1,600 @@
+[
+    {
+        "client_msg_id": "1ddd269d-4d00-490a-9f30-ca4be3ecf786",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> １８日のスタジオここらへんはいかがでしょうか？\n<https:\/\/shootest.jp\/studio\/s190\/>\n\n<https:\/\/shootest.jp\/studio\/s935\/>\n\n<https:\/\/shootest.jp\/studio\/s160\/>",
+        "user": "U04J38PLGM6",
+        "ts": "1677747518.410759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lPI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " １８日のスタジオここらへんはいかがでしょうか？\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/shootest.jp\/studio\/s190\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/shootest.jp\/studio\/s935\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/shootest.jp\/studio\/s160\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/shootest.jp\/studio\/s190\/",
+                "image_url": "https:\/\/shootest.jp\/wp-content\/uploads\/2019\/02\/beigetop.jpeg",
+                "image_width": 786,
+                "image_height": 524,
+                "image_bytes": 100168,
+                "service_icon": "https:\/\/shootest.jp\/wp-content\/themes\/shootest_v4\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/shootest.jp\/studio\/s190\/",
+                "fallback": "SHOOTEST: 【天井の高い、自然光の豊富なスタジオ】STUDIO BEIGE | SHOOTEST",
+                "text": "飯田橋・水道橋エリアにある撮影スタジオ。自然光が豊富に射し込む白壁の撮影スタジオです。天井高3.8mの開放的な空間。ソファや観葉植物などの家具・小物も豊富に揃っている為、白壁のスタジオながら変化に富んだ撮影が可能です。メイクルームもございます。",
+                "title": "【天井の高い、自然光の豊富なスタジオ】STUDIO BEIGE | SHOOTEST",
+                "title_link": "https:\/\/shootest.jp\/studio\/s190\/",
+                "service_name": "SHOOTEST"
+            },
+            {
+                "image_url": "https:\/\/shootest.jp\/wp-content\/uploads\/2022\/10\/20221004-IMG_9232.jpg",
+                "image_width": 786,
+                "image_height": 524,
+                "image_bytes": 105004,
+                "from_url": "https:\/\/shootest.jp\/studio\/s935\/",
+                "service_icon": "https:\/\/shootest.jp\/wp-content\/themes\/shootest_v4\/favicon.png",
+                "id": 2,
+                "original_url": "https:\/\/shootest.jp\/studio\/s935\/",
+                "fallback": "SHOOTEST: レンガの暖炉があるナチュラルなハウススタジオタイトル | SHOOTEST",
+                "text": "墨田エリアに位置する、3つの異なるテイストのスペースがあるハウススタジオ。全体的に、白壁とウッド調を基調とした明るく抜け感のあるナチュラルな雰囲気を演出します。スタジオ内は3つの異なる雰囲気の部屋で構成されており、ソファとレンガ壁を使用した暖炉がある客間風スペース、大きな窓から豊富に光が差し込むリビングスペース、ベッドがある寝室スペースで様々シーンを撮影いただけます。3つのスペースは地続きになっていて区切られていないので、自由度の高い撮影が行えます。南面には大きな窓があり、自然光が豊富に差し込むので、柔らかな自然光を利した撮影が可能です。窓の外側に照明を置くスペースもあるので流し込みにも対応しております。お支度場所としてお使いいただける控室も完備しておりますので、安心してご利用いただけます。",
+                "title": "レンガの暖炉があるナチュラルなハウススタジオタイトル | SHOOTEST",
+                "title_link": "https:\/\/shootest.jp\/studio\/s935\/",
+                "service_name": "SHOOTEST"
+            },
+            {
+                "from_url": "https:\/\/shootest.jp\/studio\/s160\/",
+                "image_url": "https:\/\/shootest.jp\/wp-content\/uploads\/2018\/08\/theC_photo_18.jpg",
+                "image_width": 786,
+                "image_height": 530,
+                "image_bytes": 119258,
+                "service_icon": "https:\/\/shootest.jp\/wp-content\/themes\/shootest_v4\/favicon.png",
+                "id": 3,
+                "original_url": "https:\/\/shootest.jp\/studio\/s160\/",
+                "fallback": "SHOOTEST: リビタが手がけるワークラウンジ C-Lounge | SHOOTEST",
+                "text": "リノベーションで暮らしとコミュニティをデザインするリビタが手がけるワークラウンジを撮影スペースとしてご利用いただけます。シーンに富んだリノベーション空間は、対談・インタビュー撮影や、カフェや飲食店シーンでの撮影にも最適。キッチンスペースもありますので、キッチンスタジオのように料理シーンも撮影にもご対応可能です。",
+                "title": "リビタが手がけるワークラウンジ C-Lounge | SHOOTEST",
+                "title_link": "https:\/\/shootest.jp\/studio\/s160\/",
+                "service_name": "SHOOTEST"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3e57d3c8-e133-4558-9b7a-b113388c781d",
+        "type": "message",
+        "text": "18日はどこでも良さそうですね（実質１人だし）\n来期の通常収録でも使えるかも含めて小島さんにも共有してみてください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1677802946.132189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Or+9N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "18日はどこでも良さそうですね（実質１人だし）\n来期の通常収録でも使えるかも含めて小島さんにも共有してみてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677802946.132189",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677804219.651809",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1677804219.651809"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677804219.651809"
+    },
+    {
+        "client_msg_id": "027e5ded-5fbb-4442-8522-4a2604b7ab4f",
+        "type": "message",
+        "text": "<@U04J38PLGM6> <@U03V84JSHNK>\n今月中に残りの編集の準備を済ませたいです\nが、なんかここ２週間ぐらい台本のやる気がなくなりまして、締め切りを設定したいなと。。\n\nお二人のこの日にまとめてリサーチやります（素材探し＆ボイス作成をこう呼びます）っていうのがあれば、スケジュールに予定日入れますので、教えてください。\nその日の前までにOP\/ED含めて台本をやりますので。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1677804042.314099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tRk\/V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今月中に残りの編集の準備を済ませたいです\nが、なんかここ２週間ぐらい台本のやる気がなくなりまして、締め切りを設定したいなと。。\n\nお二人のこの日にまとめてリサーチやります（素材探し＆ボイス作成をこう呼びます）っていうのがあれば、スケジュールに予定日入れますので、教えてください。\nその日の前までにOP\/ED含めて台本をやりますので。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677804042.314099",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1677985429.500699",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1677804155.047999"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1677805139.356649"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1677983928.781309"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1677985343.308989"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1677985402.141459"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1677985429.500699"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677985429.500699"
+    },
+    {
+        "client_msg_id": "2d5bd5b7-27f4-4d51-a9e0-6a23bfe5f453",
+        "type": "message",
+        "text": "今どこまでやってあったっけ、、",
+        "user": "U03CXUXB5PF",
+        "ts": "1677804155.047999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g491",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今どこまでやってあったっけ、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677804042.314099",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "4ff202f3-7863-44b8-84fc-de6dce2c663f",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 小島さんに当てます。\nこれらのスタジオは通常収録だと狭いかもしれません。",
+        "user": "U04J38PLGM6",
+        "ts": "1677804219.651809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OuF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 小島さんに当てます。\nこれらのスタジオは通常収録だと狭いかもしれません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677802946.132189",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF><@U03V84JSHNK>\nリサーチ遅くなっていてすみません。私は先ず82と85を月曜までには終わらせます。\n私のスケジュールですが、\n7日、９日、１０日がNGなので、\n１１日以降リサーチ再開でしょうか。",
+        "user": "U04J38PLGM6",
+        "ts": "1677805139.356649",
+        "thread_ts": "1677804042.314099",
+        "root": {
+            "client_msg_id": "027e5ded-5fbb-4442-8522-4a2604b7ab4f",
+            "type": "message",
+            "text": "<@U04J38PLGM6> <@U03V84JSHNK>\n今月中に残りの編集の準備を済ませたいです\nが、なんかここ２週間ぐらい台本のやる気がなくなりまして、締め切りを設定したいなと。。\n\nお二人のこの日にまとめてリサーチやります（素材探し＆ボイス作成をこう呼びます）っていうのがあれば、スケジュールに予定日入れますので、教えてください。\nその日の前までにOP\/ED含めて台本をやりますので。。",
+            "user": "U03CXUXB5PF",
+            "ts": "1677804042.314099",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "tRk\/V",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03V84JSHNK"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n今月中に残りの編集の準備を済ませたいです\nが、なんかここ２週間ぐらい台本のやる気がなくなりまして、締め切りを設定したいなと。。\n\nお二人のこの日にまとめてリサーチやります（素材探し＆ボイス作成をこう呼びます）っていうのがあれば、スケジュールに予定日入れますので、教えてください。\nその日の前までにOP\/ED含めて台本をやりますので。。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1677804042.314099",
+            "reply_count": 6,
+            "reply_users_count": 2,
+            "latest_reply": "1677985429.500699",
+            "reply_users": [
+                "U03CXUXB5PF",
+                "U04J38PLGM6"
+            ],
+            "replies": [
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1677804155.047999"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1677805139.356649"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1677983928.781309"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1677985343.308989"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1677985402.141459"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1677985429.500699"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1677985429.500699"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ItDV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nリサーチ遅くなっていてすみません。私は先ず82と85を月曜までには終わらせます。\n私のスケジュールですが、\n7日、９日、１０日がNGなので、\n１１日以降リサーチ再開でしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a832d249-c63e-4fba-b753-11140cbd098b",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 82の黒い蛾、アラーミーで買っていいですか? wikiだと権利がややこしそうなのしかありませんでした。",
+        "files": [
+            {
+                "id": "F04S8L7FJRJ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1677807289.832129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OSx0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 82の黒い蛾、アラーミーで買っていいですか? wikiだと権利がややこしそうなのしかありませんでした。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a52b03ae-18ce-4c81-9bd0-acd99d4dc626"
+    },
+    {
+        "client_msg_id": "c02c7f61-c490-4c42-9047-76131794460b",
+        "type": "message",
+        "text": "買ってくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1677807299.776279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XX3m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "買ってくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6fd6b705-3098-40c0-8f00-c0182bfb4815",
+        "type": "message",
+        "text": "2\/28の請求書、郵送先はKINでいいんですけど、PDFとかあったら僕にも転送をお願いします\n<@U04J38PLGM6>\nあと、メイクも2月分請求をお願いします",
+        "user": "U03CXUXB5PF",
+        "ts": "1677813212.127619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MSaLH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2\/28の請求書、郵送先はKINでいいんですけど、PDFとかあったら僕にも転送をお願いします\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nあと、メイクも2月分請求をお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

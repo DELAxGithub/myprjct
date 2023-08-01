@@ -1,0 +1,47 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3>\n遅くなり申し訳ありません。85_大場のイメージとテロップを入れました。\nよろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F04TBR6GAUE",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1678621631.159289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "szkg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n遅くなり申し訳ありません。85_大場のイメージとテロップを入れました。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7db12c1c-ca59-4800-8b97-a239c555b251",
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

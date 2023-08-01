@@ -1,0 +1,93 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03G0LAPT3N>\n60阿部 ep2 編集調整に伴い再MAをお願いします。\n00:06:27:17 新規撮影素材追加\n00:08:23:02 カット\n\nまた前回のMA後に\n00:06:01:14 voice変更しております。\n\nよろしくお願いします。",
+        "files": [
+            {
+                "id": "F04JR3UTJLV",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03Q17LBJP3",
+        "display_as_bot": false,
+        "ts": "1673618329.896109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WvLB3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n60阿部 ep2 編集調整に伴い再MAをお願いします。\n00:06:27:17 新規撮影素材追加\n00:08:23:02 カット\n\nまた前回のMA後に\n00:06:01:14 voice変更しております。\n\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "227439c4-6328-4d9c-afee-4a3821fd6f5d",
+        "thread_ts": "1673618329.896109",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1673622910.936219",
+        "reply_users": [
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1673622910.936219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "533FB5B1-CBFB-4CFA-9474-A7E614FE7691",
+        "type": "message",
+        "text": "承知しました。",
+        "user": "U03G0LAPT3N",
+        "ts": "1673622910.936219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jOEZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673618329.896109",
+        "parent_user_id": "U03Q17LBJP3"
+    }
+]

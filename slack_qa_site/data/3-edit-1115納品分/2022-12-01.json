@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "ab53bfb0-7c8d-4f95-9c2f-61802b56165c",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nお待たせしております。34菅野 修正&amp;MA反映し\nシーケンス名を最終といたしました。よろしくお願い致します。",
+        "user": "U03NJATSEBH",
+        "ts": "1669892564.825479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v5de",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお待たせしております。34菅野 修正&MA反映し\nシーケンス名を最終といたしました。よろしくお願い致します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669853714.696899",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "mechanical_arm",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

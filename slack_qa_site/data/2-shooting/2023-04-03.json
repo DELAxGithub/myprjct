@@ -1,0 +1,432 @@
+[
+    {
+        "client_msg_id": "6d66d3ff-6a24-4315-9a16-f246a3d9f0a5",
+        "type": "message",
+        "text": "進捗どうですか？\n<@U04J38PLGM6> <@U03V84JSHNK>\n修正対応とか色々あると思いますが、今週でリサーチ終わりだと思うので、頑張ってください！",
+        "user": "U03CXUXB5PF",
+        "ts": "1680526274.277129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6At",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "進捗どうですか？\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n修正対応とか色々あると思いますが、今週でリサーチ終わりだと思うので、頑張ってください！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680526274.277129",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1680526754.343159",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1680526754.343159"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1680526754.343159"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF> \nまだパックンの途中です。明日巻きます。",
+        "user": "U04J38PLGM6",
+        "ts": "1680526754.343159",
+        "thread_ts": "1680526274.277129",
+        "root": {
+            "client_msg_id": "6d66d3ff-6a24-4315-9a16-f246a3d9f0a5",
+            "type": "message",
+            "text": "進捗どうですか？\n<@U04J38PLGM6> <@U03V84JSHNK>\n修正対応とか色々あると思いますが、今週でリサーチ終わりだと思うので、頑張ってください！",
+            "user": "U03CXUXB5PF",
+            "ts": "1680526274.277129",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "6At",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "進捗どうですか？\n"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03V84JSHNK"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n修正対応とか色々あると思いますが、今週でリサーチ終わりだと思うので、頑張ってください！"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1680526274.277129",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1680526754.343159",
+            "reply_users": [
+                "U04J38PLGM6"
+            ],
+            "replies": [
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1680526754.343159"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1680526754.343159"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Brdtq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nまだパックンの途中です。明日巻きます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "D3651796-D349-43E2-BBF1-79E4465A58C7"
+    },
+    {
+        "client_msg_id": "db841061-cd01-4cfb-8e33-94ae845fb333",
+        "type": "message",
+        "text": "なんかすげーイメージ案書き込んじゃったけど、そんなにたくさんピンポイントで使って欲しいっていうより、アメリカの社会雑踏とかの映像なら何でもある程度ハマるのでバリエーションがある程度揃ったら進めていいと思います。\nむしろピッタリハマるけどダサいより\n映像的に単にかっこいいとかの方が全体としては仕上がり良くなるので\n\n引き続きよろしくお願いします！",
+        "user": "U03CXUXB5PF",
+        "ts": "1680526869.793379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0h6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なんかすげーイメージ案書き込んじゃったけど、そんなにたくさんピンポイントで使って欲しいっていうより、アメリカの社会雑踏とかの映像なら何でもある程度ハマるのでバリエーションがある程度揃ったら進めていいと思います。\nむしろピッタリハマるけどダサいより\n映像的に単にかっこいいとかの方が全体としては仕上がり良くなるので\n\n引き続きよろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680526869.793379",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1680526945.591499",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1680526945.591499"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1680526945.591499"
+    },
+    {
+        "client_msg_id": "046350EC-30B7-4818-A91A-778DF6F54550",
+        "type": "message",
+        "text": "なるほど、了解しました！\n",
+        "user": "U04J38PLGM6",
+        "ts": "1680526945.591499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "goQvp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど、了解しました！\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680526869.793379",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "2d619677-49e0-4a90-8254-9567aebc3531",
+        "type": "message",
+        "text": "何となく、探し方は\n\nテーマに合うやつを30個ぐらい探しておく\nピンポイントで使って欲しいのはわかるように台本とファイル名で一致させる\n\nとかかな。\n\n編集マンの感覚でストックから選ぶのを編集の幅が広がると前向きに考えてもらわないといけないですが、\nこれでリサーチのスピード上がりつつ、仕上がりも良くなるなら。。\n\nピンポイントかどうかとか台本でも、\n重要度が何となくわかるようにした方がいいかもなと思っていますが、\nこのリサーチが溜まる問題はちょっと来期の課題。\nリサーチャーを外注するっていうのも手ではありますね。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1680527210.638009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T17n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "何となく、探し方は\n\nテーマに合うやつを30個ぐらい探しておく\nピンポイントで使って欲しいのはわかるように台本とファイル名で一致させる\n\nとかかな。\n\n編集マンの感覚でストックから選ぶのを編集の幅が広がると前向きに考えてもらわないといけないですが、\nこれでリサーチのスピード上がりつつ、仕上がりも良くなるなら。。\n\nピンポイントかどうかとか台本でも、\n重要度が何となくわかるようにした方がいいかもなと思っていますが、\nこのリサーチが溜まる問題はちょっと来期の課題。\nリサーチャーを外注するっていうのも手ではありますね。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1680527227.000000"
+        }
+    },
+    {
+        "client_msg_id": "997b2117-a2d9-4c37-9d48-b7c7b26ecbbb",
+        "type": "message",
+        "text": "<@U04J38PLGM6> <@U03V84JSHNK>\n103のオープニングエンディングできました\n今書き起こしを頼んでる人に来期から台本とかリサーチも頼めないかと指導中でして、\nイメージ案を書き込んでもらいました。\nで、リサーチがどんな作業かも体験してもらうべく、\nいつものサイトで探してもらい、リンクをコメントで記入してもらいました\n\n採用してもらってもいいし、\nいや、これはなんか違うなっていう時はコメント欄にて返信してあげてください\nというわけで、\n今やってるリサーチが終わったら、103のリサーチをお願いします。\nお二人の経験をそれぞれ発揮して、来期のやり方もブラッシュアップしたいので、お二人ともで一通り。\n\nで、直前に書きましたが、１０３はフェミニズム研究がテーマなので、\nテーマに合うかっこいい映像を30個ぐらい、\nっていうのは見習いの指導とは別にお願いします\n\n30個多すぎるかどうかはちょっとやってみて数を検討しましょう。",
+        "user": "U03CXUXB5PF",
+        "ts": "1680533874.463109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QS824",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n103のオープニングエンディングできました\n今書き起こしを頼んでる人に来期から台本とかリサーチも頼めないかと指導中でして、\nイメージ案を書き込んでもらいました。\nで、リサーチがどんな作業かも体験してもらうべく、\nいつものサイトで探してもらい、リンクをコメントで記入してもらいました\n\n採用してもらってもいいし、\nいや、これはなんか違うなっていう時はコメント欄にて返信してあげてください\nというわけで、\n今やってるリサーチが終わったら、103のリサーチをお願いします。\nお二人の経験をそれぞれ発揮して、来期のやり方もブラッシュアップしたいので、お二人ともで一通り。\n\nで、直前に書きましたが、１０３はフェミニズム研究がテーマなので、\nテーマに合うかっこいい映像を30個ぐらい、\nっていうのは見習いの指導とは別にお願いします\n\n30個多すぎるかどうかはちょっとやってみて数を検討しましょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680533874.463109",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1680693529.384749",
+        "reply_users": [
+            "U04J38PLGM6",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1680667997.903769"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1680669891.234439"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1680692077.850459"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1680692111.197859"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1680692325.163359"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1680692725.844249"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1680693078.463549"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1680693529.384749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1680693529.384749"
+    },
+    {
+        "client_msg_id": "b5440d11-7077-4353-98fe-8a238d82b2b1",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> わかりました。その方法でやってみます。",
+        "user": "U04J38PLGM6",
+        "ts": "1680570646.927939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ghS9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " わかりました。その方法でやってみます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

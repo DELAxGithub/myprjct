@@ -1,0 +1,607 @@
+[
+    {
+        "client_msg_id": "98203af2-21ac-401c-9405-4320d404e6bc",
+        "type": "message",
+        "text": "<@U03NZ0E09JN>\n今週もよろしくお願いします\nひとまず目標の設定でしょうか。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667782812.506379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IdpB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今週もよろしくお願いします\nひとまず目標の設定でしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-raising-hand",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "92491da3-a245-4823-a13c-b1e00b9d2070",
+        "type": "message",
+        "text": "1030分も催促が来てるので、浅羽・和泉本人チェックまで早めに回したいです。本人チェックが時間かかる分には誰も何にも言えないので。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667785655.385179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UNOYz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1030分も催促が来てるので、浅羽・和泉本人チェックまで早めに回したいです。本人チェックが時間かかる分には誰も何にも言えないので。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "11\/7週　今週の目標\n\n<#C043UBH5VFC|3-edit-1030納品分>\n浅羽、和泉 Replay２試写反映→2.1、出演者試写\n松本　最終書き出し\n岡　Replay2.1修正→2.2試写\n筒井　Replay2.1試写修正なし？→最終書き出し\n\n\n<#C048CGTB45A|3-edit-1115納品分> 　MA反映→試写２\n川上、菅野　MA発注\n三宅、フジガキ　MA反映→試写２\n森山、MA待ち→反映→試写２\n\n\n<#C049HRQGGNQ|3-edit-1130納品分> 　試写１\n平藤、坂井、長谷　試写１\n湯浅　素材 テロップ Voice待ち→試写１\n吉岡　素材待ち→試写１\n\n\n#3-edit-1202納品分　試写１\n\n\nこちらは12\/25までに#70までを納品すると言うスケジュールに基づいています。\nそのため、無理があると思われるが、特に1130納品分、1202納品分です。２つとも試写１まで進めたいのが理想なんですが。\n\nちなみに12月の納品日の設定としては以下という感じで設定しております。認識が違う場合はご指摘いただければと思います。\n12\/2(金) 5本\n12\/9(金) 5本\n12\/16(金) 5本\n12\/23(金) 5本",
+        "files": [
+            {
+                "id": "F049QAXUB5H",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1667787855.047859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "io3w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "11\/7週　今週の目標\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043UBH5VFC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n浅羽、和泉 Replay２試写反映→2.1、出演者試写\n松本　最終書き出し\n岡　Replay2.1修正→2.2試写\n筒井　Replay2.1試写修正なし？→最終書き出し\n\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C048CGTB45A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 　MA反映→試写２\n川上、菅野　MA発注\n三宅、フジガキ　MA反映→試写２\n森山、MA待ち→反映→試写２\n\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C049HRQGGNQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 　試写１\n平藤、坂井、長谷　試写１\n湯浅　素材 テロップ Voice待ち→試写１\n吉岡　素材待ち→試写１\n\n\n#3-edit-1202納品分　試写１\n\n\nこちらは12\/25までに#70までを納品すると言うスケジュールに基づいています。\nそのため、無理があると思われるが、特に1130納品分、1202納品分です。２つとも試写１まで進めたいのが理想なんですが。\n\nちなみに12月の納品日の設定としては以下という感じで設定しております。認識が違う場合はご指摘いただければと思います。\n12\/2(金) 5本\n12\/9(金) 5本\n12\/16(金) 5本\n12\/23(金) 5本"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "0f8aa904-105c-4c75-a3a9-e880e6e4233b"
+    },
+    {
+        "client_msg_id": "7793934f-e171-4abd-93d6-99af3e847e9e",
+        "type": "message",
+        "text": "70本納品じゃなくて、試写1まで\n納品は60（２１から始まってるので40本）までだと思います。\n理想は70本まで納品ですが、多分むり。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667787945.539699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Md3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "70本納品じゃなくて、試写1まで\n納品は60（２１から始まってるので40本）までだと思います。\n理想は70本まで納品ですが、多分むり。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1667787977.000000"
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab7c24a9-31f9-43f1-8eda-5633107722e7",
+        "type": "message",
+        "text": "って感じで金曜お伝えしたつもりでしたが、違いましたっけ？",
+        "user": "U03CXUXB5PF",
+        "ts": "1667787997.358809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SB5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "って感じで金曜お伝えしたつもりでしたが、違いましたっけ？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b3852b58-78c8-4250-a201-3ab611a17870",
+        "type": "message",
+        "text": "あと、このカレンダー、進捗表に統合できたりします？シートのコピー先をURL指定できます。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667788236.965989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "paUt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あと、このカレンダー、進捗表に統合できたりします？シートのコピー先をURL指定できます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ce63c5dd-fa54-46c5-a368-2434519ce2de",
+        "type": "message",
+        "text": "そうでしたね。作り変えます。",
+        "user": "U03NZ0E09JN",
+        "ts": "1667788244.438719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b9D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうでしたね。作り変えます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "11\/7週　今週の目標\n\n<#C043UBH5VFC|3-edit-1030納品分>\n浅羽、和泉 Replay２試写反映→2.1、出演者試写\n松本　最終書き出し\n岡　Replay2.1修正→2.2試写\n筒井　Replay2.1試写修正なし？→最終書き出し\n\n\n<#C048CGTB45A|3-edit-1115納品分> 　MA反映→試写２\n川上、菅野　MA発注\n三宅、フジガキ　MA反映→試写２\n森山、MA待ち→反映→試写２\n\n\n<#C049HRQGGNQ|3-edit-1130納品分> 　試写１\n平藤、坂井、長谷　試写１\n湯浅　素材 テロップ Voice待ち→試写１\n吉岡　素材待ち→試写１\n\n\n#3-edit-1202納品分\n台本、イメージ・テロップ準備\n11\/23(水)編集スタート",
+        "files": [
+            {
+                "id": "F04AE5TDFKJ",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1667788511.917309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KK=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "11\/7週　今週の目標\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043UBH5VFC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n浅羽、和泉 Replay２試写反映→2.1、出演者試写\n松本　最終書き出し\n岡　Replay2.1修正→2.2試写\n筒井　Replay2.1試写修正なし？→最終書き出し\n\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C048CGTB45A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 　MA反映→試写２\n川上、菅野　MA発注\n三宅、フジガキ　MA反映→試写２\n森山、MA待ち→反映→試写２\n\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C049HRQGGNQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 　試写１\n平藤、坂井、長谷　試写１\n湯浅　素材 テロップ Voice待ち→試写１\n吉岡　素材待ち→試写１\n\n\n#3-edit-1202納品分\n台本、イメージ・テロップ準備\n11\/23(水)編集スタート"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03NZ0E09JN",
+            "ts": "1667799417.000000"
+        },
+        "client_msg_id": "7a0f6c8c-55ed-49d9-b9e5-aebee48d8783"
+    },
+    {
+        "client_msg_id": "02280b68-c0f3-4a4a-a1b0-d0f95246f9ab",
+        "type": "message",
+        "text": "筒井・岡野はクライアント2.1チェック中です\n終わったらEdits Requestになるようです。これEdits Requestの通知作れるんですけど、あったら嬉しいですか？",
+        "user": "U03CXUXB5PF",
+        "ts": "1667788845.494969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u4I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "筒井・岡野はクライアント2.1チェック中です\n終わったらEdits Requestになるようです。これEdits Requestの通知作れるんですけど、あったら嬉しいですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b00a18b3-ec0b-490e-8c83-f6e2ce7a1607",
+        "type": "message",
+        "text": "あると嬉しいです。",
+        "user": "U03NZ0E09JN",
+        "ts": "1667788880.651309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EiA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あると嬉しいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "92216794-ab79-466f-85d4-e62f1a2aac00",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n浅羽・和泉は本日作業進めますとのことです。",
+        "user": "U03NZ0E09JN",
+        "ts": "1667791097.839389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nnbG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n浅羽・和泉は本日作業進めますとのことです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "スケジュール修正しました。\n<https:\/\/docs.google.com\/spreadsheets\/d\/1-QZ0RfGVUMvZstXNjNGygiOuI0i0aPodZ44AxC5TnRQ\/edit#gid=833012724>",
+        "files": [
+            {
+                "id": "F049QNKC6N7",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1667798352.099069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eo9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スケジュール修正しました。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1-QZ0RfGVUMvZstXNjNGygiOuI0i0aPodZ44AxC5TnRQ\/edit#gid=833012724"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03NZ0E09JN",
+            "ts": "1667799325.000000"
+        },
+        "client_msg_id": "edcc17c4-dd2b-4287-8b47-b092838e44e7"
+    },
+    {
+        "client_msg_id": "cc354bf2-d575-4b56-8682-1d818e62346c",
+        "type": "message",
+        "text": "制作todoとしては以下をお願いします。\n\n<#C049HRQGGNQ|3-edit-1130納品分>\n51湯浅( 岡野)　イメージ・テロップ・Voice\n46吉岡(高山)　イメージ・テロップ\n\n岡野さんは浅羽・和泉・川上を仕上げてからになるので、湯浅は11\/9までにいただければと思います。\n\n高山さんは月火が別件でNGなので、吉岡は11\/9水の朝までにご用意いただけると助かります。",
+        "user": "U03NZ0E09JN",
+        "ts": "1667800014.776239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q2+97",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "制作todoとしては以下をお願いします。\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C049HRQGGNQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n51湯浅( 岡野)　イメージ・テロップ・Voice\n46吉岡(高山)　イメージ・テロップ\n\n岡野さんは浅羽・和泉・川上を仕上げてからになるので、湯浅は11\/9までにいただければと思います。\n\n高山さんは月火が別件でNGなので、吉岡は11\/9水の朝までにご用意いただけると助かります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03NZ0E09JN",
+            "ts": "1667800166.000000"
+        },
+        "reactions": [
+            {
+                "name": "mechanical_arm",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

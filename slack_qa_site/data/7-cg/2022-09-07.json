@@ -1,0 +1,540 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1662544364.888439",
+        "user": "U040YCC00V6",
+        "text": "<@U040YCC00V6>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1662544364.944539",
+        "user": "U03V84JSHNK",
+        "text": "<@U03V84JSHNK>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "8080acaf-2aed-4e45-b7cc-f51f5307005a",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n28田中のCGです。\nご確認をお願いいたします。\npremireで文字をレイアウトするイメージです。\n\n<https:\/\/10.gigafile.nu\/0914-6707bfc5882f80100edb6b683caa53f7>",
+        "user": "U03NZ0E09JN",
+        "ts": "1662555011.441999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rOP1B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n28田中のCGです。\nご確認をお願いいたします。\npremireで文字をレイアウトするイメージです。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/10.gigafile.nu\/0914-6707bfc5882f80100edb6b683caa53f7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/10.gigafile.nu\/0914-6707bfc5882f80100edb6b683caa53f7",
+                "thumb_url": "https:\/\/src.gigafile.nu\/images\/og_new_200_60.png",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/10.gigafile.nu\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/10.gigafile.nu\/0914-6707bfc5882f80100edb6b683caa53f7",
+                "fallback": "GigaFile（ギガファイル）便",
+                "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「１週間～１００日」選べる５種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+                "title": "GigaFile（ギガファイル）便",
+                "title_link": "https:\/\/10.gigafile.nu\/0914-6707bfc5882f80100edb6b683caa53f7",
+                "service_name": "10.gigafile.nu"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "8のシーレーンですが、細い方もお願いしますー　太い方細い方と違いも再現ください。\nあと、0ですけど国名、全部に入れてもらってますが、これは外しちゃった方が使いやすいかもです",
+        "files": [
+            {
+                "id": "F041ADHRZ1B",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1662555223.461139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sZ\/Lg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "8のシーレーンですが、細い方もお願いしますー　太い方細い方と違いも再現ください。\nあと、0ですけど国名、全部に入れてもらってますが、これは外しちゃった方が使いやすいかもです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "37134197-971b-4202-9c2e-a8fa7797914c",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "65b88dd9-f986-40f0-af2a-db7cece5fb5c",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nこちら修正いたしました。\n<https:\/\/67.gigafile.nu\/0914-d850a16e4bd9dee89ee0ae8ff82ead9a>",
+        "user": "U03NZ0E09JN",
+        "ts": "1662555816.416799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CMkbl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこちら修正いたしました。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/67.gigafile.nu\/0914-d850a16e4bd9dee89ee0ae8ff82ead9a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/67.gigafile.nu\/0914-d850a16e4bd9dee89ee0ae8ff82ead9a",
+                "thumb_url": "https:\/\/src.gigafile.nu\/images\/og_new_200_60.png",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/67.gigafile.nu\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/67.gigafile.nu\/0914-d850a16e4bd9dee89ee0ae8ff82ead9a",
+                "fallback": "GigaFile（ギガファイル）便",
+                "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「１週間～１００日」選べる５種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+                "title": "GigaFile（ギガファイル）便",
+                "title_link": "https:\/\/67.gigafile.nu\/0914-d850a16e4bd9dee89ee0ae8ff82ead9a",
+                "service_name": "67.gigafile.nu"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c7d6ed29-3f95-4a83-bb7b-8f56ed2538b7",
+        "type": "message",
+        "text": "こちらでよろしければ編集者へアナウンスいたします。\nよろしくお願いいたします。",
+        "user": "U03NZ0E09JN",
+        "ts": "1662555951.650939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AQoN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こちらでよろしければ編集者へアナウンスいたします。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cd22cc1c-c30d-41e9-bc95-f1234c89514b",
+        "type": "message",
+        "text": "画角は大きいままでいいですが、解像度は72でいいかも。内容はOKです。",
+        "user": "U03CXUXB5PF",
+        "ts": "1662555997.460479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b89nb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "画角は大きいままでいいですが、解像度は72でいいかも。内容はOKです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "15bb7c0a-89cf-4e78-b568-f18dae1d68cf",
+        "type": "message",
+        "text": "承知いたしました。",
+        "user": "U03NZ0E09JN",
+        "ts": "1662556291.322739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7SZ4s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知いたしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ab1efb7d-7c3f-4d26-8442-4e6046887c9d",
+        "type": "message",
+        "text": "一個抜けたのを発見しました。。\n小野塚グラフ2です\nCG発注表にも記入済みです。　明日以降で作業お願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1662558583.413919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pzj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一個抜けたのを発見しました。。\n小野塚グラフ2です\nCG発注表にも記入済みです。　明日以降で作業お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662558583.413919",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1662607008.665319",
+        "reply_users": [
+            "U03NZ0E09JN"
+        ],
+        "replies": [
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1662607008.665319"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1662607008.665319",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n小野塚グラフ２がきました。\nご確認をよろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F041W1TMJ49",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1662607008.665319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ABR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n小野塚グラフ２がきました。\nご確認をよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5cd6d0b0-cd1d-4a66-9eb5-69a91720f544",
+        "thread_ts": "1662558583.413919",
+        "parent_user_id": "U03CXUXB5PF",
+        "subtype": "thread_broadcast",
+        "root": {
+            "client_msg_id": "ab1efb7d-7c3f-4d26-8442-4e6046887c9d",
+            "type": "message",
+            "text": "一個抜けたのを発見しました。。\n小野塚グラフ2です\nCG発注表にも記入済みです。　明日以降で作業お願いします。",
+            "user": "U03CXUXB5PF",
+            "ts": "1662558583.413919",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Pzj",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "一個抜けたのを発見しました。。\n小野塚グラフ2です\nCG発注表にも記入済みです。　明日以降で作業お願いします。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1662558583.413919",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1662607008.665319",
+            "reply_users": [
+                "U03NZ0E09JN"
+            ],
+            "replies": [
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1662607008.665319"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1662607008.665319"
+        }
+    },
+    {
+        "client_msg_id": "ad925aa7-dedb-431c-bb2f-5b877163854c",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> OKですー",
+        "user": "U03CXUXB5PF",
+        "ts": "1662607148.702409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vve",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " OKですー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "42d92bc2-ee8f-48f3-812d-2ad2df94f0b3",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n25_中島の数式テロップはCG案件でしょうか。\nご指示をいただければと思います。",
+        "user": "U03NZ0E09JN",
+        "ts": "1662617883.495599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x=D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n25_中島の数式テロップはCG案件でしょうか。\nご指示をいただければと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

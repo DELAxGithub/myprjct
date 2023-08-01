@@ -1,0 +1,312 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04JJB0MTB7> #92斉藤幸平で変更がありました\n変更前：リサーチ\n変更後：編集1\n担当者は濱地です",
+        "ts": "1679999538.373509",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FJffc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #92斉藤幸平で変更がありました\n変更前：リサーチ\n変更後：編集1\n担当者は濱地です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#103清水晶子で変更がありました\n変更前：台本作成\n変更後：リサーチ\n担当者は辻井です",
+        "ts": "1680014024.516179",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ygkz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#103清水晶子で変更がありました\n変更前：台本作成\n変更後：リサーチ\n担当者は辻井です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f8d6d31e-dd37-4837-ad29-63461be8a4de",
+        "type": "message",
+        "text": "進捗君が少し賢くなりました\n\n編集1\nMA編集\n編集2\n編集3\n本人編集\n編集アップ\nの時のみ編集担当者にメンション行きます",
+        "user": "U03CXUXB5PF",
+        "ts": "1680014105.517199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iacSS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "進捗君が少し賢くなりました\n\n編集1\nMA編集\n編集2\n編集3\n本人編集\n編集アップ\nの時のみ編集担当者にメンション行きます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03V84JSHNK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#106-3北川智子で変更がありました\n変更前：undefined\n変更後：台本作成\n担当者は石橋です",
+        "ts": "1680038030.687679",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+4m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#106-3北川智子で変更がありました\n変更前：undefined\n変更後：台本作成\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#106-4スゴ本で変更がありました\n変更前：undefined\n変更後：台本作成\n担当者は石橋です",
+        "ts": "1680038034.351869",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tCo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#106-4スゴ本で変更がありました\n変更前：undefined\n変更後：台本作成\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "で変更がありました\n変更前：MA編集\n変更後：リサーチ\n担当者は小寺です",
+        "ts": "1680038177.360499",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ALWYv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "で変更がありました\n変更前：MA編集\n変更後：リサーチ\n担当者は小寺です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "テスト番号テスト先生で変更がありました\n変更前：リサーチ\n変更後：台本作成\n担当者は小寺です",
+        "ts": "1680038310.507129",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kaNhQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "テスト番号テスト先生で変更がありました\n変更前：リサーチ\n変更後：台本作成\n担当者は小寺です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03Q17LBJP3> #85大場紀章で変更がありました\n変更前：MA\n変更後：編集2\n担当者は岡野です",
+        "ts": "1680044817.030609",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BbjDn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #85大場紀章で変更がありました\n変更前：MA\n変更後：編集2\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#83小幡績で変更がありました\n変更前：本人編集\n変更後：試写3\n担当者は石橋です",
+        "ts": "1680057390.298869",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GdWK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#83小幡績で変更がありました\n変更前：本人編集\n変更後：試写3\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#84山下聖美で変更がありました\n変更前：本人編集\n変更後：試写3\n担当者は中野です",
+        "ts": "1680071582.950949",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i18f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#84山下聖美で変更がありました\n変更前：本人編集\n変更後：試写3\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

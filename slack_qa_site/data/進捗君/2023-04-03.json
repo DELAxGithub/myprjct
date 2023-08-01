@@ -1,0 +1,58 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#84山下聖美で変更がありました\n変更前：編集アップ\n変更後：技術確認\n担当者は中野です",
+        "ts": "1680519044.378909",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FRmX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#84山下聖美で変更がありました\n変更前：編集アップ\n変更後：技術確認\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#84山下聖美で変更がありました\n変更前：undefined\n変更後：<https:\/\/www.dropbox.com\/t\/TcSWZb8A3UYSfOtp>\n担当者は中野です",
+        "ts": "1680519107.458979",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NPcse",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#84山下聖美で変更がありました\n変更前：undefined\n変更後："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/t\/TcSWZb8A3UYSfOtp"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

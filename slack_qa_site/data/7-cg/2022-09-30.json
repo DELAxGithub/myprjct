@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "f5ab8328-ccf6-4217-a817-68a370295bce",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nCGの発注書に小島CGを入れ込みました。\n内容に間違いがないか一度確認いただけないでしょうか。\nまた枚数もご確認ください。①②としています。\n\nご確認いただいた後にCG担当の方へ発注したいと思います。\n\n<https:\/\/docs.google.com\/document\/d\/1Fxrk4f9RnHBaDbmWhyoeKcVb9-pWGNFjnjwQghm_-_w\/edit#>",
+        "user": "U03NZ0E09JN",
+        "ts": "1664594754.320919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gfb4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nCGの発注書に小島CGを入れ込みました。\n内容に間違いがないか一度確認いただけないでしょうか。\nまた枚数もご確認ください。①②としています。\n\nご確認いただいた後にCG担当の方へ発注したいと思います。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1Fxrk4f9RnHBaDbmWhyoeKcVb9-pWGNFjnjwQghm_-_w\/edit#"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664594754.320919",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1664634288.691839",
+        "reply_users": [
+            "U03NZ0E09JN",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1664632940.355689"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1664633186.506859"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1664633731.512229"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1664634288.691839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1664634288.691839"
+    }
+]

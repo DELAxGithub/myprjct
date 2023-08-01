@@ -1,0 +1,82 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03Q17LBJP3> #85大場紀章で変更がありました\n変更前：試写3\n変更後：編集アップ\n担当者は岡野です",
+        "ts": "1680783024.599469",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bzw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #85大場紀章で変更がありました\n変更前：試写3\n変更後：編集アップ\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#85大場紀章で変更がありました\n変更前：編集アップ\n変更後：技術確認\n担当者は岡野です",
+        "ts": "1680784170.966939",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LEx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#85大場紀章で変更がありました\n変更前：編集アップ\n変更後：技術確認\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03Q17LBJP3> #85大場紀章で変更がありました\n変更前：技術確認\n変更後：編集アップ\n担当者は岡野です",
+        "ts": "1680818916.570369",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ihud",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #85大場紀章で変更がありました\n変更前：技術確認\n変更後：編集アップ\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

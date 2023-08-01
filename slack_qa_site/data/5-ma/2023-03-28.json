@@ -1,0 +1,48 @@
+[
+    {
+        "type": "message",
+        "text": "85オオバさんのWAVデータをDropboxにアップしました。\nご確認よろしくお願いします:bow:",
+        "files": [
+            {
+                "id": "F050QUU7EV8",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1680044765.867809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9HIv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "85オオバさんのWAVデータをDropboxにアップしました。\nご確認よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "42CF18CD-F56F-442A-A894-A20CDC436127",
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

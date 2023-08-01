@@ -1,0 +1,650 @@
+[
+    {
+        "client_msg_id": "229a2514-1647-48ea-9436-5f14738f6cdd",
+        "type": "message",
+        "text": "<@U03NZ0E09JN>\n81~ですが\n仮納品のために「粗編」ってなったやつはどんどん作業進めていただいて結構です。\nPRと合わせて。。\n\n<@U04J38PLGM6> 粗編の次が素材集め、なので、余力ができたら81から始めてってください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1676880007.217359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LBavL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n81~ですが\n仮納品のために「粗編」ってなったやつはどんどん作業進めていただいて結構です。\nPRと合わせて。。\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 粗編の次が素材集め、なので、余力ができたら81から始めてってください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "40262919-8123-44C2-8A1D-021040072D3B",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 承知いたしました。81,84,85,86は編集マンへお願いしております。その他はproxy素材やPJが揃ってなかったので待ち状態になっております。",
+        "user": "U03NZ0E09JN",
+        "ts": "1676880719.348829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rmTL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 承知いたしました。81,84,85,86は編集マンへお願いしております。その他はproxy素材やPJが揃ってなかったので待ち状態になっております。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "10f0e5db-0fd5-4355-9c40-c0b36e045551",
+        "type": "message",
+        "text": "あ、そうか。ProxyのみGigafile経由で一回渡す作戦でどうでしょうか。\n<@U04J38PLGM6> 試してみよう。",
+        "user": "U03CXUXB5PF",
+        "ts": "1676880946.008149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z6FMl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あ、そうか。ProxyのみGigafile経由で一回渡す作戦でどうでしょうか。\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 試してみよう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676880946.008149",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1676881348.539719",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1676881348.539719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1676881348.539719"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF> <@U03NZ0E09JN>\n85、86はその方法でgigafileのリンクのメモをDROPBOXに入れました。\n88以降は作業が追いついていませんでした。\nこれから対応しますのでお待ちください。",
+        "user": "U04J38PLGM6",
+        "ts": "1676881348.539719",
+        "thread_ts": "1676880946.008149",
+        "root": {
+            "client_msg_id": "10f0e5db-0fd5-4355-9c40-c0b36e045551",
+            "type": "message",
+            "text": "あ、そうか。ProxyのみGigafile経由で一回渡す作戦でどうでしょうか。\n<@U04J38PLGM6> 試してみよう。",
+            "user": "U03CXUXB5PF",
+            "ts": "1676880946.008149",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "z6FMl",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "あ、そうか。ProxyのみGigafile経由で一回渡す作戦でどうでしょうか。\n"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 試してみよう。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1676880946.008149",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1676881348.539719",
+            "reply_users": [
+                "U04J38PLGM6"
+            ],
+            "replies": [
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1676881348.539719"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1676881348.539719"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MTO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n85、86はその方法でgigafileのリンクのメモをDROPBOXに入れました。\n88以降は作業が追いついていませんでした。\nこれから対応しますのでお待ちください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9f05cc0f-aef4-4a3f-b20b-464fe8c913d1",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3c0b37b2-3325-415c-a896-82a483362784",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 88松原は「粗編」になっていますが、ep1が10000字あるのですが、進めてよろしいのでしょうか。",
+        "user": "U03NZ0E09JN",
+        "ts": "1676947668.047469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nNqU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 88松原は「粗編」になっていますが、ep1が10000字あるのですが、進めてよろしいのでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676947668.047469",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1676949070.930519",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U03NZ0E09JN"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1676948132.488839"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1676949070.930519"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1676949070.930519"
+    },
+    {
+        "client_msg_id": "3cd11592-83ac-42f8-8003-f6e8f6bcbc60",
+        "type": "message",
+        "text": "途中カットして8000ぐらいになりましたのでどうぞー",
+        "user": "U03CXUXB5PF",
+        "ts": "1676948132.488839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OAqx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "途中カットして8000ぐらいになりましたのでどうぞー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676947668.047469",
+        "parent_user_id": "U03NZ0E09JN"
+    },
+    {
+        "client_msg_id": "283d0ec3-be64-4bbe-99ea-8be25563432f",
+        "type": "message",
+        "text": "ありがとうございます！",
+        "user": "U03NZ0E09JN",
+        "ts": "1676949070.930519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lk3+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676947668.047469",
+        "parent_user_id": "U03NZ0E09JN"
+    },
+    {
+        "client_msg_id": "f7ba4678-c28a-4985-9f48-3a6e358b3ab3",
+        "type": "message",
+        "text": "<@U04J38PLGM6>\n86東島のマルチのシーケンスにしゃべりのキャプションがありませんでした。\n88松原のプロジェクトには何も入っていませんでした。\nとのことでした。ご確認いただきけないでしょうか。",
+        "user": "U03NZ0E09JN",
+        "ts": "1676965375.086229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s\/unN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n86東島のマルチのシーケンスにしゃべりのキャプションがありませんでした。\n88松原のプロジェクトには何も入っていませんでした。\nとのことでした。ご確認いただきけないでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8d1dec50-be93-4b77-a05b-e8eed0fe7b20",
+        "type": "message",
+        "text": "<@U04J38PLGM6>\n89成田\n90秋元\nこちらも明日から編集マンの手が空きますのでよろしくお願いいたします。",
+        "user": "U03NZ0E09JN",
+        "ts": "1676965543.766399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s+VUA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n89成田\n90秋元\nこちらも明日から編集マンの手が空きますのでよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2c61e2d0-712f-4941-a535-6494c0f0113c",
+        "type": "message",
+        "text": "<@U04J38PLGM6> 恐れ入りますが、カット編集がスタート出来るかの判断がこちらではつかないことがあるので、スタート出来る状態になりましたらご一報をいただけないでしょうか。\n何卒よろしくお願いいたします。",
+        "user": "U03NZ0E09JN",
+        "ts": "1676965710.346989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AFc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 恐れ入りますが、カット編集がスタート出来るかの判断がこちらではつかないことがあるので、スタート出来る状態になりましたらご一報をいただけないでしょうか。\n何卒よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676965710.346989",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1676980250.422909",
+        "reply_users": [
+            "U04J38PLGM6",
+            "U03NZ0E09JN"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1676965742.741519"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1676974453.199529"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1676978278.788549"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1676980250.422909"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "承知しました。\n準備でき次第お知らせします。",
+        "user": "U04J38PLGM6",
+        "ts": "1676965742.741519",
+        "thread_ts": "1676965710.346989",
+        "root": {
+            "client_msg_id": "2c61e2d0-712f-4941-a535-6494c0f0113c",
+            "type": "message",
+            "text": "<@U04J38PLGM6> 恐れ入りますが、カット編集がスタート出来るかの判断がこちらではつかないことがあるので、スタート出来る状態になりましたらご一報をいただけないでしょうか。\n何卒よろしくお願いいたします。",
+            "user": "U03NZ0E09JN",
+            "ts": "1676965710.346989",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "AFc",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 恐れ入りますが、カット編集がスタート出来るかの判断がこちらではつかないことがあるので、スタート出来る状態になりましたらご一報をいただけないでしょうか。\n何卒よろしくお願いいたします。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1676965710.346989",
+            "reply_count": 4,
+            "reply_users_count": 2,
+            "latest_reply": "1676980250.422909",
+            "reply_users": [
+                "U04J38PLGM6",
+                "U03NZ0E09JN"
+            ],
+            "replies": [
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1676965742.741519"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1676974453.199529"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1676978278.788549"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1676980250.422909"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1+9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました。\n準備でき次第お知らせします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "AED1070D-13BD-4175-BA42-E99A765E9931",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

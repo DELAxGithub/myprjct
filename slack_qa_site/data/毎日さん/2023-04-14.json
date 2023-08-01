@@ -1,0 +1,26 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "在庫\n試写1:2 | MA:2 | 試写2:1 | 試写3:1\n————————————-\n",
+        "ts": "1681517495.981979",
+        "bot_id": "B0527SNLW83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZkNW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "在庫\n試写1:2 | MA:2 | 試写2:1 | 試写3:1\n————————————-"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

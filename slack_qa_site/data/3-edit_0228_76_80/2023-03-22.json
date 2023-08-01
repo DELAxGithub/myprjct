@@ -1,0 +1,628 @@
+[
+    {
+        "client_msg_id": "1ebf3c12-4d1f-4c3b-a325-1cad021a81ad",
+        "type": "message",
+        "text": "<@U04J38PLGM6> 76岡本_最終2.prprojをアップいたしました。\n上記2点反映しております。ご確認をお願いいたします。\n\ntamakiさん最終をアップ後、こちらで引き取っています。よろしくお願いいたします。",
+        "user": "U03NZ0E09JN",
+        "ts": "1679471858.810369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QkgU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 76岡本_最終2.prprojをアップいたしました。\n上記2点反映しております。ご確認をお願いいたします。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "tamakiさん最終をアップ後、こちらで引き取っています。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03NZ0E09JN",
+            "ts": "1679472485.000000"
+        },
+        "thread_ts": "1679270809.313449",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03NZ0E09JN>\n承知しました。ありがとうございます。",
+        "user": "U04J38PLGM6",
+        "ts": "1679472534.671779",
+        "thread_ts": "1679270809.313449",
+        "root": {
+            "client_msg_id": "5291d8d9-c327-4af0-8ffc-5924705ef0a5",
+            "type": "message",
+            "text": "<@U04KCQL2MFV> 再送です\n76 岡本さん\n\n&gt; プロフィールのところで\n&gt; 一点だけ\n&gt; 博士課程と書かれていたのですが\n&gt; 博士後期課程が正式名称です。\nep1~3,PRにあるのでこれ直したら最終にしてくださいー",
+            "user": "U03CXUXB5PF",
+            "ts": "1679270809.313449",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "2\/=sS",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04KCQL2MFV"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 再送です\n76 岡本さん\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_quote",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "プロフィールのところで\n一点だけ\n博士課程と書かれていたのですが\n博士後期課程が正式名称です。"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nep1~3,PRにあるのでこれ直したら最終にしてくださいー"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1679270809.313449",
+            "reply_count": 9,
+            "reply_users_count": 4,
+            "latest_reply": "1679472534.671779",
+            "reply_users": [
+                "U04KCQL2MFV",
+                "U04J38PLGM6",
+                "U03CXUXB5PF",
+                "U03NZ0E09JN"
+            ],
+            "replies": [
+                {
+                    "user": "U04KCQL2MFV",
+                    "ts": "1679286691.871499"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1679294732.654679"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1679416854.266349"
+                },
+                {
+                    "user": "U04KCQL2MFV",
+                    "ts": "1679447187.241489"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1679449423.468469"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1679449592.635849"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1679450415.841669"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1679471858.810369"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1679472534.671779"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1679472534.671779"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B3UNK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n承知しました。ありがとうございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8eef5907-4763-4770-a81f-6485a6b599c6"
+    },
+    {
+        "client_msg_id": "ea0733c5-0dc3-4f8b-ba21-d61c0526049e",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> <@U04J38PLGM6>\n78上峯ですが、これなんか覚えてます？\n試写3→最終で、テロップ変えることないと思うんですが。。\n\n```78　上峯さん　最終版確認しました。\nep3　4：45　あたり\n4万年より前に日本列島に人がいたのかどうか\n⇒　約4万年より前に日本列島に人がいたのかどうか\nご本人も約と発言していますのでここは「約」を入れたままでお願いできますでしょうか。```\n```了解です。\nが、最終段階では、もう本人もスルーしているのは直さなくてもいいかなと思うのですが、、```\n```試写3　までは約が入っていましたのでお伝えをと思いました```\n",
+        "user": "U03CXUXB5PF",
+        "ts": "1679542385.972749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j8p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n78上峯ですが、これなんか覚えてます？\n試写3→最終で、テロップ変えることないと思うんですが。。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "78　上峯さん　最終版確認しました。\nep3　4：45　あたり\n4万年より前に日本列島に人がいたのかどうか\n⇒　約4万年より前に日本列島に人がいたのかどうか\nご本人も約と発言していますのでここは「約」を入れたままでお願いできますでしょうか。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です。\nが、最終段階では、もう本人もスルーしているのは直さなくてもいいかなと思うのですが、、"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "試写3　までは約が入っていましたのでお伝えをと思いました"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679542385.972749",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1679555881.016609",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U03Q17LBJP3",
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1679542437.483129"
+            },
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1679542673.828989"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1679542815.728229"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1679542964.889689"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1679555881.016609"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1679555881.016609"
+    },
+    {
+        "client_msg_id": "fca45a8c-3965-4a2b-a346-cecde2da87c1",
+        "type": "message",
+        "text": "<@U04J38PLGM6> どっちにしろ入れてくれってことなんで、ep3だけ書き出し直して再納品してください。技術試写はわざわざ頼まなくていいですが、書き出し後に３点チェックをお願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1679542437.483129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s5CJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " どっちにしろ入れてくれってことなんで、ep3だけ書き出し直して再納品してください。技術試写はわざわざ頼まなくていいですが、書き出し後に３点チェックをお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679542385.972749",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "f92a9af9-0089-4d68-a957-cbc0f32f6a52",
+        "type": "message",
+        "text": "<@U04J38PLGM6> <@U03CXUXB5PF>\n「約」をテロップなしで統一という指示が来ていたので、外していました。。\nお手数おかけしました。",
+        "user": "U03Q17LBJP3",
+        "ts": "1679542673.828989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BLb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n「約」をテロップなしで統一という指示が来ていたので、外していました。。\nお手数おかけしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679542385.972749",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "634fbbae-ca27-4c91-b5f2-1d83c74eed65",
+        "type": "message",
+        "text": "あれ、そんなのありましたっけ、、、どういう指示だったか覚えてないんですが、\nオンフォローは「約」は必要でしょうねぇ。ぼかすためにあえてつけてたりもするから。",
+        "user": "U03CXUXB5PF",
+        "ts": "1679542815.728229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nfR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あれ、そんなのありましたっけ、、、どういう指示だったか覚えてないんですが、\nオンフォローは「約」は必要でしょうねぇ。ぼかすためにあえてつけてたりもするから。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679542385.972749",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF> <@U03Q17LBJP3>\nでは「約」だけ私の方で入れて再度書き出します。",
+        "user": "U04J38PLGM6",
+        "ts": "1679542964.889689",
+        "thread_ts": "1679542385.972749",
+        "root": {
+            "client_msg_id": "ea0733c5-0dc3-4f8b-ba21-d61c0526049e",
+            "type": "message",
+            "text": "<@U03Q17LBJP3> <@U04J38PLGM6>\n78上峯ですが、これなんか覚えてます？\n試写3→最終で、テロップ変えることないと思うんですが。。\n\n```78　上峯さん　最終版確認しました。\nep3　4：45　あたり\n4万年より前に日本列島に人がいたのかどうか\n⇒　約4万年より前に日本列島に人がいたのかどうか\nご本人も約と発言していますのでここは「約」を入れたままでお願いできますでしょうか。```\n```了解です。\nが、最終段階では、もう本人もスルーしているのは直さなくてもいいかなと思うのですが、、```\n```試写3　までは約が入っていましたのでお伝えをと思いました```\n",
+            "user": "U03CXUXB5PF",
+            "ts": "1679542385.972749",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "j8p",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03Q17LBJP3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n78上峯ですが、これなんか覚えてます？\n試写3→最終で、テロップ変えることないと思うんですが。。\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_preformatted",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "78　上峯さん　最終版確認しました。\nep3　4：45　あたり\n4万年より前に日本列島に人がいたのかどうか\n⇒　約4万年より前に日本列島に人がいたのかどうか\nご本人も約と発言していますのでここは「約」を入れたままでお願いできますでしょうか。"
+                                }
+                            ],
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_preformatted",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "了解です。\nが、最終段階では、もう本人もスルーしているのは直さなくてもいいかなと思うのですが、、"
+                                }
+                            ],
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_preformatted",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "試写3　までは約が入っていましたのでお伝えをと思いました"
+                                }
+                            ],
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1679542385.972749",
+            "reply_count": 5,
+            "reply_users_count": 3,
+            "latest_reply": "1679555881.016609",
+            "reply_users": [
+                "U03CXUXB5PF",
+                "U03Q17LBJP3",
+                "U04J38PLGM6"
+            ],
+            "replies": [
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1679542437.483129"
+                },
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1679542673.828989"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1679542815.728229"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1679542964.889689"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1679555881.016609"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1679555881.016609"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "POF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nでは「約」だけ私の方で入れて再度書き出します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b9eb0e0e-8b20-4c15-8adf-f7beaddd51af",
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

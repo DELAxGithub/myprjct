@@ -1,0 +1,1031 @@
+[
+    {
+        "client_msg_id": "0f585f3e-9c8e-4a6a-81ab-89733a4a3183",
+        "type": "message",
+        "text": "小寺さんへ。\n安永さんと諸々話、Alamyやstoryblocksなどの説明をしました。\nお手数ですが、小寺さんが持っているアカウントとパスワードを全部共有していただいてもいいですか？\n僕が持っているMacStudioに貼っておきますので安永さんとだけ共有できるようにします",
+        "user": "U040YCC00V6",
+        "ts": "1662707429.607079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3vC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "小寺さんへ。\n安永さんと諸々話、Alamyやstoryblocksなどの説明をしました。\nお手数ですが、小寺さんが持っているアカウントとパスワードを全部共有していただいてもいいですか？\n僕が持っているMacStudioに貼っておきますので安永さんとだけ共有できるようにします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03HJRZK295> さま\npixabayとunsplashのアカウントとパスワードを教えて下さい。",
+        "user": "U03V84JSHNK",
+        "ts": "1662709902.500429",
+        "thread_ts": "1662543909.068389",
+        "root": {
+            "client_msg_id": "5289dbfe-8cbe-4d32-bbf7-b1b3e23f8f7f",
+            "type": "message",
+            "text": "フリー写真\n<https:\/\/pixabay.com\/ja\/videos\/>\n<https:\/\/unsplash.com\/ja>",
+            "user": "U03HJRZK295",
+            "ts": "1662543909.068389",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "xa0",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "フリー写真\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/pixabay.com\/ja\/videos\/"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/unsplash.com\/ja"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "attachments": [
+                {
+                    "from_url": "https:\/\/unsplash.com\/ja",
+                    "image_url": "https:\/\/images.unsplash.com\/opengraph\/1x1.png?auto=format&fit=crop&w=1200&h=630&q=60&mark-w=64&mark-align=top%2Cleft&mark-pad=50&blend-w=1&mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&blend=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1661344662921-c711ebd1a295%3Fcrop%3Dfaces%252Cedges%26cs%3Dtinysrgb%26fit%3Dcrop%26fm%3Djpg%26ixid%3DMnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjYyNTQzNzY2%26ixlib%3Drb-1.2.1%26q%3D60%26w%3D1200%26auto%3Dformat%26h%3D630%26mark-w%3D424%26mark-align%3Dmiddle%252Ccenter%26blend-mode%3Dnormal%26blend-alpha%3D10%26mark%3Dhttps%253A%252F%252Fimages.unsplash.com%252Fopengraph%252Fwordmark.png%26blend%3D000000",
+                    "image_width": 476,
+                    "image_height": 250,
+                    "image_bytes": 333499,
+                    "service_icon": "https:\/\/unsplash.com\/apple-touch-icon.png",
+                    "id": 1,
+                    "original_url": "https:\/\/unsplash.com\/ja",
+                    "fallback": "美しい無料画像と写真の数々 | Unsplash",
+                    "text": "あらゆるプロジェクトにダウンロードして利用可能な、美しい無料画像と写真の数々。どのロイヤリティフリーまたはストックフォトよりもお勧めです。",
+                    "title": "美しい無料画像と写真の数々 | Unsplash",
+                    "title_link": "https:\/\/unsplash.com\/ja",
+                    "service_name": "Unsplash"
+                }
+            ],
+            "thread_ts": "1662543909.068389",
+            "reply_count": 4,
+            "reply_users_count": 2,
+            "latest_reply": "1662710109.284019",
+            "reply_users": [
+                "U03HJRZK295",
+                "U03V84JSHNK"
+            ],
+            "replies": [
+                {
+                    "user": "U03HJRZK295",
+                    "ts": "1662544146.220829"
+                },
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1662709902.500429"
+                },
+                {
+                    "user": "U03HJRZK295",
+                    "ts": "1662710074.120699"
+                },
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1662710109.284019"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KYLD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " さま\npixabayとunsplashのアカウントとパスワードを教えて下さい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "d781dfb2-d157-4e50-916d-880dcbcb7250"
+    },
+    {
+        "client_msg_id": "cc010577-2d58-4c39-8b02-0f17a88dd1b6",
+        "type": "message",
+        "text": "未整理ですがひとまず上げました",
+        "user": "U03HJRZK295",
+        "ts": "1662710050.806799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FS2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "未整理ですがひとまず上げました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662665540.112629",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "d18ebcab-c3bc-4f4e-83e2-dd9e32edc9a2",
+        "type": "message",
+        "text": "その二つは登録せずに使ってました",
+        "user": "U03HJRZK295",
+        "ts": "1662710074.120699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vUj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "その二つは登録せずに使ってました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662543909.068389",
+        "parent_user_id": "U03HJRZK295"
+    },
+    {
+        "client_msg_id": "73e9b92e-221c-4f6c-a7fb-40b1b50df52f",
+        "type": "message",
+        "text": "了解しました。",
+        "user": "U03V84JSHNK",
+        "ts": "1662710109.284019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bOV\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662543909.068389",
+        "parent_user_id": "U03HJRZK295"
+    },
+    {
+        "client_msg_id": "C22798C5-3D79-480D-B867-46D336EA3C02",
+        "type": "message",
+        "text": "<@U03HJRZK295> <@U040YCC00V6> <@U03V84JSHNK> イメージ探しのやり方確認も含めて、最初の30分ぐらい画面共有しながら一緒にやって引き継ぎとさせてください。バラバラとやるより早いはず。せーのでできるタイミングあります？ほんとはこないだやれればよかったんですが、すいません。",
+        "user": "U03CXUXB5PF",
+        "ts": "1662712273.094099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iyG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " イメージ探しのやり方確認も含めて、最初の30分ぐらい画面共有しながら一緒にやって引き継ぎとさせてください。バラバラとやるより早いはず。せーのでできるタイミングあります？ほんとはこないだやれればよかったんですが、すいません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "27ABC9B3-5319-4BFD-97B6-E45BE3488158",
+        "type": "message",
+        "text": "ありがとうございます。\nすみません、私19-20時が別件zoomで、それ以外なら大丈夫です。",
+        "user": "U03V84JSHNK",
+        "ts": "1662712351.979869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jUJMA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "すみません、私19-20時が別件zoomで、それ以外なら大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "AA3FD5A6-6497-4AFC-B6CF-9CAA61D935F2",
+        "type": "message",
+        "text": "申し訳ないです！この前の欲望の資本主義関連で少し抜けます:palms_up_together:",
+        "user": "U040YCC00V6",
+        "ts": "1662712760.277879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZWqr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "申し訳ないです！この前の欲望の資本主義関連で少し抜けます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "palms_up_together",
+                                "unicode": "1f932"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1e21f9c0-3f17-453a-9c5b-8a6b794b6c11",
+        "type": "message",
+        "text": "<@U040YCC00V6> メンションのやりかたは [@]を押すと相手選べるので、それで。\n戻りどれくらいか、わかんないよねぇ。",
+        "user": "U03CXUXB5PF",
+        "ts": "1662720124.961399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6JMkI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " メンションのやりかたは [@]を押すと相手選べるので、それで。\n戻りどれくらいか、わかんないよねぇ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "64037ab0-506b-4918-a635-0bfd91aee3e4",
+        "type": "message",
+        "text": "<@U03V84JSHNK> まぁ待っててもアレなんで。。\n台本に文字で記入→ダウンロードしたたらドロップボックスにその台本のをファイルの頭につけてアップ\n名前に記号とか使うと同期されないのでシンプルな名前で。\nそのほか注意事項あれば　<@U03HJRZK295>\n\nStoryblocks - Royalty-Free Stock Images, Video &amp; Audio for Every Story（音楽もここ使います）\n<https:\/\/www.storyblocks.com\/>\nメール <mailto:oikwmnm1030@gmail.com|oikwmnm1030@gmail.com>\nパスワード　kinkinkin\nh.264 で。\n\n\n一旦アクティベートのお知らせが来るのでこっちに転送します。\nBeautiful Free Images &amp; Pictures | Unsplash\n<https:\/\/unsplash.com\/>\n\n無料の写真素材 · Pexels\n<https:\/\/www.pexels.com\/ja-jp\/>\n\n写真素材なら「写真AC」無料（フリー）ダウンロードOK\n<https:\/\/www.photo-ac.com\/>\n無料イラストなら「イラストAC」\n<https:\/\/www.ac-illust.com\/>\n\nアカウント：<mailto:h.kodera@gmail.com|h.kodera@gmail.com>\nパスワード：X#?RbK#ND4p6p#A\n\n著名人や歴史的事実、美術作品など権利料がかかる資料の入手はこちら\n\nAlamy – Stock Photos, Stock Images &amp; Vectors\n<https:\/\/www.alamy.com\/>\nアカウント　<mailto:h.kodera@kinproduction.jp|h.kodera@kinproduction.jp>\nパスワード Kin1500047\n\nジャパンサーチ\n<https:\/\/jpsearch.go.jp\/>\n\nHome | Library of Congress\n<https:\/\/www.loc.gov\/>\n\nNational Archives |\n<https:\/\/www.archives.gov\/>\n\nゲッティ、アフロは高いので上になかったら使う",
+        "user": "U03CXUXB5PF",
+        "ts": "1662730813.941769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FlBl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " まぁ待っててもアレなんで。。\n台本に文字で記入→ダウンロードしたたらドロップボックスにその台本のをファイルの頭につけてアップ\n名前に記号とか使うと同期されないのでシンプルな名前で。\nそのほか注意事項あれば　"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nStoryblocks - Royalty-Free Stock Images, Video &amp; Audio for Every Story（音楽もここ使います）\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.storyblocks.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nメール "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:oikwmnm1030@gmail.com",
+                                "text": "oikwmnm1030@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nパスワード　kinkinkin\nh.264 で。\n\n\n一旦アクティベートのお知らせが来るのでこっちに転送します。\nBeautiful Free Images & Pictures | Unsplash\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/unsplash.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n無料の写真素材 · Pexels\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.pexels.com\/ja-jp\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n写真素材なら「写真AC」無料（フリー）ダウンロードOK\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.photo-ac.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n無料イラストなら「イラストAC」\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ac-illust.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nアカウント："
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:h.kodera@gmail.com",
+                                "text": "h.kodera@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nパスワード：X#?RbK#ND4p6p#A\n\n著名人や歴史的事実、美術作品など権利料がかかる資料の入手はこちら\n\nAlamy – Stock Photos, Stock Images & Vectors\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.alamy.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nアカウント　"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:h.kodera@kinproduction.jp",
+                                "text": "h.kodera@kinproduction.jp"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nパスワード Kin1500047\n\nジャパンサーチ\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jpsearch.go.jp\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nHome | Library of Congress\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.loc.gov\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nNational Archives |\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.archives.gov\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nゲッティ、アフロは高いので上になかったら使う"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1662731558.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.storyblocks.com\/",
+                "service_icon": "https:\/\/www.storyblocks.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.storyblocks.com\/",
+                "fallback": "Storyblocks - Royalty-Free Stock Images, Video &amp; Audio for Every Story",
+                "text": "Meet the growing demand for video with subscription plans that give you unlimited stock downloads, flexible licensing, and an easy-to-use video editor.",
+                "title": "Storyblocks - Royalty-Free Stock Images, Video &amp; Audio for Every Story",
+                "title_link": "https:\/\/www.storyblocks.com\/",
+                "service_name": "storyblocks.com"
+            },
+            {
+                "from_url": "https:\/\/unsplash.com\/",
+                "image_url": "https:\/\/images.unsplash.com\/opengraph\/1x1.png?auto=format&fit=crop&w=1200&h=630&q=60&mark-w=64&mark-align=top%2Cleft&mark-pad=50&blend-w=1&mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&blend=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1661264083807-5e6a54fb12da%3Fcrop%3Dfaces%252Cedges%26cs%3Dtinysrgb%26fit%3Dcrop%26fm%3Djpg%26ixid%3DMnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjYyNzI3OTY2%26ixlib%3Drb-1.2.1%26q%3D60%26w%3D1200%26auto%3Dformat%26h%3D630%26mark-w%3D424%26mark-align%3Dmiddle%252Ccenter%26blend-mode%3Dnormal%26blend-alpha%3D10%26mark%3Dhttps%253A%252F%252Fimages.unsplash.com%252Fopengraph%252Fwordmark.png%26blend%3D000000",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 171608,
+                "service_icon": "https:\/\/unsplash.com\/apple-touch-icon.png",
+                "id": 2,
+                "original_url": "https:\/\/unsplash.com\/",
+                "fallback": "Beautiful Free Images &amp; Pictures | Unsplash",
+                "text": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
+                "title": "Beautiful Free Images &amp; Pictures | Unsplash",
+                "title_link": "https:\/\/unsplash.com\/",
+                "service_name": "Unsplash"
+            },
+            {
+                "from_url": "https:\/\/www.alamy.com\/",
+                "thumb_url": "https:\/\/s.alamy.com\/assets\/latest\/resolutions\/2560\/homepage\/hero-banner\/FF118R.jpg",
+                "thumb_width": 2560,
+                "thumb_height": 1707,
+                "service_icon": "https:\/\/s.alamy.com\/logos\/1.68.0\/favicon-180x180.png",
+                "id": 3,
+                "original_url": "https:\/\/www.alamy.com\/",
+                "fallback": "Alamy: Get creative with stock photos and videos from Alamy",
+                "text": "See Alamy's diverse content collection to find the right asset for your next project and get unrivalled support from our global team of experts.",
+                "title": "Get creative with stock photos and videos from Alamy",
+                "title_link": "https:\/\/www.alamy.com\/",
+                "service_name": "Alamy"
+            },
+            {
+                "from_url": "https:\/\/jpsearch.go.jp\/",
+                "thumb_url": "https:\/\/jpsearch.go.jp\/assets\/img\/og\/jps.png",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/jpsearch.go.jp\/assets\/apple-touch-icon-180x180.png",
+                "id": 4,
+                "original_url": "https:\/\/jpsearch.go.jp\/",
+                "fallback": "ジャパンサーチ",
+                "text": "日本のデジタルアーカイブを横断検索",
+                "title": "ジャパンサーチ",
+                "title_link": "https:\/\/jpsearch.go.jp\/",
+                "service_name": "jpsearch.go.jp"
+            }
+        ],
+        "thread_ts": "1662730813.941769",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1662784044.543639",
+        "reply_users": [
+            "U03V84JSHNK",
+            "U03CXUXB5PF",
+            "U040YCC00V6"
+        ],
+        "replies": [
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1662731831.307559"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1662732750.269189"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1662733463.999509"
+            },
+            {
+                "user": "U040YCC00V6",
+                "ts": "1662784044.543639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1662784044.543639"
+    },
+    {
+        "client_msg_id": "a14b570b-eda6-4da2-a01e-5c62a562c9ce",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 了解です。ありがとうございます。\n今４１平を進めています。\nDropboxのアップ先は、「3_freeIMG」「4_有料ダミー」「5_購入」でいいでしょうか？",
+        "user": "U03V84JSHNK",
+        "ts": "1662731831.307559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eqm1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解です。ありがとうございます。\n今４１平を進めています。\nDropboxのアップ先は、「3_freeIMG」「4_有料ダミー」「5_購入」でいいでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662730813.941769",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "0e0e4934-8993-4f68-ace0-5396715442a5",
+        "type": "message",
+        "text": "購入は、完パケ前に購入なので、ひとまず使いません。有料ダミーは基本はalamyだけですね、それ以外でもなんか買えばそこに。",
+        "user": "U03CXUXB5PF",
+        "ts": "1662732750.269189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+BmRK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "購入は、完パケ前に購入なので、ひとまず使いません。有料ダミーは基本はalamyだけですね、それ以外でもなんか買えばそこに。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662730813.941769",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "19d703b9-9b85-42ae-9e20-3e0e276f5adb",
+        "type": "message",
+        "text": "了解です。",
+        "user": "U03V84JSHNK",
+        "ts": "1662733463.999509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dQpUv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662730813.941769",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "F45ACBB5-205B-4FB8-A66C-AF52AE48C66F",
+        "type": "message",
+        "text": "<@U040YCC00V6> <@U03V84JSHNK> 色々お願いしてますが、\n明後日確実につかうカンペお願いします\n",
+        "user": "U03CXUXB5PF",
+        "ts": "1662767158.202969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R+O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 色々お願いしてますが、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "明後日確実につかうカンペお願いします"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2ECDAE69-EEA5-443C-9E7F-280BA858CAF0",
+        "type": "message",
+        "text": "書き出しも開始します。カンペは明日一度安永さんとも確認したす",
+        "user": "U040YCC00V6",
+        "ts": "1662778641.689979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jLMs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "書き出しも開始します。カンペは明日一度安永さんとも確認したす"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "62ed0655-57f8-4f02-8dd2-6fbf721c045b",
+        "type": "message",
+        "text": "こちら、ありがとうございます。\n書き出し中に映像をダウンロードしようと思いましたが、Storyblocksのパスワードが間違っているようです。寺田くんでも、わかったりしますか？",
+        "user": "U040YCC00V6",
+        "ts": "1662784044.543639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1SntG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こちら、ありがとうございます。\n書き出し中に映像をダウンロードしようと思いましたが、Storyblocksのパスワードが間違っているようです。寺田くんでも、わかったりしますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662730813.941769",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "034D8283-154A-4038-AF93-6D1AB141EE99",
+        "type": "message",
+        "text": "小寺さん、安永さん、寺田くん\n21のイメージに「GW」や「お盆」などがあります。こういう日本のイメージはどこで探したら見つかりますか？\nなかなかStoryblocksやUnsplashになく…\n教えていただけますと:palms_up_together:",
+        "user": "U040YCC00V6",
+        "ts": "1662790167.800729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hymm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "小寺さん、安永さん、寺田くん"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "21のイメージに「GW」や「お盆」などがあります。こういう日本のイメージはどこで探したら見つかりますか？"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "なかなかStoryblocksやUnsplashになく…"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "教えていただけますと"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "palms_up_together",
+                                "unicode": "1f932"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

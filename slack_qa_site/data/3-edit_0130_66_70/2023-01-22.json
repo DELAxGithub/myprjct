@@ -1,0 +1,94 @@
+[
+    {
+        "client_msg_id": "d1cfb411-017f-486f-97a3-f43e8209332f",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 68の１試写終わりました。\nReplayにて修正後、MAヘ。\nややこしいところあったらお知らせください、",
+        "user": "U03CXUXB5PF",
+        "ts": "1674430389.447289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s0s=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 68の１試写終わりました。\nReplayにて修正後、MAヘ。\nややこしいところあったらお知らせください、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3> アップしました。ルイス・ヘンキンはあまり画質変わっていないかもしれませんが…。",
+        "files": [
+            {
+                "id": "F04KLE1HAKZ",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04L0SF4D6X",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03V84JSHNK",
+        "ts": "1674441969.223469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Nr1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " アップしました。ルイス・ヘンキンはあまり画質変わっていないかもしれませんが…。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "53b0484f-a0d2-4cbe-949f-8f7d9d6a8014",
+        "thread_ts": "1674306877.267289",
+        "parent_user_id": "U03Q17LBJP3"
+    }
+]

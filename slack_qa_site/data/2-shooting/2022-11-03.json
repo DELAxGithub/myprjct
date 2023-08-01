@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "d3755f1d-a561-4528-b9d1-3b7bdb836cc8",
+        "type": "message",
+        "text": "<@U040YCC00V6>\n台本51を少し修正したら、素材集め／テロップ作成をお願いします。\n編集チームのローテーション的に51は、すぐ始められそうでして。\nそのあとはまた台本でも。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667536991.868929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hwfs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n台本51を少し修正したら、素材集め／テロップ作成をお願いします。\n編集チームのローテーション的に51は、すぐ始められそうでして。\nそのあとはまた台本でも。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

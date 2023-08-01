@@ -1,0 +1,26 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#104松岡聡で変更がありました\n変更前：試写3\n変更後：返事待ち\n担当者は石橋です",
+        "ts": "1684633475.292049",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "75t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#104松岡聡で変更がありました\n変更前：試写3\n変更後：返事待ち\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

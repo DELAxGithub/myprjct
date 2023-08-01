@@ -1,0 +1,674 @@
+[
+    {
+        "client_msg_id": "ffbfa261-1fdc-4aca-9eac-4825620c39a3",
+        "type": "message",
+        "text": "<@U04KFCBLY9J>\n65_石川の現状のプロジェクトをこちらの作業で使うので、\nDropboxにアップして頂けないでしょうか。\nよろしくお願いたします。",
+        "user": "U04J38PLGM6",
+        "ts": "1678248588.120709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ucVd9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n65_石川の現状のプロジェクトをこちらの作業で使うので、\nDropboxにアップして頂けないでしょうか。\nよろしくお願いたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678248588.120709",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1678252774.038019",
+        "reply_users": [
+            "U04KFCBLY9J",
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04KFCBLY9J",
+                "ts": "1678248713.687559"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1678248753.952759"
+            },
+            {
+                "user": "U04KFCBLY9J",
+                "ts": "1678248825.522689"
+            },
+            {
+                "user": "U04KFCBLY9J",
+                "ts": "1678249116.773329"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1678252556.062099"
+            },
+            {
+                "user": "U04KFCBLY9J",
+                "ts": "1678252774.038019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U04J38PLGM6> これは古いのかしら。",
+        "files": [
+            {
+                "id": "F04SW6YFRFC",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1678248636.867749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GfW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " これは古いのかしら。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7b1f81fd-2c35-494f-881e-a225b2273107"
+    },
+    {
+        "client_msg_id": "e55a2b1d-1b39-4e0a-9fd0-6f5b28cd458b",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> ここに入っているのは初期段階のものだと思います",
+        "user": "U04J38PLGM6",
+        "ts": "1678248704.258859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=GL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ここに入っているのは初期段階のものだと思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "DAA3D5BA-FAD1-4C78-B401-8513D9D5A0E2",
+        "type": "message",
+        "text": "<@U04J38PLGM6> 承知しました！\n現状のものは修正が反映されてるのでアップします。",
+        "user": "U04KFCBLY9J",
+        "ts": "1678248713.687559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7kUa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 承知しました！\n現状のものは修正が反映されてるのでアップします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678248588.120709",
+        "parent_user_id": "U04J38PLGM6",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3597b60e-2076-4314-9922-2ecbe65e9c2f",
+        "type": "message",
+        "text": "<@U04KFCBLY9J> ありがとうございます！",
+        "user": "U04J38PLGM6",
+        "ts": "1678248753.952759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xNTGo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678248588.120709",
+        "parent_user_id": "U04J38PLGM6"
+    },
+    {
+        "client_msg_id": "c6574989-a03a-46fc-86c4-4c5353650bd6",
+        "type": "message",
+        "text": "なるほど。じゃだめですね。\n<@U04KFCBLY9J> 基本プロジェクトの置き場は、ドロップボックスに。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1678248757.268189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OSi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど。じゃだめですね。\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 基本プロジェクトの置き場は、ドロップボックスに。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678248757.268189",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1678249036.609869",
+        "reply_users": [
+            "U04KFCBLY9J",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U04KFCBLY9J",
+                "ts": "1678248967.949379"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1678249036.609869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1678249036.609869"
+    },
+    {
+        "client_msg_id": "5CC35B33-A37E-4758-9886-0C3164F171F1",
+        "type": "message",
+        "text": "65_石川_0308 というファイル名でアップいたしました。よろしくお願い致します :blush: :woman-bowing: ",
+        "user": "U04KFCBLY9J",
+        "ts": "1678248825.522689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sv+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "65_石川_0308 というファイル名でアップいたしました。よろしくお願い致します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678248588.120709",
+        "parent_user_id": "U04J38PLGM6",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "67FF0378-2673-4CE7-96A3-0A153235826B",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> \nそうなのですね、パソコンのファイルとDropbox をリンクしていないもので失礼致しました :woman-bowing: ",
+        "user": "U04KFCBLY9J",
+        "ts": "1678248967.949379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zFK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nそうなのですね、パソコンのファイルとDropbox をリンクしていないもので失礼致しました "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678248757.268189",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "39fc8f76-38c4-4461-a921-3acf6ea33ad9",
+        "type": "message",
+        "text": "なるほど、、まぁ作業する際に不都合なければお任せしますが。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1678249036.609869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ODZcC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど、、まぁ作業する際に不都合なければお任せしますが。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678248757.268189",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U04J38PLGM6> \n65石川さんep1ですが、マナスルの地図だけ修正版をお願いしていなかったのでまだ修正しておりません。\nついでにこちらカトマンズの場所を入れた地図をお願いできますでしょうか？よろしくお願い致します :blush: :woman-bowing: ",
+        "files": [
+            {
+                "id": "F04T8S0V7U1",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04KFCBLY9J",
+        "display_as_bot": false,
+        "ts": "1678249116.773329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1oCT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n65石川さんep1ですが、マナスルの地図だけ修正版をお願いしていなかったのでまだ修正しておりません。\nついでにこちらカトマンズの場所を入れた地図をお願いできますでしょうか？よろしくお願い致します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8008E556-3656-4DCB-B0D2-9245D428A698",
+        "thread_ts": "1678248588.120709",
+        "parent_user_id": "U04J38PLGM6"
+    },
+    {
+        "type": "message",
+        "text": "<@U04KFCBLY9J>\nすみません。このイメージは私が用意したものではないので、どこで探した画像なのか詳細が分からないのですが、「カトマンズ」は首都として目安として入れる感じですよね？\nだとしたら、カトマンズの場所にグレーで「●」を小さく入れて、カトマンズと文字を入れて頂くのはどうでしょうか？文字は多少他の知名より大きくすれば、フォント同じのがなくても、似たようなフォントで気にならないと思います。いかがでしょうか？\n\n↓カトマンズの位置参考です。",
+        "files": [
+            {
+                "id": "F04TL2C3N8G",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1678252556.062099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EMYp2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nすみません。このイメージは私が用意したものではないので、どこで探した画像なのか詳細が分からないのですが、「カトマンズ」は首都として目安として入れる感じですよね？\nだとしたら、カトマンズの場所にグレーで「●」を小さく入れて、カトマンズと文字を入れて頂くのはどうでしょうか？文字は多少他の知名より大きくすれば、フォント同じのがなくても、似たようなフォントで気にならないと思います。いかがでしょうか？\n\n↓カトマンズの位置参考です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6353e811-5544-4b85-8f8f-d0c6f2d813a4",
+        "thread_ts": "1678248588.120709",
+        "parent_user_id": "U04J38PLGM6"
+    },
+    {
+        "client_msg_id": "BBC2A8EE-94D1-40CD-96F0-9C87990CC696",
+        "type": "message",
+        "text": "<@U04J38PLGM6> \n失礼いたしました :woman-bowing: \nカトマンズの位置情報ありがとうございます:blush:！\nそのようにいたしますね :pray: ",
+        "user": "U04KFCBLY9J",
+        "ts": "1678252774.038019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iXx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n失礼いたしました "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nカトマンズの位置情報ありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！\nそのようにいたしますね "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678248588.120709",
+        "parent_user_id": "U04J38PLGM6",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "client_msg_id": "c30911ca-8934-4d72-b900-2fbe9394fc18",
+        "type": "message",
+        "text": "<@U03HJRZK295> <@U03G0LAPT3N> インタビュー中の雑音処理なんですが、\n\n挽回方法として、\n・映像的には絵被せ＆音声的には同じ単語、似たような発音のところをどっか別のところから持ってきて、整音＋BGMで誤魔化す\n\nって感じかもしれませんが、これ編集的には一手間なので、数箇所程度ならともかく全編あると辛いですねぇ。\n\n去年の感じだと結構クライアントがこだわってきたので、どこまでやるか悩ましいなと思っています。\n\n雑音混じってる回のは、試写前に一回チェックしてもらって\n・premiereで音下げるだけ\n・整音だけ\n・BGM入れたらどうにかなる？\n・音差し替えまでやらないと厳しい\nみたいな雑音処理レベルを判定してもらったりしたほうがいいかもなと思っています。\nややこしい話ですいませんが、７末収録で2日ほどそういうのがあったので、一応共有。",
+        "user": "U03CXUXB5PF",
+        "ts": "1660203661.244509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MpkXF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " インタビュー中の雑音処理なんですが、\n\n挽回方法として、\n・映像的には絵被せ＆音声的には同じ単語、似たような発音のところをどっか別のところから持ってきて、整音＋BGMで誤魔化す\n\nって感じかもしれませんが、これ編集的には一手間なので、数箇所程度ならともかく全編あると辛いですねぇ。\n\n去年の感じだと結構クライアントがこだわってきたので、どこまでやるか悩ましいなと思っています。\n\n雑音混じってる回のは、試写前に一回チェックしてもらって\n・premiereで音下げるだけ\n・整音だけ\n・BGM入れたらどうにかなる？\n・音差し替えまでやらないと厳しい\nみたいな雑音処理レベルを判定してもらったりしたほうがいいかもなと思っています。\nややこしい話ですいませんが、７末収録で2日ほどそういうのがあったので、一応共有。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C0620AA4-D14B-4A80-98F0-90C66A2FAF2C",
+        "type": "message",
+        "text": "把握しました。\nこちらも新しいノイズのアプローチを考えているので試してみます。",
+        "user": "U03G0LAPT3N",
+        "ts": "1660204082.199169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7jU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "把握しました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "こちらも新しいノイズのアプローチを考えているので試してみます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2FCEB2BF-F402-4691-B4EA-4E39B6752F6D",
+        "type": "message",
+        "text": "音効仕込みが上がったデータはどのフォルダに返すのがよろしいですか？",
+        "user": "U03G0LAPT3N",
+        "ts": "1660265943.872469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cMseM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "音効仕込みが上がったデータはどのフォルダに返すのがよろしいですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

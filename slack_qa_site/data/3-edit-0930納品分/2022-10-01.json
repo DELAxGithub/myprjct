@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "08cac9d5-b4c5-43e3-95ee-9dd21c8b880b",
+        "type": "message",
+        "text": "このチャンネルは間も無く閉じます　今後万が一手直しが来たら納品後修正チャンネルでも作ります",
+        "user": "U03CXUXB5PF",
+        "ts": "1664623448.113619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M6=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "このチャンネルは間も無く閉じます　今後万が一手直しが来たら納品後修正チャンネルでも作ります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

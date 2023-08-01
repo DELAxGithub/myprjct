@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "3bd2730c-fe7b-4d18-900b-cabfac019b3f",
+        "type": "message",
+        "text": "<@U03QQ3J656Z>\n```「58山本さん」（2.0）（PR,1,2,3章）→視聴完了しました。よろしくお願いいたします。```\n",
+        "user": "U03CXUXB5PF",
+        "ts": "1672298839.951039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iOn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「58山本さん」（2.0）（PR,1,2,3章）→視聴完了しました。よろしくお願いいたします。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

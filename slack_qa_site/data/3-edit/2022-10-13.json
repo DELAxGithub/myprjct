@@ -1,0 +1,70 @@
+[
+    {
+        "type": "message",
+        "text": "テロップチェック　ここだけはシリーズ\n\n誰がやっても見逃しはあるので、編集中に気がついたらぜひなおしてほしいのは\n*句読点は引用以外つかはない*\nというルールです\nこれクレジットに相当するところに読点ありますが、これはいらないです\nちょっとずつ精度を上げたいのでシリーズ化します",
+        "files": [
+            {
+                "id": "F046HQS5SAG",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1665689042.630379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NOjER",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "テロップチェック　ここだけはシリーズ\n\n誰がやっても見逃しはあるので、編集中に気がついたらぜひなおしてほしいのは\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "句読点は引用以外つかはない",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nというルールです\nこれクレジットに相当するところに読点ありますが、これはいらないです\nちょっとずつ精度を上げたいのでシリーズ化します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "c2243a05-8d16-4952-b3a5-801a99a9ddb1",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03NJATSEBH",
+                    "U03Q17LBJP3",
+                    "U03P0T4KQMV"
+                ],
+                "count": 3
+            },
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

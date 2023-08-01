@@ -1,0 +1,227 @@
+[
+    {
+        "client_msg_id": "92e83cb3-2347-4e1d-b189-4bad82323c1c",
+        "type": "message",
+        "text": "<!channel>\n質問です。みなさんはDropboxでProxyをダウンロードする際、\nWebからダウンロードしてますか？それともオフラインアクセスを許可でやってますか？",
+        "user": "U03QQ3J656Z",
+        "ts": "1663844796.560849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wKri",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n質問です。みなさんはDropboxでProxyをダウンロードする際、\nWebからダウンロードしてますか？それともオフラインアクセスを許可でやってますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cd2df094-9aa9-42ac-9eca-4488e3fcbf89",
+        "type": "message",
+        "text": "オフライアクセス許可です",
+        "user": "U03CXUXB5PF",
+        "ts": "1663844906.031399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0sZ5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "オフライアクセス許可です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663844906.031399",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1663845109.523899",
+        "reply_users": [
+            "U03QQ3J656Z",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1663844928.161109"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663845056.602069"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1663845109.523899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1663845109.523899"
+    },
+    {
+        "client_msg_id": "7477db4d-aaa1-4aa6-b3b8-44bec868cd99",
+        "type": "message",
+        "text": "オフラインアクセスを許可でやると、どうやってもメディアオフラインから脱却できず\n一つずつWebからダウンロードするとつながりますが、\nこれ私だけの挙動でしょうか？",
+        "user": "U03QQ3J656Z",
+        "ts": "1663844928.161109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qN8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "オフラインアクセスを許可でやると、どうやってもメディアオフラインから脱却できず\n一つずつWebからダウンロードするとつながりますが、\nこれ私だけの挙動でしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663844906.031399",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "e279118e-b4df-4446-8e0d-adf59f615424",
+        "type": "message",
+        "text": "・ファイルサイズが同じ\n・ファイル置き場が最終的に同じ\nなら大丈夫な気がします（premiere的には）\nが、手間ですよね。\nプロキシー以外でそうなってないならまた違う原因があるような気もしますね",
+        "user": "U03CXUXB5PF",
+        "ts": "1663845056.602069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/2y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "・ファイルサイズが同じ\n・ファイル置き場が最終的に同じ\nなら大丈夫な気がします（premiere的には）\nが、手間ですよね。\nプロキシー以外でそうなってないならまた違う原因があるような気もしますね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663844906.031399",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "caae754b-6f6d-42dd-9ae2-b7cd8dba850f",
+        "type": "message",
+        "text": "プロキシ以外はなんの問題もなく\nオフラインアクセスを許可でくるんですよね〜",
+        "user": "U03QQ3J656Z",
+        "ts": "1663845109.523899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A9Ht",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "プロキシ以外はなんの問題もなく\nオフラインアクセスを許可でくるんですよね〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663844906.031399",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

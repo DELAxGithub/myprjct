@@ -1,0 +1,76 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 一番上に出てますね。",
+        "files": [
+            {
+                "id": "F04BQVBPSF9",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03V84JSHNK",
+        "display_as_bot": false,
+        "ts": "1669189027.325639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iUaO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 一番上に出てますね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "78ccebba-28bb-4b51-b933-5f434a42e5d0"
+    },
+    {
+        "client_msg_id": "52304182-cac6-4ad6-9454-4f61b479b087",
+        "type": "message",
+        "text": "ありがとう。出演者と担当者を毎回進捗表に見に行ってたんですが、ここに書くと良さそう。このチャンネルの場合は何書きますかね。",
+        "user": "U03CXUXB5PF",
+        "ts": "1669189105.356769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UbQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとう。出演者と担当者を毎回進捗表に見に行ってたんですが、ここに書くと良さそう。このチャンネルの場合は何書きますかね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03QQ3J656Z> 46吉岡、テロップできました",
+        "files": [
+            {
+                "id": "F049KNRMJBG",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1667820859.388059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hNZC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 46吉岡、テロップできました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a8640982-dd79-4336-a688-e6858ac940f6",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03QQ3J656Z"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

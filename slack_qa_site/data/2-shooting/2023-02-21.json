@@ -1,0 +1,328 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nCSV作りました",
+        "files": [
+            {
+                "id": "F04Q44EP90X",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1676980338.366139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kfr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nCSV作りました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ee5fd47f-b59c-4ec5-bceb-365af6e96284",
+        "thread_ts": "1676943086.268299",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "99fe4abc-6b60-4434-ba2c-73c3def2574f",
+        "type": "message",
+        "text": "<@U04J38PLGM6> なんか色々溜まってきたような気がしますので確認です\n1. 完パケ書き出し技術チェック 66唐沢、70松浦\n2. 粗編プロジェクト準備とProxyのギガファイル共有→最新まで全部　準備出来次第、それぞれのチャンネルで\n3. 権利報告→96宮本も確定して特別編はまとめて報告？\n4. 収録準備　2\/24かんぺ　これは当日朝までにあれば大丈夫\n5. 収録準備　2\/24,砧スタジオ連絡,2\/28 学大スタジオ連絡 支払いの件もあるので、連絡時はCCしてください　学大のスタジオ費用交渉って小島さんに頼んじゃってもいいけど。\n6. 素材集め　84まで　これは台本おいつき次第それぞれのチャンネルにてお知らせします\n１は本当は今週中にもっと進むはずなんですが、どうも止まってしまったので、手元のやつはやりつつも２を最後までやってしまおう。２やる上でHDDとか確保できてます？\n３はまぁ残りの分と一緒で3月でもいいけど\nって感じです。なんか大変になってたらお知らせください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1677021103.775269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n7dU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " なんか色々溜まってきたような気がしますので確認です\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "完パケ書き出し技術チェック 66唐沢、70松浦"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "粗編プロジェクト準備とProxyのギガファイル共有→最新まで全部　準備出来次第、それぞれのチャンネルで"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "権利報告→96宮本も確定して特別編はまとめて報告？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "収録準備　2\/24かんぺ　これは当日朝までにあれば大丈夫"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "収録準備　2\/24,砧スタジオ連絡,2\/28 学大スタジオ連絡 支払いの件もあるので、連絡時はCCしてください　学大のスタジオ費用交渉って小島さんに頼んじゃってもいいけど。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "素材集め　84まで　これは台本おいつき次第それぞれのチャンネルにてお知らせします"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n１は本当は今週中にもっと進むはずなんですが、どうも止まってしまったので、手元のやつはやりつつも２を最後までやってしまおう。２やる上でHDDとか確保できてます？\n３はまぁ残りの分と一緒で3月でもいいけど\nって感じです。なんか大変になってたらお知らせください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677021103.775269",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1677022515.969899",
+        "reply_users": [
+            "U04J38PLGM6",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1677021780.340019"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1677021921.151609"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1677022515.969899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677022515.969899"
+    },
+    {
+        "client_msg_id": "016c1101-90de-4a36-b0bd-de7e82c19f92",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> すいません。溜まってきましたが今日巻き返します。\n２-ハードは大丈夫です。\n５-学大のスタジオ費用交渉は小島さんに頼みます。砧は予約ずみです。予約フォームを使うのでCC入れられませんが、小島さんが値段交渉する予定になっています。\n3-武田真治のマネージャー、金曜に催促したのですが、まだ返事がないので今日突っついてみます。",
+        "user": "U04J38PLGM6",
+        "ts": "1677021780.340019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rJ3h+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すいません。溜まってきましたが今日巻き返します。\n２-ハードは大丈夫です。\n５-学大のスタジオ費用交渉は小島さんに頼みます。砧は予約ずみです。予約フォームを使うのでCC入れられませんが、小島さんが値段交渉する予定になっています。\n3-武田真治のマネージャー、金曜に催促したのですが、まだ返事がないので今日突っついてみます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677021103.775269",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "mechanical_arm",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7db99aad-a691-42fb-b737-46c887d1f1f8",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 市川紗椰さんのD&amp;Dやガンダムの申請をできれば安永さんにやってもらいたいです。",
+        "user": "U04J38PLGM6",
+        "ts": "1677021921.151609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wwdL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 市川紗椰さんのD&Dやガンダムの申請をできれば安永さんにやってもらいたいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677021103.775269",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "09daed26-806e-40bd-8899-2b6e5b8af446",
+        "type": "message",
+        "text": "<@U04J38PLGM6>\nガンダム、D＆Dはalamyとかでなければないでいいよ\nっていうか基本はそれ。",
+        "user": "U03CXUXB5PF",
+        "ts": "1677022515.969899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5DNZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nガンダム、D＆Dはalamyとかでなければないでいいよ\nっていうか基本はそれ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677021103.775269",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

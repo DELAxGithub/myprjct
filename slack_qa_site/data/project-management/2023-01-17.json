@@ -1,0 +1,141 @@
+[
+    {
+        "client_msg_id": "aa07c045-e27e-47e6-af3d-8e0fafe30b6e",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n新しく入る編集マンのアカウントの共有をお願いいたします。\n\n【玉置ともゆき】\ndropbox\n<mailto:rootshiphop1973@gmail.com|rootshiphop1973@gmail.com>\n\nslack\n<mailto:tamakitomoyuki@gmail.com|tamakitomoyuki@gmail.com>\n\n\n\n【中野紀子】\ndropbox\n<mailto:norikonakanoaaa@gmail.com|norikonakanoaaa@gmail.com>\n\nslack\n<mailto:norikonakanoaaa@gmail.com|norikonakanoaaa@gmail.com>",
+        "user": "U03NZ0E09JN",
+        "ts": "1674017391.149359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lChn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n新しく入る編集マンのアカウントの共有をお願いいたします。\n\n【玉置ともゆき】\ndropbox\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:rootshiphop1973@gmail.com",
+                                "text": "rootshiphop1973@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nslack\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:tamakitomoyuki@gmail.com",
+                                "text": "tamakitomoyuki@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n\n【中野紀子】\ndropbox\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:norikonakanoaaa@gmail.com",
+                                "text": "norikonakanoaaa@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nslack\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:norikonakanoaaa@gmail.com",
+                                "text": "norikonakanoaaa@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674017391.149359",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1674018004.588349",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1674018004.588349"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1674018004.588349"
+    },
+    {
+        "client_msg_id": "62a6c399-6100-4b7d-afcc-c105194099f2",
+        "type": "message",
+        "text": "招待しましたー",
+        "user": "U03CXUXB5PF",
+        "ts": "1674018004.588349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f8gz8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "招待しましたー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674017391.149359",
+        "parent_user_id": "U03NZ0E09JN",
+        "reactions": [
+            {
+                "name": "woman-raising-hand",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "client_msg_id": "1484a5f5-142b-4ec5-9552-9d976b0c39af",
+        "type": "message",
+        "text": "<@U03V84JSHNK> ８９はお願いしてもいいですか？出演者対応も込みなので、よろしくお願いいたします",
+        "user": "U03CXUXB5PF",
+        "ts": "1679360283.520649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qMXc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ８９はお願いしてもいいですか？出演者対応も込みなので、よろしくお願いいたします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679360283.520649",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1679363817.561979",
+        "reply_users": [
+            "U03V84JSHNK"
+        ],
+        "replies": [
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1679363817.561979"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1679363817.561979"
+    },
+    {
+        "client_msg_id": "2F6186F4-0CEA-4E04-98B8-0C363369940B",
+        "type": "message",
+        "text": "了解いたしました！",
+        "user": "U03V84JSHNK",
+        "ts": "1679363817.561979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HSl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解いたしました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679360283.520649",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

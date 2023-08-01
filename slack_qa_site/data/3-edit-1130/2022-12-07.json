@@ -1,0 +1,609 @@
+[
+    {
+        "client_msg_id": "c2eb9175-4faa-4eb4-a73c-2f84230ae772",
+        "type": "message",
+        "text": "<@U03NJATSEBH> 平藤書き出しましたー",
+        "user": "U03CXUXB5PF",
+        "ts": "1670419786.515939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RE2wB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 平藤書き出しましたー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670387523.589759",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "2f489bac-dd8a-4312-b2b1-025c3beca35c",
+        "type": "message",
+        "text": "<@U03QQ3J656Z>\n```ep1～3・PR　Edits requested ※修正コメント記入しました \n音、ノイズは、ほぼままでしたが、やはり気になる箇所にはコメント入れました。\n許容範囲であれば結構ですが、ご確認お願い致します。```",
+        "user": "U03CXUXB5PF",
+        "ts": "1670421229.190449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hqbC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ep1～3・PR　Edits requested ※修正コメント記入しました \n音、ノイズは、ほぼままでしたが、やはり気になる箇所にはコメント入れました。\n許容範囲であれば結構ですが、ご確認お願い致します。"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1670421237.000000"
+        },
+        "thread_ts": "1670421229.190449",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1670421333.933619",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1670421333.933619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1670421333.933619"
+    },
+    {
+        "client_msg_id": "39c21d66-fd8a-4c03-9562-e876aa82f54d",
+        "type": "message",
+        "text": "元素材から修正入ってます？\n入ってなければ周辺カットするっていう手もありますが、修正入ってるならスルーします",
+        "user": "U03CXUXB5PF",
+        "ts": "1670421333.933619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H3vN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "元素材から修正入ってます？\n入ってなければ周辺カットするっていう手もありますが、修正入ってるならスルーします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670421229.190449",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "65448f28-7b0a-4787-9a3d-028750ca2181",
+        "type": "message",
+        "text": "<@U03QQ3J656Z>\n```「48坂井さん」（2.0）（PR、1，2，3章）→P社チェック完了しました。```\nノイズの件、こちらにもありますが、チェックチームにかなり神経質な人がいまして、、お付き合いいただきすいません。\n\n同様に最近、取り切りの長さにあれこれ言ってきてます。\nとはいえ8秒をミニマムとして、文字量が多ければそれなりに伸ばして編集のリズム変えていただいてると思うので、とかよほどのことなければここもあんまり気にせず。。１行しかない＆時間差でもないのに、20秒あるとかだとちょっと長いかなと思いますが。",
+        "user": "U03CXUXB5PF",
+        "ts": "1670425705.793919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pik1E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「48坂井さん」（2.0）（PR、1，2，3章）→P社チェック完了しました。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ノイズの件、こちらにもありますが、チェックチームにかなり神経質な人がいまして、、お付き合いいただきすいません。\n\n同様に最近、取り切りの長さにあれこれ言ってきてます。\nとはいえ8秒をミニマムとして、文字量が多ければそれなりに伸ばして編集のリズム変えていただいてると思うので、とかよほどのことなければここもあんまり気にせず。。１行しかない＆時間差でもないのに、20秒あるとかだとちょっと長いかなと思いますが。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670425705.793919",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1670504474.853289",
+        "reply_users": [
+            "U03QQ3J656Z",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1670460743.476459"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1670460975.073919"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1670463930.071879"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1670488477.850639"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1670504474.853289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1670504474.853289"
+    },
+    {
+        "client_msg_id": "5ae45f6e-bb11-4b11-af1c-64b69eb6df6a",
+        "type": "message",
+        "text": "まだ坂井の見れてませんが、ノイズの指摘がほぼ全てを占めている状態でして、\nどうしたものかといった状態です。\n\n当然、整音していただいているので軽減されてはいるものの、\n声と被っている部分は限界があるかと思いますし、仮にそのコメントをカットするとなると、全く話が繋がらなくなるし・・・\n\nにしても、吉岡とかは音の修正コメントが膨大でして、どうしたもんかと言った状態です。\n\n「正直、修正するほどではないと思います・・・」と言ったのが私の主観ですが。",
+        "user": "U03QQ3J656Z",
+        "ts": "1670460743.476459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mVl36",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まだ坂井の見れてませんが、ノイズの指摘がほぼ全てを占めている状態でして、\nどうしたものかといった状態です。\n\n当然、整音していただいているので軽減されてはいるものの、\n声と被っている部分は限界があるかと思いますし、仮にそのコメントをカットするとなると、全く話が繋がらなくなるし・・・\n\nにしても、吉岡とかは音の修正コメントが膨大でして、どうしたもんかと言った状態です。\n\n「正直、修正するほどではないと思います・・・」と言ったのが私の主観ですが。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670425705.793919",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "ca5f750c-2727-45c6-a8aa-13649a830ad6",
+        "type": "message",
+        "text": "じゃ元素材から修正入ってればスルーで大丈夫です。\nこれまで通り元素材自体に大きめのノイズあれば、編集１の段階でカットしますので、お知らせくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1670460975.073919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "edga",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "じゃ元素材から修正入ってればスルーで大丈夫です。\nこれまで通り元素材自体に大きめのノイズあれば、編集１の段階でカットしますので、お知らせくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670425705.793919",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "9b69f88b-877f-41ff-aaa1-727c9373658b",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> ご対応ありがとうございます。\n確認し、Replayに試写2.2をアップ致しました。",
+        "user": "U03NJATSEBH",
+        "ts": "1670462893.846209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "slF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ご対応ありがとうございます。\n確認し、Replayに試写2.2をアップ致しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670387523.589759",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "クライアントも、元素材から軽減されてれば「スルー」で納得してもらっています。\n\n万が一、MAで整音時に見逃してたら対応しないといけないので、お手数ですが、そこだけ一応聴き比べ確認をお願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1670463930.071879",
+        "thread_ts": "1670425705.793919",
+        "root": {
+            "client_msg_id": "65448f28-7b0a-4787-9a3d-028750ca2181",
+            "type": "message",
+            "text": "<@U03QQ3J656Z>\n```「48坂井さん」（2.0）（PR、1，2，3章）→P社チェック完了しました。```\nノイズの件、こちらにもありますが、チェックチームにかなり神経質な人がいまして、、お付き合いいただきすいません。\n\n同様に最近、取り切りの長さにあれこれ言ってきてます。\nとはいえ8秒をミニマムとして、文字量が多ければそれなりに伸ばして編集のリズム変えていただいてると思うので、とかよほどのことなければここもあんまり気にせず。。１行しかない＆時間差でもないのに、20秒あるとかだとちょっと長いかなと思いますが。",
+            "user": "U03CXUXB5PF",
+            "ts": "1670425705.793919",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Pik1E",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03QQ3J656Z"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_preformatted",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "「48坂井さん」（2.0）（PR、1，2，3章）→P社チェック完了しました。"
+                                }
+                            ],
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "ノイズの件、こちらにもありますが、チェックチームにかなり神経質な人がいまして、、お付き合いいただきすいません。\n\n同様に最近、取り切りの長さにあれこれ言ってきてます。\nとはいえ8秒をミニマムとして、文字量が多ければそれなりに伸ばして編集のリズム変えていただいてると思うので、とかよほどのことなければここもあんまり気にせず。。１行しかない＆時間差でもないのに、20秒あるとかだとちょっと長いかなと思いますが。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1670425705.793919",
+            "reply_count": 5,
+            "reply_users_count": 2,
+            "latest_reply": "1670504474.853289",
+            "reply_users": [
+                "U03QQ3J656Z",
+                "U03CXUXB5PF"
+            ],
+            "replies": [
+                {
+                    "user": "U03QQ3J656Z",
+                    "ts": "1670460743.476459"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1670460975.073919"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1670463930.071879"
+                },
+                {
+                    "user": "U03QQ3J656Z",
+                    "ts": "1670488477.850639"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1670504474.853289"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1670504474.853289"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eyh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "クライアントも、元素材から軽減されてれば「スルー」で納得してもらっています。\n\n万が一、MAで整音時に見逃してたら対応しないといけないので、お手数ですが、そこだけ一応聴き比べ確認をお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a5c1841c-30c2-49cf-ac80-5c2b929a728d"
+    },
+    {
+        "type": "message",
+        "text": "<@U03V84JSHNK>\n48坂井 ダミー画像あるようです。\nReplayに試写2.0-1にクライアントのコメントにメモがありました。\n”フォト透かし\"というコメントを入れてもらっています。\n\n<@U03QQ3J656Z>\nこちら以外にダミーがありましたらご連絡をお願いいたします。\n\nダミー差し替えてからの2.1試写となります。\nよろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F04E9DCRKB4",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1670469098.723839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kdm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n48坂井 ダミー画像あるようです。\nReplayに試写2.0-1にクライアントのコメントにメモがありました。\n”フォト透かし\"というコメントを入れてもらっています。\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこちら以外にダミーがありましたらご連絡をお願いいたします。\n\nダミー差し替えてからの2.1試写となります。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "521b3030-f068-4258-b189-4ab0ecee125e",
+        "thread_ts": "1670469098.723839",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1670581506.900729",
+        "reply_users": [
+            "U03V84JSHNK",
+            "U03QQ3J656Z"
+        ],
+        "replies": [
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1670471381.096089"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1670555819.563829"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1670574846.312839"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1670581506.900729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1670581506.900729"
+    },
+    {
+        "client_msg_id": "b8fba60e-d7ba-4b0c-b712-43a917d366b6",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> 了解しました。土日にまとめて調べておきます。",
+        "user": "U03V84JSHNK",
+        "ts": "1670471381.096089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CFcVi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解しました。土日にまとめて調べておきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670469098.723839",
+        "parent_user_id": "U03NZ0E09JN",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

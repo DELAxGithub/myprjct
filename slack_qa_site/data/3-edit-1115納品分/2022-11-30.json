@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "f148c60e-9e7d-46fa-883b-9049e95dcf44",
+        "type": "message",
+        "text": "<@U03NJATSEBH> 菅野MAが上がってますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1669853714.696899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S0nq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 菅野MAが上がってますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669853714.696899",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1669892564.825479",
+        "reply_users": [
+            "U03NJATSEBH"
+        ],
+        "replies": [
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1669892564.825479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1669892564.825479",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

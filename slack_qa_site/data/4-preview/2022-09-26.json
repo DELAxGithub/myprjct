@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "1ece3e9c-fe53-4425-ae22-1cfc3b88ed3c",
+        "type": "message",
+        "text": "書き出しが全部ファイル名一緒なのって二人で書き出し作業分担してると間違いそうですねぇ。\n今後考えますが、現環境においては、書き出し前に一個ずつ確認しかないので、書き出す前にお知らせください\n<@U040YCC00V6>",
+        "user": "U03CXUXB5PF",
+        "ts": "1664205049.698809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yb1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "書き出しが全部ファイル名一緒なのって二人で書き出し作業分担してると間違いそうですねぇ。\n今後考えますが、現環境においては、書き出し前に一個ずつ確認しかないので、書き出す前にお知らせください\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

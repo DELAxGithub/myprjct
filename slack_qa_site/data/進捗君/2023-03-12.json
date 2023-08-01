@@ -1,0 +1,30 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03Q17LBJP3> #85大場紀章で変更がありました\n変更前：リサーチ\n変更後：編集1\n担当者は岡野です",
+        "ts": "1678668294.567809",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bc\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #85大場紀章で変更がありました\n変更前：リサーチ\n変更後：編集1\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

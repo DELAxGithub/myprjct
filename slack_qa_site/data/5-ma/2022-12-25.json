@@ -1,0 +1,249 @@
+[
+    {
+        "type": "message",
+        "text": "阿部さんのPRに、山本さんPRと同様のエラーがありましたので、書き出し直しをお願いできると、大変助かります。",
+        "files": [
+            {
+                "id": "F04G6AQ1TPH",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1672006289.379959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NdFVp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "阿部さんのPRに、山本さんPRと同様のエラーがありましたので、書き出し直しをお願いできると、大変助かります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3FC8FDE7-0726-4594-AE1D-72E981EC1458",
+        "thread_ts": "1672006289.379959",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1672024143.792109",
+        "reply_users": [
+            "U03Q17LBJP3",
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1672022861.551779"
+            },
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1672024143.792109"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "60アベさんのEP1-EP3アップしました。\nよろしくお願いします。",
+        "files": [
+            {
+                "id": "F04GPANR9J8",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1672006374.570209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OBoo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "60アベさんのEP1-EP3アップしました。\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "81E1E543-7C3C-474B-9296-E8050BD60942"
+    },
+    {
+        "type": "message",
+        "text": "58ヤマモトさんのWAVをDropboxにアップしました。\nご確認よろしくお願いします。",
+        "files": [
+            {
+                "id": "F04GHUADX8D",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1672006403.108939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HMG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "58ヤマモトさんのWAVをDropboxにアップしました。\nご確認よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3ED01494-C538-4792-95D3-AC1E07D54125",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03G0LAPT3N>\n60阿部PR　再アップしました。\nお手数ですがご確認よろしくお願いします。",
+        "user": "U03Q17LBJP3",
+        "ts": "1672022861.551779",
+        "thread_ts": "1672006289.379959",
+        "root": {
+            "type": "message",
+            "text": "阿部さんのPRに、山本さんPRと同様のエラーがありましたので、書き出し直しをお願いできると、大変助かります。",
+            "files": [
+                {
+                    "id": "F04G6AQ1TPH",
+                    "mode": "hidden_by_limit"
+                }
+            ],
+            "upload": false,
+            "user": "U03G0LAPT3N",
+            "display_as_bot": false,
+            "ts": "1672006289.379959",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "NdFVp",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "阿部さんのPRに、山本さんPRと同様のエラーがありましたので、書き出し直しをお願いできると、大変助かります。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "client_msg_id": "3FC8FDE7-0726-4594-AE1D-72E981EC1458",
+            "thread_ts": "1672006289.379959",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1672024143.792109",
+            "reply_users": [
+                "U03Q17LBJP3",
+                "U03G0LAPT3N"
+            ],
+            "replies": [
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1672022861.551779"
+                },
+                {
+                    "user": "U03G0LAPT3N",
+                    "ts": "1672024143.792109"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WfJY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n60阿部PR　再アップしました。\nお手数ですがご確認よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "29f11920-7f76-4e7c-8877-82936dd59476"
+    },
+    {
+        "client_msg_id": "81814B19-82B6-4477-A183-23C4E3A0E235",
+        "type": "message",
+        "text": "承知しました。",
+        "user": "U03G0LAPT3N",
+        "ts": "1672024143.792109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Kp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1672006289.379959",
+        "parent_user_id": "U03G0LAPT3N"
+    }
+]

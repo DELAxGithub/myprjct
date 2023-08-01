@@ -1,0 +1,460 @@
+[
+    {
+        "type": "message",
+        "text": "以下、起床された後で構いません。\n\nスタジオ側に制作スタッフの入り時間を共有したいと思います。\nざっくりですが制作用スケジュール叩いてます、入り時間のご確認をお願いいたします。\nできたらChatwork、小島さん、メイクさんにも展開しようと思います。",
+        "files": [
+            {
+                "id": "F03M10D38HX",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03HJRZK295",
+        "display_as_bot": false,
+        "ts": "1655883650.969729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RKMm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "以下、起床された後で構いません。\n\nスタジオ側に制作スタッフの入り時間を共有したいと思います。\nざっくりですが制作用スケジュール叩いてます、入り時間のご確認をお願いいたします。\nできたらChatwork、小島さん、メイクさんにも展開しようと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03HJRZK295",
+            "ts": "1655884575.000000"
+        },
+        "client_msg_id": "8c7ed5c7-115a-4530-8983-c06747413b7d"
+    },
+    {
+        "client_msg_id": "042d014f-e44d-41bb-97c0-48baf9d9c9a8",
+        "type": "message",
+        "text": "<@U03HJRZK295> スケジュールありがとうございます、\nが、実はここまでちゃんとしたのは不要でして、、\n作ってても思ったと思いますが、極力ワンパターンにしてあります。現場は収録開始時間10時、13時、16時だけ認識してればそんなにミスもないかと。\nメイクさんにも収録開始時間15分〜30分前に入るので間に合うように、ってだけで大丈夫です。\n例外は、中島さん・小島さんですかね。そこだけ特記事項で伝えましょう。\n\nあと、word・エクセルはいちいち直すのが邪魔くさいので、全部Googleドキュメントかスプレッドシートでお願いします\n\n小島さんには、台本のほかプロフィールも送ってあげたいので、事務方打ち合わせ時=明日木曜朝9時半に集約方法決めたら、それを送りましょう。\n\nブルシットジョブを限界まで減らして、収録・編集の準備に当てましょう！\n\nってことで、\n収録準備→全員分のカンペ作成：台本の質問を前日前までにkeynoteにコピペ…1人あたり15分ぐらい。\n編集準備→編集打ち合わせで確認ごとを書き出し..前回の編集プロジェクトを使いまわすのでそれみながら諸々引き継ぎ。木21時のECS打ち合わせまでに準備。",
+        "user": "U03CXUXB5PF",
+        "ts": "1655899268.620119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mIlMI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " スケジュールありがとうございます、\nが、実はここまでちゃんとしたのは不要でして、、\n作ってても思ったと思いますが、極力ワンパターンにしてあります。現場は収録開始時間10時、13時、16時だけ認識してればそんなにミスもないかと。\nメイクさんにも収録開始時間15分〜30分前に入るので間に合うように、ってだけで大丈夫です。\n例外は、中島さん・小島さんですかね。そこだけ特記事項で伝えましょう。\n\nあと、word・エクセルはいちいち直すのが邪魔くさいので、全部Googleドキュメントかスプレッドシートでお願いします\n\n小島さんには、台本のほかプロフィールも送ってあげたいので、事務方打ち合わせ時=明日木曜朝9時半に集約方法決めたら、それを送りましょう。\n\nブルシットジョブを限界まで減らして、収録・編集の準備に当てましょう！\n\nってことで、\n収録準備→全員分のカンペ作成：台本の質問を前日前までにkeynoteにコピペ…1人あたり15分ぐらい。\n編集準備→編集打ち合わせで確認ごとを書き出し..前回の編集プロジェクトを使いまわすのでそれみながら諸々引き継ぎ。木21時のECS打ち合わせまでに準備。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03HJRZK295"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "上記スケジュール修正しました（対メイクさん申し送りだけ残させてください…！）\n<https:\/\/docs.google.com\/document\/d\/1R2kSWgLGuovjY075s3gdi4emLlyHwouA\/edit?usp=sharing&amp;ouid=110234488581898290565&amp;rtpof=true&amp;sd=true>\n\n収録・編集準備、了解です。\n実際作業諸々、明日の事務方打ちの後に軽く確認させてください:man-bowing:",
+        "files": [
+            {
+                "id": "F03LPP8G9QB",
+                "created": 1655903149,
+                "timestamp": 1655903149,
+                "name": "KDDI収録スケ0628-0701暫定.docx",
+                "title": "KDDI収録スケ0628-0701決定版.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U03HJRZK295",
+                "user_team": "T03CU6RQ154",
+                "editable": false,
+                "size": 158611,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/document\/d\/1R2kSWgLGuovjY075s3gdi4emLlyHwouA\/edit?usp=sharing&ouid=110234488581898290565&rtpof=true&sd=true",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F03LPP8G9QB-994d17b06f\/kddi____________0628-0701_______64.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F03LPP8G9QB-994d17b06f\/kddi____________0628-0701_______80.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F03LPP8G9QB-994d17b06f\/kddi____________0628-0701_______360.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360_w": 255,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F03LPP8G9QB-994d17b06f\/kddi____________0628-0701_______480.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_480_w": 340,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F03LPP8G9QB-994d17b06f\/kddi____________0628-0701_______160.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F03LPP8G9QB-994d17b06f\/kddi____________0628-0701_______720.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F03LPP8G9QB-994d17b06f\/kddi____________0628-0701_______800.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1131,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F03LPP8G9QB-994d17b06f\/kddi____________0628-0701_______960.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_960_w": 679,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F03LPP8G9QB-994d17b06f\/kddi____________0628-0701_______1024.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "original_w": 800,
+                "original_h": 1131,
+                "thumb_tiny": "AwAwACG\/JMiNhnA+tMF1D\/z1U06Uvv8AlC\/iTUQabd9yPP8AvH\/CgCT7VD\/z1WnJPE7bVcE+lMBn\/uR\/99H\/AApyGXcN6oB7E0AS0UUUARSeZu+QLj3zUY8\/PSP8jUkkSu2WUn8TTBbR5+4fzNAC7Z\/WP9acgm3Dfs2+wOaaLaPvH+ppyQRowZVwfqaAJaKKKAIpIVkbJUGmC1jyf3Yx25qxRQBX+yx\/88xT0gjRgyoAfWpaKACiiigD\/9k=",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/U03HJRZK295\/F03LPP8G9QB\/kddi____________0628-0701______.docx",
+                "is_starred": false,
+                "external_id": "1R2kSWgLGuovjY075s3gdi4emLlyHwouA",
+                "external_url": "https:\/\/docs.google.com\/document\/d\/1R2kSWgLGuovjY075s3gdi4emLlyHwouA\/edit?usp=sharing&ouid=110234488581898290565&rtpof=true&sd=true",
+                "has_rich_preview": true,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03HJRZK295",
+        "display_as_bot": false,
+        "x_files": [
+            "F03LPP8G9QB"
+        ],
+        "ts": "1655903132.027319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fdZd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "上記スケジュール修正しました（対メイクさん申し送りだけ残させてください…！）\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1R2kSWgLGuovjY075s3gdi4emLlyHwouA\/edit?usp=sharing&ouid=110234488581898290565&rtpof=true&sd=true"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n収録・編集準備、了解です。\n実際作業諸々、明日の事務方打ちの後に軽く確認させてください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "68a2fffe-3d01-4f6c-af07-d56a719ba2a7"
+    },
+    {
+        "client_msg_id": "B3E0504F-EAA5-4702-9863-BFB7D6B3CE64",
+        "type": "message",
+        "text": "ありがとうございますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1655903178.587609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T=K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a14bde81-4060-4160-82be-455418b8374a",
+        "type": "message",
+        "text": "<@U03HJRZK295>\n控室を接待として考えてる気配があるので、広いスタジオを有効に使ってください。。\nスケジュールと台本を小島さんに送るときに伝えますが、\n収録の位置ぎめ時に、\n見切れがないメイク場所、見学の人たちの居場所を明示しておくといいかと。\n\n一回腰を落ち着けちゃうとあっちいけこっちいけと説明するときにピリッとしかねないので。。\n\n「明示」がなんかバミリか張り紙かはわかりませんが。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1655948258.530389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uluy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n控室を接待として考えてる気配があるので、広いスタジオを有効に使ってください。。\nスケジュールと台本を小島さんに送るときに伝えますが、\n収録の位置ぎめ時に、\n見切れがないメイク場所、見学の人たちの居場所を明示しておくといいかと。\n\n一回腰を落ち着けちゃうとあっちいけこっちいけと説明するときにピリッとしかねないので。。\n\n「明示」がなんかバミリか張り紙かはわかりませんが。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "47011d08-f40e-4c3e-ba68-5f131c2b59fa",
+        "type": "message",
+        "text": "了解です！セーフゾーンばみっときます\n\nスケジュール、スタジオとメイクさんには送りますが、\n小島さんへは小寺さんから送りますか？",
+        "user": "U03HJRZK295",
+        "ts": "1655948393.606199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RNX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です！セーフゾーンばみっときます\n\nスケジュール、スタジオとメイクさんには送りますが、\n小島さんへは小寺さんから送りますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7a7eacbf-e788-48f8-a465-2a554673279f",
+        "type": "message",
+        "text": "小島さんには僕から送りますー。\nあと、SDカードリーダって早いのあります？まぁUSB3.0のでいいんですけど。",
+        "user": "U03CXUXB5PF",
+        "ts": "1655948855.365829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wnNfb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "小島さんには僕から送りますー。\nあと、SDカードリーダって早いのあります？まぁUSB3.0のでいいんですけど。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7dd8d634-3a12-4605-aafc-8d5794f5264b",
+        "type": "message",
+        "text": "ありがとうございます！\nタイプCのが１つ持ってます、スロット１個ですが",
+        "user": "U03HJRZK295",
+        "ts": "1655948996.511339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BLg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！\nタイプCのが１つ持ってます、スロット１個ですが"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a7c7899d-12c9-4b2c-9bab-5aa8a6e78e13",
+        "type": "message",
+        "text": "３枚分あると寝てる間にできますがまぁいいか。\nKINに余ってるから、アップロードに行くときに２個ぐらい持ってっていいと思います。",
+        "user": "U03CXUXB5PF",
+        "ts": "1655949101.296589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G662P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "３枚分あると寝てる間にできますがまぁいいか。\nKINに余ってるから、アップロードに行くときに２個ぐらい持ってっていいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "434806fd-999e-4031-8b5d-90f34ba7df8d",
+        "type": "message",
+        "text": "3枚分欲しいですね。調達します",
+        "user": "U03HJRZK295",
+        "ts": "1655949945.464119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6u3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3枚分欲しいですね。調達します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "5f7c1acb-188b-4217-9082-377edd455bf0",
+        "type": "message",
+        "text": "<@U041XC6213P> 今週分の発注については明日火曜10時でいいですか？すいません。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667172002.737819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=26TA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今週分の発注については明日火曜10時でいいですか？すいません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667172002.737819",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1667172256.291889",
+        "reply_users": [
+            "U041XC6213P"
+        ],
+        "replies": [
+            {
+                "user": "U041XC6213P",
+                "ts": "1667172256.291889"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1667172256.291889"
+    },
+    {
+        "client_msg_id": "60edf9e6-7330-4ad7-8ca7-c91ffcef860b",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>はい、大丈夫です。よろしくお願いします！",
+        "user": "U041XC6213P",
+        "ts": "1667172256.291889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YxUAb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "はい、大丈夫です。よろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667172002.737819",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

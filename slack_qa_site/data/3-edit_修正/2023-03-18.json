@@ -1,0 +1,50 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 昨日のcsvです。",
+        "files": [
+            {
+                "id": "F04V08EUBPB",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04UJM7EM37",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "ts": "1679201732.529229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I7x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 昨日のcsvです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "57c0a3dd-bebb-4f5b-bc11-c98ad41e648d",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

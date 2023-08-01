@@ -1,0 +1,213 @@
+[
+    {
+        "client_msg_id": "2487b7e3-3592-4b6a-a122-3b5ee8f88202",
+        "type": "message",
+        "text": "<@U041XC6213P> slackのトークでお願いしますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1674784849.164429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mwd10",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " slackのトークでお願いしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "channel": "C040XCK7RMK",
+        "room": {
+            "id": "R04M5FET5AM",
+            "name": "",
+            "media_server": "",
+            "created_by": "U03CXUXB5PF",
+            "date_start": 1674784851,
+            "date_end": 1674785726,
+            "participants": [],
+            "participant_history": [
+                "U03CXUXB5PF",
+                "U041XC6213P"
+            ],
+            "participants_camera_on": [],
+            "participants_camera_off": [],
+            "participants_screenshare_on": [],
+            "participants_screenshare_off": [],
+            "canvas_thread_ts": "1674784851.273789",
+            "thread_root_ts": "1674784851.273789",
+            "channels": [
+                "C040XCK7RMK"
+            ],
+            "is_dm_call": false,
+            "was_rejected": false,
+            "was_missed": false,
+            "was_accepted": false,
+            "has_ended": true,
+            "background_id": "THE_DREAM_OF_THE_FISH",
+            "canvas_background": "THE_DREAM_OF_THE_FISH",
+            "is_prewarmed": false,
+            "is_scheduled": false,
+            "attached_file_ids": [],
+            "media_backend_type": "free_willy",
+            "display_id": "",
+            "external_unique_id": "4c6c2fe3-e8de-4fb3-9e2b-e2dca03f0706",
+            "app_id": "A00",
+            "call_family": "huddle",
+            "pending_invitees": {}
+        },
+        "no_notifications": false,
+        "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/call\/R04M5FET5AM",
+        "ts": "1674784851.273789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C9z5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A huddle started"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "sv41d8cd98f0",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/slackbot_72.png",
+            "first_name": "slackbot",
+            "real_name": "Slackbot",
+            "display_name": "Slackbot",
+            "team": "T03CU6RQ154",
+            "name": "slackbot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U041XC6213P>",
+        "files": [
+            {
+                "id": "F04LSS88G90",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1674784981.047109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ttJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "343770a8-3f0d-4b0a-ac25-a29257503932"
+    },
+    {
+        "client_msg_id": "02d4c2e1-1650-45f5-908c-7404c55551bf",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=2iaPVGquTBM>",
+        "user": "U03CXUXB5PF",
+        "ts": "1674785405.136039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ft7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=2iaPVGquTBM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=2iaPVGquTBM",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/2iaPVGquTBM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/2iaPVGquTBM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"量子もつれとパラドックス...量子はテレポートできるのか？【日本科学情報】【宇宙】\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=2iaPVGquTBM",
+                "fallback": "YouTube Video: 量子もつれとパラドックス...量子はテレポートできるのか？【日本科学情報】【宇宙】",
+                "title": "量子もつれとパラドックス...量子はテレポートできるのか？【日本科学情報】【宇宙】",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=2iaPVGquTBM",
+                "author_name": "日本科学情報",
+                "author_link": "https:\/\/www.youtube.com\/@nihonkagaku",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    }
+]

@@ -1,0 +1,160 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_add",
+        "text": "added an integration to this channel: <https:\/\/kdddipresidentnep2022.slack.com\/services\/B04RCRU3YKV|進捗君>",
+        "user": "U03CXUXB5PF",
+        "bot_id": "B04RCRU3YKV",
+        "bot_link": "<https:\/\/kdddipresidentnep2022.slack.com\/services\/B04RCRU3YKV|進捗君>",
+        "ts": "1677485375.439499"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03CXUXB5PF> #81早川英男が編集1から素材調達に変更されました\n担当者は進藤です",
+        "ts": "1677485429.644889",
+        "bot_id": "B04RCRU3YKV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hk=l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #81早川英男が編集1から素材調達に変更されました\n担当者は進藤です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03CXUXB5PF> #83小幡績が台本作成から編集1に変更されました\n担当者は石橋です",
+        "ts": "1677485757.306539",
+        "bot_id": "B04RCRU3YKV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k3fC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #83小幡績が台本作成から編集1に変更されました\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03CXUXB5PF> #81早川英男が素材調達から編集1に変更されました\n担当者は進藤です",
+        "ts": "1677485785.715339",
+        "bot_id": "B04RCRU3YKV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "perO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #81早川英男が素材調達から編集1に変更されました\n担当者は進藤です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04J38PLGM6> #81早川英男が編集1から台本：MA前に変更されました\n担当者は進藤です",
+        "ts": "1677485838.623229",
+        "bot_id": "B04RCRU3YKV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T84",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #81早川英男が編集1から台本：MA前に変更されました\n担当者は進藤です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04J38PLGM6> #81早川英男が台本：MA前からMA中に変更されました\n担当者は進藤です",
+        "ts": "1677486404.342089",
+        "bot_id": "B04RCRU3YKV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QAFeY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #81早川英男が台本：MA前からMA中に変更されました\n担当者は進藤です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_add",
+        "text": "added an integration to this channel: <https:\/\/kdddipresidentnep2022.slack.com\/services\/B04RA4QE153|進捗君>",
+        "user": "U03CXUXB5PF",
+        "bot_id": "B04RA4QE153",
+        "bot_link": "<https:\/\/kdddipresidentnep2022.slack.com\/services\/B04RA4QE153|進捗君>",
+        "ts": "1677486637.278469"
+    }
+]

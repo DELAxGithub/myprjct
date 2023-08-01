@@ -1,0 +1,192 @@
+[
+    {
+        "client_msg_id": "e5d254a1-51a2-4245-99f3-3b678a525efc",
+        "type": "message",
+        "text": "<@U03P0T4KQMV>\nクライアントチェックのリアクションです。\n修正が入り組んじゃってすいません。\n&gt; 58山本さん　2.1が見当たらず　試写3　にて視聴確認完了しました。\n&gt; ep１～3　⇒　Edits requested\n&gt; PRのみ　  ⇒   Approved\n&gt; \n&gt; 丸山さんのご指摘コメントが 試写3では確認できませんでした。\n&gt; ep2.3は、修正が反映されていないようでした。\n&gt; \n&gt; 確認の試写バージョンが違っているようでしたら、ご教示ください。(\n&gt; 〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜\n現状どういう状態なんでしたっけ。\nまるやまさんの指示ってReplayの別バージョンに埋もれてたりしますかね。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1673180426.501949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Q=7r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nクライアントチェックのリアクションです。\n修正が入り組んじゃってすいません。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "58山本さん　2.1が見当たらず　試写3　にて視聴確認完了しました。\nep１～3　⇒　Edits requested\nPRのみ　  ⇒   Approved\n\n丸山さんのご指摘コメントが 試写3では確認できませんでした。\nep2.3は、修正が反映されていないようでした。\n\n確認の試写バージョンが違っているようでしたら、ご教示ください。(\n〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "現状どういう状態なんでしたっけ。\nまるやまさんの指示ってReplayの別バージョンに埋もれてたりしますかね。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1673180458.000000"
+        },
+        "thread_ts": "1673180426.501949",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1673245178.733399",
+        "reply_users": [
+            "U03P0T4KQMV"
+        ],
+        "replies": [
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1673239569.277659"
+            },
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1673245178.733399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1673245178.733399"
+    },
+    {
+        "client_msg_id": "c0134192-4244-47df-953c-2d14feb12837",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nすみません、結論から言うと試写2の修正反映がep2ep3が反映されていなかったようです…。\n試写2.1の時点では試写2の修正は反映されていたので、試写3の書き出しまでの間に何かしら起こってしまったようです。\n\n現在までの状況としては\n・試写2→クライアントチェック→反映\n・試写2.1→丸山さんからの修正がくる→反映\n・試写3→丸山さん分は反映されてるがその他は試写2の時点に戻ってしまっている\nというような感じです。\n\nそのため、再度試写２分の修正反映した後にアップロードします。また完了したらご連絡いたしますのでよろしくお願いいたします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1673239569.277659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p=V5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nすみません、結論から言うと試写2の修正反映がep2ep3が反映されていなかったようです…。\n試写2.1の時点では試写2の修正は反映されていたので、試写3の書き出しまでの間に何かしら起こってしまったようです。\n\n現在までの状況としては\n・試写2→クライアントチェック→反映\n・試写2.1→丸山さんからの修正がくる→反映\n・試写3→丸山さん分は反映されてるがその他は試写2の時点に戻ってしまっている\nというような感じです。\n\nそのため、再度試写２分の修正反映した後にアップロードします。また完了したらご連絡いたしますのでよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673180426.501949",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3c8c8753-6df6-4c3f-8eec-3e2aa46f6aa6",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n試写2の修正反映されていなかった部分＆丸山さん修正を反映した、試写3.1をアップしました。\nバージョンがややこしくなってしまって申し訳ないです。\n（2.2などにすると余計ややこしいかなと思い、最新の数字でそのままナンバリングさせていただきます）\nよろしくお願いいたします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1673245178.733399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vrE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n試写2の修正反映されていなかった部分＆丸山さん修正を反映した、試写3.1をアップしました。\nバージョンがややこしくなってしまって申し訳ないです。\n（2.2などにすると余計ややこしいかなと思い、最新の数字でそのままナンバリングさせていただきます）\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673180426.501949",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

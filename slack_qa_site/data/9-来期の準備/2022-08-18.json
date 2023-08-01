@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "9643c412-3dea-4773-b4fb-23a141b6e537",
+        "type": "message",
+        "text": "こういう出版物に賞あげてるやつはいいね\n\n毎日出版文化賞 - Wikipedia\n<https:\/\/ja.wikipedia.org\/wiki\/%E6%AF%8E%E6%97%A5%E5%87%BA%E7%89%88%E6%96%87%E5%8C%96%E8%B3%9E>",
+        "user": "U03CXUXB5PF",
+        "ts": "1660815330.712689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "apf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こういう出版物に賞あげてるやつはいいね\n\n毎日出版文化賞 - Wikipedia\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ja.wikipedia.org\/wiki\/%E6%AF%8E%E6%97%A5%E5%87%BA%E7%89%88%E6%96%87%E5%8C%96%E8%B3%9E"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ja.wikipedia.org\/wiki\/%E6%AF%8E%E6%97%A5%E5%87%BA%E7%89%88%E6%96%87%E5%8C%96%E8%B3%9E",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1,
+                "original_url": "https:\/\/ja.wikipedia.org\/wiki\/%E6%AF%8E%E6%97%A5%E5%87%BA%E7%89%88%E6%96%87%E5%8C%96%E8%B3%9E",
+                "fallback": "wikipedia: 毎日出版文化賞",
+                "text": "毎日出版文化賞（まいにちしゅっぱんぶんかしょう）は、毎日新聞社が主催（特別協力大日本印刷株式会社）する、優秀な出版物を対象とした文学・文化賞である。1947年に創設。毎年11月に受賞者が発表され、授賞式が東京で行われる。",
+                "title": "毎日出版文化賞",
+                "title_link": "https:\/\/ja.wikipedia.org\/wiki\/%E6%AF%8E%E6%97%A5%E5%87%BA%E7%89%88%E6%96%87%E5%8C%96%E8%B3%9E",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/ja.wikipedia.org\/"
+            }
+        ]
+    }
+]

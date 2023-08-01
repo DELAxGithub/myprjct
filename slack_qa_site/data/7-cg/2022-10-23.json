@@ -1,0 +1,114 @@
+[
+    {
+        "client_msg_id": "1446ed5e-f79f-4dc8-b414-f4d1fd101576",
+        "type": "message",
+        "text": "<@U041XC6213P> では火曜日の10時でお願いしますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1666529769.479619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FGv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " では火曜日の10時でお願いしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a76a7dce-30a4-4ec4-abd5-6d38180bcf9b",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> お待たせしております。CG_岡_ep2のCGを作成いたしました。スクショのみお送りします。ご確認ください。ep3の方は明日中にお送りいたします。",
+        "user": "U041XC6213P",
+        "ts": "1666533806.786539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "obVt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お待たせしております。CG_岡_ep2のCGを作成いたしました。スクショのみお送りします。ご確認ください。ep3の方は明日中にお送りいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U041XC6213P",
+            "ts": "1666533861.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F047QFYP9CK",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U041XC6213P",
+        "display_as_bot": false,
+        "ts": "1666533818.974929",
+        "client_msg_id": "ca355293-5e59-4909-9894-70bd740e4e20"
+    }
+]

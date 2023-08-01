@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "f7e72259-2fcb-4cfd-b5a4-2c553b68a210",
+        "type": "message",
+        "text": "```69廣野さん」（2.0」→弊社、視聴を完了しました！```\n<@U03RA83HRN0> 修正済み次第、3.0＝本人チェックに回します　よろしくお願いいたします",
+        "user": "U03CXUXB5PF",
+        "ts": "1675840355.859059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IeW9",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "69廣野さん」（2.0」→弊社、視聴を完了しました！"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 修正済み次第、3.0＝本人チェックに回します　よろしくお願いいたします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

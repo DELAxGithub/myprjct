@@ -1,0 +1,99 @@
+[
+    {
+        "type": "message",
+        "text": "21_田中、23_小野塚、25＿中島のOMFとprores書き出しました。音は１ピンのみとなっております。ご確認のほどよろしくお願いいたします",
+        "files": [
+            {
+                "id": "F03RXTXR9AA",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03HJRZK295",
+        "display_as_bot": false,
+        "ts": "1659515296.919789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B4tY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "21_田中、23_小野塚、25＿中島のOMFとprores書き出しました。音は１ピンのみとなっております。ご確認のほどよろしくお願いいたします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "05154059-bb68-4541-8379-b90be81bd3bc",
+        "thread_ts": "1659515296.919789",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1659515409.942629",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1659515409.942629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1659515409.942629"
+    },
+    {
+        "client_msg_id": "c558b2ea-fc44-4cd1-834d-84b1dc19fd81",
+        "type": "message",
+        "text": "大量の書き出しありがとうございます。MOVはまとめて選択してほっといても書き出しできるけど、OMFは一個一個だよねぇ。なんかやり方ないかしらね。",
+        "user": "U03CXUXB5PF",
+        "ts": "1659515409.942629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XqjD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大量の書き出しありがとうございます。MOVはまとめて選択してほっといても書き出しできるけど、OMFは一個一個だよねぇ。なんかやり方ないかしらね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659515296.919789",
+        "parent_user_id": "U03HJRZK295",
+        "reactions": [
+            {
+                "name": "smiling_face_with_tear",
+                "users": [
+                    "U03HJRZK295"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

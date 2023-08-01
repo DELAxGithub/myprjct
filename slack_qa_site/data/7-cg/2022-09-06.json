@@ -1,0 +1,298 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03NZ0E09JN> 単位が人ですね。億人だと、10億　億人になってしまします。　また 2006にカッコつけてくださいー",
+        "files": [
+            {
+                "id": "F0410R4FXJS",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F0417DT3RD0",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "ts": "1662471392.921929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zsr=m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 単位が人ですね。億人だと、10億　億人になってしまします。　また 2006にカッコつけてくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "86a5fe47-58e6-4888-b0b2-4aaf7bd58d36",
+        "thread_ts": "1662471392.921929",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1662474447.028849",
+        "reply_users": [
+            "U03NZ0E09JN"
+        ],
+        "replies": [
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1662474447.028849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1662474447.028849"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1662471400.217659",
+        "user": "U03NZ0E09JN",
+        "text": "<@U03NZ0E09JN>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "db3423b3-89a4-4fde-a92a-ed41fd234563",
+        "type": "message",
+        "text": "<@U03NZ0E09JN>\n28_田中さんですが、ベースを作ってPremiereでトリミング、、でいけるかと思ったんですが、微調整は必要そうです。\nなんだかんだで10枚ぐらい。\n今後は試写1後に発注っていう体制にします。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1662473764.426079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DiKM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n28_田中さんですが、ベースを作ってPremiereでトリミング、、でいけるかと思ったんですが、微調整は必要そうです。\nなんだかんだで10枚ぐらい。\n今後は試写1後に発注っていう体制にします。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "了解しました。\n修正いたします。",
+        "user": "U03NZ0E09JN",
+        "ts": "1662474447.028849",
+        "thread_ts": "1662471392.921929",
+        "root": {
+            "type": "message",
+            "text": "<@U03NZ0E09JN> 単位が人ですね。億人だと、10億　億人になってしまします。　また 2006にカッコつけてくださいー",
+            "files": [
+                {
+                    "id": "F0410R4FXJS",
+                    "mode": "hidden_by_limit"
+                },
+                {
+                    "id": "F0417DT3RD0",
+                    "mode": "hidden_by_limit"
+                }
+            ],
+            "upload": false,
+            "user": "U03CXUXB5PF",
+            "ts": "1662471392.921929",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "zsr=m",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03NZ0E09JN"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 単位が人ですね。億人だと、10億　億人になってしまします。　また 2006にカッコつけてくださいー"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "client_msg_id": "86a5fe47-58e6-4888-b0b2-4aaf7bd58d36",
+            "thread_ts": "1662471392.921929",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1662474447.028849",
+            "reply_users": [
+                "U03NZ0E09JN"
+            ],
+            "replies": [
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1662474447.028849"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1662474447.028849"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oKKZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解しました。\n修正いたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "025BB956-AC62-45D6-8F41-47A1C9690C89"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1662474738.336819",
+        "user": "U03NJGXEPL7",
+        "text": "<@U03NJGXEPL7>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "client_msg_id": "a228ef61-61d3-400a-90ca-96269b6d2bd3",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> ひとまず田中地図全部で9枚あります。\n世界地図／アジア地図を大きめに作りつつ、文字情報や線を別に作って、Premiereでレイアウト調整、の方が、早いかも。\nご不明点があればお知らせください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1662475153.610399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wHMAT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ひとまず田中地図全部で9枚あります。\n世界地図／アジア地図を大きめに作りつつ、文字情報や線を別に作って、Premiereでレイアウト調整、の方が、早いかも。\nご不明点があればお知らせください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b1991c54-d39c-46cf-b8c7-50e3c4d85413",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n修正しました、とDropboxに入れようと思いましたらもう修正とフォルダへの入れ込みをいただいていたのですね。\nありがとうございます。\n\nCGは担当編集者へアナウンスしておきます。",
+        "user": "U03NZ0E09JN",
+        "ts": "1662525222.443079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NJHX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n修正しました、とDropboxに入れようと思いましたらもう修正とフォルダへの入れ込みをいただいていたのですね。\nありがとうございます。\n\nCGは担当編集者へアナウンスしておきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

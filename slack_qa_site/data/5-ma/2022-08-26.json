@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "2F2C2094-800F-4A2E-8CB3-F1AB7B6A6DC7",
+        "type": "message",
+        "text": "土井さんフォルダ入れました！\nよろしくお願いします。",
+        "user": "U03G0LAPT3N",
+        "ts": "1661501676.509129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8ZIow",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "土井さんフォルダ入れました！\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U03G0LAPT3N>\nありがとうございます。\n9月初旬に5本納品があり、それに向けて整音・本番BGM・SEの準備をお願いしたいのを選んでみました。\n\n23_小野塚\n28_田中　（二章のまとめから2分ぐらい前、１カ所、日本語の誤りありまして、整音で直せるかな。）\n\n\nあと3本は手直しが少ないやつを選んで、直し後またお知らせします。\n\nパックン、土井さん、秋元さんかな、、",
+        "files": [
+            {
+                "id": "F040AA3SAMP",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1661528124.575499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I13l1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nありがとうございます。\n9月初旬に5本納品があり、それに向けて整音・本番BGM・SEの準備をお願いしたいのを選んでみました。\n\n23_小野塚\n28_田中　（二章のまとめから2分ぐらい前、１カ所、日本語の誤りありまして、整音で直せるかな。）\n\n\nあと3本は手直しが少ないやつを選んで、直し後またお知らせします。\n\nパックン、土井さん、秋元さんかな、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "96d307b4-cf3f-49fb-96f5-4ccee41689d3"
+    }
+]

@@ -1,0 +1,307 @@
+[
+    {
+        "client_msg_id": "6edc9e7e-ed41-40d5-be3d-491343741a10",
+        "type": "message",
+        "text": "<@U04J38PLGM6> 順調？",
+        "user": "U03CXUXB5PF",
+        "ts": "1677062104.117639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p9a7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 順調？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677062104.117639",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1677062340.146129",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1677062200.324489"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1677062340.146129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677062340.146129"
+    },
+    {
+        "client_msg_id": "09f21688-7599-46ff-b427-92a2b8f7f17b",
+        "type": "message",
+        "text": "<@U04J38PLGM6> プロジェクト作るのは、元素材のままマルチ作るだけだけど、自動音合わだと毎回時間かかってたりするなら、一旦時間で合わせて、パチンと波形で手動合わせでいいと思うよ。",
+        "user": "U03CXUXB5PF",
+        "ts": "1677062200.324489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O9Vst",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " プロジェクト作るのは、元素材のままマルチ作るだけだけど、自動音合わだと毎回時間かかってたりするなら、一旦時間で合わせて、パチンと波形で手動合わせでいいと思うよ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1677062229.000000"
+        },
+        "thread_ts": "1677062104.117639",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "c95c250d-fa0c-4ca9-bbb4-cdbe095dc55e",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 全部のマルチクリップができたので、今はシーケンスを順次作っているところです。夜プロキシを書き出し、明日gigafile にあげていきます。",
+        "user": "U04J38PLGM6",
+        "ts": "1677062340.146129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ehfu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 全部のマルチクリップができたので、今はシーケンスを順次作っているところです。夜プロキシを書き出し、明日gigafile にあげていきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677062104.117639",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 武田真治のマネージャーから連絡がきました。\n「ずっと稽古中もわーわーわーとよく怒鳴っていました」\nの部分だけカットすれば他は使ってもよくなりました。",
+        "files": [
+            {
+                "id": "F04QN5N8RTP",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1677063380.302939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GiR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 武田真治のマネージャーから連絡がきました。\n「ずっと稽古中もわーわーわーとよく怒鳴っていました」\nの部分だけカットすれば他は使ってもよくなりました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "37f1dd2c-9313-43bf-911e-a173049e14e4"
+    },
+    {
+        "client_msg_id": "cd5580f2-0a88-496e-9016-312062a724f9",
+        "type": "message",
+        "text": "<@U04J38PLGM6> 技術チェックに出すときは、CCで返信するようお伝えください、習慣もあるのでなかなか定着しないかもですが。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1677118268.888319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jT\/1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 技術チェックに出すときは、CCで返信するようお伝えください、習慣もあるのでなかなか定着しないかもですが。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U04J38PLGM6> <@U03V84JSHNK>\n残りの権利報告はエクセルで出してくれってことなので、\n写真の載せ方研究中です。\n\nが、セル内に画像挿入→アップロードしかなさそうなので、\nワードみたいぺたっと貼るだけより手間が増えるしかない気がしますが、、、",
+        "files": [
+            {
+                "id": "F04QFNG114P",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1677124283.971059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iWp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n残りの権利報告はエクセルで出してくれってことなので、\n写真の載せ方研究中です。\n\nが、セル内に画像挿入→アップロードしかなさそうなので、\nワードみたいぺたっと貼るだけより手間が増えるしかない気がしますが、、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "72f7da56-0cb8-44e2-87c7-d2ebe1f5c51a",
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "U03V84JSHNK",
+                    "U04J38PLGM6"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

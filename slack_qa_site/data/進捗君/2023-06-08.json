@@ -1,0 +1,26 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#101相馬 雅代で変更がありました\n変更前：技術確認\n変更後：納品試写\n担当者は岡野です",
+        "ts": "1686241592.072989",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z6x=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#101相馬 雅代で変更がありました\n変更前：技術確認\n変更後：納品試写\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1669385015.232729",
+        "user": "U03Q17LBJP3",
+        "text": "<@U03Q17LBJP3>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "d6a017d3-1206-453d-b49e-f836dc579f33",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 51湯澤　1試写アップしました。\n<@U03V84JSHNK> 不足素材を台本に★をつけているので、ご確認よろしくお願いします。",
+        "user": "U03Q17LBJP3",
+        "ts": "1669385018.166309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tu8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 51湯澤　1試写アップしました。\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 不足素材を台本に★をつけているので、ご確認よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2d406fb5-98eb-4115-8f93-c16944f1aca2",
+        "type": "message",
+        "text": "<@U040YCC00V6> 51湯澤の編集一回見といてくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1669385122.464169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MEXoM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 51湯澤の編集一回見といてくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "clown_face",
+                "users": [
+                    "U040YCC00V6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

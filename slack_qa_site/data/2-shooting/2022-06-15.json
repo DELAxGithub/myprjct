@@ -1,0 +1,90 @@
+[
+    {
+        "client_msg_id": "68aa0a80-7bde-4a01-bd4e-082ac51a2f99",
+        "type": "message",
+        "text": "<@U03HJRZK295> 現場のセットアップ、機材システム図がちょっとあった方がいいかもなと思っています。\nzoomに入るのは何台か、とか。\n小島さんともう一回打ち合わせ必要そうですが、そうなったらよろしくお願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1655348359.889519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qwZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 現場のセットアップ、機材システム図がちょっとあった方がいいかもなと思っています。\nzoomに入るのは何台か、とか。\n小島さんともう一回打ち合わせ必要そうですが、そうなったらよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655348363.587379",
+        "user": "U03HJRZK295",
+        "text": "<@U03HJRZK295>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "35b6a5e1-107c-40df-966a-76ac795d23b4",
+        "type": "message",
+        "text": "了解です！",
+        "user": "U03HJRZK295",
+        "ts": "1655348558.346889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,551 @@
+[
+    {
+        "type": "message",
+        "text": "<!channel>\n編集で質問です！これとこれが同じってことですかね？\nドロップボックスにはデータはあるけどプロジェクトのビンの中にはないのって\n普通ならインポートしてしまう所ですがしない方がいいのですよね？\nちなみに【ライプニッツ_Gottfried_Wilhelm_von_Leibniz.jpg】がひとまずそうでした。\nながながすみません、よろしくお願いします:sweat_drops:",
+        "files": [
+            {
+                "id": "F03PVAUT6RF",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F03PGKDKTC3",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03P0T4C4F9",
+        "ts": "1657791805.497149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IJ+KL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n編集で質問です！これとこれが同じってことですかね？\nドロップボックスにはデータはあるけどプロジェクトのビンの中にはないのって\n普通ならインポートしてしまう所ですがしない方がいいのですよね？\nちなみに【ライプニッツ_Gottfried_Wilhelm_von_Leibniz.jpg】がひとまずそうでした。\nながながすみません、よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3514c5e2-37c6-4d51-9d32-5afa94847c24",
+        "thread_ts": "1657791805.497149",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1657792128.711469",
+        "reply_users": [
+            "U03HJRZK295",
+            "U03P0T4C4F9"
+        ],
+        "replies": [
+            {
+                "user": "U03HJRZK295",
+                "ts": "1657792055.330069"
+            },
+            {
+                "user": "U03P0T4C4F9",
+                "ts": "1657792128.711469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5fb63ea9-1cc7-4b7f-a6c0-6822f32defd0",
+        "type": "message",
+        "text": "それが同じってことです！\nライプニッツなくてすみません、今インポートして共有しました。データ行きましたでしょうか？",
+        "user": "U03HJRZK295",
+        "ts": "1657792055.330069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OTa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それが同じってことです！\nライプニッツなくてすみません、今インポートして共有しました。データ行きましたでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1657791805.497149",
+        "parent_user_id": "U03P0T4C4F9",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03P0T4C4F9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8dbc1cf5-fbb5-4513-92fc-c5380c0722b9",
+        "type": "message",
+        "text": "ありがとでーす！",
+        "user": "U03P0T4C4F9",
+        "ts": "1657792128.711469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5jtLl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとでーす！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7a9fb3200ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-15\/3828565688784_7a9fb3200ee460ac68d2_72.png",
+            "first_name": "Takahashi",
+            "real_name": "Takahashi",
+            "display_name": "Noriko Takahashi",
+            "team": "T03CU6RQ154",
+            "name": "noriko.takahashi3115",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1657791805.497149",
+        "parent_user_id": "U03P0T4C4F9",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03HJRZK295"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c4bc1c62-a686-4203-ad2b-f54236a47df7",
+        "type": "message",
+        "text": "<!channel>\nなんども失礼します。\nインサートの素材は最終的には4K画質にはめかえるのでしょうか？\nとりあえず今のものは見栄えがいいように大きくしてしまっていますが...",
+        "user": "U03P0T4C4F9",
+        "ts": "1657795712.785169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HV6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nなんども失礼します。\nインサートの素材は最終的には4K画質にはめかえるのでしょうか？\nとりあえず今のものは見栄えがいいように大きくしてしまっていますが..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7a9fb3200ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-15\/3828565688784_7a9fb3200ee460ac68d2_72.png",
+            "first_name": "Takahashi",
+            "real_name": "Takahashi",
+            "display_name": "Noriko Takahashi",
+            "team": "T03CU6RQ154",
+            "name": "noriko.takahashi3115",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1657795712.785169",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1657807494.609129",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U03P0T4C4F9"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1657797327.355049"
+            },
+            {
+                "user": "U03P0T4C4F9",
+                "ts": "1657807494.609129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1657807494.609129"
+    },
+    {
+        "client_msg_id": "349163e8-26af-49cf-b069-6d8e377734b5",
+        "type": "message",
+        "text": "最終的にHDサイズでの納品ですが、一旦大きく引き伸ばします。これもとりあえず載っけて、最後に全体に属性コピーで一括で大きくできたりもしますが、物によっては編集的にもっと寄ったりしたほうがいいのもあるので、結局一個ずつ調整にもなるかなと。",
+        "user": "U03CXUXB5PF",
+        "ts": "1657797327.355049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A3nrN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "最終的にHDサイズでの納品ですが、一旦大きく引き伸ばします。これもとりあえず載っけて、最後に全体に属性コピーで一括で大きくできたりもしますが、物によっては編集的にもっと寄ったりしたほうがいいのもあるので、結局一個ずつ調整にもなるかなと。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1657795712.785169",
+        "parent_user_id": "U03P0T4C4F9"
+    },
+    {
+        "client_msg_id": "46dbcd22-5fa0-433a-9183-4d5f40444b42",
+        "type": "message",
+        "text": "承知いたしました。このまま進めます。",
+        "user": "U03P0T4C4F9",
+        "ts": "1657807494.609129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FSn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知いたしました。このまま進めます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7a9fb3200ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-15\/3828565688784_7a9fb3200ee460ac68d2_72.png",
+            "first_name": "Takahashi",
+            "real_name": "Takahashi",
+            "display_name": "Noriko Takahashi",
+            "team": "T03CU6RQ154",
+            "name": "noriko.takahashi3115",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1657795712.785169",
+        "parent_user_id": "U03P0T4C4F9"
+    },
+    {
+        "client_msg_id": "58865f98-f51d-4939-afdb-a5057441945d",
+        "type": "message",
+        "text": "余計なお世話だと思いますけど、やっぱり朝起きても気になってたので…\nシーケンスの設定って【23.976fps】のまま進めて大丈夫ですよね？\n前のシリーズの時もこの設定でやってると思うので余計な口挟んでしまって…",
+        "user": "U03P0T4C4F9",
+        "ts": "1657840169.595569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "caMkV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "余計なお世話だと思いますけど、やっぱり朝起きても気になってたので…\nシーケンスの設定って【23.976fps】のまま進めて大丈夫ですよね？\n前のシリーズの時もこの設定でやってると思うので余計な口挟んでしまって…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7a9fb3200ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-15\/3828565688784_7a9fb3200ee460ac68d2_72.png",
+            "first_name": "Takahashi",
+            "real_name": "Takahashi",
+            "display_name": "Noriko Takahashi",
+            "team": "T03CU6RQ154",
+            "name": "noriko.takahashi3115",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1657840169.595569",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1657843315.465059",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1657843315.465059"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1657843315.465059"
+    },
+    {
+        "client_msg_id": "88f5a23f-69a1-4227-8e66-826e9156defb",
+        "type": "message",
+        "text": "<!channel> みなさん　報告テンプレートでお願いします\nかけるところだけでいいですし、慣れれば箇条書きで早いです。あと、スクショ推奨です。\n\n• 不具合状況\n• こうありたい・こうしたい\n• 不具合の再現方法\n• 試したこと\n",
+        "user": "U03CXUXB5PF",
+        "ts": "1657843200.432739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Hym",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " みなさん　報告テンプレートでお願いします\nかけるところだけでいいですし、慣れれば箇条書きで早いです。あと、スクショ推奨です。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "不具合状況"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "こうありたい・こうしたい"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "不具合の再現方法"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "試したこと"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8CF3DEA9-A413-4F98-9111-90A1E111344C",
+        "type": "message",
+        "text": "大丈夫ですー",
+        "user": "U03CXUXB5PF",
+        "ts": "1657843315.465059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GKV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大丈夫ですー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1657840169.595569",
+        "parent_user_id": "U03P0T4C4F9",
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "U03P0T4C4F9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

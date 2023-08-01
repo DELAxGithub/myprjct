@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "e7c6cd4b-1b50-49d4-af5e-bd05c398586d",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> 今月中に完パケ納品があと18本。。\n結構忙しいと思いますが、随時MAよろしくお願いいたします。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1675634070.833409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uAvOp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今月中に完パケ納品があと18本。。\n結構忙しいと思いますが、随時MAよろしくお願いいたします。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675634070.833409",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1675640114.626189",
+        "reply_users": [
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1675640114.626189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675640114.626189"
+    },
+    {
+        "client_msg_id": "3D581D97-9E26-4981-AA1F-927507FD1225",
+        "type": "message",
+        "text": "調整します。\nよろしくお願いします。",
+        "user": "U03G0LAPT3N",
+        "ts": "1675640114.626189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ecrrd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "調整します。\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675634070.833409",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

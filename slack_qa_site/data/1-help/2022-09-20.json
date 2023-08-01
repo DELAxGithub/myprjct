@@ -1,0 +1,428 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663714177.419189",
+        "user": "U040YCC00V6",
+        "text": "<@U040YCC00V6>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U03QQ3J656Z> また武田の素材がなんか変な感じになってる気がしますが、そちらでちゃんと表示されてるでしょうか。。",
+        "files": [
+            {
+                "id": "F043L7NETGR",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1663722000.926259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iF=2F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " また武田の素材がなんか変な感じになってる気がしますが、そちらでちゃんと表示されてるでしょうか。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "833b5beb-d9de-4873-ae68-2b84954fe146",
+        "thread_ts": "1663722000.926259",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1663726479.613929",
+        "reply_users": [
+            "U03QQ3J656Z",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1663723207.975889"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663723255.417219"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663723325.532639"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1663723393.094359"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663723429.325949"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1663726050.356599"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1663726075.836709"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663726479.613929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1663726479.613929"
+    },
+    {
+        "client_msg_id": "d9c50744-a578-4356-907d-8906a02218f6",
+        "type": "message",
+        "text": "今確認しますが、\nそもそも武田のドリーカムのプロキシがドロップボックスから行方不明になってる気がします・・",
+        "user": "U03QQ3J656Z",
+        "ts": "1663723207.975889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "otrj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今確認しますが、\nそもそも武田のドリーカムのプロキシがドロップボックスから行方不明になってる気がします・・"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663722000.926259",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "8790ba2d-06c3-431c-ae91-bbdf0cc014ef",
+        "type": "message",
+        "text": "この二つよく見ると、４Kじゃないという。ぷろきしはあるはず。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663723255.417219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=ZYv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "この二つよく見ると、４Kじゃないという。ぷろきしはあるはず。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663722000.926259",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "e35c7062-4bf5-4592-9878-90e1dc6c5f0a",
+        "type": "message",
+        "text": "プロキシを本素材と勘違いした感じになってるじゃないですかねぇ。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663723325.532639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Mjd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "プロキシを本素材と勘違いした感じになってるじゃないですかねぇ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663722000.926259",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "8cd14c8d-3f77-43e4-a748-1fc86a56dc4c",
+        "type": "message",
+        "text": "んーこちらでもう一回接続してみます",
+        "user": "U03QQ3J656Z",
+        "ts": "1663723393.094359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RpkCG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "んーこちらでもう一回接続してみます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663722000.926259",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "3fc95492-8d26-4540-8118-1cdf6ef6052d",
+        "type": "message",
+        "text": "すいません、うまくつながったらPRを書き出してもらっていいですか？mp4でいいので。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663723429.325949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Ih2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すいません、うまくつながったらPRを書き出してもらっていいですか？mp4でいいので。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663722000.926259",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03QQ3J656Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b4acaba4-a1e6-461d-ae42-7b5315f857d7",
+        "type": "message",
+        "text": "本素材と勘違いしてますね。\nこれはどう直すのでしょう？",
+        "user": "U03QQ3J656Z",
+        "ts": "1663726050.356599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gLQh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本素材と勘違いしてますね。\nこれはどう直すのでしょう？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663722000.926259",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "42046bdf-d8ec-4ae2-88c9-b6572821d006",
+        "type": "message",
+        "text": "FX6B_2557のファイルだけプロキシマークが付いてないです。",
+        "user": "U03QQ3J656Z",
+        "ts": "1663726075.836709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zs3zh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FX6B_2557のファイルだけプロキシマークが付いてないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663722000.926259",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "97d15c91-ae65-44ec-bdd6-17b89ff5c3b6",
+        "type": "message",
+        "text": "<@U03QQ3J656Z> 一回本素材と差し替えて、その上でプロキシーを接続ですかねぇ。\n本素材がマックスタジオと一緒にあるので、ちょっと検証は後ほど。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663726479.613929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y7Ulh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 一回本素材と差し替えて、その上でプロキシーを接続ですかねぇ。\n本素材がマックスタジオと一緒にあるので、ちょっと検証は後ほど。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1663726529.000000"
+        },
+        "thread_ts": "1663722000.926259",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

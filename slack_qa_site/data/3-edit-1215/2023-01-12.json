@@ -1,0 +1,186 @@
+[
+    {
+        "client_msg_id": "e86689cb-eeac-4faa-8fea-f4fb086389ea",
+        "type": "message",
+        "text": "<https:\/\/www.dropbox.com\/t\/jaG3NRr6JOmEL0ku>",
+        "user": "U04J38PLGM6",
+        "ts": "1673559152.167949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C2lhQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/t\/jaG3NRr6JOmEL0ku"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.dropbox.com\/t\/jaG3NRr6JOmEL0ku",
+                "image_url": "https:\/\/uc0b04cb4f853f218adde46db99b.previews.dropboxusercontent.com\/p\/thumb\/AByH7im1xbN8Gi9I9SeC3LsKmmvMr2BdhaxDSkweutEX_Vbi48XHV8Q-BCIIT_5v9q91NOzEnrBCVwvG154XXh82TRFW-2ttG7Yn11Jeq-uwkZ5Y8Hu4Mfb8vy2JBie42cEQcc3Ws4108jS26yWiu2nxSotPTNWI4dVc5xpluhhrqTPpjTR5rA-XI9O-eqAnV0j3Ne01s4gEHOTNTU2EFfrK94NCxR5olggksII7WYT5cBqXRkFctlcsaQJR0TjD5yibFYzjCAZy9fabb4aXSO64jFMRf6Jxwy_NvDUt1v3QZ4VrYJQ2_VG7SayVKdzRU9c\/p.png",
+                "image_width": 392,
+                "image_height": 220,
+                "image_bytes": 82056,
+                "id": 1,
+                "original_url": "https:\/\/www.dropbox.com\/t\/jaG3NRr6JOmEL0ku",
+                "fallback": "Dropbox: KODERA Hiroshi sent you 3 items",
+                "text": "37_kataoka_ep1_試写3.mp4 + 2 more items",
+                "title": "KODERA Hiroshi sent you 3 items",
+                "title_link": "https:\/\/www.dropbox.com\/t\/jaG3NRr6JOmEL0ku",
+                "service_name": "Dropbox"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "344ded6b-94c6-4a11-bcce-22df3386741c",
+        "type": "message",
+        "text": "<@U03RA83HRN0>\n酒井さんの修正依頼です\n矢印が逆っていうのイラレで直せたりします？難しかったら<#C040XCK7RMK|7-cg>\nにて修正依頼します\n```・私の肩書き（３編とも）「脳生理学者」→「言語脳科学者」\n・私の著書（３編とも）「『言語の脳科学』『脳の言語地図』」→\n「『チョムスキーと言語脳科学』『勉強しないで身につく英語』」\n・第1編4:34 の図　解釈と認知の間の矢印が逆になっています。\n（正しくは、認知から解釈の向きで）\n・第2編3:12 の図　三つ叉の木構造が一瞬写りますが、削除\n・第2編8:31 の図　（運動性言語中枢）と（感覚性言語中枢）は削除\n・第2編10:28 のキャプション　「右脳も左脳も動いている」→\n「主に左脳が働いている」　動くのではなく働く\n・第3編6:57 のキャプション　「単語をいかに引き出すか」→\n「文に単語を位置づけるか」\n・第3編6:57 のキャプション　「習得が早くなる」→「習得しやすくなる」\n・第3編17:55 のキャプション　「きちんと動いている」→「想像と結びつく」\n・第3編17:55 のキャプション　「言語の取得」→「新たな創造」```",
+        "user": "U03CXUXB5PF",
+        "ts": "1673589361.888939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qmrb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n酒井さんの修正依頼です\n矢印が逆っていうのイラレで直せたりします？難しかったら"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C040XCK7RMK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nにて修正依頼します\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "・私の肩書き（３編とも）「脳生理学者」→「言語脳科学者」\n・私の著書（３編とも）「『言語の脳科学』『脳の言語地図』」→\n「『チョムスキーと言語脳科学』『勉強しないで身につく英語』」\n・第1編4:34 の図　解釈と認知の間の矢印が逆になっています。\n（正しくは、認知から解釈の向きで）\n・第2編3:12 の図　三つ叉の木構造が一瞬写りますが、削除\n・第2編8:31 の図　（運動性言語中枢）と（感覚性言語中枢）は削除\n・第2編10:28 のキャプション　「右脳も左脳も動いている」→\n「主に左脳が働いている」　動くのではなく働く\n・第3編6:57 のキャプション　「単語をいかに引き出すか」→\n「文に単語を位置づけるか」\n・第3編6:57 のキャプション　「習得が早くなる」→「習得しやすくなる」\n・第3編17:55 のキャプション　「きちんと動いている」→「想像と結びつく」\n・第3編17:55 のキャプション　「言語の取得」→「新たな創造」"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "357f2d87-4684-4d7f-b529-9072f9fa85c2",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n酒井さんの修正\n```・第1編4:34 の図　解釈と認知の間の矢印が逆になっています。```\n作り直していただいたほうが早いかと思います。",
+        "user": "U03RA83HRN0",
+        "ts": "1673590346.597919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KoLZ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n酒井さんの修正\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "・第1編4:34 の図　解釈と認知の間の矢印が逆になっています。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "作り直していただいたほうが早いかと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

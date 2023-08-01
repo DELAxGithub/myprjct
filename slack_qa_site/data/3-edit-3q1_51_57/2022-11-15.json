@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "F6495390-547B-49C8-9F4D-A1F5BDA5265A",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> こちら、戻しました。\nご指摘ありがとうございました",
+        "user": "U040YCC00V6",
+        "ts": "1668516321.928729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3ip",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こちら、戻しました。\nご指摘ありがとうございました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668433459.493839",
+        "parent_user_id": "U03Q17LBJP3",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3> すいません、音声トラックは\nA1ピンマイク\nA2カメラマイク\nの２トラック残しでお願いします。\nA2消さないでくださいー\n\nMAで修正の際にカメラマイク使うことあるので、、\n今後のお願いです。",
+        "files": [
+            {
+                "id": "F04AUNRMNK0",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1668530842.277789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Y7Ip",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すいません、音声トラックは\nA1ピンマイク\nA2カメラマイク\nの２トラック残しでお願いします。\nA2消さないでくださいー\n\nMAで修正の際にカメラマイク使うことあるので、、\n今後のお願いです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "34ac134c-ad1a-434a-802c-74289846e167"
+    }
+]

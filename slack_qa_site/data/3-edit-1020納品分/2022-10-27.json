@@ -1,0 +1,508 @@
+[
+    {
+        "client_msg_id": "508f3f6d-9532-4279-9f3b-de3e23b0e70b",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03NZ0E09JN> <@U03P0T4KQMV> 43平岡の待ち映像、クライアントリクエスト映像を入れました。よろしくお願いいたします。",
+        "user": "U03V84JSHNK",
+        "ts": "1666856889.674599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vg0Vq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 43平岡の待ち映像、クライアントリクエスト映像を入れました。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN",
+                    "U03P0T4KQMV"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6189ce2f-a0e1-4f40-ba4d-1aff951f8063",
+        "type": "message",
+        "text": "32小島の出演者直しありませんでした。",
+        "user": "U03CXUXB5PF",
+        "ts": "1666883956.515959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4rZ1G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "32小島の出演者直しありませんでした。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "943b214b-547f-4ea6-a239-1c4b03ffc431",
+        "type": "message",
+        "text": "<@U03V84JSHNK> 平素材きたら、教えてください。というかPr2023でプロジェクト立ち上げて入れといていただけると。\n時間かかりそうなやつあるなら、ひとまず試写2.2用には書き出しますので見込みがあればお願いしますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1666905988.091409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=nG3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 平素材きたら、教えてください。というかPr2023でプロジェクト立ち上げて入れといていただけると。\n時間かかりそうなやつあるなら、ひとまず試写2.2用には書き出しますので見込みがあればお願いしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666905988.091409",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1666921122.684319",
+        "reply_users": [
+            "U03V84JSHNK",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1666920514.230669"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1666921122.684319"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1666921122.684319"
+    },
+    {
+        "client_msg_id": "f31588d0-a752-409b-b9af-b171344c7617",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 先方に問い合わせないともらえないものもあるので、時間かかると思います。",
+        "user": "U03V84JSHNK",
+        "ts": "1666920514.230669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NpauX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 先方に問い合わせないともらえないものもあるので、時間かかると思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666905988.091409",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "0bf3dd0f-e697-4464-9306-70d69f8852fc",
+        "type": "message",
+        "text": "じゃ、あの変な地層のCGアニメだけやめて差し替え\n＆\nクライアントからリクエスト来てるやつ？\nを対応いただければ。",
+        "user": "U03CXUXB5PF",
+        "ts": "1666921122.684319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5WU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "じゃ、あの変な地層のCGアニメだけやめて差し替え\n＆\nクライアントからリクエスト来てるやつ？\nを対応いただければ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666905988.091409",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "6b41e0c5-cf64-4992-a0c5-eb9ac3bf4b10",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n43平岡、試写2.1をReplyにアップしました。\nよろしくお願いします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1666927509.430759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lfR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n43平岡、試写2.1をReplyにアップしました。\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03RA83HRN0> <@U03CXUXB5PF> 41平のNASAの高画質画像を「freeimg」に入れました。その他の画像（本人要望の「ちきゅう」など）は現在、所蔵先に聞いています。お待ち下さい。",
+        "files": [
+            {
+                "id": "F048VJ616QH",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03V84JSHNK",
+        "display_as_bot": false,
+        "ts": "1666934977.826129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+sDCF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 41平のNASAの高画質画像を「freeimg」に入れました。その他の画像（本人要望の「ちきゅう」など）は現在、所蔵先に聞いています。お待ち下さい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "862c2f32-a347-4905-8229-4b4ae2ccabd4",
+        "thread_ts": "1666817939.427759",
+        "parent_user_id": "U03CXUXB5PF",
+        "subtype": "thread_broadcast",
+        "root": {
+            "type": "message",
+            "text": "<@U03RA83HRN0>\n41平_ep2\nこの画像ですが、５５０倍に伸ばしてまして、案の定クライアントから画質についてツッコミが来ています。\nもうこのサイズの拡大はNGということで、制作に差し替え依頼をお願いします。対策として、こういう小さいのは素材集めでつかないようにするとしてますが、まだ混じってる時は編集で弾いてください。。\n\n<@U03V84JSHNK> なんかistockとかでないかね",
+            "files": [
+                {
+                    "id": "F048BEBAKFW",
+                    "mode": "hidden_by_limit"
+                }
+            ],
+            "upload": false,
+            "user": "U03CXUXB5PF",
+            "display_as_bot": false,
+            "ts": "1666817939.427759",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "kwgC",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03RA83HRN0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n41平_ep2\nこの画像ですが、５５０倍に伸ばしてまして、案の定クライアントから画質についてツッコミが来ています。\nもうこのサイズの拡大はNGということで、制作に差し替え依頼をお願いします。対策として、こういう小さいのは素材集めでつかないようにするとしてますが、まだ混じってる時は編集で弾いてください。。\n\n"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03V84JSHNK"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " なんかistockとかでないかね"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "client_msg_id": "173b645d-796d-408b-888e-f9c774316f15",
+            "thread_ts": "1666817939.427759",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1666934977.826129",
+            "reply_users": [
+                "U03V84JSHNK"
+            ],
+            "replies": [
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1666934977.826129"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1666934977.826129"
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "mechanical_arm",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03RA83HRN0>\n五月雨式に申し訳ありません。41平さんの、ep3の13:31で本人からリクエストのあった広瀬川凝灰岩と立木化石（御霊屋下の化石林）の写真を「もらい」フォルダに入れました。よろしくお願いいたします。クレジット「画像提供　スリーエム仙台市科学館」でお願いいたします。",
+        "files": [
+            {
+                "id": "F048KKK89N0",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F0482KCA78F",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03V84JSHNK",
+        "ts": "1666939545.122929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JK5tB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n五月雨式に申し訳ありません。41平さんの、ep3の13:31で本人からリクエストのあった広瀬川凝灰岩と立木化石（御霊屋下の化石林）の写真を「もらい」フォルダに入れました。よろしくお願いいたします。クレジット「画像提供　スリーエム仙台市科学館」でお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03V84JSHNK",
+            "ts": "1666939570.000000"
+        },
+        "client_msg_id": "3f4ec137-2859-49d2-bc29-da18a85b3186",
+        "thread_ts": "1666939545.122929",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1666944858.758489",
+        "reply_users": [
+            "U03RA83HRN0",
+            "U03V84JSHNK"
+        ],
+        "replies": [
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1666944369.262529"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1666944858.758489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

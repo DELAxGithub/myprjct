@@ -1,0 +1,122 @@
+[
+    {
+        "client_msg_id": "6a57683a-9783-4815-931c-9634fc6a425a",
+        "type": "message",
+        "text": "Replayの各段階のステータスと次作業のフラグ\n\nEdits Requestedになったら修正するわけですがいつ反映するかのタイミングは結構流れの中でちがいます（バッファがあります）\n\n1試写\nApprovedまでいったらMA\n　修正台本を反映して尺になったらMA書きだし（プリセットは音効ProresHD1001）\n　尺に関わらない修正反映はMA後でもいい　\n　逆にいえばMA渡すまではやっちゃう\n\n2試写\nEdits Requested までいったら修正 シーケンスに_2.1とか\nApproved　までいったら 2.1を書き出し\nReplayのバージョン更新＆ in review\n\n修正し終えたら\nシーケンスを「_最終」にして書き出し依頼\n→制作はプロキシ切って最終版を書き出し（プリセットはfin1001)\n→最終試写→納品フォルダ→納品Replayにアップロード\n\n3試写（ここから制作）\nEdits Requestedがでてきたら、シーケンスを「_納品」にして対応→修正→書き出して納品",
+        "user": "U03CXUXB5PF",
+        "ts": "1665948150.440839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oT75",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Replayの各段階のステータスと次作業のフラグ\n\nEdits Requestedになったら修正するわけですがいつ反映するかのタイミングは結構流れの中でちがいます（バッファがあります）\n\n1試写\nApprovedまでいったらMA\n　修正台本を反映して尺になったらMA書きだし（プリセットは音効ProresHD1001）\n　尺に関わらない修正反映はMA後でもいい　\n　逆にいえばMA渡すまではやっちゃう\n\n2試写\nEdits Requested までいったら修正 シーケンスに_2.1とか\nApproved　までいったら 2.1を書き出し\nReplayのバージョン更新＆ in review\n\n修正し終えたら\nシーケンスを「_最終」にして書き出し依頼\n→制作はプロキシ切って最終版を書き出し（プリセットはfin1001)\n→最終試写→納品フォルダ→納品Replayにアップロード\n\n3試写（ここから制作）\nEdits Requestedがでてきたら、シーケンスを「_納品」にして対応→修正→書き出して納品"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "*試写1→MAのフロー*\n\n試写2〜2.n〜最終手前までの書き出し同様プロキシで事足りるので\nここも編集マターとさせてください\n\n*MAもらったあと→出演者＋試写2のフロー*\n\nMAのwavを反映・試写1のReplayを反映などしたら試写2前の手元試写です ここでノイズの確認を徹底、少なくともノイズ処理発注分の確認しないと、あとから邪魔くさいので。。\n試写2ができる素材になったら、出演者試写もやるのでReplayあげるときにお知らせください。",
+        "files": [
+            {
+                "id": "F046J89TZ38",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1665950379.412219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GuH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "試写1→MAのフロー",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n試写2〜2.n〜最終手前までの書き出し同様プロキシで事足りるので\nここも編集マターとさせてください\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "MAもらったあと→出演者＋試写2のフロー",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMAのwavを反映・試写1のReplayを反映などしたら試写2前の手元試写です ここでノイズの確認を徹底、少なくともノイズ処理発注分の確認しないと、あとから邪魔くさいので。。\n試写2ができる素材になったら、出演者試写もやるのでReplayあげるときにお知らせください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "362a57ed-de07-4b0d-9599-ce8da909f8de",
+        "reactions": [
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

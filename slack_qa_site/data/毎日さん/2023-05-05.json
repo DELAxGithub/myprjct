@@ -1,0 +1,82 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "在庫\n試写1:0 | MA:6 | 試写2:1 | 試写3:0\n————————————-\n<@U03P0T4KQMV> : #103、 清水晶子、 編集3、: 04-26\n<@U03Q17LBJP3> : #101、 相馬 雅代、 MA編集、: 05-04\n<@U03RA83HRN0> : #104、 松岡聡、 編集3、: 05-03\n<@U04KFCBLY9J> : #99、 パックン、 編集3、: 04-30\n<@U04KFCBLY9J> : #105、 久野愛、 編集3、: 05-04\n<@U04QC17DUEP> : #89、 成田聡子、 編集3、: 04-25\n<@U04QC17DUEP> : #100、 保坂 修司、 編集2、: 05-02\n",
+        "ts": "1683331896.341229",
+        "bot_id": "B0527SNLW83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v642",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "在庫\n試写1:0 | MA:6 | 試写2:1 | 試写3:0\n————————————-\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #103、 清水晶子、 編集3、: 04-26\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #101、 相馬 雅代、 MA編集、: 05-04\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #104、 松岡聡、 編集3、: 05-03\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #99、 パックン、 編集3、: 04-30\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #105、 久野愛、 編集3、: 05-04\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04QC17DUEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #89、 成田聡子、 編集3、: 04-25\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04QC17DUEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #100、 保坂 修司、 編集2、: 05-02"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

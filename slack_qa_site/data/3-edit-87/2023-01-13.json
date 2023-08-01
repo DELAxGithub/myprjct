@@ -1,0 +1,100 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673607563.442689",
+        "user": "U03CXUXB5PF",
+        "text": "<@U03CXUXB5PF>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673607593.479539",
+        "user": "U04J38PLGM6",
+        "text": "<@U04J38PLGM6>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673607593.544369",
+        "user": "U03NJGXEPL7",
+        "text": "<@U03NJGXEPL7>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673607593.616839",
+        "user": "U03P0T4KQMV",
+        "text": "<@U03P0T4KQMV>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673607593.688359",
+        "user": "U03NZ0E09JN",
+        "text": "<@U03NZ0E09JN>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673607593.756999",
+        "user": "U03V84JSHNK",
+        "text": "<@U03V84JSHNK>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "25756e01-526c-4543-b793-a9035fc34cdc",
+        "type": "message",
+        "text": "<@U03P0T4KQMV> 87渡部陽一さんのは急ぎの回になります 台本は土曜の夜〜日曜の午前中にはできるのですが、素材のダウンロード、プロジェクト立ち上げ確認など先行しておいてくださいますようお願いします\n\n編集スタート　1\/15\n試写1 1\/18→MA 1\/22あたり\n納品 1\/27金\n\n遅くともこんな感じのスケジュールでいければと思います",
+        "user": "U03CXUXB5PF",
+        "ts": "1673607778.164769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h6aj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 87渡部陽一さんのは急ぎの回になります 台本は土曜の夜〜日曜の午前中にはできるのですが、素材のダウンロード、プロジェクト立ち上げ確認など先行しておいてくださいますようお願いします\n\n編集スタート　1\/15\n試写1 1\/18→MA 1\/22あたり\n納品 1\/27金\n\n遅くともこんな感じのスケジュールでいければと思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

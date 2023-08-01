@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "dd46c3fd-238d-4048-aa28-e2184b366ffb",
+        "type": "message",
+        "text": "５１から５４は<#C04BB328NAC|3-edit-1215>\n５５から６０は<#C04A6RFRAR5|3-edit-1225>\nで扱いますので、こちら終了します　引き続きよろしくお願いします",
+        "user": "U03CXUXB5PF",
+        "ts": "1669249927.139049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lz=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "５１から５４は"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04BB328NAC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n５５から６０は"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04A6RFRAR5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nで扱いますので、こちら終了します　引き続きよろしくお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

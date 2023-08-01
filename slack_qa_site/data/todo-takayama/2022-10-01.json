@@ -1,0 +1,153 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1664620053.595019",
+        "user": "U040YCC00V6",
+        "text": "<@U040YCC00V6>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1664620053.651309",
+        "user": "U03V84JSHNK",
+        "text": "<@U03V84JSHNK>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "820b9b6c-86ce-4215-8e17-ce9d037c396e",
+        "type": "message",
+        "text": "<@U03QQ3J656Z>\n\n32小島、36吉永 の修正台本、twチェックが済んでるので編集取り掛かれます。\n小島にCG発注がありましたので現在作成中です。10\/3,4UP予定です。\n\n32,36は来週前半にはMAに渡せるといいのですが。。。",
+        "user": "U03NZ0E09JN",
+        "ts": "1664661600.745549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "igq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n32小島、36吉永 の修正台本、twチェックが済んでるので編集取り掛かれます。\n小島にCG発注がありましたので現在作成中です。10\/3,4UP予定です。\n\n32,36は来週前半にはMAに渡せるといいのですが。。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "579B3554-E632-492D-9F89-5FC7322C8245",
+        "type": "message",
+        "text": "32、36は３日の週にということですか？",
+        "user": "U03QQ3J656Z",
+        "ts": "1664662268.557039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zA0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "32、36は３日の週にということですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664662268.557039",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1664666791.603939",
+        "reply_users": [
+            "U03NZ0E09JN"
+        ],
+        "replies": [
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1664666791.603939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7A143991-C444-4B08-946B-DB6C24D7FE53",
+        "type": "message",
+        "text": "3日の週のことです。",
+        "user": "U03NZ0E09JN",
+        "ts": "1664666791.603939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pu7s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3日の週のことです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664662268.557039",
+        "parent_user_id": "U03QQ3J656Z"
+    }
+]

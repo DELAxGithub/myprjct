@@ -1,0 +1,48 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03QQ3J656Z> 追加しました。よろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F04GD53UCLQ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03V84JSHNK",
+        "display_as_bot": false,
+        "ts": "1671272513.786259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WmCL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 追加しました。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "10306f14-0f77-4f81-8e4d-3e1bee43271f",
+        "thread_ts": "1671056213.675029",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

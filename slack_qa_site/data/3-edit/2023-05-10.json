@@ -1,0 +1,209 @@
+[
+    {
+        "client_msg_id": "8741ED89-C6F5-4973-A8A4-45986C244A0C",
+        "type": "message",
+        "text": "編アップ後の修正は、素材の取り違いが怖いので書き出し担当でおねがいしてます　<@U054HSHFAAH>\n修正後、書き出しお願いします。通しのチェックは不要ですが、3点チェックはお願いします。\n\n\n\n\n88 松原 正樹さん、納品版確認しました。\n弊社の確認モレで申訳ありません。\neP1　9：00　と　9：12　の2か所\n”歪み”　左 のダブルクォーテーション向きが逆でした。⇒　“ 歪み”\n",
+        "user": "U03CXUXB5PF",
+        "ts": "1683768558.269879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=TE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "編アップ後の修正は、素材の取り違いが怖いので書き出し担当でおねがいしてます　"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U054HSHFAAH"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n修正後、書き出しお願いします。通しのチェックは不要ですが、3点チェックはお願いします。\n\n\n\n\n88 松原 正樹さん、納品版確認しました。\n弊社の確認モレで申訳ありません。\neP1　9：00　と　9：12　の2か所\n”歪み”　左 のダブルクォーテーション向きが逆でした。⇒　“ 歪み”\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1683768558.269879",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1683769090.711269",
+        "reply_users": [
+            "U054HSHFAAH",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U054HSHFAAH",
+                "ts": "1683769042.852739"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1683769090.711269"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1683769090.711269"
+    },
+    {
+        "client_msg_id": "76FEC08F-229A-4F0B-AC39-6B42B2FE46FA",
+        "type": "message",
+        "text": "不要って書いてあるね、ほっときましょう\nでもこれ系はクライアントも見逃しがちなので、編集時点でご確認お願いします",
+        "user": "U03CXUXB5PF",
+        "ts": "1683768622.780109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zQtLR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "不要って書いてあるね、ほっときましょう\nでもこれ系はクライアントも見逃しがちなので、編集時点でご確認お願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1683768719.000000"
+        },
+        "reactions": [
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ee1885c0-d104-4b83-a648-ee0033268761",
+        "type": "message",
+        "text": "了解しました。\n取り急ぎいま直すものってないですよね？\n権利待ちになってるやつがNGだった場合、差し替えの作業をやるのが近々ありそうなやつ、という認識で合ってますか？",
+        "user": "U054HSHFAAH",
+        "ts": "1683769042.852739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GF1UK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解しました。\n取り急ぎいま直すものってないですよね？\n権利待ちになってるやつがNGだった場合、差し替えの作業をやるのが近々ありそうなやつ、という認識で合ってますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "3c0472cbdd87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5181600335649_3c0472cbdd874f9a32ff_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Uramoto",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "kuramoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1683768558.269879",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "C19DFDDF-953F-434D-B432-15D1BB0A287E",
+        "type": "message",
+        "text": "権利は105ね、それ以外は特にないです",
+        "user": "U03CXUXB5PF",
+        "ts": "1683769090.711269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Un7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "権利は105ね、それ以外は特にないです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1683768558.269879",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U054HSHFAAH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

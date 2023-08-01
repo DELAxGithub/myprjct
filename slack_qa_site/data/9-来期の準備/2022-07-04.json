@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "9084c4b2-ad2d-43e3-9d7c-d383f66752bb",
+        "type": "message",
+        "text": "書評家 | ALL REVIEWS\n<https:\/\/allreviews.jp\/reviewer\/>\n人が決まった後の取材メモ作りにも使える",
+        "user": "U03CXUXB5PF",
+        "ts": "1656995678.774309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PF2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "書評家 | ALL REVIEWS\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/allreviews.jp\/reviewer\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n人が決まった後の取材メモ作りにも使える"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/allreviews.jp\/reviewer\/",
+                "image_url": "https:\/\/allreviews.jp\/images\/fb.png",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 12590,
+                "service_icon": "https:\/\/allreviews.jp\/favicon\/apple-touch-icon-114x114.png",
+                "id": 1,
+                "original_url": "https:\/\/allreviews.jp\/reviewer\/",
+                "fallback": "好きな書評家、読ませる書評。ALL REVIEWS: 書評家 | 好きな書評家、読ませる書評。ALL REVIEWS",
+                "text": "ALL REVIEWSへ参加している書評家のご紹介。現在も新聞、雑誌で活躍する現役書評家や、あの伝説的な書評家まで！",
+                "title": "書評家 | 好きな書評家、読ませる書評。ALL REVIEWS",
+                "title_link": "https:\/\/allreviews.jp\/reviewer\/",
+                "service_name": "好きな書評家、読ませる書評。ALL REVIEWS"
+            }
+        ]
+    }
+]

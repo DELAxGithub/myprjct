@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "F5A2432D-14A5-44EC-92A3-70958233A672",
+        "type": "message",
+        "text": "<@U03P0T4KQMV> 103清水さん　本人から特に修正依頼なかったので、試写3に進めてくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1684207042.949489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YiW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 103清水さん　本人から特に修正依頼なかったので、試写3に進めてくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

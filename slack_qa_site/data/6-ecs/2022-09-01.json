@@ -1,0 +1,212 @@
+[
+    {
+        "client_msg_id": "3071a797-cc85-4c24-b917-0a6f4a0e1e9d",
+        "type": "message",
+        "text": "<@U03L0UFJF70> テロップは編集マンにも依頼できるので雛形っぽいところまで作ってもらうところまでで一旦共有お願いします。\n今後はCGのみのお願いなるかもですので、また整理します。",
+        "user": "U03CXUXB5PF",
+        "ts": "1662033786.455749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J2db",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03L0UFJF70"
+                            },
+                            {
+                                "type": "text",
+                                "text": " テロップは編集マンにも依頼できるので雛形っぽいところまで作ってもらうところまでで一旦共有お願いします。\n今後はCGのみのお願いなるかもですので、また整理します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U03L0UFJF70"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eba6b25f-807e-4eaa-a610-33d8c7182aba",
+        "type": "message",
+        "text": "<@U03L0UFJF70> 全部作ったのね、ありがとうございます。\nすいません、言い方間悪かったですが、今後は編集マンが作りますんで、雛形psdもDropboxにお願いしますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1662070587.084579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cKof",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03L0UFJF70"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 全部作ったのね、ありがとうございます。\nすいません、言い方間悪かったですが、今後は編集マンが作りますんで、雛形psdもDropboxにお願いしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662070587.084579",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1662072919.571839",
+        "reply_users": [
+            "U03L0UFJF70",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03L0UFJF70",
+                "ts": "1662072762.158609"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1662072919.571839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1662072919.571839"
+    },
+    {
+        "client_msg_id": "37BC64B0-A9FE-4DA6-9E62-28BCBC7DD49B",
+        "type": "message",
+        "text": "すいません、ダウンロードは一通りしたのですが、なかなか時間が取れず、まだ作業が思うように進んでません。\n明日明後日は時間が取れそうなので、そこで進めます。申し訳ありません。。\n",
+        "user": "U03L0UFJF70",
+        "ts": "1662072762.158609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EDX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すいません、ダウンロードは一通りしたのですが、なかなか時間が取れず、まだ作業が思うように進んでません。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "明日明後日は時間が取れそうなので、そこで進めます。申し訳ありません。。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c102214d3e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-17\/3687513129379_c102214d3e84dc081236_72.png",
+            "first_name": "Ryosuke",
+            "real_name": "Ryosuke Sakurai",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "r.sakurai1015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662070587.084579",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "72da8f8d-2a50-4b3a-a5ae-42f151fc33cd",
+        "type": "message",
+        "text": "<@U03L0UFJF70> いや、編集の段階でテロップまではやっちゃった方が諸々スムーズだなと。\n今回は僕編集してないし。\nなんで、テロップに関してはデザインのベースのところまででバリエーション作ってもらうので大丈夫そうです。\nCGの方がもしかしたら、今わかってるやつだけでも、先方からもらったイラストを分解したりとかちょこちょこありそうなので、僕も今晩色々仕込みます。",
+        "user": "U03CXUXB5PF",
+        "ts": "1662072919.571839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VhnaP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03L0UFJF70"
+                            },
+                            {
+                                "type": "text",
+                                "text": " いや、編集の段階でテロップまではやっちゃった方が諸々スムーズだなと。\n今回は僕編集してないし。\nなんで、テロップに関してはデザインのベースのところまででバリエーション作ってもらうので大丈夫そうです。\nCGの方がもしかしたら、今わかってるやつだけでも、先方からもらったイラストを分解したりとかちょこちょこありそうなので、僕も今晩色々仕込みます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662070587.084579",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

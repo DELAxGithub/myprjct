@@ -1,0 +1,342 @@
+[
+    {
+        "client_msg_id": "a877f234-656d-46b4-81f4-36014c9c7264",
+        "type": "message",
+        "text": "<@U04JJB0MTB7>　９３梶谷、本人確認中です　少々おお待ちください",
+        "user": "U03CXUXB5PF",
+        "ts": "1682937878.429479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e52",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　９３梶谷、本人確認中です　少々おお待ちください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682937878.429479",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1682937972.355649",
+        "reply_users": [
+            "U04JJB0MTB7"
+        ],
+        "replies": [
+            {
+                "user": "U04JJB0MTB7",
+                "ts": "1682937972.355649"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1682937972.355649"
+    },
+    {
+        "client_msg_id": "A2409DF3-9639-48C0-B0A7-E8DE18102F2E",
+        "type": "message",
+        "text": "承知しました！",
+        "user": "U04JJB0MTB7",
+        "ts": "1682937972.355649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4cwP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682937878.429479",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U04JJB0MTB7>\n93梶谷　本人からありました　台本にコピペしたのでご確認くださいー\n<https:\/\/docs.google.com\/document\/d\/1r4WfNXJXrbPx0Nr119LLLWjS4PYYlJ-BghOSVdhJF5o\/edit?usp=sharing>",
+        "files": [
+            {
+                "id": "F05651U1D25",
+                "created": 1682993373,
+                "timestamp": 1682993373,
+                "name": "93_梶谷",
+                "title": "93_梶谷",
+                "mimetype": "application\/vnd.google-apps.document",
+                "filetype": "gdoc",
+                "pretty_type": "G Suite Document",
+                "user": "U03CXUXB5PF",
+                "user_team": "T03CU6RQ154",
+                "editable": false,
+                "size": 255338,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/document\/d\/1r4WfNXJXrbPx0Nr119LLLWjS4PYYlJ-BghOSVdhJF5o\/edit?usp=sharing",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F05651U1D25-5987e154fd\/93________64.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F05651U1D25-5987e154fd\/93________80.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F05651U1D25-5987e154fd\/93________360.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360_w": 255,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F05651U1D25-5987e154fd\/93________480.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_480_w": 340,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F05651U1D25-5987e154fd\/93________160.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F05651U1D25-5987e154fd\/93________720.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F05651U1D25-5987e154fd\/93________800.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1131,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F05651U1D25-5987e154fd\/93________960.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_960_w": 679,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F05651U1D25-5987e154fd\/93________1024.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "original_w": 800,
+                "original_h": 1131,
+                "thumb_tiny": "AwAwACHSJ545oBPcUEAmjaKAF\/CijAoxQAUUUUAMY4Y0m76\/nSsVycgn6CgbScYNACbv85pQckf407avpRgelAC0UUUAN2jOTQFFOooAZt570Aexp9FABRRRQB\/\/2Q==",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/U03CXUXB5PF\/F05651U1D25\/93_______",
+                "is_starred": false,
+                "external_id": "1r4WfNXJXrbPx0Nr119LLLWjS4PYYlJ-BghOSVdhJF5o",
+                "external_url": "https:\/\/docs.google.com\/document\/d\/1r4WfNXJXrbPx0Nr119LLLWjS4PYYlJ-BghOSVdhJF5o\/edit?usp=sharing",
+                "has_rich_preview": true,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "x_files": [
+            "F05651U1D25"
+        ],
+        "ts": "1682993370.455509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jxab",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n93梶谷　本人からありました　台本にコピペしたのでご確認くださいー\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1r4WfNXJXrbPx0Nr119LLLWjS4PYYlJ-BghOSVdhJF5o\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "bb4aa368-ac0c-43a1-be3c-36bcd3bc3ac6",
+        "thread_ts": "1682993370.455509",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1682993525.480629",
+        "reply_users": [
+            "U04JJB0MTB7"
+        ],
+        "replies": [
+            {
+                "user": "U04JJB0MTB7",
+                "ts": "1682993525.480629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1682993525.480629"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "承知しました！",
+        "user": "U04JJB0MTB7",
+        "ts": "1682993525.480629",
+        "thread_ts": "1682993370.455509",
+        "root": {
+            "type": "message",
+            "text": "<@U04JJB0MTB7>\n93梶谷　本人からありました　台本にコピペしたのでご確認くださいー\n<https:\/\/docs.google.com\/document\/d\/1r4WfNXJXrbPx0Nr119LLLWjS4PYYlJ-BghOSVdhJF5o\/edit?usp=sharing>",
+            "files": [
+                {
+                    "id": "F05651U1D25",
+                    "created": 1682993373,
+                    "timestamp": 1682993373,
+                    "name": "93_梶谷",
+                    "title": "93_梶谷",
+                    "mimetype": "application\/vnd.google-apps.document",
+                    "filetype": "gdoc",
+                    "pretty_type": "G Suite Document",
+                    "user": "U03CXUXB5PF",
+                    "user_team": "T03CU6RQ154",
+                    "editable": false,
+                    "size": 255338,
+                    "mode": "external",
+                    "is_external": true,
+                    "external_type": "gdrive",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/docs.google.com\/document\/d\/1r4WfNXJXrbPx0Nr119LLLWjS4PYYlJ-BghOSVdhJF5o\/edit?usp=sharing",
+                    "media_display_type": "unknown",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F05651U1D25-5987e154fd\/93________64.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F05651U1D25-5987e154fd\/93________80.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F05651U1D25-5987e154fd\/93________360.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                    "thumb_360_w": 255,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F05651U1D25-5987e154fd\/93________480.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                    "thumb_480_w": 340,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F05651U1D25-5987e154fd\/93________160.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F05651U1D25-5987e154fd\/93________720.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                    "thumb_720_w": 509,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F05651U1D25-5987e154fd\/93________800.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1131,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F05651U1D25-5987e154fd\/93________960.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                    "thumb_960_w": 679,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F05651U1D25-5987e154fd\/93________1024.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                    "thumb_1024_w": 724,
+                    "thumb_1024_h": 1024,
+                    "original_w": 800,
+                    "original_h": 1131,
+                    "thumb_tiny": "AwAwACHSJ545oBPcUEAmjaKAF\/CijAoxQAUUUUAMY4Y0m76\/nSsVycgn6CgbScYNACbv85pQckf407avpRgelAC0UUUAN2jOTQFFOooAZt570Aexp9FABRRRQB\/\/2Q==",
+                    "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/U03CXUXB5PF\/F05651U1D25\/93_______",
+                    "is_starred": false,
+                    "external_id": "1r4WfNXJXrbPx0Nr119LLLWjS4PYYlJ-BghOSVdhJF5o",
+                    "external_url": "https:\/\/docs.google.com\/document\/d\/1r4WfNXJXrbPx0Nr119LLLWjS4PYYlJ-BghOSVdhJF5o\/edit?usp=sharing",
+                    "has_rich_preview": true,
+                    "file_access": "visible"
+                }
+            ],
+            "upload": false,
+            "user": "U03CXUXB5PF",
+            "display_as_bot": false,
+            "x_files": [
+                "F05651U1D25"
+            ],
+            "ts": "1682993370.455509",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Jxab",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04JJB0MTB7"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n93梶谷　本人からありました　台本にコピペしたのでご確認くださいー\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/docs.google.com\/document\/d\/1r4WfNXJXrbPx0Nr119LLLWjS4PYYlJ-BghOSVdhJF5o\/edit?usp=sharing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "client_msg_id": "bb4aa368-ac0c-43a1-be3c-36bcd3bc3ac6",
+            "thread_ts": "1682993370.455509",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1682993525.480629",
+            "reply_users": [
+                "U04JJB0MTB7"
+            ],
+            "replies": [
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1682993525.480629"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1682993525.480629"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RS\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "42028205-1594-4AC0-B9FE-7D30A0D30553"
+    }
+]

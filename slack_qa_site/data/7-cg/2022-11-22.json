@@ -1,0 +1,235 @@
+[
+    {
+        "client_msg_id": "18127f7d-cdf6-48bc-b9dc-6bc03a32e9ba",
+        "type": "message",
+        "text": "<@U041XC6213P> これで大丈夫ですー\n身長のグラフ、一旦１７歳男子・１２歳男子　っていうのを「身長（１２歳男子）」　「身長（１７歳男子）」にしてくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1669115312.411749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dqU3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " これで大丈夫ですー\n身長のグラフ、一旦１７歳男子・１２歳男子　っていうのを「身長（１２歳男子）」　「身長（１７歳男子）」にしてくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669095464.007219",
+        "parent_user_id": "U041XC6213P",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>　修正いたしました。ご確認ください。",
+        "files": [
+            {
+                "id": "F04CD4AAT0R",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U041XC6213P",
+        "display_as_bot": false,
+        "ts": "1669117270.808099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kTu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　修正いたしました。ご確認ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "73359baf-a1b9-456f-9747-e80ee31370aa",
+        "thread_ts": "1669095464.007219",
+        "parent_user_id": "U041XC6213P"
+    },
+    {
+        "client_msg_id": "20cff948-68f7-41d6-b0c0-62e7e5d9db8d",
+        "type": "message",
+        "text": "はい、これで大丈夫ですー",
+        "user": "U03CXUXB5PF",
+        "ts": "1669117282.399959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sPc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい、これで大丈夫ですー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669095464.007219",
+        "parent_user_id": "U041XC6213P",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "812db7e7-401a-4abb-b494-eb272250392f",
+        "type": "message",
+        "text": "では、納品しますね。",
+        "user": "U041XC6213P",
+        "ts": "1669125904.735119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HbUSG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "では、納品しますね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669095464.007219",
+        "parent_user_id": "U041XC6213P"
+    },
+    {
+        "client_msg_id": "b124be0e-5620-41ea-a68b-5ec27018193d",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 57大塚のCG、dropbox格納済みです。",
+        "user": "U041XC6213P",
+        "ts": "1669169505.399129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T4TE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 57大塚のCG、dropbox格納済みです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669095464.007219",
+        "parent_user_id": "U041XC6213P",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

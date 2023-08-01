@@ -1,0 +1,143 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nOSのアップグレードをしてpr2023ダウンロードできましたので作業に移ります。\nところで、プロジェクト開いたとこを下記画像が出ましたが、\nOKをして進んでも構わないですか？",
+        "files": [
+            {
+                "id": "F04ABA96MU1",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F049YHUACH1",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03RA83HRN0",
+        "ts": "1667904931.612559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zvy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOSのアップグレードをしてpr2023ダウンロードできましたので作業に移ります。\nところで、プロジェクト開いたとこを下記画像が出ましたが、\nOKをして進んでも構わないですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8e0b0b4c-50ae-4e1a-8c94-d393b7cce1ad"
+    },
+    {
+        "client_msg_id": "E298CC2C-6CF1-4E61-ADF8-72AAA53B17B3",
+        "type": "message",
+        "text": "大丈夫ですー",
+        "user": "U03CXUXB5PF",
+        "ts": "1667907061.378869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bBw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大丈夫ですー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c00cba69-106d-4416-8945-5b40602df3b9",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n55_長谷の台本修正後の尺になります。\nep1 : 21:22  ep2 : 25:08  ep3 : 18:27\nです。\nep3で1カ所、8秒のテロップに行く直前の言葉尻が厳しそうなところがあったので、赤マーカー入れてあります。",
+        "user": "U03RA83HRN0",
+        "ts": "1667971715.972699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "626q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n55_長谷の台本修正後の尺になります。\nep1 : 21:22  ep2 : 25:08  ep3 : 18:27\nです。\nep3で1カ所、8秒のテロップに行く直前の言葉尻が厳しそうなところがあったので、赤マーカー入れてあります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03RA83HRN0",
+            "ts": "1667994837.000000"
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1658833016.811379",
+        "user": "U03QQ3J656Z",
+        "text": "<@U03QQ3J656Z>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "7cea8c97-f68f-4b34-b85d-85269bdc9dfd",
+        "type": "message",
+        "text": "なるほどー。\n\n「置いてみたら売れた」。今どきそんな本が？！　……あるんです、本当に。－－NHKブックス「名著復刊」20タイトル｜本がひらく\n<https:\/\/nhkbook-hiraku.com\/n\/nd94007fda842>",
+        "user": "U03CXUXB5PF",
+        "ts": "1658878060.232999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j1S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほどー。\n\n「置いてみたら売れた」。今どきそんな本が？！　……あるんです、本当に。－－NHKブックス「名著復刊」20タイトル｜本がひらく\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nhkbook-hiraku.com\/n\/nd94007fda842"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/nhkbook-hiraku.com\/n\/nd94007fda842",
+                "image_url": "https:\/\/assets.st-note.com\/production\/uploads\/images\/83447906\/rectangle_large_type_2_fe3d5b19ed5e70319e127d8f8496307d.jpeg?fit=bounds&quality=85&width=1280",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 136890,
+                "service_icon": "https:\/\/s3-ap-northeast-1.amazonaws.com\/poc-image\/production\/aa2dd1253676e8fa1ec7d3828d7248a690fbd8515601cb6ad3abd6636af0.png",
+                "id": 1,
+                "original_url": "https:\/\/nhkbook-hiraku.com\/n\/nd94007fda842",
+                "fallback": "本がひらく: 「置いてみたら売れた」。今どきそんな本が？！　……あるんです、本当に。－－NHKブックス「名著復刊」20タイトル｜本がひらく",
+                "text": "　本が売れないと言われてすでに四半世紀。じゃあ本がなくなるかといえば全然そんなことはないわけで、地道に売れる本はけっこうあるのです。でも、そのことが知られているとは言えませんから、この記事ではそんな本を作っている人間の立場から、その実例をお知らせします。書店に行って本を買う人が「そういうのも、いいかな」と思ってくれることが目標です。 　「置いてみたら売れた」と、広告でよく見かけるような見出しになってしまいました。でも本当のことです。NHKブックスという「シリーズ」の本、それも数年前までに出た20タイトルです。「まだまだ読者がいるはず」と思われた本を20冊選んで、この6月に一斉に復刊",
+                "title": "「置いてみたら売れた」。今どきそんな本が？！　……あるんです、本当に。－－NHKブックス「名著復刊」20タイトル｜本がひらく",
+                "title_link": "https:\/\/nhkbook-hiraku.com\/n\/nd94007fda842",
+                "service_name": "本がひらく"
+            }
+        ]
+    }
+]

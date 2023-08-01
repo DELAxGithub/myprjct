@@ -1,0 +1,70 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1664572624.657789",
+        "user": "U03CXUXB5PF",
+        "text": "<@U03CXUXB5PF>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1664581329.983009",
+        "user": "U03NZ0E09JN",
+        "text": "<@U03NZ0E09JN>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1664585295.245779",
+        "user": "U03RA83HRN0",
+        "text": "<@U03RA83HRN0>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "94be8130-bd2c-4929-8866-f4ee81651c5d",
+        "type": "message",
+        "text": "41_平\n【素材確認待ち】\nep-2　プレートイラスト\n\n【要確認】\nep-1　「図で見せたい」（パンゲア大陸）\n　　　freeIMGにあったもので代用",
+        "user": "U03RA83HRN0",
+        "ts": "1664597306.806909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qdY7x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "41_平\n【素材確認待ち】\nep-2　プレートイラスト\n\n【要確認】\nep-1　「図で見せたい」（パンゲア大陸）\n　　　freeIMGにあったもので代用"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

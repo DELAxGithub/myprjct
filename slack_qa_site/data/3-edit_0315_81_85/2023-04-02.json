@@ -1,0 +1,545 @@
+[
+    {
+        "client_msg_id": "63BBB800-8D86-442F-8ABE-02EE8DBCE041",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03V84JSHNK> \nお疲れ様です！\nこちらヴォイスは準備中でしょうか？\nよろしくお願い致します :blush: :woman-bowing: ",
+        "user": "U04KFCBLY9J",
+        "ts": "1680497893.071629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=7yx5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です！\nこちらヴォイスは準備中でしょうか？\nよろしくお願い致します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680181565.435499",
+        "parent_user_id": "U04KFCBLY9J"
+    },
+    {
+        "client_msg_id": "57145ba8-3760-457c-a51c-15e55a94167e",
+        "type": "message",
+        "text": "<@U04KFCBLY9J> 遅れていてすみません…voicepeakが不調で、全然立ち上がりません…。少しお待ちくださいませ。",
+        "user": "U03V84JSHNK",
+        "ts": "1680501036.348389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uhs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 遅れていてすみません…voicepeakが不調で、全然立ち上がりません…。少しお待ちくださいませ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680181565.435499",
+        "parent_user_id": "U04KFCBLY9J"
+    },
+    {
+        "type": "message",
+        "text": "<@U04KFCBLY9J> おまたせしました。こちらになります。",
+        "files": [
+            {
+                "id": "F051J2XDXNY",
+                "created": 1680502318,
+                "timestamp": 1680502318,
+                "name": "4-84山下聖美voice直し.wav",
+                "title": "4-84山下聖美voice直し.wav",
+                "mimetype": "audio\/vnd.wave",
+                "filetype": "wav",
+                "pretty_type": "Waveform Audio",
+                "user": "U03V84JSHNK",
+                "user_team": "T03CU6RQ154",
+                "editable": false,
+                "size": 1317992,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "transcription": {
+                    "status": "complete",
+                    "locale": "ja-JP",
+                    "preview": {
+                        "content": "僕もうあんな大きな闇の中だって怖くないきっとみんなの本当の幸を探しに行くどこまでもどこまでも僕たち一緒に進んでいこう",
+                        "has_more": true
+                    }
+                },
+                "url_private": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F051J2XDXNY-e5b2589ea7\/4-84____________voice_______audio.mp4?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F051J2XDXNY\/download\/4-84____________voice______.wav?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "vtt": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F051J2XDXNY-e5b2589ea7\/file.vtt?_xcb=6b02b&t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "duration_ms": 13727,
+                "aac": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F051J2XDXNY-e5b2589ea7\/4-84____________voice_______audio.mp4?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "audio_wave_samples": [
+                    33,
+                    70,
+                    23,
+                    4,
+                    0,
+                    0,
+                    0,
+                    5,
+                    75,
+                    48,
+                    7,
+                    0,
+                    0,
+                    0,
+                    40,
+                    98,
+                    81,
+                    92,
+                    100,
+                    57,
+                    47,
+                    47,
+                    69,
+                    79,
+                    57,
+                    38,
+                    27,
+                    17,
+                    31,
+                    62,
+                    42,
+                    27,
+                    38,
+                    20,
+                    0,
+                    0,
+                    0,
+                    3,
+                    7,
+                    66,
+                    51,
+                    47,
+                    64,
+                    42,
+                    27,
+                    1,
+                    0,
+                    0,
+                    69,
+                    83,
+                    79,
+                    92,
+                    76,
+                    25,
+                    73,
+                    64,
+                    61,
+                    67,
+                    19,
+                    32,
+                    17,
+                    35,
+                    35,
+                    11,
+                    17,
+                    0,
+                    0,
+                    0,
+                    53,
+                    78,
+                    95,
+                    66,
+                    53,
+                    58,
+                    67,
+                    88,
+                    51,
+                    60,
+                    23,
+                    0,
+                    0,
+                    0,
+                    57,
+                    80,
+                    45,
+                    32,
+                    33,
+                    28,
+                    57,
+                    51,
+                    14,
+                    35,
+                    53,
+                    81,
+                    18,
+                    59,
+                    7,
+                    0,
+                    0,
+                    0
+                ],
+                "media_display_type": "audio",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/U03V84JSHNK\/F051J2XDXNY\/4-84____________voice______.wav",
+                "permalink_public": "https:\/\/slack-files.com\/T03CU6RQ154-F051J2XDXNY-20670fcab6",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03V84JSHNK",
+        "display_as_bot": false,
+        "ts": "1680502333.618849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y\/4ns",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " おまたせしました。こちらになります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7bfa89d7-3ab3-43b5-8345-4f0934e7b4fe",
+        "thread_ts": "1680181565.435499",
+        "parent_user_id": "U04KFCBLY9J",
+        "subtype": "thread_broadcast",
+        "root": {
+            "client_msg_id": "615E59FE-985D-4BF7-B866-6B87A73BDDDF",
+            "type": "message",
+            "text": "<@U03CXUXB5PF> <@U03V84JSHNK> \nお疲れ様です。\n84山下さんのep3のヴォイスで修正をお願いします。\n「さいはい」と読まれているところが「さいわい」が正しい読みです。\nお手数おかけしますがよろしくお願い致します :blush: :woman-bowing: ",
+            "user": "U04KFCBLY9J",
+            "ts": "1680181565.435499",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "kJd",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03CXUXB5PF"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03V84JSHNK"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " \nお疲れ様です。\n84山下さんのep3のヴォイスで修正をお願いします。\n「さいはい」と読まれているところが「さいわい」が正しい読みです。\nお手数おかけしますがよろしくお願い致します "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "blush",
+                                    "unicode": "1f60a"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "woman-bowing",
+                                    "unicode": "1f647-200d-2640-fe0f"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "edited": {
+                "user": "U04KFCBLY9J",
+                "ts": "1680181582.000000"
+            },
+            "thread_ts": "1680181565.435499",
+            "reply_count": 5,
+            "reply_users_count": 2,
+            "latest_reply": "1680502394.136689",
+            "reply_users": [
+                "U04KFCBLY9J",
+                "U03V84JSHNK"
+            ],
+            "replies": [
+                {
+                    "user": "U04KFCBLY9J",
+                    "ts": "1680181604.230359"
+                },
+                {
+                    "user": "U04KFCBLY9J",
+                    "ts": "1680497893.071629"
+                },
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1680501036.348389"
+                },
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1680502333.618849"
+                },
+                {
+                    "user": "U04KFCBLY9J",
+                    "ts": "1680502394.136689"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1680502394.136689"
+        }
+    },
+    {
+        "client_msg_id": "C083C406-A04C-407F-88EE-937244834FA6",
+        "type": "message",
+        "text": "<@U03V84JSHNK> \nお手数おかけしました :woman-bowing: ありがとうございます:blush:！",
+        "user": "U04KFCBLY9J",
+        "ts": "1680502394.136689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RDsP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお手数おかけしました "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680181565.435499",
+        "parent_user_id": "U04KFCBLY9J"
+    },
+    {
+        "client_msg_id": "5495B1EE-2222-4AA0-A5D1-6EF451579980",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U04J38PLGM6> \nお疲れ様です。84山下さんの最終をアップいたしました。よろしくお願い致します :blush: :woman-bowing: ",
+        "user": "U04KFCBLY9J",
+        "ts": "1680503212.516409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jp97",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です。84山下さんの最終をアップいたしました。よろしくお願い致します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680503212.516409",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1680506116.938079",
+        "reply_users": [
+            "U04J38PLGM6",
+            "U04KFCBLY9J"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1680505460.055029"
+            },
+            {
+                "user": "U04KFCBLY9J",
+                "ts": "1680506116.938079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1680506116.938079",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

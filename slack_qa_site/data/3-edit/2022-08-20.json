@@ -1,0 +1,159 @@
+[
+    {
+        "client_msg_id": "94ed91c7-524b-4492-8002-32b87537a2c8",
+        "type": "message",
+        "text": "8\/20\n40_岡本の編集台本が間も無く\n<@U03HJRZK295> 取り切り作っています。使い所は並べました。\n\n収録準備が終わったらようやく修正へ…",
+        "user": "U03CXUXB5PF",
+        "ts": "1660985384.151659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "93C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "8\/20\n40_岡本の編集台本が間も無く\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 取り切り作っています。使い所は並べました。\n\n収録準備が終わったらようやく修正へ…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a5b94a62-18ec-405a-b258-7f8aa30c0395",
+        "type": "message",
+        "text": "<@U03HJRZK295> 40_岡本も台本できましたー",
+        "user": "U03CXUXB5PF",
+        "ts": "1660988054.068389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T9W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 40_岡本も台本できましたー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03HJRZK295",
+                    "U03QQ3J656Z"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "229099f5-dbcf-45da-af64-8645bb1c9e5a",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 22_秋元修正箇所を台本に入れました。\n★で検索してテロップ修正、書き起こしからの復活、印象箇所にテロップ、などお願いします。\n\n<@U03HJRZK295> 作業完了次第、MA用・試写用に書き出しをお願いしますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1661061871.699709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GPaR4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 22_秋元修正箇所を台本に入れました。\n★で検索してテロップ修正、書き起こしからの復活、印象箇所にテロップ、などお願いします。\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 作業完了次第、MA用・試写用に書き出しをお願いしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

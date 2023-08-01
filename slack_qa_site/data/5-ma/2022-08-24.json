@@ -1,0 +1,170 @@
+[
+    {
+        "client_msg_id": "6EA7EC3F-E021-4B0C-8112-8B3B6AE270C1",
+        "type": "message",
+        "text": "パックン仕込みが上がりましたー。よろしくお願いします。",
+        "user": "U03G0LAPT3N",
+        "ts": "1661328157.814199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N8cg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "パックン仕込みが上がりましたー。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "371B2D32-2C1D-4F7C-99E4-2E5DC9F7F5DE",
+        "type": "message",
+        "text": "パックンep1のOMFのみ、プロツールスで読み込みエラーが出ました。\nMA前にはもう一度出力をお願いしますので、よろしくお願いします。",
+        "user": "U03G0LAPT3N",
+        "ts": "1661353490.236759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xhk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "パックン"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ep1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "OMF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "のみ、プロツールスで読み込みエラーが出ました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "前にはもう一度出力をお願いしますので、よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1661353490.236759",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1661387801.825009",
+        "reply_users": [
+            "U03HJRZK295"
+        ],
+        "replies": [
+            {
+                "user": "U03HJRZK295",
+                "ts": "1661387801.825009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "E5680483-B664-4045-9DB5-5CEEC456168D",
+        "type": "message",
+        "text": "了解いたしました🫡",
+        "user": "U03HJRZK295",
+        "ts": "1661387801.825009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gktZd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解いたしました"
+                            },
+                            {
+                                "type": "text",
+                                "text": "🫡"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1661353490.236759",
+        "parent_user_id": "U03G0LAPT3N"
+    }
+]

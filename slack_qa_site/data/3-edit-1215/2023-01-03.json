@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "01e929db-7c50-4d53-bbce-efecb79b9eee",
+        "type": "message",
+        "text": "<@U03QQ3J656Z> 53林は本人依頼が対応済みということでよかったですか？進捗把握できてなくてすいません\n51片岡は修正箇所を台本に反映できたらまたお知らせします",
+        "user": "U03CXUXB5PF",
+        "ts": "1672788610.269009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jXr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 53林は本人依頼が対応済みということでよかったですか？進捗把握できてなくてすいません\n51片岡は修正箇所を台本に反映できたらまたお知らせします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1672788610.269009",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1672906895.684439",
+        "reply_users": [
+            "U03QQ3J656Z"
+        ],
+        "replies": [
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1672906895.684439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1672906895.684439"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1672807847.390839",
+        "user": "U04J38PLGM6",
+        "text": "<@U04J38PLGM6>さんがチャンネルに参加しました"
+    }
+]

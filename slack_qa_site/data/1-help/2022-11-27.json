@@ -1,0 +1,264 @@
+[
+    {
+        "client_msg_id": "db141d1c-f480-417a-8773-bf59b5a4be96",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n試写１の音声について、\nマルチで作成していただいているものが片方の音声のみの為、\n現状、試写１もそのまま片チャンで上がっております。\n（基本、音声はMAで処理するので触らないということだったと思います）\n\n試写１でクライアントが確認する際も片チャンでは聞きづらいのではないかと思うのですが、何か方法があれば対応したいと思うのですがいかがでしょうか。",
+        "user": "U03NZ0E09JN",
+        "ts": "1669600161.847429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H6CKe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n試写１の音声について、\nマルチで作成していただいているものが片方の音声のみの為、\n現状、試写１もそのまま片チャンで上がっております。\n（基本、音声はMAで処理するので触らないということだったと思います）\n\n試写１でクライアントが確認する際も片チャンでは聞きづらいのではないかと思うのですが、何か方法があれば対応したいと思うのですがいかがでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b6bb6f67-6b30-4bd3-a1c2-9a95b8b10e72",
+        "type": "message",
+        "text": "試写1はモノラルで書き出しますかね。",
+        "user": "U03CXUXB5PF",
+        "ts": "1669600201.893189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QyCl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "試写1はモノラルで書き出しますかね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4e33dce1-45a3-4248-825a-8afd1ff751f7",
+        "type": "message",
+        "text": "それかバランスを0にすればいいかな。",
+        "user": "U03CXUXB5PF",
+        "ts": "1669600233.026209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y4Eba",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それかバランスを0にすればいいかな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F7572E71-9683-4D98-9261-958E7D006ACC",
+        "type": "message",
+        "text": "プレミア上、トラックのパンポッドを真ん中（0）にすれば、スピーカーからは真ん中に音が定位し、omfでMAに受け渡す際も不都合ありません。",
+        "user": "U03G0LAPT3N",
+        "ts": "1669600786.749949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c=l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "プレミア上、トラックのパンポッドを真ん中（0）にすれば、スピーカーからは真ん中に音が定位し、omfでMAに受け渡す際も不都合ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a578da29-c5fd-4873-988d-abd3b42e61df",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03G0LAPT3N>\nありがとうございます。\n音声を振り分ける作業をしても問題ないということでしたら、編集の際も片チャンではやりにくいと思いますのでそうさせていただきます。",
+        "user": "U03NZ0E09JN",
+        "ts": "1669600945.816799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fbj0g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nありがとうございます。\n音声を振り分ける作業をしても問題ないということでしたら、編集の際も片チャンではやりにくいと思いますのでそうさせていただきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "DF0297FF-DE20-4E0E-9CD5-64EB3A589132",
+        "type": "message",
+        "text": "今あるモノラルトラックのパンを変更するだけですので、問題ありません。",
+        "user": "U03G0LAPT3N",
+        "ts": "1669601371.807389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "33j2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今あるモノラルトラックのパンを変更するだけですので、問題ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-raising-hand",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

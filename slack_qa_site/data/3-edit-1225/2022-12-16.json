@@ -1,0 +1,99 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03V84JSHNK> 59山本のボイスをお願いします。引用箇所だけね、",
+        "files": [
+            {
+                "id": "F04G1K1S6E5",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1671244529.523069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AVtG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 59山本のボイスをお願いします。引用箇所だけね、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "361e3d74-10ac-40a9-a542-b4cfde98bd69",
+        "thread_ts": "1671244529.523069",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1671465884.310549",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U03V84JSHNK"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1671244554.162469"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1671465884.310549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1671465884.310549"
+    },
+    {
+        "client_msg_id": "b7d9d94e-aee7-425d-b877-6c8e824a02ff",
+        "type": "message",
+        "text": "もう一個探してるんでお待ちください。\nスピード80%ぐらいがちょうどいいかも。",
+        "user": "U03CXUXB5PF",
+        "ts": "1671244554.162469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9BW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もう一個探してるんでお待ちください。\nスピード80%ぐらいがちょうどいいかも。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1671244529.523069",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

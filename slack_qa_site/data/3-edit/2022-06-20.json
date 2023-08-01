@@ -1,0 +1,344 @@
+[
+    {
+        "client_msg_id": "5D4D4A4D-5EAF-4E78-9DE4-9A7C936CA2C3",
+        "type": "message",
+        "text": "<@U03HJRZK295> Dropbox、僕のアカウントでログインしてあるなら、そのまま使えそうね。ファイルの場所は外付けにしないと溢れてしまうので、本格運用はそれが到着次第ですが、とりあえずKDDI 2022っていうフォルダあります？",
+        "user": "U03CXUXB5PF",
+        "ts": "1655772829.293749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pEB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Dropbox、僕のアカウントでログインしてあるなら、そのまま使えそうね。ファイルの場所は外付けにしないと溢れてしまうので、本格運用はそれが到着次第ですが、とりあえずKDDI 2022っていうフォルダあります？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1655772829.293749",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1655773739.353959",
+        "reply_users": [
+            "U03HJRZK295"
+        ],
+        "replies": [
+            {
+                "user": "U03HJRZK295",
+                "ts": "1655773739.353959"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1655773739.353959"
+    },
+    {
+        "type": "message",
+        "text": "入れましたー",
+        "files": [
+            {
+                "id": "F03LTLVEQHF",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03HJRZK295",
+        "display_as_bot": false,
+        "ts": "1655773739.353959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qjW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "入れましたー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1d505230-446b-412c-be68-28bb127fedbf",
+        "thread_ts": "1655772829.293749",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U03HJRZK295> このKDDI2022ですね。",
+        "files": [
+            {
+                "id": "F03L8D2N0CW",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1655773821.355049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "avp44",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " このKDDI2022ですね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "fe80a0a0-ac0c-4ef8-9998-6f63adaa6e27"
+    },
+    {
+        "type": "message",
+        "text": "KDDI2022を最もよく使うので左側に入れておきましょう。で、オンラインじゃなくてローカルに保存ください",
+        "files": [
+            {
+                "id": "F03M4PSQ080",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F03M4PV3V7S",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "ts": "1655773987.392849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vTY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "KDDI2022を最もよく使うので左側に入れておきましょう。で、オンラインじゃなくてローカルに保存ください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "522ed793-4e36-426b-b98c-b70ef1a6ddab"
+    },
+    {
+        "client_msg_id": "C55E3C9A-367B-4E08-9E94-ABA855B5D366",
+        "type": "message",
+        "text": "了解です！",
+        "user": "U03HJRZK295",
+        "ts": "1655774084.628609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Jb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "前回使ったフリーイメージをKDDI2022に移植しておきますのでダウンロードできるか確認しておいてください。\nあと編集tipsって共有してましたっけ？premiereでも使ったことない機能とかについて触れてるかもですなので、ちょっとみといて疑問点とかコメントください。編集打ち合わせでも使います。<https:\/\/docs.google.com\/document\/d\/1dpwLI3F4i6DaGpJsbsWhlY4wFemVSv5_eqqoNLaFYyM\/edit?usp=sharing>",
+        "files": [
+            {
+                "id": "F03J5V7CY1L",
+                "created": 1654491690,
+                "timestamp": 1654491690,
+                "name": "KDDI2022 編集Tips",
+                "title": "リベラルアーツ_Dropboxマニュアル",
+                "mimetype": "application\/vnd.google-apps.document",
+                "filetype": "gdoc",
+                "pretty_type": "G Suite Document",
+                "user": "U03CXUXB5PF",
+                "user_team": "T03CU6RQ154",
+                "editable": false,
+                "size": 0,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/document\/d\/1dpwLI3F4i6DaGpJsbsWhlY4wFemVSv5_eqqoNLaFYyM\/edit?usp=sharing",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F03J5V7CY1L-d36fbf64a3\/kddi2022_______tips_64.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F03J5V7CY1L-d36fbf64a3\/kddi2022_______tips_80.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F03J5V7CY1L-d36fbf64a3\/kddi2022_______tips_360.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360_w": 277,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F03J5V7CY1L-d36fbf64a3\/kddi2022_______tips_480.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_480_w": 369,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F03J5V7CY1L-d36fbf64a3\/kddi2022_______tips_160.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F03J5V7CY1L-d36fbf64a3\/kddi2022_______tips_720.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720_w": 554,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F03J5V7CY1L-d36fbf64a3\/kddi2022_______tips_800.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1040,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F03J5V7CY1L-d36fbf64a3\/kddi2022_______tips_960.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_960_w": 738,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F03J5V7CY1L-d36fbf64a3\/kddi2022_______tips_1024.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_1024_w": 788,
+                "thumb_1024_h": 1024,
+                "thumb_tiny": "AwAwACTRLMDwuR9aNxx90fnSt\/nimj3H6UAOBJHIxS03P+cU4c0AFFFFADXAPYZ96QKPQUrAHsD+FIBj+EflQA\/pRSZ9f5UtABRRRQA1gD2BoVRnoKGx6fpmkXHbj8MUAPooooAKKKKAP\/\/Z",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/U03CXUXB5PF\/F03J5V7CY1L\/kddi2022_______tips",
+                "is_starred": false,
+                "external_id": "1dpwLI3F4i6DaGpJsbsWhlY4wFemVSv5_eqqoNLaFYyM",
+                "external_url": "https:\/\/docs.google.com\/document\/d\/1dpwLI3F4i6DaGpJsbsWhlY4wFemVSv5_eqqoNLaFYyM\/edit?usp=sharing",
+                "has_rich_preview": true,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "x_files": [
+            "F03J5V7CY1L"
+        ],
+        "ts": "1655774525.294999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6doY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "前回使ったフリーイメージをKDDI2022に移植しておきますのでダウンロードできるか確認しておいてください。\nあと編集tipsって共有してましたっけ？premiereでも使ったことない機能とかについて触れてるかもですなので、ちょっとみといて疑問点とかコメントください。編集打ち合わせでも使います。"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1dpwLI3F4i6DaGpJsbsWhlY4wFemVSv5_eqqoNLaFYyM\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3aa3c11c-af53-4508-8c92-b6cdc151e54b",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03HJRZK295"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "876a8c3c-97b8-400c-bfa9-4e7804f9c3f0",
+        "type": "message",
+        "text": "5000ファイル、100GBぐらいありますね",
+        "user": "U03CXUXB5PF",
+        "ts": "1655774947.738799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M5E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "5000ファイル、100GBぐらいありますね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

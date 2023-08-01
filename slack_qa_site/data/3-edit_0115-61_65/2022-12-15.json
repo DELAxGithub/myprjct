@@ -1,0 +1,151 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1671104258.649319",
+        "user": "U03RA83HRN0",
+        "text": "<@U03RA83HRN0>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1671106784.063039",
+        "user": "U03V84JSHNK",
+        "text": "<@U03V84JSHNK>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1671153729.949739",
+        "user": "U040YCC00V6",
+        "text": "<@U040YCC00V6>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1671153730.028369",
+        "user": "U03QQ3J656Z",
+        "text": "<@U03QQ3J656Z>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1671153730.130169",
+        "user": "U03NJGXEPL7",
+        "text": "<@U03NJGXEPL7>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U040YCC00V6> <@U03QQ3J656Z>\n61横道の尺がep1〜3において17分に届いていないようです。\n必要であれば修正の方をお願いいたします。\n現在は編集１は済んでいる状態です。",
+        "files": [
+            {
+                "id": "F04FKJMS1NY",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1671153880.084459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J\/xqM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n61横道の尺がep1〜3において17分に届いていないようです。\n必要であれば修正の方をお願いいたします。\n現在は編集１は済んでいる状態です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "e66b2281-0c5e-4af9-849f-06697a63e102"
+    },
+    {
+        "client_msg_id": "f632e9d2-420f-4797-9da6-5673d9e8ee05",
+        "type": "message",
+        "text": "<@U03QQ3J656Z> <@U03NZ0E09JN>\nすいません、これも週末対応します。",
+        "user": "U03CXUXB5PF",
+        "ts": "1671153925.198639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xYn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nすいません、これも週末対応します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

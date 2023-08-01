@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "B2D60293-3A5D-472C-BECC-24D44F3A462D",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/spreadsheets\/d\/1tyGPASDcV_-D7hKSvai9a3CP08ET5SwZUJFTvDwU-xs\/edit#gid=1510203828|https:\/\/docs.google.com\/spreadsheets\/d\/1tyGPASDcV_-D7hKSvai9a3CP08ET5SwZUJFTvDwU-xs\/edit#gid=1510203828>\n\n平岡の修正箇所の再修正です。\nよろしくお願いいたします",
+        "user": "U03CXUXB5PF",
+        "ts": "1667283514.743029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xvf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1tyGPASDcV_-D7hKSvai9a3CP08ET5SwZUJFTvDwU-xs\/edit#gid=1510203828",
+                                "text": "https:\/\/docs.google.com\/spreadsheets\/d\/1tyGPASDcV_-D7hKSvai9a3CP08ET5SwZUJFTvDwU-xs\/edit#gid=1510203828"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n平岡の修正箇所の再修正です。\nよろしくお願いいたします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667283514.743029",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1667305233.261639",
+        "reply_users": [
+            "U03P0T4KQMV",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1667286497.398359"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1667294107.087219"
+            },
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1667295560.561259"
+            },
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1667297651.299609"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1667305233.261639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1667305233.261639"
+    }
+]

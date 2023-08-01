@@ -1,0 +1,117 @@
+[
+    {
+        "client_msg_id": "0cd6d19c-860e-4a7c-b587-601d3ac25cc0",
+        "type": "message",
+        "text": "で、文字起こしそのものもOpenAIから。\nまぁ、プレミアのは編集に使えてテロップに変換できるから使い勝手的にいいんだけど、精度は精度で上がって欲しいもんねぇ。\n\nOpenAIのWhisperを利用して音声をテキストへ変換できるMacアプリ「Whisper Transcription」に、Medium\/Largeモデルを選択できるProサブスクリプションが追加。\n<https:\/\/applech2.com\/archives\/20230207-whisper-transcription-support-medium-and-large-whisper-models.html>",
+        "user": "U03CXUXB5PF",
+        "ts": "1676078292.742959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r42oO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "で、文字起こしそのものもOpenAIから。\nまぁ、プレミアのは編集に使えてテロップに変換できるから使い勝手的にいいんだけど、精度は精度で上がって欲しいもんねぇ。\n\nOpenAIのWhisperを利用して音声をテキストへ変換できるMacアプリ「Whisper Transcription」に、Medium\/Largeモデルを選択できるProサブスクリプションが追加。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/applech2.com\/archives\/20230207-whisper-transcription-support-medium-and-large-whisper-models.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/applech2.com\/archives\/20230207-whisper-transcription-support-medium-and-large-whisper-models.html",
+                "thumb_url": "https:\/\/applech2.com\/wp-content\/uploads\/2023\/02\/MacWhisper-Whisper-Transcription-support-Pro-model.jpg",
+                "thumb_width": 1360,
+                "thumb_height": 828,
+                "service_icon": "https:\/\/applech2.com\/wp-content\/uploads\/2016\/03\/cropped-AAPL-Ch-favicon-512x512-180x180.jpg",
+                "id": 1,
+                "original_url": "https:\/\/applech2.com\/archives\/20230207-whisper-transcription-support-medium-and-large-whisper-models.html",
+                "fallback": "AAPL Ch.: OpenAIのWhisperを利用して音声をテキストへ変換できるMacアプリ「Whisper Transcription」に、Medium\/Largeモデルを選択できるProサブスクリプションが追加。",
+                "text": "　OpenAIの音声認識モデルWhisperを利用して音声をテキストへ変換できるMacアプリ「MacWhisper (Whisper Transcription)」に、Medium\/Largeモデルを選択できるProサブスクリプションが追加",
+                "title": "OpenAIのWhisperを利用して音声をテキストへ変換できるMacアプリ「Whisper Transcription」に、Medium\/Largeモデルを選択できるProサブスクリプションが追加。",
+                "title_link": "https:\/\/applech2.com\/archives\/20230207-whisper-transcription-support-medium-and-large-whisper-models.html",
+                "service_name": "AAPL Ch."
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "注釈のテロップもAIに考えて貰えばよかったんや、、",
+        "files": [
+            {
+                "id": "F04P5CDTWCB",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1676081480.072929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PBQQR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "注釈のテロップもAIに考えて貰えばよかったんや、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7bcb05a1-7cce-4092-af84-78d43a0b70fa",
+        "reactions": [
+            {
+                "name": "face_with_peeking_eye",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "innocent",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

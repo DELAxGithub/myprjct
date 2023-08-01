@@ -1,0 +1,213 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673569202.391339",
+        "user": "U03CXUXB5PF",
+        "text": "<@U03CXUXB5PF>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673569231.497829",
+        "user": "U03NZ0E09JN",
+        "text": "<@U03NZ0E09JN>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673569231.576879",
+        "user": "U03NJGXEPL7",
+        "text": "<@U03NJGXEPL7>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673569231.646189",
+        "user": "U04J38PLGM6",
+        "text": "<@U04J38PLGM6>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673569231.711549",
+        "user": "U03V84JSHNK",
+        "text": "<@U03V84JSHNK>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F04JTHQ56J0",
+                "created": 1673569250,
+                "timestamp": 1673569275,
+                "name": "Todo",
+                "title": "Todo",
+                "mimetype": "application\/vnd.slack-docs",
+                "filetype": "docs",
+                "pretty_type": "Arugula",
+                "user": "U03CXUXB5PF",
+                "user_team": "T03CU6RQ154",
+                "editable": true,
+                "size": 102,
+                "mode": "docs",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F04JTHQ56J0\/todo?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F04JTHQ56J0\/download\/todo?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/T03CU6RQ154\/F04JTHQ56J0",
+                "permalink_public": "https:\/\/slack-files.com\/T03CU6RQ154-F04JTHQ56J0-d5cd9bc11d",
+                "preview": "<h1>63伊達<\/h1><ul><li data-checked=\"false\">編集1<\/li><li data-checked=\"false\"><br><\/li><\/ul><p><br><\/p>",
+                "editor": null,
+                "last_editor": "U03CXUXB5PF",
+                "non_owner_editable": false,
+                "updated": 1673569275,
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1673569287.503859"
+    },
+    {
+        "client_msg_id": "cd308b8f-014f-447a-9eae-e5992662e38b",
+        "type": "message",
+        "text": "<@U04JJB0MTB7> 本日からよろしくお願いいたします\n早速ですが、\n<https:\/\/docs.google.com\/spreadsheets\/d\/1-zIQu1m-A419yjNvCvaJNqdSrGpFgDNK4prxs8L23H8\/edit?usp=sharing>\nこちらプロジェクト全部の台本へのリンク先\n\n今日から作業できる63の\n編集台本\n<https:\/\/docs.google.com\/document\/d\/14HOSXDlwvjBmfX04cdV9lLFuColwuEA4S7jKiDGQ7kU\/edit?usp=sharing>\n書き起こし原稿\n<https:\/\/docs.google.com\/document\/d\/15Ay9M86r5vCcjKQatjWWCo-haVcw_kxEdz7BMJfaaZI\/edit?usp=sharing>\n収録メモ\n<https:\/\/docs.google.com\/document\/d\/1DVPRT-WGpVOAz7QmtuOhv1mq487YTyMeYAzoyjcZdOc\/edit?usp=sharing>\nです\n\n素材の同期（プロジェクトとか決まり一式）は済んでるでしょうか？\n引き継ぎもされてると思いますが、ご不明点あれば何なりとお知らせください。\nよろしくお願いします！",
+        "user": "U03CXUXB5PF",
+        "ts": "1673571913.119109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e1eg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 本日からよろしくお願いいたします\n早速ですが、\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1-zIQu1m-A419yjNvCvaJNqdSrGpFgDNK4prxs8L23H8\/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこちらプロジェクト全部の台本へのリンク先\n\n今日から作業できる63の\n編集台本\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/14HOSXDlwvjBmfX04cdV9lLFuColwuEA4S7jKiDGQ7kU\/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n書き起こし原稿\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/15Ay9M86r5vCcjKQatjWWCo-haVcw_kxEdz7BMJfaaZI\/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n収録メモ\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1DVPRT-WGpVOAz7QmtuOhv1mq487YTyMeYAzoyjcZdOc\/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nです\n\n素材の同期（プロジェクトとか決まり一式）は済んでるでしょうか？\n引き継ぎもされてると思いますが、ご不明点あれば何なりとお知らせください。\nよろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1673571915.829339",
+        "user": "U04JJB0MTB7",
+        "text": "<@U04JJB0MTB7>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "43106291-A375-48FC-A7D7-750EDF0E05B0",
+        "type": "message",
+        "text": "よろしくおねがいします！\n浜地と申します\n引き継ぎこれからなのでまずは色々把握させていただくところからやっていきたいと思います",
+        "user": "U04JJB0MTB7",
+        "ts": "1673578405.809779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/CH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "よろしくおねがいします！\n浜地と申します\n引き継ぎこれからなのでまずは色々把握させていただくところからやっていきたいと思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

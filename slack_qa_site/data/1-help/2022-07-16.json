@@ -1,0 +1,146 @@
+[
+    {
+        "client_msg_id": "e9cd7a3b-e718-4195-90d6-dfe8b35bcd99",
+        "type": "message",
+        "text": "お休み中失礼します。\n編集内容が消える事態が起きてしまったため\n復帰のご指南をいただければ幸いです‥\n\n【不具合状況】\n　田中さをりさんのep1 ep2の編集内容の消失\n【こうありたい・こうしたい】\n　編集中の状態に復帰したい\n　(ep1インサート入れ済、ep2インサート入れ中)",
+        "user": "U03NJATSEBH",
+        "ts": "1658014067.776759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3tPyW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お休み中失礼します。\n編集内容が消える事態が起きてしまったため\n復帰のご指南をいただければ幸いです‥\n\n【不具合状況】\n　田中さをりさんのep1 ep2の編集内容の消失\n【こうありたい・こうしたい】\n　編集中の状態に復帰したい\n　(ep1インサート入れ済、ep2インサート入れ中)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1658014067.776759",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1658018152.692989",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U03NJATSEBH"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1658017849.056689"
+            },
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1658018152.692989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1658018152.692989"
+    },
+    {
+        "client_msg_id": "E0C4DF3D-DFBC-47A5-9F1C-88F2BB283A34",
+        "type": "message",
+        "text": "今出先なので、もどったら解決動画あげます！復旧可能です！",
+        "user": "U03CXUXB5PF",
+        "ts": "1658017849.056689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PPp1o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今出先なので、もどったら解決動画あげます！復旧可能です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1658014067.776759",
+        "parent_user_id": "U03NJATSEBH"
+    },
+    {
+        "client_msg_id": "3ce4c7d8-43c9-4c89-9367-9b1ff8752518",
+        "type": "message",
+        "text": "お休み中すみません。ありがとうございます！:pray:",
+        "user": "U03NJATSEBH",
+        "ts": "1658018152.692989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LIm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お休み中すみません。ありがとうございます！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1658014067.776759",
+        "parent_user_id": "U03NJATSEBH"
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663728433.928609",
+        "user": "U03CXUXB5PF",
+        "text": "<@U03CXUXB5PF>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663728480.648929",
+        "user": "U040YCC00V6",
+        "text": "<@U040YCC00V6>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663728480.717179",
+        "user": "U03NJATSEBH",
+        "text": "<@U03NJATSEBH>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663728480.809249",
+        "user": "U03NZ0E09JN",
+        "text": "<@U03NZ0E09JN>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663728480.873189",
+        "user": "U03Q17LBJP3",
+        "text": "<@U03Q17LBJP3>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663728480.932589",
+        "user": "U03QQ3J656Z",
+        "text": "<@U03QQ3J656Z>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663728784.205659",
+        "user": "U03NJGXEPL7",
+        "text": "<@U03NJGXEPL7>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "client_msg_id": "17578c92-ce24-4eba-b4f4-eb2328169c92",
+        "type": "message",
+        "text": "MAを待ってる間にフォーマット、テロップの表記の統一をお願いします\n修正不明点あれば台本の上の方に記入&amp;Slackまで。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663728814.053479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/AW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MAを待ってる間にフォーマット、テロップの表記の統一をお願いします\n修正不明点あれば台本の上の方に記入&Slackまで。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

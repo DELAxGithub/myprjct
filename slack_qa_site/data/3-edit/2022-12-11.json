@@ -1,0 +1,169 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03QQ3J656Z> 9区の61横道のイメージをアップしました。よろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F04F26F3A0Z",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03V84JSHNK",
+        "display_as_bot": false,
+        "ts": "1670766851.776289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Efp9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 9区の61横道のイメージをアップしました。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "c0704b64-bb9d-4af3-a771-ec70f77415a9",
+        "thread_ts": "1670766851.776289",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1670850352.612039",
+        "reply_users": [
+            "U03NZ0E09JN",
+            "U03V84JSHNK"
+        ],
+        "replies": [
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1670818806.693989"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1670818988.608229"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1670850352.612039"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1670850352.612039",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9a1a1cac-247a-4325-b25e-6273553be9e3",
+        "type": "message",
+        "text": "<@U03V84JSHNK>\n61横道のテキストの方はいかがでしょうか。\nイメージとテキストがそろったところで編集１のスタートとなりますのでセットでご連絡をいただけると助かります。",
+        "user": "U03NZ0E09JN",
+        "ts": "1670818806.693989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qr\/3B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n61横道のテキストの方はいかがでしょうか。\nイメージとテキストがそろったところで編集１のスタートとなりますのでセットでご連絡をいただけると助かります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670766851.776289",
+        "parent_user_id": "U03V84JSHNK"
+    },
+    {
+        "client_msg_id": "3A057119-FD86-41D4-B826-297EBBCF0CE8",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> すみません、失念していました。今日夕方以降に着手します。",
+        "user": "U03V84JSHNK",
+        "ts": "1670818988.608229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C8jUU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すみません、失念していました。今日夕方以降に着手します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670766851.776289",
+        "parent_user_id": "U03V84JSHNK",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,779 @@
+[
+    {
+        "type": "message",
+        "text": "<@U04J38PLGM6> お待たせいたしました。取り急ぎ、①・②を作成いたしました。こちらでよろしければ、引き続き③・④も同じテイストで作成いたします。ご確認ください。",
+        "files": [
+            {
+                "id": "F04N4R6C2H3",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04NA7S0FL4",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U041XC6213P",
+        "ts": "1675689351.603529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2RdVA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お待たせいたしました。取り急ぎ、①・②を作成いたしました。こちらでよろしければ、引き続き③・④も同じテイストで作成いたします。ご確認ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "e7c8f815-60dc-4312-9dbb-25f37e892a72",
+        "thread_ts": "1675468926.068479",
+        "parent_user_id": "U04J38PLGM6"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U041XC6213P> ありがとうございます！<@U03CXUXB5PF> 私だけの感覚かもしれないので小寺さんのご意見も伺いたいのですが、今白になっている部分を、淡い茶色系か緑系で染めるというのはありでしょうか？取り切りで出す時、白だと寂しい気がするんですよね。",
+        "user": "U04J38PLGM6",
+        "ts": "1675723797.359499",
+        "thread_ts": "1675468926.068479",
+        "root": {
+            "type": "message",
+            "text": "<@U041XC6213P> <@U03CXUXB5PF>\n72_石田\n以下の地図作成をお願いします。\n部品として白地図と参考画像をお送りしまます。\n①地図　アフリカのケニア　ウガンダ\n・国境入りアフリカ全体の地図（薄い色）に、\nケニアとウガンダだけ目立つ色で塗ってください\n（ケニア、ウガンダの色は分けて）。\n・文字で、「ケニア」「ウガンダ」と入れてください。\n\n以下はケニア国内の地域を示すための地図です。\n首都のナイロビは常に入れたいです。\n②地図　ケニアのグシイ\n・ケニア全体の地図に、*グシイ*の位置をポイントで示したいです。\n（ケニア全体とその周辺、ケニアは国境線ありで色を周囲とは変える）\n・ポイントの隣には、グシイと文字を書いて頂きたいです。\n・ナイロビのポイントとナイロビの文字も入れたいです。\n（首都として入れますが、目立たせたいのはグシイです）\n・添付した参考地図のキシーのところがグシイです。\n・大体ここら辺にグシイ族が住んでいるという地図なので、\n　ポイントの輪郭はぼかした方がいいかもしれません。\n\n③地図　イゲンベ\n・②と同様の方法で、*イゲンベ*のポイントと文字\n\n④ケニア地図　ドゥルマ\n・②と同様の方法で、*ドゥルマ*のポイントと文字\n※「Miritini」モンバサとなっているところが、ドゥルマです。",
+            "files": [
+                {
+                    "id": "F04MMAJDC87",
+                    "mode": "hidden_by_limit"
+                }
+            ],
+            "upload": false,
+            "user": "U04J38PLGM6",
+            "display_as_bot": false,
+            "ts": "1675468926.068479",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "i+ac",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U041XC6213P"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03CXUXB5PF"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n72_石田\n以下の地図作成をお願いします。\n部品として白地図と参考画像をお送りしまます。\n①地図　アフリカのケニア　ウガンダ\n・国境入りアフリカ全体の地図（薄い色）に、\nケニアとウガンダだけ目立つ色で塗ってください\n（ケニア、ウガンダの色は分けて）。\n・文字で、「ケニア」「ウガンダ」と入れてください。\n\n以下はケニア国内の地域を示すための地図です。\n首都のナイロビは常に入れたいです。\n②地図　ケニアのグシイ\n・ケニア全体の地図に、"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "グシイ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "の位置をポイントで示したいです。\n（ケニア全体とその周辺、ケニアは国境線ありで色を周囲とは変える）\n・ポイントの隣には、グシイと文字を書いて頂きたいです。\n・ナイロビのポイントとナイロビの文字も入れたいです。\n（首都として入れますが、目立たせたいのはグシイです）\n・添付した参考地図のキシーのところがグシイです。\n・大体ここら辺にグシイ族が住んでいるという地図なので、\n　ポイントの輪郭はぼかした方がいいかもしれません。\n\n③地図　イゲンベ\n・②と同様の方法で、"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "イゲンベ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "のポイントと文字\n\n④ケニア地図　ドゥルマ\n・②と同様の方法で、"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "ドゥルマ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "のポイントと文字\n※「Miritini」モンバサとなっているところが、ドゥルマです。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "client_msg_id": "de5c6ad9-1cf2-4c74-aa4d-f94e5baa75e7",
+            "thread_ts": "1675468926.068479",
+            "reply_count": 13,
+            "reply_users_count": 3,
+            "latest_reply": "1675752202.795319",
+            "reply_users": [
+                "U041XC6213P",
+                "U04J38PLGM6",
+                "U03CXUXB5PF"
+            ],
+            "replies": [
+                {
+                    "user": "U041XC6213P",
+                    "ts": "1675689351.603529"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1675723797.359499"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1675724119.516489"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1675724412.290519"
+                },
+                {
+                    "user": "U041XC6213P",
+                    "ts": "1675744956.143269"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1675746649.423519"
+                },
+                {
+                    "user": "U041XC6213P",
+                    "ts": "1675747781.284449"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1675747877.236819"
+                },
+                {
+                    "user": "U041XC6213P",
+                    "ts": "1675747928.127889"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1675748113.625189"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1675749919.720759"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1675752139.360419"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1675752202.795319"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1675752202.795319"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pH9k4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます！"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 私だけの感覚かもしれないので小寺さんのご意見も伺いたいのですが、今白になっている部分を、淡い茶色系か緑系で染めるというのはありでしょうか？取り切りで出す時、白だと寂しい気がするんですよね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3401394a-1b96-484a-9425-947662ae6658"
+    },
+    {
+        "client_msg_id": "704692a8-1e76-4ffc-87f8-0009f0ed93ff",
+        "type": "message",
+        "text": "はい、色足していいですが、\nこれ編集的に地図をどうやって使いますかねぇ。\n\n取り切りで１０秒見せるには情報量が少ないので、画面右下にワイプとかかなと。で、そうなると文字のサイズが全く足りなくなるので、文字は別にしてもらうとかでしょうか、って感じ。\n実は地図ってほとんど注釈テロップと扱いとしては同等な気がしています。",
+        "user": "U03CXUXB5PF",
+        "ts": "1675724119.516489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rbB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい、色足していいですが、\nこれ編集的に地図をどうやって使いますかねぇ。\n\n取り切りで１０秒見せるには情報量が少ないので、画面右下にワイプとかかなと。で、そうなると文字のサイズが全く足りなくなるので、文字は別にしてもらうとかでしょうか、って感じ。\n実は地図ってほとんど注釈テロップと扱いとしては同等な気がしています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675468926.068479",
+        "parent_user_id": "U04J38PLGM6"
+    },
+    {
+        "client_msg_id": "8B2E28F3-91DC-4200-8CA5-592BB23DB3B0",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 了解しました。 <@U041XC6213P> \nでは、色あり、文字はバーツとして別でお願いします。",
+        "user": "U04J38PLGM6",
+        "ts": "1675724412.290519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=JDZw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解しました。 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nでは、色あり、文字はバーツとして別でお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675468926.068479",
+        "parent_user_id": "U04J38PLGM6",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U04J38PLGM6> このような感じでよろしいでしょうか。地名のpngは、背景透明です。",
+        "files": [
+            {
+                "id": "F04NCCU4YAE",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04NC9JFFV1",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04NC9JKHKM",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04MXSKHFB9",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04NC9K6L7M",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04NCCVARJ6",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04NESPV2G4",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04NC9KSD35",
+                "mode": "tombstone"
+            },
+            {
+                "id": "F04NESQBDAQ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U041XC6213P",
+        "ts": "1675744956.143269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2gE\/R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " このような感じでよろしいでしょうか。地名のpngは、背景透明です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3632446b-f23d-4e72-8fd4-b43c3c5be1ae",
+        "thread_ts": "1675468926.068479",
+        "parent_user_id": "U04J38PLGM6"
+    },
+    {
+        "client_msg_id": "dda7f64d-81ea-4f2b-b5c0-e98ad525a96f",
+        "type": "message",
+        "text": "<@U041XC6213P> ありがとうございます！\nテイストはこれでいいと思います。グシイとナイロビのピンは、文字とピンを独立させてください。\nよろしくお願いいたします。",
+        "user": "U04J38PLGM6",
+        "ts": "1675746649.423519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ujLY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます！\nテイストはこれでいいと思います。グシイとナイロビのピンは、文字とピンを独立させてください。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675468926.068479",
+        "parent_user_id": "U04J38PLGM6",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U04J38PLGM6> 修正いたしました！ご確認お願いいたします。",
+        "files": [
+            {
+                "id": "F04NCGSMN1Y",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U041XC6213P",
+        "display_as_bot": false,
+        "ts": "1675747781.284449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pZG6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 修正いたしました！ご確認お願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2212cc2e-7267-4abd-b8e5-ee7d9c2d7e31",
+        "thread_ts": "1675468926.068479",
+        "parent_user_id": "U04J38PLGM6"
+    },
+    {
+        "client_msg_id": "477587c1-47e1-42a2-b35b-9dac5497e906",
+        "type": "message",
+        "text": "<@U041XC6213P> ありがとうございます！こちらを編集に回します！",
+        "user": "U04J38PLGM6",
+        "ts": "1675747877.236819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zMhg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます！こちらを編集に回します！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675468926.068479",
+        "parent_user_id": "U04J38PLGM6",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bae040e1-19bf-4a8b-92db-eac46bd81caf",
+        "type": "message",
+        "text": "<@U04J38PLGM6> ありがとうございます！では、奈良県のものも同じテイストで作成いたします。\n\n72石田のai、psd、pngデータをまとめてdropboxに格納しておきますね。",
+        "user": "U041XC6213P",
+        "ts": "1675747928.127889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YYgo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます！では、奈良県のものも同じテイストで作成いたします。\n\n72石田のai、psd、pngデータをまとめてdropboxに格納しておきますね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U041XC6213P",
+            "ts": "1675747975.000000"
+        },
+        "thread_ts": "1675468926.068479",
+        "parent_user_id": "U04J38PLGM6"
+    },
+    {
+        "client_msg_id": "b74c6ffa-531c-4ec0-9d93-fa1b5e65b4d6",
+        "type": "message",
+        "text": "<@U041XC6213P> 格納ありがとうございます！奈良県は、白地図とアイコンだけ渡せばいいかもしれないので、小寺さんのご判断を仰ぎます。\n<@U03CXUXB5PF> いかがでしょうか？",
+        "user": "U04J38PLGM6",
+        "ts": "1675748113.625189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qacG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 格納ありがとうございます！奈良県は、白地図とアイコンだけ渡せばいいかもしれないので、小寺さんのご判断を仰ぎます。\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " いかがでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675468926.068479",
+        "parent_user_id": "U04J38PLGM6"
+    },
+    {
+        "client_msg_id": "d7ae7e16-224f-48aa-8556-ac1f9c52728e",
+        "type": "message",
+        "text": "編集の方で使うにあたって[決まり]に今後も使いそうなのは入れときましょうかね。\nワイプのサイズとか決めたいけど。",
+        "user": "U03CXUXB5PF",
+        "ts": "1675749919.720759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cZo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "編集の方で使うにあたって[決まり]に今後も使いそうなのは入れときましょうかね。\nワイプのサイズとか決めたいけど。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675468926.068479",
+        "parent_user_id": "U04J38PLGM6"
+    },
+    {
+        "client_msg_id": "3c8f244d-c35a-4556-835e-ac1326ac4fce",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U041XC6213P> ワイプのサイズ、ピンの大きさ、文字の大きさを一度固めて、テンプレとして提示。次回以降は白地図とピンで対応して頂くという感じですかね。",
+        "user": "U04J38PLGM6",
+        "ts": "1675752139.360419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mt7Jv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ワイプのサイズ、ピンの大きさ、文字の大きさを一度固めて、テンプレとして提示。次回以降は白地図とピンで対応して頂くという感じですかね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675468926.068479",
+        "parent_user_id": "U04J38PLGM6"
+    },
+    {
+        "client_msg_id": "fae24374-c721-4dd1-b3a3-9622ac11e511",
+        "type": "message",
+        "text": "そうしましょうー",
+        "user": "U03CXUXB5PF",
+        "ts": "1675752202.795319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WKG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうしましょうー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675468926.068479",
+        "parent_user_id": "U04J38PLGM6",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

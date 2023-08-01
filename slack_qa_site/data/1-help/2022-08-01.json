@@ -1,0 +1,1141 @@
+[
+    {
+        "client_msg_id": "f369978e-1ac6-4ce4-9dd8-bda107763a7e",
+        "type": "message",
+        "text": "お世話になっております。何度も申し訳ございません。\n\n• 不具合状況\n映像が小さくなる\n\n• こうありたい・こうしたい\n映像を元の大きさに戻したい\n\n• 試したこと\n上記のプロキシー切り替え、プロジェクトを立て直す\nフレームサイズの変更\nプロキシーの繋ぎかえ\n\n以上試したのですが映像が元に戻りません。\n大変申し訳ないのですがここからどのように対応すればいいのか\n自身では分かりかねます。\nご確認いただけないでしょうか？\n\n何卒よろしくお願いいたします。",
+        "user": "U03RDSN3ZMG",
+        "ts": "1659354902.764839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PfbO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お世話になっております。何度も申し訳ございません。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "不具合状況"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "映像が小さくなる\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "こうありたい・こうしたい"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "映像を元の大きさに戻したい\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "試したこと"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "上記のプロキシー切り替え、プロジェクトを立て直す\nフレームサイズの変更\nプロキシーの繋ぎかえ\n\n以上試したのですが映像が元に戻りません。\n大変申し訳ないのですがここからどのように対応すればいいのか\n自身では分かりかねます。\nご確認いただけないでしょうか？\n\n何卒よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ba4756d9ff45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-28\/3852142960871_ba4756d9ff450cdff3d5_72.png",
+            "first_name": "村井希",
+            "real_name": "村井希",
+            "display_name": "Murai Nozomi",
+            "team": "T03CU6RQ154",
+            "name": "fukuoka.nozomi620",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "reply_count": 51,
+        "reply_users_count": 4,
+        "latest_reply": "1659519032.628499",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U03RDSN3ZMG",
+            "U03NZ0E09JN",
+            "U03HJRZK295"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1659355345.489799"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1659355628.573119"
+            },
+            {
+                "user": "U03RDSN3ZMG",
+                "ts": "1659361387.651809"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1659362272.887189"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1659362313.492219"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1659362490.920029"
+            },
+            {
+                "user": "U03RDSN3ZMG",
+                "ts": "1659393189.611629"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1659393411.449649"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1659393513.091119"
+            },
+            {
+                "user": "U03RDSN3ZMG",
+                "ts": "1659395218.217989"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1659395491.988339"
+            },
+            {
+                "user": "U03RDSN3ZMG",
+                "ts": "1659430806.631149"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1659430983.304549"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1659431580.279789"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1659432289.416459"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1659432368.334259"
+            },
+            {
+                "user": "U03RDSN3ZMG",
+                "ts": "1659432753.355109"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1659432824.201779"
+            },
+            {
+                "user": "U03RDSN3ZMG",
+                "ts": "1659438782.619809"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1659438905.363619"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1659441972.695539"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1659442026.576239"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1659442328.678789"
+            },
+            {
+                "user": "U03RDSN3ZMG",
+                "ts": "1659442332.451519"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1659442420.634969"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1659442448.669919"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1659442549.451199"
+            },
+            {
+                "user": "U03HJRZK295",
+                "ts": "1659442611.872049"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1659442626.603719"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1659444197.594819"
+            },
+            {
+                "user": "U03RDSN3ZMG",
+                "ts": "1659444462.468869"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1659445320.487099"
+            },
+            {
+                "user": "U03RDSN3ZMG",
+                "ts": "1659445492.057519"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1659445608.366219"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1659445643.347379"
+            },
+            {
+                "user": "U03RDSN3ZMG",
+                "ts": "1659446451.400769"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1659446860.219029"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1659446895.395899"
+            },
+            {
+                "user": "U03RDSN3ZMG",
+                "ts": "1659447710.354039"
+            },
+            {
+                "user": "U03HJRZK295",
+                "ts": "1659447749.861399"
+            },
+            {
+                "user": "U03RDSN3ZMG",
+                "ts": "1659478828.278959"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1659486792.098599"
+            },
+            {
+                "user": "U03HJRZK295",
+                "ts": "1659493220.744239"
+            },
+            {
+                "user": "U03RDSN3ZMG",
+                "ts": "1659493597.849959"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1659495092.475259"
+            },
+            {
+                "user": "U03RDSN3ZMG",
+                "ts": "1659517322.898699"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1659517454.951199"
+            },
+            {
+                "user": "U03HJRZK295",
+                "ts": "1659518655.252839"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1659518740.980519"
+            },
+            {
+                "user": "U03HJRZK295",
+                "ts": "1659518878.559459"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1659519032.628499"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1659519032.628499"
+    },
+    {
+        "client_msg_id": "23213bdb-f7ad-4837-b098-c991b4e93ce2",
+        "type": "message",
+        "text": "フレームサイズ変更は関係ないので、プロキシー問題だと思います。",
+        "user": "U03CXUXB5PF",
+        "ts": "1659355345.489799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "owHd5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "フレームサイズ変更は関係ないので、プロキシー問題だと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "type": "message",
+        "text": "<@U03RDSN3ZMG> ちなみに2Q1を開いても同様ですか？\nDropboxにProxyがローカルにないとダメなので、選択しているこの名前のものをDropboxローカルにとってきて、\n21田中_PRを立ち上げて見てもらえますか？",
+        "files": [
+            {
+                "id": "F03RCTLJQRM",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1659355628.573119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qQTi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RDSN3ZMG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ちなみに2Q1を開いても同様ですか？\nDropboxにProxyがローカルにないとダメなので、選択しているこの名前のものをDropboxローカルにとってきて、\n21田中_PRを立ち上げて見てもらえますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7332c07c-91cc-4811-8170-8da4d02ea7e0",
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "281d39f4-a73d-40fa-b54b-f53be30728dc",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 2Q1を開いて繋げてみました。\nこちらでは映像が小さくなることなく対応可能でした。\n中野先生の「157_0138．MXF」だけが何故か映像小さくなります。\n因みに映像が小さくなっていたのはプロキシにつなげる前からで、プロジェクトを初めて開いた時から映像は小さく表示されておりました。",
+        "user": "U03RDSN3ZMG",
+        "ts": "1659361387.651809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q6Cj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 2Q1を開いて繋げてみました。\nこちらでは映像が小さくなることなく対応可能でした。\n中野先生の「157_0138．MXF」だけが何故か映像小さくなります。\n因みに映像が小さくなっていたのはプロキシにつなげる前からで、プロジェクトを初めて開いた時から映像は小さく表示されておりました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ba4756d9ff45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-28\/3852142960871_ba4756d9ff450cdff3d5_72.png",
+            "first_name": "村井希",
+            "real_name": "村井希",
+            "display_name": "Murai Nozomi",
+            "team": "T03CU6RQ154",
+            "name": "fukuoka.nozomi620",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "type": "message",
+        "text": "<@U03RDSN3ZMG> 検証ありがとうございます。土井さんのが小さいですね、、これはこれで作業に支障が出そうですが、一旦中野さんのオリジナルシーケンスを覗いたところ、なぜか土井さんのがありました。\n\n<@U03HJRZK295> もう一回中野さんのプロキシー作りからお願いしてもいいですか？\nいまドロップボックスにあるProxyファイルを削除した上で、\n元素材をインポート→マルチトラック作成→処理ずみフォルダに入った中野さんの元素材からプロキシー作成",
+        "files": [
+            {
+                "id": "F03RMD801K8",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1659362272.887189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KRLkZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RDSN3ZMG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 検証ありがとうございます。土井さんのが小さいですね、、これはこれで作業に支障が出そうですが、一旦中野さんのオリジナルシーケンスを覗いたところ、なぜか土井さんのがありました。\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " もう一回中野さんのプロキシー作りからお願いしてもいいですか？\nいまドロップボックスにあるProxyファイルを削除した上で、\n元素材をインポート→マルチトラック作成→処理ずみフォルダに入った中野さんの元素材からプロキシー作成"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "26aea5d3-576b-41ae-bfac-f837ad6774a4",
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "c4153a85-7fad-445e-9e57-cd728f16a761",
+        "type": "message",
+        "text": "<@U03HJRZK295>\npremiereにある中野素材系も捨てるところからだと思います。ご不明な点があれば何なりとおしらせください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1659362313.492219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CAS\/C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\npremiereにある中野素材系も捨てるところからだと思います。ご不明な点があれば何なりとおしらせください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "type": "message",
+        "text": "中野さんの元素材がこの二つしかなくて一個足りないのも原因かも。\nあと、土井さんもなんか変ですね。。",
+        "files": [
+            {
+                "id": "F03S6MPUMB3",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F03RMEN3LH4",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "ts": "1659362490.920029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VvhZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "中野さんの元素材がこの二つしかなくて一個足りないのも原因かも。\nあと、土井さんもなんか変ですね。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a9d0d709-f938-4e42-9fc5-ea7fc2a772ab",
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "c860d2f6-8c92-4121-a367-f10efb240d16",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n因みに、Dropboxから直接プロキシーに追加しようとするとエラーが出るので\n一旦PCに動画を複製させてから繋げたのですが\nそれも原因の一つになりうるのでしょうか？",
+        "user": "U03RDSN3ZMG",
+        "ts": "1659393189.611629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lxqH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n因みに、Dropboxから直接プロキシーに追加しようとするとエラーが出るので\n一旦PCに動画を複製させてから繋げたのですが\nそれも原因の一つになりうるのでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ba4756d9ff45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-28\/3852142960871_ba4756d9ff450cdff3d5_72.png",
+            "first_name": "村井希",
+            "real_name": "村井希",
+            "display_name": "Murai Nozomi",
+            "team": "T03CU6RQ154",
+            "name": "fukuoka.nozomi620",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "ebea2ffe-b8cd-46b0-981e-889e2fe9a2dc",
+        "type": "message",
+        "text": "なるほど、あり得るかもですね。。\n\nProxyはpremierでどう扱われてるかのメタ情報をpremiereで作成したときに付与されて、それのおかげで編集後に元データに繋ぎ直せたりするっていうイメージです。\nコピーすると、なんかメタデータが削除されたこざっぱりした単なる小さい動画になってしまったとかそういうことかも。\n\ndropboxから直接追加しようとした時のエラーって、もしかしてDropboxに全部ダウンロードしきってなかっただけとかってあり得ます？\n\nローカルに保存中だとファイル名とは来てても、ファイルが不十分だったりするのでうまくつながらないとかはあり得ます。",
+        "user": "U03CXUXB5PF",
+        "ts": "1659393411.449649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OHk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど、あり得るかもですね。。\n\nProxyはpremierでどう扱われてるかのメタ情報をpremiereで作成したときに付与されて、それのおかげで編集後に元データに繋ぎ直せたりするっていうイメージです。\nコピーすると、なんかメタデータが削除されたこざっぱりした単なる小さい動画になってしまったとかそういうことかも。\n\ndropboxから直接追加しようとした時のエラーって、もしかしてDropboxに全部ダウンロードしきってなかっただけとかってあり得ます？\n\nローカルに保存中だとファイル名とは来てても、ファイルが不十分だったりするのでうまくつながらないとかはあり得ます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "type": "message",
+        "text": "ダウンロードが完了すると、ファイルの横に緑マークがついたり、右クリックしたときに「オンラインのみにする（＝逆にいうとオフラインにありますという意味）」とか、サイズがそもそもちゃんとあるとか、スマートシンクとか、まぁなんかしら判別できます。\nDropboxのファイルが来てるかどうか確認できますか？",
+        "files": [
+            {
+                "id": "F03RZ5QJZEG",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1659393513.091119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fpEYg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ダウンロードが完了すると、ファイルの横に緑マークがついたり、右クリックしたときに「オンラインのみにする（＝逆にいうとオフラインにありますという意味）」とか、サイズがそもそもちゃんとあるとか、スマートシンクとか、まぁなんかしら判別できます。\nDropboxのファイルが来てるかどうか確認できますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1659393532.000000"
+        },
+        "client_msg_id": "332e0d8b-719a-4708-a1bd-b120a4921f98",
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "1E9ACC93-F376-4B45-A516-BA5DFF2660E5",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> \n一応Dropboxではダウンロードできていると表示があり、動画アイコンの右下には緑色のチェックが入っておりました。(チェックがはいっていない時につなげようとした時もありましたが、その時はDropboxの動画ファイルすら表示されませんでした)\nまた、PC内に複製した時の動画アイコンには赤色のマークがついておりました。\n田中先生の時もDropboxから直接プロキシーに繋げることができなかったのでPC内に複製させてから繋げたのですが、映像が小さくなることなく対応できました。",
+        "user": "U03RDSN3ZMG",
+        "ts": "1659395218.217989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C7Hlc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "一応Dropboxではダウンロードできていると表示があり、動画アイコンの右下には緑色のチェックが入っておりました。(チェックがはいっていない時につなげようとした時もありましたが、その時はDropboxの動画ファイルすら表示されませんでした)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "また、PC内に複製した時の動画アイコンには赤色のマークがついておりました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "田中先生の時もDropboxから直接プロキシーに繋げることができなかったのでPC内に複製させてから繋げたのですが、映像が小さくなることなく対応できました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ba4756d9ff45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-28\/3852142960871_ba4756d9ff450cdff3d5_72.png",
+            "first_name": "村井希",
+            "real_name": "村井希",
+            "display_name": "Murai Nozomi",
+            "team": "T03CU6RQ154",
+            "name": "fukuoka.nozomi620",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "なんでしょうねぇ。\nとはいえ、僕の方でも不具合見つかってるので、Proxyの差し替えでひとまず対応したいと思います。\n\n<@U03HJRZK295> というわけで、再変換お願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1659395491.988339",
+        "thread_ts": "1659354902.764839",
+        "root": {
+            "client_msg_id": "f369978e-1ac6-4ce4-9dd8-bda107763a7e",
+            "type": "message",
+            "text": "お世話になっております。何度も申し訳ございません。\n\n• 不具合状況\n映像が小さくなる\n\n• こうありたい・こうしたい\n映像を元の大きさに戻したい\n\n• 試したこと\n上記のプロキシー切り替え、プロジェクトを立て直す\nフレームサイズの変更\nプロキシーの繋ぎかえ\n\n以上試したのですが映像が元に戻りません。\n大変申し訳ないのですがここからどのように対応すればいいのか\n自身では分かりかねます。\nご確認いただけないでしょうか？\n\n何卒よろしくお願いいたします。",
+            "user": "U03RDSN3ZMG",
+            "ts": "1659354902.764839",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "PfbO",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "お世話になっております。何度も申し訳ございません。\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "不具合状況"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "映像が小さくなる\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "こうありたい・こうしたい"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "映像を元の大きさに戻したい\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "試したこと"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "上記のプロキシー切り替え、プロジェクトを立て直す\nフレームサイズの変更\nプロキシーの繋ぎかえ\n\n以上試したのですが映像が元に戻りません。\n大変申し訳ないのですがここからどのように対応すればいいのか\n自身では分かりかねます。\nご確認いただけないでしょうか？\n\n何卒よろしくお願いいたします。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1659354902.764839",
+            "reply_count": 51,
+            "reply_users_count": 4,
+            "latest_reply": "1659519032.628499",
+            "reply_users": [
+                "U03CXUXB5PF",
+                "U03RDSN3ZMG",
+                "U03NZ0E09JN",
+                "U03HJRZK295"
+            ],
+            "replies": [
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659355345.489799"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659355628.573119"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659361387.651809"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659362272.887189"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659362313.492219"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659362490.920029"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659393189.611629"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659393411.449649"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659393513.091119"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659395218.217989"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659395491.988339"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659430806.631149"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659430983.304549"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659431580.279789"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659432289.416459"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659432368.334259"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659432753.355109"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659432824.201779"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659438782.619809"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659438905.363619"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659441972.695539"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659442026.576239"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659442328.678789"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659442332.451519"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659442420.634969"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659442448.669919"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659442549.451199"
+                },
+                {
+                    "user": "U03HJRZK295",
+                    "ts": "1659442611.872049"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659442626.603719"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659444197.594819"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659444462.468869"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659445320.487099"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659445492.057519"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659445608.366219"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659445643.347379"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659446451.400769"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659446860.219029"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659446895.395899"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659447710.354039"
+                },
+                {
+                    "user": "U03HJRZK295",
+                    "ts": "1659447749.861399"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659478828.278959"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659486792.098599"
+                },
+                {
+                    "user": "U03HJRZK295",
+                    "ts": "1659493220.744239"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659493597.849959"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659495092.475259"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659517322.898699"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659517454.951199"
+                },
+                {
+                    "user": "U03HJRZK295",
+                    "ts": "1659518655.252839"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659518740.980519"
+                },
+                {
+                    "user": "U03HJRZK295",
+                    "ts": "1659518878.559459"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659519032.628499"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1659519032.628499"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XG4XH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なんでしょうねぇ。\nとはいえ、僕の方でも不具合見つかってるので、Proxyの差し替えでひとまず対応したいと思います。\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " というわけで、再変換お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "28a23d51-9829-4af8-9a30-f0b2ab0e6b10",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03HJRZK295"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

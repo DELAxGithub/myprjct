@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "f9be280d-fcfd-45ca-a238-9179bde7b295",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> おそらく大丈夫かと思います。よろしくお願いします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1667992408.552829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gmy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " おそらく大丈夫かと思います。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667964302.614469",
+        "parent_user_id": "U03NZ0E09JN",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

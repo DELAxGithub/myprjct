@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "21284dff-431c-47e7-a925-73ea984f6aee",
+        "type": "message",
+        "text": "なんか半端ですが、ここの5本終わったんで閉じますーお疲れ様でしたー",
+        "user": "U03CXUXB5PF",
+        "ts": "1679610465.436849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pA=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なんか半端ですが、ここの5本終わったんで閉じますーお疲れ様でしたー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

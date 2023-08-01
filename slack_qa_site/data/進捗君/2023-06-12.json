@@ -1,0 +1,82 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03RA83HRN0> #106-1総集編 朝倉で変更がありました\n変更前：返事待ち\n変更後：本人編集\n担当者は石橋です",
+        "ts": "1686566398.667719",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g6eL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #106-1総集編 朝倉で変更がありました\n変更前：返事待ち\n変更後：本人編集\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03RA83HRN0> #106-4総集編 スゴ本で変更がありました\n変更前：返事待ち\n変更後：本人編集\n担当者は石橋です",
+        "ts": "1686566399.657149",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tAzGf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #106-4総集編 スゴ本で変更がありました\n変更前：返事待ち\n変更後：本人編集\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#103清水晶子で変更がありました\n変更前：納品試写\n変更後：納品済み\n担当者は辻井です",
+        "ts": "1686566439.810699",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7PNxg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#103清水晶子で変更がありました\n変更前：納品試写\n変更後：納品済み\n担当者は辻井です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

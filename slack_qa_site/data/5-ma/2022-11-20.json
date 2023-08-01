@@ -1,0 +1,504 @@
+[
+    {
+        "client_msg_id": "dffdeedb-b172-42cd-ab36-909caac03e20",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> 遅くなり恐縮です。データ拝見いたします！",
+        "user": "U03NJATSEBH",
+        "ts": "1668945325.109009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RmV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 遅くなり恐縮です。データ拝見いたします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668840017.785419",
+        "parent_user_id": "U03G0LAPT3N",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03G0LAPT3N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b7b30865-cb2d-4788-940f-ecff29eb5fb9",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> <@U03CXUXB5PF>\n47平藤のMA用QTとOMFをアップいたしましたので\nご確認いただけますと幸いです。\nPRのみ、私のミスで動画の尺が長くなってしまいました(エンド後の黒味)\nもし不都合があれば、お手数ですがお知らせくださいませ:woman-bowing:",
+        "user": "U03NJATSEBH",
+        "ts": "1668998062.635119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+lD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n47平藤のMA用QTとOMFをアップいたしましたので\nご確認いただけますと幸いです。\nPRのみ、私のミスで動画の尺が長くなってしまいました(エンド後の黒味)\nもし不都合があれば、お手数ですがお知らせくださいませ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668998062.635119",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1668998702.806259",
+        "reply_users": [
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1668998702.806259"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1668998702.806259"
+    },
+    {
+        "client_msg_id": "7DC249FA-DA13-4B19-85C5-DBB58FC82D74",
+        "type": "message",
+        "text": "確認させていただきます。",
+        "user": "U03G0LAPT3N",
+        "ts": "1668998702.806259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PQg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "確認させていただきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668998062.635119",
+        "parent_user_id": "U03NJATSEBH",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03G0LAPT3N> <@U03CXUXB5PF>\n【45藤垣】試写2.0修正\nすみません。確認になります:woman-bowing:\nクライアントより、BGMに関して細かめの指摘が来ておりまして…(添付画像)\n実際の指示箇所の動画も添付しております。\nこういった場合、元BGMがこうであったりあえての処理という\n認識で私はおりますが、よろしいでしょうか。",
+        "files": [
+            {
+                "id": "F04BBUDAZP1",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04CG66EKH6",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04BBUDG015",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04BBUFLJLX",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04BSBZ5FHR",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04BSF1CJD8",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NJATSEBH",
+        "ts": "1669003390.063039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iPzG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【45藤垣】試写2.0修正\nすみません。確認になります"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nクライアントより、BGMに関して細かめの指摘が来ておりまして…(添付画像)\n実際の指示箇所の動画も添付しております。\nこういった場合、元BGMがこうであったりあえての処理という\n認識で私はおりますが、よろしいでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5cb0726a-ac7b-44fe-87f4-fb951773c516",
+        "thread_ts": "1669003390.063039",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1669011792.891179",
+        "reply_users": [
+            "U03G0LAPT3N",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1669003641.660849"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1669003684.151319"
+            },
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1669011792.891179"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1669011792.891179"
+    },
+    {
+        "client_msg_id": "48A631BE-0D29-4464-8D72-04312C8EF65E",
+        "type": "message",
+        "text": "確認します。",
+        "user": "U03G0LAPT3N",
+        "ts": "1669003641.660849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J4s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "確認します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669003390.063039",
+        "parent_user_id": "U03NJATSEBH"
+    },
+    {
+        "client_msg_id": "0309707f-91f9-46d6-91a7-f19b59eef2e6",
+        "type": "message",
+        "text": "<@U03NJATSEBH> ありがとうございます\n<@U03G0LAPT3N> これ音楽のつけ間違いじゃないでしょうし、こういうBGMです、って言えばそれでいいんですが、、まぁこういうところにひっかる人たちということです。\nもう付き合ってるとキリないので、一応。",
+        "user": "U03CXUXB5PF",
+        "ts": "1669003684.151319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pjw0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " これ音楽のつけ間違いじゃないでしょうし、こういうBGMです、って言えばそれでいいんですが、、まぁこういうところにひっかる人たちということです。\nもう付き合ってるとキリないので、一応。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669003390.063039",
+        "parent_user_id": "U03NJATSEBH"
+    },
+    {
+        "type": "message",
+        "text": "45フジガキさん、上記の３つの箇所を修正いたしました。\n04m07sの場面は、2バージョンの曲を出力してます。引き継ぎ（PDF）にも記載されてます。\nご確認よろしくお願いします。",
+        "files": [
+            {
+                "id": "F04CGGBQ8E4",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1669011684.164749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7T0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "45フジガキさん、上記の３つの箇所を修正いたしました。\n04m07sの場面は、2バージョンの曲を出力してます。引き継ぎ（PDF）にも記載されてます。\nご確認よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8E4FFA4E-A74B-404F-9D82-60438E229E8C",
+        "thread_ts": "1669011684.164749",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1669013486.416229",
+        "reply_users": [
+            "U03NJATSEBH"
+        ],
+        "replies": [
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1669013486.416229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "BAB1D9DF-D9FD-4467-81A2-4877AB7D9CE1",
+        "type": "message",
+        "text": "意図的な編集ではありましたが、リバーブの量を増やして修正させていただきました。\n今後は、リバーブ量を増やして対応させていただきますので、この手の修正依頼はなくなる方向にしていきたいと思っています。よろしくお願いします。",
+        "user": "U03G0LAPT3N",
+        "ts": "1669011792.891179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lBxq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "意図的な編集ではありましたが、リバーブの量を増やして修正させていただきました。\n今後は、リバーブ量を増やして対応させていただきますので、この手の修正依頼はなくなる方向にしていきたいと思っています。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669003390.063039",
+        "parent_user_id": "U03NJATSEBH",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "46981410-1aea-425b-87b0-c5d70e86a3c5",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> ご対応ありがとうございます！確認させていただきます。",
+        "user": "U03NJATSEBH",
+        "ts": "1669013486.416229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PRN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ご対応ありがとうございます！確認させていただきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669011684.164749",
+        "parent_user_id": "U03G0LAPT3N"
+    }
+]

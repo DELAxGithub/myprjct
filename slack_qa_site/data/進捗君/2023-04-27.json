@@ -1,0 +1,26 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#92斉藤幸平で変更がありました\n変更前：編集アップ\n変更後：技術確認\n担当者は濱地です",
+        "ts": "1682587189.962089",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1imSI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#92斉藤幸平で変更がありました\n変更前：編集アップ\n変更後：技術確認\n担当者は濱地です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

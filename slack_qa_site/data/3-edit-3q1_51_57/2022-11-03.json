@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "dba511d4-ccf7-465d-abc0-9b4809ab70eb",
+        "type": "message",
+        "text": "<@U03V84JSHNK> 51湯澤、52志田の台本できました。テロップは少々お待ちください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667492308.846869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GMDj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 51湯澤、52志田の台本できました。テロップは少々お待ちください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

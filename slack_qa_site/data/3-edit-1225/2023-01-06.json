@@ -1,0 +1,105 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 60阿部　翻訳部分の確認をお願いします。\nここ以外はクリアできているので、確認次第試写2に回します",
+        "files": [
+            {
+                "id": "F04J5AU8R8R",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03Q17LBJP3",
+        "display_as_bot": false,
+        "ts": "1673001704.932309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SBqHp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 60阿部　翻訳部分の確認をお願いします。\nここ以外はクリアできているので、確認次第試写2に回します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "80af089a-402d-418f-b14a-0801302c0ae5"
+    },
+    {
+        "client_msg_id": "2c6156a9-084c-4744-9643-e51081fa451b",
+        "type": "message",
+        "text": "<@U03Q17LBJP3>60阿部さんですが、ご本人に翻訳お願いしようと思っていますので、一旦これで書き出しいただけるとありがたいです　よろしくお願いいたします！",
+        "user": "U03CXUXB5PF",
+        "ts": "1673050297.861809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tgPGc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "60阿部さんですが、ご本人に翻訳お願いしようと思っていますので、一旦これで書き出しいただけるとありがたいです　よろしくお願いいたします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673050297.861809",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1673154126.227219",
+        "reply_users": [
+            "U03Q17LBJP3"
+        ],
+        "replies": [
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1673154126.227219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1673154126.227219",
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

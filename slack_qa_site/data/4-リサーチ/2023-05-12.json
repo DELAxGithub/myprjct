@@ -1,0 +1,66 @@
+[
+    {
+        "client_msg_id": "7c6d802a-b2c2-4fa1-a232-522fef88442c",
+        "type": "message",
+        "text": "ここ、フリー素材を各サイトから横断検索できるみたいなんで、よかったらどうぞ！\n<https:\/\/www.tadapic.com\/>",
+        "user": "U03V84JSHNK",
+        "ts": "1683888379.130869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pCh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ここ、フリー素材を各サイトから横断検索できるみたいなんで、よかったらどうぞ！\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.tadapic.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.tadapic.com\/",
+                "service_icon": "https:\/\/www.tadapic.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.tadapic.com\/",
+                "fallback": "フリー素材、無料画像の横断検索サイトNo.1【タダピク】",
+                "text": "商用利用OK・クレジット表示も不要の画像素材検索エンジンです。キーワードから複数の画像素材サイトを横断検索できます。",
+                "title": "フリー素材、無料画像の横断検索サイトNo.1【タダピク】",
+                "title_link": "https:\/\/www.tadapic.com\/",
+                "service_name": "tadapic.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

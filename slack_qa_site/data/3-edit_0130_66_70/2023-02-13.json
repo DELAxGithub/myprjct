@@ -1,0 +1,286 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U04J38PLGM6>\n松田ep1 イメージ追加と原書の確認をお願いします。",
+        "files": [
+            {
+                "id": "F04PFGLGX7D",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04P14DQH7Z",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04P92FGJS2",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03Q17LBJP3",
+        "ts": "1676347448.281469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w2F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n松田ep1 イメージ追加と原書の確認をお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "d3243a4d-cf1d-4a3b-b837-189cce94e228",
+        "thread_ts": "1676347448.281469",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1676351465.593479",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1676351465.593479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1676351465.593479"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U04J38PLGM6>\n松田ep2，3 こちらもイメージ、voiceの修正をお願いします。",
+        "files": [
+            {
+                "id": "F04PUA1ENKB",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04P933431C",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04P93KB65C",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04PFHURAAX",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03Q17LBJP3",
+        "ts": "1676348143.478029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ISamE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n松田ep2，3 こちらもイメージ、voiceの修正をお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "85baee9f-fd93-4c10-9ee9-e58a5c698366"
+    },
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3>\n松田のイメージとボイス入れました。\n一つ確認です。\nep3の０５４９にジョン・ミルトンの肖像画が入っていますが、\nそれとは別なのを入れる必要がありますか？",
+        "files": [
+            {
+                "id": "F04P1A2G43H",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1676351465.593479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R\/jz9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n松田のイメージとボイス入れました。\n一つ確認です。\nep3の０５４９にジョン・ミルトンの肖像画が入っていますが、\nそれとは別なのを入れる必要がありますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5e01bbea-938d-43e7-ad62-f45b2ff4ff0c",
+        "thread_ts": "1676347448.281469",
+        "parent_user_id": "U03Q17LBJP3",
+        "subtype": "thread_broadcast",
+        "root": {
+            "type": "message",
+            "text": "<@U03CXUXB5PF> <@U04J38PLGM6>\n松田ep1 イメージ追加と原書の確認をお願いします。",
+            "files": [
+                {
+                    "id": "F04PFGLGX7D",
+                    "mode": "hidden_by_limit"
+                },
+                {
+                    "id": "F04P14DQH7Z",
+                    "mode": "hidden_by_limit"
+                },
+                {
+                    "id": "F04P92FGJS2",
+                    "mode": "hidden_by_limit"
+                }
+            ],
+            "upload": false,
+            "user": "U03Q17LBJP3",
+            "ts": "1676347448.281469",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "w2F",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03CXUXB5PF"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n松田ep1 イメージ追加と原書の確認をお願いします。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "client_msg_id": "d3243a4d-cf1d-4a3b-b837-189cce94e228",
+            "thread_ts": "1676347448.281469",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1676351465.593479",
+            "reply_users": [
+                "U04J38PLGM6"
+            ],
+            "replies": [
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1676351465.593479"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1676351465.593479"
+        },
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "69114b1c-321d-41e2-af59-04472395384c",
+        "type": "message",
+        "text": "一緒な肖像画でいいですー",
+        "user": "U03CXUXB5PF",
+        "ts": "1676351581.268299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JNtq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一緒な肖像画でいいですー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

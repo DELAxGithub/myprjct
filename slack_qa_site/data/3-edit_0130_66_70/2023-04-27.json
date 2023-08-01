@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "e722cab5-b681-474f-bfc2-6ac127527650",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n67松田　試写2.2アップしました。\nリンクURLは下記になります。よろしくお願いします。\n<https:\/\/www.dropbox.com\/t\/lb0ImFcCBZUPVlhh>",
+        "user": "U03Q17LBJP3",
+        "ts": "1682585472.166999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LDW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n67松田　試写2.2アップしました。\nリンクURLは下記になります。よろしくお願いします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/t\/lb0ImFcCBZUPVlhh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03Q17LBJP3",
+            "ts": "1682585691.000000"
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/uc200d78874a3e51755648595428.previews.dropboxusercontent.com\/p\/thumb\/AB5n-J3Jxjrowai2_jvFvr6yjLR4Piv9x4E-trmpA5d9zJOLmK0ozLKtE2mUEjOd-rWKtDo1nF0qyaUr3Mr6spMxy6USi4SN6SRT8lEvE6133leebRoJWPu4ZGp-ajqLjTsiTmSERr-wVvcuGmsj1e-RYHxE4mtq51DlnKpRzYvalE-AG0bbYeIhsvQgCDDvWER6cxwsWoTaejovGq2qkO6gc-YX5uKiAE20se7J1nu6EAmi_xixu_qCSzI5lJi6UjLvXalz6ux5wcj3L7vWh8cGT8_io18fd_GcCOHGM-jGILuXQXuzTCcmVr8bKdopa_k\/p.png",
+                "image_width": 392,
+                "image_height": 220,
+                "image_bytes": 114880,
+                "from_url": "https:\/\/www.dropbox.com\/t\/lb0ImFcCBZUPVlhh",
+                "id": 1,
+                "original_url": "https:\/\/www.dropbox.com\/t\/lb0ImFcCBZUPVlhh",
+                "fallback": "Dropbox: おかのゆきこ sent you 2 items",
+                "text": "67_松田_ep1_試写2.2.mp4 + 1 more item",
+                "title": "おかのゆきこ sent you 2 items",
+                "title_link": "https:\/\/www.dropbox.com\/t\/lb0ImFcCBZUPVlhh",
+                "service_name": "Dropbox"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3>\n作ってみました。いかがでしょうか？\nだめだったら直します。",
+        "files": [
+            {
+                "id": "F04MLV0D5N1",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1675325894.285429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SaMs0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n作ってみました。いかがでしょうか？\nだめだったら直します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "e8ab0033-3acd-455f-8a96-f932d758e8c1",
+        "thread_ts": "1675079971.522909",
+        "parent_user_id": "U03Q17LBJP3",
+        "subtype": "thread_broadcast",
+        "root": {
+            "type": "message",
+            "text": "<@U04J38PLGM6> 67松田　トーン修正で再NAお願いします。\n「実に→自己→実現↓」を「実↑に→自己↑実現↑」ということだと思います｡｡｡",
+            "files": [
+                {
+                    "id": "F04MGBK3RFB",
+                    "mode": "hidden_by_limit"
+                }
+            ],
+            "upload": false,
+            "user": "U03Q17LBJP3",
+            "display_as_bot": false,
+            "ts": "1675079971.522909",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "1Dg",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 67松田　トーン修正で再NAお願いします。\n「実に→自己→実現↓」を「実↑に→自己↑実現↑」ということだと思います｡｡｡"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "client_msg_id": "a1c9c37d-54bf-435d-9362-2e91ef6cb458",
+            "thread_ts": "1675079971.522909",
+            "reply_count": 4,
+            "reply_users_count": 2,
+            "latest_reply": "1675325894.285429",
+            "reply_users": [
+                "U03CXUXB5PF",
+                "U04J38PLGM6"
+            ],
+            "replies": [
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1675284044.191229"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1675321330.903359"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1675322453.563689"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1675325894.285429"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1675325894.285429"
+        },
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "298fd368-1e5e-448f-ae6f-1ec7499e8575",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nこちらの注釈テロップについてもよろしくお願いいたします。\nメンションされてなかったので念のためメンションさせていただきました。",
+        "user": "U03NZ0E09JN",
+        "ts": "1675394308.554939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YOd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこちらの注釈テロップについてもよろしくお願いいたします。\nメンションされてなかったので念のためメンションさせていただきました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03NZ0E09JN",
+            "ts": "1675394332.000000"
+        },
+        "thread_ts": "1675249938.527149",
+        "parent_user_id": "U03Q17LBJP3",
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3> お願いします\n台本からコピペしてくださいー",
+        "files": [
+            {
+                "id": "F04MFEQUF1V",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1675394766.286659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZYe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お願いします\n台本からコピペしてくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9a3bcdf5-6f24-4629-bcb7-c08648d4c793",
+        "thread_ts": "1675249938.527149",
+        "parent_user_id": "U03Q17LBJP3",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

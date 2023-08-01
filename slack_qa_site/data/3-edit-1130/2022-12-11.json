@@ -1,0 +1,95 @@
+[
+    {
+        "client_msg_id": "ee214d7c-2318-412e-b47d-c11896e3a8b1",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n音の修正が1箇所だけですね。\nこちら修正して2.2にしますか？\n\nまだ出演者試写がまだだったと思います。\n出演者の修正を待った方がいいですか？",
+        "user": "U03NZ0E09JN",
+        "ts": "1670812252.107279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FjUol",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n音の修正が1箇所だけですね。\nこちら修正して2.2にしますか？\n\nまだ出演者試写がまだだったと思います。\n出演者の修正を待った方がいいですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670742395.055969",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "d9a6bcc6-581d-4c28-9d4a-e73e8dc57eaf",
+        "type": "message",
+        "text": "9日にメールしてるんで、一応今日いっぱい待ちましょう。",
+        "user": "U03CXUXB5PF",
+        "ts": "1670812389.294839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HMO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "9日にメールしてるんで、一応今日いっぱい待ちましょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670742395.055969",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

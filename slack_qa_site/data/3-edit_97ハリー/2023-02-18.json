@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "5A086352-3B23-4140-BC42-4A985186C1E0",
+        "type": "message",
+        "text": "<@U04J38PLGM6> \nラグビースクールの画像wikiから使用したいのですが問題ないでしょうか？\n<https:\/\/ja.m.wikipedia.org\/wiki\/%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB|https:\/\/ja.m.wikipedia.org\/wiki\/%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB>",
+        "user": "U04JJB0MTB7",
+        "ts": "1676754871.494949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rJddu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nラグビースクールの画像wikiから使用したいのですが問題ないでしょうか？\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ja.m.wikipedia.org\/wiki\/%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB",
+                                "text": "https:\/\/ja.m.wikipedia.org\/wiki\/%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ja.m.wikipedia.org\/wiki\/%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB",
+                "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/6f\/Rugby_School_-_ex_libris.tif\/lossy-page1-1200px-Rugby_School_-_ex_libris.tif.jpg",
+                "image_width": 1200,
+                "image_height": 1716,
+                "image_bytes": 384620,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1,
+                "original_url": "https:\/\/ja.m.wikipedia.org\/wiki\/%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB",
+                "fallback": "wikipedia: ラグビースクール",
+                "text": "ラグビー・スクール（Rugby School ラグビー校）は、英国王室エリザベス女王1世の時代、1567年に創立されたイングランドで最高峰のパブリック・スクール（名門私立学校）の1つ。",
+                "title": "ラグビースクール",
+                "title_link": "https:\/\/ja.m.wikipedia.org\/wiki\/%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/ja.wikipedia.org\/"
+            }
+        ],
+        "thread_ts": "1676608934.700799",
+        "parent_user_id": "U04JJB0MTB7"
+    }
+]

@@ -1,0 +1,758 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03Q17LBJP3> すいません、ちょっとお問い合わせ内容の確認させてください\n先方試写を後回しっていうのは何との比較でしたでしょうか。\n最終的には上記Replayも反映されると思うのですが、これと優先度を競ってるのがどれかちょっと把握できず..すいません",
+        "user": "U03CXUXB5PF",
+        "ts": "1665214766.208589",
+        "thread_ts": "1665190440.116649",
+        "root": {
+            "type": "message",
+            "text": "<@U03Q17LBJP3> おねがいしますー",
+            "user": "U03CXUXB5PF",
+            "ts": "1665190440.116649",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "DyXpe",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03Q17LBJP3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " おねがいしますー"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "attachments": [
+                {
+                    "from_url": "https:\/\/kdddipresidentnep2022.slack.com\/archives\/C03DFG6ERL4\/p1665188700506759",
+                    "ts": "1665188700.506759",
+                    "author_id": "U03G0LAPT3N",
+                    "channel_id": "C03DFG6ERL4",
+                    "channel_team": "T03CU6RQ154",
+                    "channel_name": "5-ma",
+                    "is_msg_unfurl": true,
+                    "message_blocks": [
+                        {
+                            "team": "T03CU6RQ154",
+                            "channel": "C03DFG6ERL4",
+                            "ts": "1665188700.506759",
+                            "message": {
+                                "blocks": [
+                                    {
+                                        "type": "rich_text",
+                                        "block_id": "4ft2",
+                                        "elements": [
+                                            {
+                                                "type": "rich_text_section",
+                                                "elements": [
+                                                    {
+                                                        "type": "text",
+                                                        "text": "土井EP1の直し反映済みのWAVデータをDropboxにアップしました！\nご確認よろしくお願いします。"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "files": [
+                        {
+                            "id": "F045GTPTQ9L",
+                            "created": 1665188682,
+                            "timestamp": 1665188682,
+                            "user": "U03G0LAPT3N",
+                            "is_hidden_by_limit": 1
+                        }
+                    ],
+                    "color": "D0D0D0",
+                    "is_share": true,
+                    "fallback": "[October 7th, 2022 8:25 PM] takanashi3104: 土井EP1の直し反映済みのWAVデータをDropboxにアップしました！\nご確認よろしくお願いします。",
+                    "text": "土井EP1の直し反映済みのWAVデータをDropboxにアップしました！\nご確認よろしくお願いします。",
+                    "author_name": "Takanashi",
+                    "author_link": "https:\/\/kdddipresidentnep2022.slack.com\/team\/U03G0LAPT3N",
+                    "author_icon": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_48.png",
+                    "author_subname": "Takanashi",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "footer": "#5-ma に投稿"
+                }
+            ],
+            "thread_ts": "1665190440.116649",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1665214766.208589",
+            "reply_users": [
+                "U03Q17LBJP3",
+                "U03CXUXB5PF"
+            ],
+            "replies": [
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1665203973.571479"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1665214766.208589"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1665214766.208589"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dYm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すいません、ちょっとお問い合わせ内容の確認させてください\n先方試写を後回しっていうのは何との比較でしたでしょうか。\n最終的には上記Replayも反映されると思うのですが、これと優先度を競ってるのがどれかちょっと把握できず..すいません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b78fd240-9582-4c6e-b8e9-458906d18f36"
+    },
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3> あ、これか。1試写目のやつですね。。\n未修正？だったんだったら2試写前にやっていただいたほうがいいと思います。が、内容によっては、一回引き取ってこっちで先回りしてなおしてるのがあるはず。\n直し箇所がバッティングしてるようなややこしいのはのこしておいてもらって、いったんResolveできるやつはしてください。できたらneeds reviewにしてもらえば、チェックします。\n1010分はややこしいですね。。",
+        "files": [
+            {
+                "id": "F045SDVD7PE",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1665215175.210229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fQQy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " あ、これか。1試写目のやつですね。。\n未修正？だったんだったら2試写前にやっていただいたほうがいいと思います。が、内容によっては、一回引き取ってこっちで先回りしてなおしてるのがあるはず。\n直し箇所がバッティングしてるようなややこしいのはのこしておいてもらって、いったんResolveできるやつはしてください。できたらneeds reviewにしてもらえば、チェックします。\n1010分はややこしいですね。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3a2cc123-2099-4ac1-a8ba-c73e4f85a291",
+        "thread_ts": "1665215175.210229",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1665226186.358929",
+        "reply_users": [
+            "U03Q17LBJP3"
+        ],
+        "replies": [
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1665226186.358929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1665226186.358929",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5e530aac-d016-4c3b-90db-ebdda6e01432",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 修正しました、Replay上で残っているのは撮影素材の画質問題です\nのちほど書き出し依頼します",
+        "user": "U03Q17LBJP3",
+        "ts": "1665226186.358929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=pAb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 修正しました、Replay上で残っているのは撮影素材の画質問題です\nのちほど書き出し依頼します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665215175.210229",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "ca47c52a-0ef1-4c38-b7ef-3ebaac18a39b",
+        "type": "message",
+        "text": "<https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2>\n試写ステータスがEdits Requestedのやつは修正かけて、かきだし依頼をお願いします\nもう2試写でしたが、2.1回目のチェックということになります\n\nここから書き出しがバンバン始まりますので、Queの管理として <#C044PJ0DX60|3-edit-encorder書き出し依頼> のtodoへの記入、よろしくお願いします\n\nできれば1人4本全部終わった段階でお願いします。\n書き出しスキームとして\n一回 outputに出すようにしますので、通しの手元試写は不要ですが、頭ケツ中間の3点チェックだけはおねがいします。\n\nややこしいところはお知らせください\nReplayのこれっていう風にスクショしてくれればslackで即レスします （日本時間12時〜18時除く）",
+        "user": "U03CXUXB5PF",
+        "ts": "1665268302.766329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qJI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n試写ステータスがEdits Requestedのやつは修正かけて、かきだし依頼をお願いします\nもう2試写でしたが、2.1回目のチェックということになります\n\nここから書き出しがバンバン始まりますので、Queの管理として "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C044PJ0DX60"
+                            },
+                            {
+                                "type": "text",
+                                "text": " のtodoへの記入、よろしくお願いします\n\nできれば1人4本全部終わった段階でお願いします。\n書き出しスキームとして\n一回 outputに出すようにしますので、通しの手元試写は不要ですが、頭ケツ中間の3点チェックだけはおねがいします。\n\nややこしいところはお知らせください\nReplayのこれっていう風にスクショしてくれればslackで即レスします （日本時間12時〜18時除く）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2",
+                "image_url": "https:\/\/cfl.dropboxstatic.com\/static\/metaserver\/static\/images\/reel\/unfurl-image-vflJ2sZZi.jpeg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 130387,
+                "id": 1,
+                "original_url": "https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2",
+                "fallback": "Dropbox Replay",
+                "text": "Dropbox Replay allows creative teams to better create, collaborate on and deliver content. No Dropbox account is required to give feedback.",
+                "title": "Dropbox Replay",
+                "title_link": "https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2",
+                "service_name": "dropbox.com"
+            }
+        ],
+        "thread_ts": "1665268302.766329",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1665283585.182789",
+        "reply_users": [
+            "U03NZ0E09JN",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1665283280.123579"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665283328.660799"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1665283585.182789"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1665283585.182789",
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n26＿武田\ntw追加など終わりましたが、マーカー３箇所の対応お願いします。",
+        "files": [
+            {
+                "id": "F045TG88ZAQ",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F045AFVFQDV",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F0463MMF1DX",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03QQ3J656Z",
+        "ts": "1665278075.230829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/z1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n26＿武田\ntw追加など終わりましたが、マーカー３箇所の対応お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "0fb95aae-77fc-4e4e-b7da-ce0b6ead83d3",
+        "thread_ts": "1665278075.230829",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1665349417.457439",
+        "reply_users": [
+            "U03NZ0E09JN",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1665349249.093409"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1665349333.887809"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665349417.457439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1665349417.457439"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF>\n試写２の戻りでルビ指示が出てきているのですが、サイズ感など統一した方がいいと思うのですが、ご指示いただけないでしょうか。",
+        "user": "U03NZ0E09JN",
+        "ts": "1665283280.123579",
+        "thread_ts": "1665268302.766329",
+        "root": {
+            "client_msg_id": "ca47c52a-0ef1-4c38-b7ef-3ebaac18a39b",
+            "type": "message",
+            "text": "<https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2>\n試写ステータスがEdits Requestedのやつは修正かけて、かきだし依頼をお願いします\nもう2試写でしたが、2.1回目のチェックということになります\n\nここから書き出しがバンバン始まりますので、Queの管理として <#C044PJ0DX60|3-edit-encorder書き出し依頼> のtodoへの記入、よろしくお願いします\n\nできれば1人4本全部終わった段階でお願いします。\n書き出しスキームとして\n一回 outputに出すようにしますので、通しの手元試写は不要ですが、頭ケツ中間の3点チェックだけはおねがいします。\n\nややこしいところはお知らせください\nReplayのこれっていう風にスクショしてくれればslackで即レスします （日本時間12時〜18時除く）",
+            "user": "U03CXUXB5PF",
+            "ts": "1665268302.766329",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qJI",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n試写ステータスがEdits Requestedのやつは修正かけて、かきだし依頼をお願いします\nもう2試写でしたが、2.1回目のチェックということになります\n\nここから書き出しがバンバン始まりますので、Queの管理として "
+                                },
+                                {
+                                    "type": "channel",
+                                    "channel_id": "C044PJ0DX60"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " のtodoへの記入、よろしくお願いします\n\nできれば1人4本全部終わった段階でお願いします。\n書き出しスキームとして\n一回 outputに出すようにしますので、通しの手元試写は不要ですが、頭ケツ中間の3点チェックだけはおねがいします。\n\nややこしいところはお知らせください\nReplayのこれっていう風にスクショしてくれればslackで即レスします （日本時間12時〜18時除く）"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "attachments": [
+                {
+                    "from_url": "https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2",
+                    "image_url": "https:\/\/cfl.dropboxstatic.com\/static\/metaserver\/static\/images\/reel\/unfurl-image-vflJ2sZZi.jpeg",
+                    "image_width": 375,
+                    "image_height": 250,
+                    "image_bytes": 130387,
+                    "id": 1,
+                    "original_url": "https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2",
+                    "fallback": "Dropbox Replay",
+                    "text": "Dropbox Replay allows creative teams to better create, collaborate on and deliver content. No Dropbox account is required to give feedback.",
+                    "title": "Dropbox Replay",
+                    "title_link": "https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2",
+                    "service_name": "dropbox.com"
+                }
+            ],
+            "thread_ts": "1665268302.766329",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1665283585.182789",
+            "reply_users": [
+                "U03NZ0E09JN",
+                "U03CXUXB5PF"
+            ],
+            "replies": [
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1665283280.123579"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1665283328.660799"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1665283585.182789"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1665283585.182789"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zZbn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n試写２の戻りでルビ指示が出てきているのですが、サイズ感など統一した方がいいと思うのですが、ご指示いただけないでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "25DA448F-C03F-4383-8768-ECF8F295FE0F"
+    },
+    {
+        "client_msg_id": "44C67498-7380-4E3D-89E7-4C1818A3C3E4",
+        "type": "message",
+        "text": "特に決めてないですが、どなたか一枚作ってもらえば判断します",
+        "user": "U03CXUXB5PF",
+        "ts": "1665283328.660799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9dA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "特に決めてないですが、どなたか一枚作ってもらえば判断します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665268302.766329",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF> 承知いたしました。\n土井の編集が進んでいるようでしたので、\n<@U03Q17LBJP3> さんルビをあてましたら、こちらのSlackに投げていただけないでしょうか。",
+        "user": "U03NZ0E09JN",
+        "ts": "1665283585.182789",
+        "thread_ts": "1665268302.766329",
+        "root": {
+            "client_msg_id": "ca47c52a-0ef1-4c38-b7ef-3ebaac18a39b",
+            "type": "message",
+            "text": "<https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2>\n試写ステータスがEdits Requestedのやつは修正かけて、かきだし依頼をお願いします\nもう2試写でしたが、2.1回目のチェックということになります\n\nここから書き出しがバンバン始まりますので、Queの管理として <#C044PJ0DX60|3-edit-encorder書き出し依頼> のtodoへの記入、よろしくお願いします\n\nできれば1人4本全部終わった段階でお願いします。\n書き出しスキームとして\n一回 outputに出すようにしますので、通しの手元試写は不要ですが、頭ケツ中間の3点チェックだけはおねがいします。\n\nややこしいところはお知らせください\nReplayのこれっていう風にスクショしてくれればslackで即レスします （日本時間12時〜18時除く）",
+            "user": "U03CXUXB5PF",
+            "ts": "1665268302.766329",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qJI",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n試写ステータスがEdits Requestedのやつは修正かけて、かきだし依頼をお願いします\nもう2試写でしたが、2.1回目のチェックということになります\n\nここから書き出しがバンバン始まりますので、Queの管理として "
+                                },
+                                {
+                                    "type": "channel",
+                                    "channel_id": "C044PJ0DX60"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " のtodoへの記入、よろしくお願いします\n\nできれば1人4本全部終わった段階でお願いします。\n書き出しスキームとして\n一回 outputに出すようにしますので、通しの手元試写は不要ですが、頭ケツ中間の3点チェックだけはおねがいします。\n\nややこしいところはお知らせください\nReplayのこれっていう風にスクショしてくれればslackで即レスします （日本時間12時〜18時除く）"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "attachments": [
+                {
+                    "from_url": "https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2",
+                    "image_url": "https:\/\/cfl.dropboxstatic.com\/static\/metaserver\/static\/images\/reel\/unfurl-image-vflJ2sZZi.jpeg",
+                    "image_width": 375,
+                    "image_height": 250,
+                    "image_bytes": 130387,
+                    "id": 1,
+                    "original_url": "https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2",
+                    "fallback": "Dropbox Replay",
+                    "text": "Dropbox Replay allows creative teams to better create, collaborate on and deliver content. No Dropbox account is required to give feedback.",
+                    "title": "Dropbox Replay",
+                    "title_link": "https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2",
+                    "service_name": "dropbox.com"
+                }
+            ],
+            "thread_ts": "1665268302.766329",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1665283585.182789",
+            "reply_users": [
+                "U03NZ0E09JN",
+                "U03CXUXB5PF"
+            ],
+            "replies": [
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1665283280.123579"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1665283328.660799"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1665283585.182789"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1665283585.182789"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fxBI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 承知いたしました。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "土井の編集が進んでいるようでしたので、\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " さんルビをあてましたら、こちらのSlackに投げていただけないでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "D74B9DC3-7495-411D-9697-7AF517E029BC",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2>\n\n<@U03Q17LBJP3> 松永も修正揃いました\nよろしくお願いいたします",
+        "files": [
+            {
+                "id": "F045N8MU7MK",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1665288934.682839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TAwyh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 松永も修正揃いました\nよろしくお願いいたします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6a2aa699-ffab-47df-a16d-fe772c5c112d",
+        "attachments": [
+            {
+                "from_url": "https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2",
+                "image_url": "https:\/\/cfl.dropboxstatic.com\/static\/metaserver\/static\/images\/reel\/unfurl-image-vflJ2sZZi.jpeg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 130387,
+                "id": 1,
+                "original_url": "https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2",
+                "fallback": "Dropbox Replay",
+                "text": "Dropbox Replay allows creative teams to better create, collaborate on and deliver content. No Dropbox account is required to give feedback.",
+                "title": "Dropbox Replay",
+                "title_link": "https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2",
+                "service_name": "dropbox.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

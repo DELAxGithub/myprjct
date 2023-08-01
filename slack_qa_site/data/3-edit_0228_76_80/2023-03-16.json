@@ -1,0 +1,381 @@
+[
+    {
+        "client_msg_id": "7e9d2a52-d4db-480c-a41a-031dac3d6d85",
+        "type": "message",
+        "text": "```78 上峯さんの試写3　確認しました。\nep1・3  ⇒   Edit requested\nep2・PR　 ⇒   Approved```\n<@U03Q17LBJP3> 修正したら最終にしてください",
+        "user": "U03CXUXB5PF",
+        "ts": "1678979510.731749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=qiNR",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "78 上峯さんの試写3　確認しました。\nep1・3  ⇒   Edit requested\nep2・PR　 ⇒   Approved"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 修正したら最終にしてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678979510.731749",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1679044246.618349",
+        "reply_users": [
+            "U03Q17LBJP3"
+        ],
+        "replies": [
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1679044246.618349"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1679044246.618349",
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "300d983d-290f-4cc8-a9da-bf49da49a875",
+        "type": "message",
+        "text": "<@U04JJB0MTB7>\nクライアントから\n```藤田さん、ep02・ep03コメントしました、\nep03のノイズはあれが限界そうでしょうかね？```\nどうですか？\n・収録素材→MAで対応済み？\n・どのあたりかわかれば内容的にカットして対応\nどちらでもいいですけd",
+        "user": "U03CXUXB5PF",
+        "ts": "1678980650.258499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oCM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nクライアントから\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "藤田さん、ep02・ep03コメントしました、\nep03のノイズはあれが限界そうでしょうかね？"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どうですか？\n・収録素材→MAで対応済み？\n・どのあたりかわかれば内容的にカットして対応\nどちらでもいいですけd"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678980650.258499",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1679040968.703469",
+        "reply_users": [
+            "U04JJB0MTB7",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U04JJB0MTB7",
+                "ts": "1679040248.363199"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1679040484.881369"
+            },
+            {
+                "user": "U04JJB0MTB7",
+                "ts": "1679040968.703469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1679040968.703469"
+    },
+    {
+        "client_msg_id": "55c06669-8b81-4364-abb6-f651aa5c94fb",
+        "type": "message",
+        "text": "<@U04KFCBLY9J>\n```大澤さん3.0確認しました。\nep1のみコメントいれています。```\n終わったら最終にしてくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1679026930.080409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kzd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大澤さん3.0確認しました。\nep1のみコメントいれています。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "終わったら最終にしてくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679026930.080409",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1679031519.554899",
+        "reply_users": [
+            "U04KFCBLY9J"
+        ],
+        "replies": [
+            {
+                "user": "U04KFCBLY9J",
+                "ts": "1679031519.554899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1679031519.554899",
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1388798B-0BB5-419E-9704-A689A1CB6C6C",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 了解です :blush: ！",
+        "user": "U04KFCBLY9J",
+        "ts": "1679031519.554899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UMuq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解です "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679026930.080409",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "2654BC54-E4BA-4C4A-99D3-A3CE0193EE0E",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U04J38PLGM6> \nお疲れ様です。#80大澤さんの最終をアップいたしました。よろしくお願い致します :blush: :woman-bowing: ",
+        "user": "U04KFCBLY9J",
+        "ts": "1679035470.933309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HI7u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です。#80大澤さんの最終をアップいたしました。よろしくお願い致します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

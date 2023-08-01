@@ -1,0 +1,88 @@
+[
+    {
+        "client_msg_id": "d59259e0-ef37-4464-aadf-67faf9546ed3",
+        "type": "message",
+        "text": "11\/7 月曜\n今週もよろしくお願いします\n\n<#C043WQL9XK6|3-edit-1020納品分>\nクライアントチェック中ですが、特になんもなければ間も無く納品です。\n\n\n<#C043UBH5VFC|3-edit-1030納品分>\nReplay 2と2.1に来てる修正をお願いします\n従来通りEdits Requestになってるやつを修正し、Needs Reviewへ。ややこしいのがあったらお知らせください。\n2の修正が終わったら出演者チェックに回すので、2.1への更新時にoutputに書き出したの残しといてください\n\n<#C048CGTB45A|3-edit-1115納品分>\n24三宅と45三宅がMAきました。\n反映次第、試写2へ\n\n\n<#C049HRQGGNQ|3-edit-6-1130納品分>\n#37片岡#38前野#46吉岡#47平藤#48坂井\nに関してのチャンネル作りました\n\n\n今から24時間\n３７片岡、３８前野の修正台本",
+        "user": "U03CXUXB5PF",
+        "ts": "1667776096.147029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0CUdW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "11\/7 月曜\n今週もよろしくお願いします\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043WQL9XK6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nクライアントチェック中ですが、特になんもなければ間も無く納品です。\n\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043UBH5VFC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nReplay 2と2.1に来てる修正をお願いします\n従来通りEdits Requestになってるやつを修正し、Needs Reviewへ。ややこしいのがあったらお知らせください。\n2の修正が終わったら出演者チェックに回すので、2.1への更新時にoutputに書き出したの残しといてください\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C048CGTB45A"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n24三宅と45三宅がMAきました。\n反映次第、試写2へ\n\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C049HRQGGNQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n#37片岡#38前野#46吉岡#47平藤#48坂井\nに関してのチャンネル作りました\n\n\n今から24時間\n３７片岡、３８前野の修正台本"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

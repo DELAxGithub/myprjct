@@ -1,0 +1,132 @@
+[
+    {
+        "client_msg_id": "c8ed71ac-7552-4f11-b3af-a8d6638c5ab1",
+        "type": "message",
+        "text": "10\/6 朝\n\ntwチェックの体制が変わります\n\n1. 台本ベースでtwチェックを踏まえたテロップ作成（これから修正するやつ〜新作1030分から）\n2. 1回目のクライアントチェック時点で台本ベースで直しスタート〜MAには関係ないので、いったん放置してMAへ（内容の直しがでたらそれは反映）\n3. MA後にクライアントよるtw追加・修正を反映＝MAが来た段階でここでまとめて対応→2回目試写へ\nって感じです\nまぁこの体制での運用始めるときにまたお知らせします。\n\n<#C043LR54ERX|3-edit-1010納品分>\n21田中MAが来ました\n音を載せ替えたら手元試写してクライアントチェックへ。\n残り2つは今晩だそうですが、10\/7中にクライアントチェックに出したいです\n\n<#C043WQL9XK6|3-edit-1020納品分>\n尺になったらMAへ\n\n<#C043UBH5VFC|3-edit-1030納品分>\n特に動きなし\n\n<#C043GEGAGQ3|3-edit-2q4_39-44>\n43,44 の素材がそろったら手元試写して試写へ\n\n24時間todo\n昨日は結局収録準備してたら台本すすめず。。\n今日こそ修正台本をやる",
+        "user": "U03CXUXB5PF",
+        "ts": "1665016940.372459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rZ7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10\/6 朝\n\ntwチェックの体制が変わります\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "台本ベースでtwチェックを踏まえたテロップ作成（これから修正するやつ〜新作1030分から）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "1回目のクライアントチェック時点で台本ベースで直しスタート〜MAには関係ないので、いったん放置してMAへ（内容の直しがでたらそれは反映）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "MA後にクライアントよるtw追加・修正を反映＝MAが来た段階でここでまとめて対応→2回目試写へ"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nって感じです\nまぁこの体制での運用始めるときにまたお知らせします。\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043LR54ERX"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n21田中MAが来ました\n音を載せ替えたら手元試写してクライアントチェックへ。\n残り2つは今晩だそうですが、10\/7中にクライアントチェックに出したいです\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043WQL9XK6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n尺になったらMAへ\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043UBH5VFC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n特に動きなし\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043GEGAGQ3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n43,44 の素材がそろったら手元試写して試写へ\n\n24時間todo\n昨日は結局収録準備してたら台本すすめず。。\n今日こそ修正台本をやる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

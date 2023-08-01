@@ -1,0 +1,269 @@
+[
+    {
+        "client_msg_id": "7A263687-D55A-435D-A000-1562E346F391",
+        "type": "message",
+        "text": "一点確認なのですが、\n片岡さんの内容について、omfにボイスピークが入っている箇所にしかボイスピークは入らないという認識で合っていますでしょうか？\nそれともこの後追加で入れられる事もあり得るのでしょうか？\n\nナレーションが入るか入らないかで音楽の付け方とSEの有無が変わってきますので、ご指示いただけますと、幸いです。",
+        "user": "U03G0LAPT3N",
+        "ts": "1669346947.981309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2AB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一点確認なのですが、\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "片岡さん"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の内容について、omfにボイスピークが入っている箇所にしかボイスピークは入らないという認識で合っていますでしょうか？\nそれともこの後追加で入れられる事もあり得るのでしょうか？\n\nナレーションが入るか入らないかで音楽の付け方とSEの有無が変わってきますので、ご指示いただけますと、幸いです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669346947.981309",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1669361699.572279",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1669348389.295059"
+            },
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1669361699.572279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1669361699.572279"
+    },
+    {
+        "client_msg_id": "a600218f-90d6-415c-bfa0-013b50ad6468",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> はい、１箇所です！",
+        "user": "U03CXUXB5PF",
+        "ts": "1669348389.295059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tEq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " はい、１箇所です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669346947.981309",
+        "parent_user_id": "U03G0LAPT3N"
+    },
+    {
+        "type": "message",
+        "text": "<@U03G0LAPT3N> <@U03CXUXB5PF>\n以下、ご確認とご対応をお願いできますでしょうか。\n【47平藤】ep1\n12:37  20:30‥voiceがMAに反映されていないようです\n20:43‥修正指示に伴うカットでのMA調整\n\n尺が変わったため、omfとQTを新たにMAフォルダに格納いたしました。\nお手数おかけしますが、よろしくお願い致します。",
+        "files": [
+            {
+                "id": "F04CJ38J2JY",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04C91HLVUN",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04CU8KBWV7",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NJATSEBH",
+        "ts": "1669361649.196389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tDv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n以下、ご確認とご対応をお願いできますでしょうか。\n【47平藤】ep1\n12:37  20:30‥voiceがMAに反映されていないようです\n20:43‥修正指示に伴うカットでのMA調整\n\n尺が変わったため、omfとQTを新たにMAフォルダに格納いたしました。\nお手数おかけしますが、よろしくお願い致します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5e74f5f0-8306-48b1-a8db-583bd85ac86a",
+        "thread_ts": "1669361649.196389",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1669361748.920249",
+        "reply_users": [
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1669361748.920249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1669361748.920249"
+    },
+    {
+        "client_msg_id": "3AEA0101-E8AB-48AD-AF96-77FB0ADB4C05",
+        "type": "message",
+        "text": "承知しました。",
+        "user": "U03G0LAPT3N",
+        "ts": "1669361699.572279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "53X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669346947.981309",
+        "parent_user_id": "U03G0LAPT3N"
+    },
+    {
+        "client_msg_id": "8165F36F-6713-4912-B24B-9EA6C4A27942",
+        "type": "message",
+        "text": "確認、修正対応します。お待ちください。",
+        "user": "U03G0LAPT3N",
+        "ts": "1669361748.920249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "29WF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "確認、修正対応します。お待ちください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669361649.196389",
+        "parent_user_id": "U03NJATSEBH",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

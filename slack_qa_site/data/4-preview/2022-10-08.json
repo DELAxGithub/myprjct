@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "091C06F9-5AD9-474F-B503-A004FBB7AF4E",
+        "type": "message",
+        "text": "<@U040YCC00V6> \n\n21田中（PR,1,2,3章）→視聴チェック済み\n25中島（PR,1,2,3章）→視聴チェック済み\n31土井（PR,2,3章）→視聴チェック済み（1章はすでにチェック済）\n39松永（PR）→視聴チェック済み\nよろしくお願いいたします\n\nだそうです\n今書き出し依頼きたり、書き出し終わってるけど、まだ上がってないやつってある？\n試写する余裕があるみたいなので、そういうのはわたしきりたいなと。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665240554.350759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KXuy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\n21田中（PR,1,2,3章）→視聴チェック済み\n25中島（PR,1,2,3章）→視聴チェック済み\n31土井（PR,2,3章）→視聴チェック済み（1章はすでにチェック済）\n39松永（PR）→視聴チェック済み\nよろしくお願いいたします\n\nだそうです\n今書き出し依頼きたり、書き出し終わってるけど、まだ上がってないやつってある？\n試写する余裕があるみたいなので、そういうのはわたしきりたいなと。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8AC7261D-1398-4870-9353-2CF951399487",
+        "type": "message",
+        "text": "ありがとうございます。今書き出し依頼来ているものは書き出し等終わっています。",
+        "user": "U040YCC00V6",
+        "ts": "1665245480.904099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ImNaC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます。今書き出し依頼来ているものは書き出し等終わっています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

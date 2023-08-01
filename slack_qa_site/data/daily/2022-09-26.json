@@ -1,0 +1,150 @@
+[
+    {
+        "client_msg_id": "5d37505f-e2de-4ef6-ae3a-1ee3cf92a533",
+        "type": "message",
+        "text": "9\/27 夜\n\n前回納品済みのCGに修正が入りまして、PRのその部分を差し替えることに。現状尺を変えずに対応予定なので、同じファイル名で同期すれば問題ないと思いますが。。\n\n<#C043LR54ERX|3-edit-1010納品分>\n武田、土井のReplay修正が来る予定\n21田中はこのあと書き出すので、明後日かも\n\nそれ以外は新作作業ですが、\n<#C043WQL9XK6|3-edit-1020納品分> <#C043UBH5VFC|3-edit-1030納品分> の表記チェックを内内で進めています、フォーマット化と合わせてお手隙時にお願いします",
+        "user": "U03CXUXB5PF",
+        "ts": "1664197656.276779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ocL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "9\/27 夜\n\n前回納品済みのCGに修正が入りまして、PRのその部分を差し替えることに。現状尺を変えずに対応予定なので、同じファイル名で同期すれば問題ないと思いますが。。\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043LR54ERX"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n武田、土井のReplay修正が来る予定\n21田中はこのあと書き出すので、明後日かも\n\nそれ以外は新作作業ですが、\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043WQL9XK6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043UBH5VFC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " の表記チェックを内内で進めています、フォーマット化と合わせてお手隙時にお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d17eb43e-2f74-44a0-9724-16a599c72a65",
+        "type": "message",
+        "text": "9\/27 朝\n\n全体\n<#C03CXUXD30V|random> でもお伝えましたがPremiereとDropbox Replayの連携プラグインがめちゃくちゃ便利です ぜひ導入を！\nご不明な点があればお知らせください\n\n\n<#C043LP5RA81|3-edit-0930納品分>\n全部の書き出しが終わったので納品..,\nちなみに納品ファイルは\nKDDI2022\/11_納品\nにしばらくありますが、クライアントに渡したらそのうち無くなります\n\n<#C043LR54ERX|3-edit-1010納品分>\nプロデューサーがまだ試写中\n→Replayきたら本番MAへ\n\n<#C043WQL9XK6|3-edit-1020納品分> <#C043UBH5VFC|3-edit-1030納品分> のチャンネルも作りました\n尺を出したら仮BGMへ、という段階ですが、\n簡単そうなやつから台本修正します\n\nあと、別のslackでReplayにてテロップの修正を依頼しています\nクライアントのテロップへの要望を汲み取り、できるだけ最終試写前に整えたいと、いうことでテスト中です\n\nということで\n新作<#C043GEGAGQ3|3-edit-2q4_39-44> 以降も編集が一旦終わった段階でこのslackにピットインしてもらい、手元試写の修正と同時にフォローテロップの粗を直すということでお願いします　試写１前にちゃんとやっといた方が、後々直しが減ることを祈って。。\n\n\n今日の作業\n・収録準備\n・42のあらすじとかテロップ\n・1020納品分の修正",
+        "user": "U03CXUXB5PF",
+        "ts": "1664224984.109069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IIUT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "9\/27 朝\n\n全体\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03CXUXD30V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " でもお伝えましたがPremiereとDropbox Replayの連携プラグインがめちゃくちゃ便利です ぜひ導入を！\nご不明な点があればお知らせください\n\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043LP5RA81"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n全部の書き出しが終わったので納品..,\nちなみに納品ファイルは\nKDDI2022\/11_納品\nにしばらくありますが、クライアントに渡したらそのうち無くなります\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043LR54ERX"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nプロデューサーがまだ試写中\n→Replayきたら本番MAへ\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043WQL9XK6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043UBH5VFC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " のチャンネルも作りました\n尺を出したら仮BGMへ、という段階ですが、\n簡単そうなやつから台本修正します\n\nあと、別のslackでReplayにてテロップの修正を依頼しています\nクライアントのテロップへの要望を汲み取り、できるだけ最終試写前に整えたいと、いうことでテスト中です\n\nということで\n新作"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043GEGAGQ3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 以降も編集が一旦終わった段階でこのslackにピットインしてもらい、手元試写の修正と同時にフォローテロップの粗を直すということでお願いします　試写１前にちゃんとやっといた方が、後々直しが減ることを祈って。。\n\n\n今日の作業\n・収録準備\n・42のあらすじとかテロップ\n・1020納品分の修正"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

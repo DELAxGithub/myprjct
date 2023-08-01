@@ -1,0 +1,199 @@
+[
+    {
+        "client_msg_id": "e23f94bc-cf6b-48b6-87a9-7906e271c53f",
+        "type": "message",
+        "text": "<@U041XC6213P> 今日の発注12時に変更でお願いします。。24三宅で、CGってあります。3〜４枚かな、miroにも。\n<https:\/\/docs.google.com\/document\/d\/1fVd4aZlMhWfO6iV4E1L69dNsW2o1xuBehnO5ccP2kkE\/edit?usp=sharing>",
+        "user": "U03CXUXB5PF",
+        "ts": "1667257266.825069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MAmM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今日の発注12時に変更でお願いします。。24三宅で、CGってあります。3〜４枚かな、miroにも。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1fVd4aZlMhWfO6iV4E1L69dNsW2o1xuBehnO5ccP2kkE\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667257266.825069",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1667271724.406199",
+        "reply_users": [
+            "U041XC6213P"
+        ],
+        "replies": [
+            {
+                "user": "U041XC6213P",
+                "ts": "1667271724.406199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1667271724.406199",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "050efd5e-bf94-4bf4-8045-cd30ccf13c55",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 一通り台本、miro確認しました。テロップを入れる画像などあれば、教えていただけますか。\nちなみに、本日のmtgはzoomで行いますか？",
+        "user": "U041XC6213P",
+        "ts": "1667271724.406199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zgoPr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 一通り台本、miro確認しました。テロップを入れる画像などあれば、教えていただけますか。\nちなみに、本日のmtgはzoomで行いますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U041XC6213P",
+            "ts": "1667271747.000000"
+        },
+        "thread_ts": "1667257266.825069",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "channel": "C040XCK7RMK",
+        "room": {
+            "id": "R0499RM3JHF",
+            "name": "",
+            "media_server": "",
+            "created_by": "U03CXUXB5PF",
+            "date_start": 1667271762,
+            "date_end": 1667272290,
+            "participants": [],
+            "participant_history": [
+                "U03CXUXB5PF",
+                "U041XC6213P"
+            ],
+            "participants_camera_on": [],
+            "participants_camera_off": [],
+            "participants_screenshare_on": [],
+            "participants_screenshare_off": [],
+            "canvas_thread_ts": "1667271762.726719",
+            "thread_root_ts": "1667271762.726719",
+            "channels": [
+                "C040XCK7RMK"
+            ],
+            "is_dm_call": false,
+            "was_rejected": false,
+            "was_missed": false,
+            "was_accepted": false,
+            "has_ended": true,
+            "background_id": "A_WALK_IN_THE_FOREST",
+            "canvas_background": "A_WALK_IN_THE_FOREST",
+            "is_prewarmed": false,
+            "is_scheduled": false,
+            "attached_file_ids": [],
+            "media_backend_type": "free_willy",
+            "display_id": "",
+            "external_unique_id": "87585ad2-9599-4751-a1cd-20a453ea0706",
+            "app_id": "A00",
+            "call_family": "huddle",
+            "pending_invitees": {}
+        },
+        "no_notifications": false,
+        "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/call\/R0499RM3JHF",
+        "ts": "1667271762.726719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E6c6o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A huddle started"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "sv41d8cd98f0",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/slackbot_72.png",
+            "first_name": "slackbot",
+            "real_name": "Slackbot",
+            "display_name": "Slackbot",
+            "team": "T03CU6RQ154",
+            "name": "slackbot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

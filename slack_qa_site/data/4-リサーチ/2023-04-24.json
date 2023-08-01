@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "28cc659b-13a0-4413-94ab-363c160268b2",
+        "type": "message",
+        "text": "storyblock\nad830a2e",
+        "user": "U03CXUXB5PF",
+        "ts": "1682334395.829429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ghe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "storyblock\nad830a2e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1682398303.664869",
+        "user": "U054HSHFAAH",
+        "text": "<@U054HSHFAAH>さんがチャンネルに参加しました"
+    }
+]

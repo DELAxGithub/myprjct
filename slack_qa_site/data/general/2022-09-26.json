@@ -1,0 +1,259 @@
+[
+    {
+        "client_msg_id": "5e798ec5-0061-4706-8a0b-8b9c6a64b312",
+        "type": "message",
+        "text": "9\/30NGで、それ以外はどちらでも大丈夫です！",
+        "user": "U03Q17LBJP3",
+        "ts": "1664225784.538089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yMOds",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "9\/30NGで、それ以外はどちらでも大丈夫です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664154000.597479",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "89fc94b8-4f15-446c-90cd-b0ff96a34680",
+        "type": "message",
+        "text": "2周目に向けた1周目振り返りですが、\nでは明日9月28日水曜12時からお願いします！\n最近の<#C03DD5YH9D1|3-edit> にある項目の説明が中心です\nよろしくお願いいたしますー\n<!channel>",
+        "user": "U03CXUXB5PF",
+        "ts": "1664238153.407749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f5Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2周目に向けた1周目振り返りですが、\nでは明日9月28日水曜12時からお願いします！\n最近の"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03DD5YH9D1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にある項目の説明が中心です\nよろしくお願いいたしますー\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664238153.407749",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1664279551.821849",
+        "reply_users": [
+            "U03NJATSEBH",
+            "U03P0T4KQMV",
+            "U03NZ0E09JN"
+        ],
+        "replies": [
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1664245003.929829"
+            },
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1664250580.509459"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1664279551.821849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1664279551.821849",
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN",
+                    "U03Q17LBJP3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d6112abb-759b-4abc-8c6d-0b4b3e29df2e",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n申し訳ありません。確認できていませんでした:woman-bowing:\n9\/28は別件で参加が難しいので\nもし録画があるようでしたら\n後程録画を拝見させていただきます",
+        "user": "U03NJATSEBH",
+        "ts": "1664245003.929829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WWx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n申し訳ありません。確認できていませんでした"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n9\/28は別件で参加が難しいので\nもし録画があるようでしたら\n後程録画を拝見させていただきます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664238153.407749",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E3761E03-CB78-49F3-91B1-CD309521A98E",
+        "type": "message",
+        "text": "申し訳ないです、わたしも明日の昼は移動などがあり参加が難しそうです、、\nアーカイブ見ておきますので、よろしくお願いします:woman-bowing:",
+        "user": "U03P0T4KQMV",
+        "ts": "1664250580.509459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rz3Wm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "申し訳ないです、わたしも明日の昼は移動などがあり参加が難しそうです、、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "アーカイブ見ておきますので、よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664238153.407749",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

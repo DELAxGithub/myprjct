@@ -1,0 +1,170 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 24三宅CGの画像を作成しました。ご確認お願いいたします。",
+        "files": [
+            {
+                "id": "F048X8G64TG",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F0493S6B3QS",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U041XC6213P",
+        "ts": "1667373895.498529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R3CaL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 24三宅CGの画像を作成しました。ご確認お願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f673ccd3-faa6-4d04-8101-9ceeae60b0b7",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9a64b155-a71e-4bb3-a979-6db82a984d96",
+        "type": "message",
+        "text": "<@U041XC6213P> クロップで対応できるよう\nベースとそれぞれで分けて書き出しをお願いします\nフレーム問題は左から３コマ\nシンボルグラウンディングは上から２コマになるかと。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667401666.421339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sZE71",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " クロップで対応できるよう\nベースとそれぞれで分けて書き出しをお願いします\nフレーム問題は左から３コマ\nシンボルグラウンディングは上から２コマになるかと。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667401666.421339",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1667446811.484489",
+        "reply_users": [
+            "U041XC6213P"
+        ],
+        "replies": [
+            {
+                "user": "U041XC6213P",
+                "ts": "1667446811.484489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1667446811.484489",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1749ac42-9ec0-4097-9721-843583bfa06a",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>　ファイルdropboxに格納済みです。ご確認ください。",
+        "user": "U041XC6213P",
+        "ts": "1667446811.484489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SoFn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　ファイルdropboxに格納済みです。ご確認ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667401666.421339",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

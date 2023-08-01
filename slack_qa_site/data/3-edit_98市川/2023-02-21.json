@@ -1,0 +1,565 @@
+[
+    {
+        "client_msg_id": "0871b3a0-15cc-42bc-811e-5d0f8500f62f",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> Alarmyの件了解です。\n市川さんのイメージは安永さんが集めたのですが、追加の分はあらためて私が探したほうがいいですか？",
+        "user": "U04J38PLGM6",
+        "ts": "1677023132.763399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GE1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Alarmyの件了解です。\n市川さんのイメージは安永さんが集めたのですが、追加の分はあらためて私が探したほうがいいですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676876728.086389",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03V84JSHNK> <@U04J38PLGM6> どちらでも。とりあえず安永くんに頼んでおこう。",
+        "user": "U03CXUXB5PF",
+        "ts": "1677023228.343549",
+        "thread_ts": "1676876728.086389",
+        "root": {
+            "client_msg_id": "962debaf-2a20-4d15-8845-49e97966d581",
+            "type": "message",
+            "text": "<@U03Q17LBJP3> ep3のカット箇所は２箇所、コメントしました。\nキャッチボール飯、ってその場の造語ですね、言葉遊び。説明入れるとヤボったいのでスルーで。\n\n<@U04J38PLGM6>\nダンジョン＆ドラゴンズは、発売当時とかのボードゲームの写真のみで。映画不要です\nその他音楽とかの版権系は一応、おんこうさんに使えるのあるのかお金で解決できるものあるのか確認しつつ、なさそうなら諦めます。バッハは、台本にコメントしてますが風景探して入れといてください。",
+            "user": "U03CXUXB5PF",
+            "ts": "1676876728.086389",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "OiZCR",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03Q17LBJP3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " ep3のカット箇所は２箇所、コメントしました。\nキャッチボール飯、ってその場の造語ですね、言葉遊び。説明入れるとヤボったいのでスルーで。\n\n"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nダンジョン＆ドラゴンズは、発売当時とかのボードゲームの写真のみで。映画不要です\nその他音楽とかの版権系は一応、おんこうさんに使えるのあるのかお金で解決できるものあるのか確認しつつ、なさそうなら諦めます。バッハは、台本にコメントしてますが風景探して入れといてください。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1676876728.086389",
+            "reply_count": 10,
+            "reply_users_count": 4,
+            "latest_reply": "1677048628.877019",
+            "reply_users": [
+                "U03Q17LBJP3",
+                "U03CXUXB5PF",
+                "U04J38PLGM6",
+                "U03V84JSHNK"
+            ],
+            "replies": [
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1676960234.814669"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1676960282.350729"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1677023132.763399"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1677023228.343549"
+                },
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1677043559.265029"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1677043572.098669"
+                },
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1677043584.563639"
+                },
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1677046916.707159"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1677047042.244559"
+                },
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1677048628.877019"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1677048628.877019"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nKSn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " どちらでも。とりあえず安永くんに頼んでおこう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a63f4063-6036-4ed5-a2e6-4e9d8a433763",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF>\n①バッハの風景画\n②ダースベイダーの甲冑\n③ガンダムのシャー\n④ダンジョン＆ドラゴンズの画面、映像\n⑤ガンダムの映像\n②〜⑤はメーカーに申請しますか？アラミーになければやめますか？",
+        "user": "U03V84JSHNK",
+        "ts": "1677043559.265029",
+        "thread_ts": "1676876728.086389",
+        "root": {
+            "client_msg_id": "962debaf-2a20-4d15-8845-49e97966d581",
+            "type": "message",
+            "text": "<@U03Q17LBJP3> ep3のカット箇所は２箇所、コメントしました。\nキャッチボール飯、ってその場の造語ですね、言葉遊び。説明入れるとヤボったいのでスルーで。\n\n<@U04J38PLGM6>\nダンジョン＆ドラゴンズは、発売当時とかのボードゲームの写真のみで。映画不要です\nその他音楽とかの版権系は一応、おんこうさんに使えるのあるのかお金で解決できるものあるのか確認しつつ、なさそうなら諦めます。バッハは、台本にコメントしてますが風景探して入れといてください。",
+            "user": "U03CXUXB5PF",
+            "ts": "1676876728.086389",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "OiZCR",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03Q17LBJP3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " ep3のカット箇所は２箇所、コメントしました。\nキャッチボール飯、ってその場の造語ですね、言葉遊び。説明入れるとヤボったいのでスルーで。\n\n"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nダンジョン＆ドラゴンズは、発売当時とかのボードゲームの写真のみで。映画不要です\nその他音楽とかの版権系は一応、おんこうさんに使えるのあるのかお金で解決できるものあるのか確認しつつ、なさそうなら諦めます。バッハは、台本にコメントしてますが風景探して入れといてください。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1676876728.086389",
+            "reply_count": 10,
+            "reply_users_count": 4,
+            "latest_reply": "1677048628.877019",
+            "reply_users": [
+                "U03Q17LBJP3",
+                "U03CXUXB5PF",
+                "U04J38PLGM6",
+                "U03V84JSHNK"
+            ],
+            "replies": [
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1676960234.814669"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1676960282.350729"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1677023132.763399"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1677023228.343549"
+                },
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1677043559.265029"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1677043572.098669"
+                },
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1677043584.563639"
+                },
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1677046916.707159"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1677047042.244559"
+                },
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1677048628.877019"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1677048628.877019"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OXNn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n①バッハの風景画\n②ダースベイダーの甲冑\n③ガンダムのシャー\n④ダンジョン＆ドラゴンズの画面、映像\n⑤ガンダムの映像\n②〜⑤はメーカーに申請しますか？アラミーになければやめますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "efd4600c-22e5-441b-9896-41bd6de6d2fe"
+    },
+    {
+        "client_msg_id": "8fe38edd-333d-4e9a-bb2a-821ca7757181",
+        "type": "message",
+        "text": "なければやめますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1677043572.098669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GH=IW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なければやめますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676876728.086389",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "689ef3db-aa96-4b13-9642-f866fca1b070",
+        "type": "message",
+        "text": "了解しました。",
+        "user": "U03V84JSHNK",
+        "ts": "1677043584.563639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LxQHl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676876728.086389",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> こんなところでいかがでしょうか。シャアはなかったです。",
+        "files": [
+            {
+                "id": "F04QPJFUWCB",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04QS67AKRS",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04QPJGV0RH",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04QPMWR5J6",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04QH4AN33Q",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03V84JSHNK",
+        "ts": "1677046916.707159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iwgOr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こんなところでいかがでしょうか。シャアはなかったです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9365ed12-cf2e-4c81-b218-722d60607c03",
+        "thread_ts": "1676876728.086389",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "F4B464A1-9D99-46D5-95CD-EF6A67A64C6B",
+        "type": "message",
+        "text": "ダンジョンandドラゴンは、ルーツがアナログなんで、これだったらやめましょう。\n\nガンダムもスターウォーズもアニメとか映画のキャプションじゃない限りあんまりかなぁ。まぁダースベイダーは使ってガンダムはやめましょう、これなら写真ACとかにもありそうだし。",
+        "user": "U03CXUXB5PF",
+        "ts": "1677047042.244559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F3i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ダンジョンandドラゴンは、ルーツがアナログなんで、これだったらやめましょう。\n\nガンダムもスターウォーズもアニメとか映画のキャプションじゃない限りあんまりかなぁ。まぁダースベイダーは使ってガンダムはやめましょう、これなら写真ACとかにもありそうだし。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676876728.086389",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "e05a763d-197a-4755-85a9-abfa56e110e6",
+        "type": "message",
+        "text": "了解です。",
+        "user": "U03V84JSHNK",
+        "ts": "1677048628.877019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cud",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676876728.086389",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 市川さんの追加素材をアップしました。よろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F04QSJWSUN8",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03V84JSHNK",
+        "display_as_bot": false,
+        "ts": "1677051871.356359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CBGNZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 市川さんの追加素材をアップしました。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "84e59051-50e6-43b5-aac1-f100f63f8b8c"
+    }
+]

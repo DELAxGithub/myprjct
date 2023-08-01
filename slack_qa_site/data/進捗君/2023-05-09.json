@@ -1,0 +1,95 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03P0T4KQMV> #102千葉聡で変更がありました\n変更前：試写2\n変更後：編集3\n担当者は辻井です",
+        "ts": "1683631453.269349",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nxLm8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #102千葉聡で変更がありました\n変更前：試写2\n変更後：編集3\n担当者は辻井です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03G0LAPT3N> #101相馬 雅代で変更がありました\n変更前：MA編集\n変更後：MA\n担当者は岡野です",
+        "ts": "1683633685.132399",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R8Fs5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #101相馬 雅代で変更がありました\n変更前：MA編集\n変更後：MA\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U054HSHFAAH> #105久野愛で変更がありました\n変更前：試写3\n変更後：編集アップ\n担当者は中野です",
+        "ts": "1683682452.787939",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R7cL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U054HSHFAAH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #105久野愛で変更がありました\n変更前：試写3\n変更後：編集アップ\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "v",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

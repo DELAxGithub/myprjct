@@ -1,0 +1,196 @@
+[
+    {
+        "client_msg_id": "09b9780d-ef0d-480a-b5ec-b7c865a91b10",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> 今週MA後の修正分、いけますでしょうか？完パケ進めていきます。パックン以外はそんなに大きな修正はなかったので、もし可能なら進めやすい方からお願いできる助かります！",
+        "user": "U03CXUXB5PF",
+        "ts": "1663628712.597649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "roLyi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今週MA後の修正分、いけますでしょうか？完パケ進めていきます。パックン以外はそんなに大きな修正はなかったので、もし可能なら進めやすい方からお願いできる助かります！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663628712.597649",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1663649053.821589",
+        "reply_users": [
+            "U03G0LAPT3N",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1663646493.755069"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663649053.821589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1663649053.821589"
+    },
+    {
+        "client_msg_id": "B01E92A3-CCAC-423F-BF1D-42EB1708CBBE",
+        "type": "message",
+        "text": "いけそうです！上がったものからお送りしていきます！",
+        "user": "U03G0LAPT3N",
+        "ts": "1663646493.755069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y9M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いけそうです！上がったものからお送りしていきます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663628712.597649",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "mechanical_arm",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ee1baac2-b83f-4ab3-ac14-7aba907aebfa",
+        "type": "message",
+        "text": "連休に仕事をしてくれなそうなので、できるだけ木曜までに入れたいです、よろしくお願いいたします！ <@U03G0LAPT3N>",
+        "user": "U03CXUXB5PF",
+        "ts": "1663649053.821589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LDnbR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "連休に仕事をしてくれなそうなので、できるだけ木曜までに入れたいです、よろしくお願いいたします！ "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663628712.597649",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "4A574EBC-2843-44B2-97DF-1BA7CF1578CA",
+        "type": "message",
+        "text": "確認です。一昨日アップされている田中も直しが必要ですか？",
+        "user": "U03G0LAPT3N",
+        "ts": "1663653598.103049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D305O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "確認です。一昨日アップされている田中も直しが必要ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

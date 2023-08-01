@@ -1,0 +1,66 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "在庫\n試写1:6 | MA:2 | 試写2:2 | 試写3:0\n————————————-\n<@U03P0T4KQMV> : #103、 清水晶子、 編集3、: 04-26\n<@U04JJB0MTB7> : #93、 梶谷 懐、 本人編集、: 05-01\n<@U04KFCBLY9J> : #99、 パックン、 編集3、: 04-30\n<@U04QC17DUEP> : #89、 成田聡子、 編集3、: 04-25\n<@U04QC17DUEP> : #100、 保坂 修司、 編集2、: 05-02\n",
+        "ts": "1683072696.437329",
+        "bot_id": "B0527SNLW83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uPKO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "在庫\n試写1:6 | MA:2 | 試写2:2 | 試写3:0\n————————————-\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #103、 清水晶子、 編集3、: 04-26\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #93、 梶谷 懐、 本人編集、: 05-01\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #99、 パックン、 編集3、: 04-30\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04QC17DUEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #89、 成田聡子、 編集3、: 04-25\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04QC17DUEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #100、 保坂 修司、 編集2、: 05-02"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "f4f0724c-5933-4bd5-9acc-4a74b33b252f",
+        "type": "message",
+        "text": "<@U04J38PLGM6> <@U03V84JSHNK> 65もOP・EDできました。",
+        "user": "U03CXUXB5PF",
+        "ts": "1674087922.097069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9dO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 65もOP・EDできました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1674112860.366099",
+        "user": "U04K58LPSEB",
+        "text": "<@U04K58LPSEB>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    }
+]

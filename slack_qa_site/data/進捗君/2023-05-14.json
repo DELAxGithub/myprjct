@@ -1,0 +1,58 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#101相馬 雅代で変更がありました\n変更前：undefined\n変更後：<https:\/\/www.dropbox.com\/t\/eRrqDTcMcRI67SGJ>\n担当者は岡野です",
+        "ts": "1684049074.083149",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xH=g2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#101相馬 雅代で変更がありました\n変更前：undefined\n変更後："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/t\/eRrqDTcMcRI67SGJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#101相馬 雅代で変更がありました\n変更前：編集2\n変更後：試写2\n担当者は岡野です",
+        "ts": "1684049076.265049",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QkCac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#101相馬 雅代で変更がありました\n変更前：編集2\n変更後：試写2\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

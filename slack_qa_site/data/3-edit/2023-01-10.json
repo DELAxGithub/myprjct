@@ -1,0 +1,153 @@
+[
+    {
+        "client_msg_id": "f104d008-4b3d-44e5-81d4-a074920e4515",
+        "type": "message",
+        "text": "<@U04J38PLGM6>　新作を作業回するときの下準備の方法をお伝えします。マックスタジオ立ち上げてteamveiwerの準備をお願いしますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1673341037.231509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l31",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　新作を作業回するときの下準備の方法をお伝えします。マックスタジオ立ち上げてteamveiwerの準備をお願いしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673341037.231509",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1673341883.599989",
+        "reply_users": [
+            "U04J38PLGM6",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1673341858.950239"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1673341883.599989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1673341883.599989"
+    },
+    {
+        "client_msg_id": "26E2FFAB-6030-4720-B63F-AD5C84AB6BA5",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 準備できました",
+        "user": "U04J38PLGM6",
+        "ts": "1673341858.950239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xdzl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 準備できました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673341037.231509",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "a0e6b7b1-5f8b-4ae9-9e3e-1cca128f7123",
+        "type": "message",
+        "text": "<@U04J38PLGM6> じゃやりましょう",
+        "user": "U03CXUXB5PF",
+        "ts": "1673341883.599989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R9hy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " じゃやりましょう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673341037.231509",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

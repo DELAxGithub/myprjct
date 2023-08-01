@@ -1,0 +1,63 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04JJB0MTB7> #93梶谷 懐で変更がありました\n変更前：リサーチ\n変更後：編集1\n担当者は濱地です",
+        "ts": "1680343633.767629",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M1J+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #93梶谷 懐で変更がありました\n変更前：リサーチ\n変更後：編集1\n担当者は濱地です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#88松原 正樹で変更がありました\n変更前：編集1\n変更後：試写1\n担当者は石橋です",
+        "ts": "1680414508.157619",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ORQqe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#88松原 正樹で変更がありました\n変更前：編集1\n変更後：試写1\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

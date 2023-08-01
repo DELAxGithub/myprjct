@@ -1,0 +1,136 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n12\/8(木)本日の在庫確認\n試写１＝３\nM A＝５\n試写２＝０",
+        "files": [
+            {
+                "id": "F04E2HA5T70",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1670463266.555509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eGV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n12\/8(木)本日の在庫確認\n試写１＝３\nM A＝５\n試写２＝０"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "cdf39a8c-71b7-4713-b861-e524a8de4a0e",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "537acc0b-49c7-4a0a-90aa-997ad198bdb5",
+        "type": "message",
+        "text": "締切過ぎてる6区の納品までは6区優先でお願いします。\n在庫の数字は広めにキャプションすれば多分見えると思うんで、わざわざ打たなくて大丈夫ですー",
+        "user": "U03CXUXB5PF",
+        "ts": "1670463531.320619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+KL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "締切過ぎてる6区の納品までは6区優先でお願いします。\n在庫の数字は広めにキャプションすれば多分見えると思うんで、わざわざ打たなくて大丈夫ですー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-raising-hand",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d3ba421d-aa89-4ad8-887a-858185d6be19",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n9区10区の台本はいつくらいに何本上がる予定でしょうか。\n年内に残り10本を試写１まで進めるという目標でしたので、来週には編集１を着手したいところではあります。",
+        "user": "U03NZ0E09JN",
+        "ts": "1670485228.507079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RnG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n9区10区の台本はいつくらいに何本上がる予定でしょうか。\n年内に残り10本を試写１まで進めるという目標でしたので、来週には編集１を着手したいところではあります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,364 @@
+[
+    {
+        "client_msg_id": "57D6C122-3DB0-4F11-B662-66D18505DD95",
+        "type": "message",
+        "text": "43平岡について、全編通しで確認しました。所々遠くの方で金属を叩いているような音がありました。\nこの音は多少の軽減は可能ですが、完全に消すのは難しいかと。。\nピンマイクに当たるような音は、気にならないくらいには消せると思いました。\nまた平岡さんの声に被る、スタッフの声？が2、3ヶ所ありましたが、こちらも軽減は可能だと感じました。\n後処理でできる事は、この場合ノイズを軽減しつつ、BGMで誤魔化す事なので、ノイズがあるセグメントについては、BGMを仕込むようにいたします。",
+        "user": "U03G0LAPT3N",
+        "ts": "1664711552.912579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B3tsg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "43平岡について、全編通しで確認しました。所々遠くの方で金属を叩いているような音がありました。\nこの音は多少の軽減は可能ですが、完全に消すのは難しいかと。。\nピンマイクに当たるような音は、気にならないくらいには消せると思いました。\nまた平岡さんの声に被る、スタッフの声？が2、3ヶ所ありましたが、こちらも軽減は可能だと感じました。\n後処理でできる事は、この場合ノイズを軽減しつつ、BGMで誤魔化す事なので、ノイズがあるセグメントについては、BGMを仕込むようにいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8aec88bd-46f0-413c-9946-cd0073f9c4d6",
+        "type": "message",
+        "text": "<@U03G0LAPT3N>\n10\/10納品に向けてですが、、こんな状況です。\n21_田中→本番MA待ち\n25_中島→本番MAずみ　これもノイズ多かったらもう一回依頼するかも余力がなければ、次の５本の仮BGMをお願いするとおもいます\n26_武田→本番MA待ち\n31_土井→本番MAずみですが、直しが多かったので修正お願いします\n39_松永→本番MA待ち\n\n土日でなんか進んだのがあれば、よろしくお願いいたします",
+        "user": "U03CXUXB5PF",
+        "ts": "1664755201.401399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z\/=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n10\/10納品に向けてですが、、こんな状況です。\n21_田中→本番MA待ち\n25_中島→本番MAずみ　これもノイズ多かったらもう一回依頼するかも余力がなければ、次の５本の仮BGMをお願いするとおもいます\n26_武田→本番MA待ち\n31_土井→本番MAずみですが、直しが多かったので修正お願いします\n39_松永→本番MA待ち\n\n土日でなんか進んだのがあれば、よろしくお願いいたします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664755201.401399",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1664779795.013609",
+        "reply_users": [
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1664779795.013609"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1664779795.013609"
+    },
+    {
+        "client_msg_id": "392DAED7-14F6-4809-87CC-7CD6A048BA6C",
+        "type": "message",
+        "text": "平岡さんのノイズチェックですが、チェックしながら仮BGM付けていって大丈夫でしょうか？\nそれともまた書き出し直されるでしょうか？",
+        "user": "U03G0LAPT3N",
+        "ts": "1664767360.408659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n0bZ0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "平岡さんのノイズチェックですが、チェックしながら仮BGM付けていって大丈夫でしょうか？\nそれともまた書き出し直されるでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fec8b1f9-6450-435b-83d6-d3246583cdd0",
+        "type": "message",
+        "text": "平岡さんはあくまでもチェックのためので、試写もこれからですー",
+        "user": "U03CXUXB5PF",
+        "ts": "1664768658.137099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8nrdD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "平岡さんはあくまでもチェックのためので、試写もこれからですー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664768658.137099",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1664768845.794489",
+        "reply_users": [
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1664768845.794489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1664768845.794489"
+    },
+    {
+        "client_msg_id": "2289B6CA-E2FD-463F-93AE-94B7086CAEC6",
+        "type": "message",
+        "text": "承知しました",
+        "user": "U03G0LAPT3N",
+        "ts": "1664768845.794489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Qq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664768658.137099",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "2963744A-CB3B-4DEC-9E9A-DD9EBC5896F4",
+        "type": "message",
+        "text": "26武田、39松永、本番MAデータ上がりました。",
+        "user": "U03G0LAPT3N",
+        "ts": "1664776914.984859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HBo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "26武田、39松永、本番MAデータ上がりました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "88E07CE7-40C8-4B71-B430-BEB9F3D34DBA",
+        "type": "message",
+        "text": "音声確認_43_Hiraokaのフォルダを作り、こちらで一度整音したデータを入れました。\n工事現場の音が軽減されていることが確認していただけると思います。\nもし、活用できそうであれば、この整音済みデータもプロジェクトに読み込んで頂き、仮BGMのご依頼時にomfに入れておいてください。よろしくお願いします。",
+        "user": "U03G0LAPT3N",
+        "ts": "1664779491.139269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E0z+Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "音声確認_43_Hiraokaのフォルダを作り、こちらで一度整音したデータを入れました。\n工事現場の音が軽減されていることが確認していただけると思います。\nもし、活用できそうであれば、この整音済みデータもプロジェクトに読み込んで頂き、仮BGMのご依頼時にomfに入れておいてください。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DDF232BD-57B0-42DB-B7CF-63C92654EB4C",
+        "type": "message",
+        "text": "21田中がまだですが、今晩、明日晩くらいで作業をよていしています。\nもう少しお待ちください。",
+        "user": "U03G0LAPT3N",
+        "ts": "1664779795.013609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ieH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "21田中がまだですが、今晩、明日晩くらいで作業をよていしています。\nもう少しお待ちください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664755201.401399",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

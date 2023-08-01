@@ -1,0 +1,117 @@
+[
+    {
+        "client_msg_id": "ccfad7de-7c9a-4111-b82f-498c01f9e48b",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> <@U03CXUXB5PF>\n【38前野】お待たせしております。\n38前野MA用QTとOMFをDropboxにアップしましたので\nご確認いただければ幸いです。\nep1のみ気になる雑音があり、同フォルダにマーカー画像を\nお入れしているので、あわせてご確認をお願い致します。",
+        "user": "U03NJATSEBH",
+        "ts": "1668587623.549939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "REQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【38前野】お待たせしております。\n38前野MA用QTとOMFをDropboxにアップしましたので\nご確認いただければ幸いです。\nep1のみ気になる雑音があり、同フォルダにマーカー画像を\nお入れしているので、あわせてご確認をお願い致します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668587623.549939",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1668616092.062359",
+        "reply_users": [
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1668616092.062359"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1668616092.062359",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E6FF19FA-97D9-4984-9396-9B3CAF20B4EF",
+        "type": "message",
+        "text": "承知しました！",
+        "user": "U03G0LAPT3N",
+        "ts": "1668616092.062359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v18",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668587623.549939",
+        "parent_user_id": "U03NJATSEBH"
+    }
+]

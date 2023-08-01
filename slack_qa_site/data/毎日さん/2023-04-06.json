@@ -1,0 +1,263 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1680831222.549749",
+        "user": "U03CXUXB5PF",
+        "text": "<@U03CXUXB5PF>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_add",
+        "text": "added an integration to this channel: <https:\/\/kdddipresidentnep2022.slack.com\/services\/B0527SNLW83|毎日さん>",
+        "user": "U03CXUXB5PF",
+        "bot_id": "B0527SNLW83",
+        "bot_link": "<https:\/\/kdddipresidentnep2022.slack.com\/services\/B0527SNLW83|毎日さん>",
+        "ts": "1680831278.083649"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<!U03RA83HRN0> : 通し番号: ##86、名前: 東島沙弥佳、フェーズ: 本人編集、フェーズ変更日: 2023-03-31",
+        "ts": "1680831307.788049",
+        "bot_id": "B0527SNLW83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iOgDt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<!U03RA83HRN0>"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : 通し番号: ##86、名前: 東島沙弥佳、フェーズ: 本人編集、フェーズ変更日: 2023-03-31"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<!U04QC17DUEP> : 通し番号: ##89、名前: 成田聡子、フェーズ: MA編集、フェーズ変更日: 2023-04-02",
+        "ts": "1680831307.936589",
+        "bot_id": "B0527SNLW83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+P1fZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<!U04QC17DUEP>"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : 通し番号: ##89、名前: 成田聡子、フェーズ: MA編集、フェーズ変更日: 2023-04-02"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<!U04JJB0MTB7> : 通し番号: ##93、名前: 梶谷 懐、フェーズ: 編集1、フェーズ変更日: 2023-04-01",
+        "ts": "1680831308.068019",
+        "bot_id": "B0527SNLW83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sZU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<!U04JJB0MTB7>"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : 通し番号: ##93、名前: 梶谷 懐、フェーズ: 編集1、フェーズ変更日: 2023-04-01"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<!U04KFCBLY9J> : 通し番号: ##99、名前: パックン、フェーズ: 編集1、フェーズ変更日: 2023-04-05",
+        "ts": "1680831308.229789",
+        "bot_id": "B0527SNLW83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tr5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<!U04KFCBLY9J>"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : 通し番号: ##99、名前: パックン、フェーズ: 編集1、フェーズ変更日: 2023-04-05"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03RA83HRN0> : 通し番号: ##86、名前: 東島沙弥佳、フェーズ: 本人編集、フェーズ変更日: 2023-03-31",
+        "ts": "1680831689.010069",
+        "bot_id": "B0527SNLW83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "seo8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : 通し番号: ##86、名前: 東島沙弥佳、フェーズ: 本人編集、フェーズ変更日: 2023-03-31"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04JJB0MTB7> : 通し番号: ##93、名前: 梶谷 懐、フェーズ: 編集1、フェーズ変更日: 2023-04-01",
+        "ts": "1680831689.102039",
+        "bot_id": "B0527SNLW83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IYu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : 通し番号: ##93、名前: 梶谷 懐、フェーズ: 編集1、フェーズ変更日: 2023-04-01"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04KFCBLY9J> : 通し番号: ##99、名前: パックン、フェーズ: 編集1、フェーズ変更日: 2023-04-05",
+        "ts": "1680831689.192959",
+        "bot_id": "B0527SNLW83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Tf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : 通し番号: ##99、名前: パックン、フェーズ: 編集1、フェーズ変更日: 2023-04-05"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04QC17DUEP> : 通し番号: ##89、名前: 成田聡子、フェーズ: MA編集、フェーズ変更日: 2023-04-02",
+        "ts": "1680831689.279639",
+        "bot_id": "B0527SNLW83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WpO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04QC17DUEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : 通し番号: ##89、名前: 成田聡子、フェーズ: MA編集、フェーズ変更日: 2023-04-02"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1680832971.169629",
+        "user": "U04KFCBLY9J",
+        "text": "<@U04KFCBLY9J>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1680838607.016689",
+        "user": "U03NZ0E09JN",
+        "text": "<@U03NZ0E09JN>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1680839178.425989",
+        "user": "U03P0T4KQMV",
+        "text": "<@U03P0T4KQMV>さんがチャンネルに参加しました"
+    }
+]

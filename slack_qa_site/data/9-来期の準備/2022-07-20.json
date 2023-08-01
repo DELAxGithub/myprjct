@@ -1,0 +1,119 @@
+[
+    {
+        "client_msg_id": "5abcc837-639b-4bf3-8d9b-de302f2193b9",
+        "type": "message",
+        "text": "エグゼブティブ\n\nグレーター東大塾\n<https:\/\/utokyony.xsrv.jp\/greater\/>",
+        "user": "U03CXUXB5PF",
+        "ts": "1658300454.682139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MXo1S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "エグゼブティブ\n\nグレーター東大塾\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/utokyony.xsrv.jp\/greater\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/utokyony.xsrv.jp\/greater\/",
+                "image_url": "https:\/\/utokyony.xsrv.jp\/greater\/images\/ogp.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 438961,
+                "service_icon": "https:\/\/utokyony.xsrv.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/utokyony.xsrv.jp\/greater\/",
+                "fallback": "グレーター東大塾",
+                "text": "2022年度春季グレーター東大塾「デジタル社会」の申し込みができます。",
+                "title": "グレーター東大塾",
+                "title_link": "https:\/\/utokyony.xsrv.jp\/greater\/",
+                "service_name": "utokyony.xsrv.jp"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "12a3016f-ae80-4ef5-bbbc-a341d5093b0a",
+        "type": "message",
+        "text": "結局アウトプットがある人の方が取材もしやすい\n\nUTokyo BiblioPlaza - 東京大学教員の著作を著者自らが語る広場\n<https:\/\/www.u-tokyo.ac.jp\/biblioplaza\/ja\/index.html>",
+        "user": "U03CXUXB5PF",
+        "ts": "1658303300.743059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ile",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "結局アウトプットがある人の方が取材もしやすい\n\nUTokyo BiblioPlaza - 東京大学教員の著作を著者自らが語る広場\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.u-tokyo.ac.jp\/biblioplaza\/ja\/index.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.u-tokyo.ac.jp\/biblioplaza\/ja\/index.html",
+                "image_url": "https:\/\/www.u-tokyo.ac.jp\/content\/400048879.png",
+                "image_width": 460,
+                "image_height": 140,
+                "image_bytes": 42396,
+                "id": 1,
+                "original_url": "https:\/\/www.u-tokyo.ac.jp\/biblioplaza\/ja\/index.html",
+                "fallback": "UTokyo BiblioPlaza",
+                "text": "UTokyo BiblioPlaza (ビブリオプラザ) は東京大学に所属する人文社会科学分野教員の最新の著作物を紹介するサイトです。",
+                "title": "UTokyo BiblioPlaza",
+                "title_link": "https:\/\/www.u-tokyo.ac.jp\/biblioplaza\/ja\/index.html",
+                "service_name": "u-tokyo.ac.jp"
+            }
+        ]
+    }
+]

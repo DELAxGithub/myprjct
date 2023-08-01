@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "60aeac37-d64a-4f94-86ba-a34f9c6dc3df",
+        "type": "message",
+        "text": "<@U04JJB0MTB7>\nお疲れ様です。編アップデータ、技術試写に送りました。\nまだ不慣れでして、流れがいつもと違うからこうして欲しい、などあればお手数ですがご連絡ください。",
+        "user": "U054HSHFAAH",
+        "ts": "1682587350.108989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HNoE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。編アップデータ、技術試写に送りました。\nまだ不慣れでして、流れがいつもと違うからこうして欲しい、などあればお手数ですがご連絡ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "3c0472cbdd87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5181600335649_3c0472cbdd874f9a32ff_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Uramoto",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "kuramoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682507454.093249",
+        "parent_user_id": "U04JJB0MTB7",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

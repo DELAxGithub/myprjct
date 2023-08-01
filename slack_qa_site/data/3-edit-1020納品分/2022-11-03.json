@@ -1,0 +1,107 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n最終版：41平 PRの1:21のところ、イメージが真っ白になってました。\nまた、エンディングのにカラコレが乗っていたので、最終書き出し前にこちらで修正したのですが、それも反映されてませんでした。",
+        "files": [
+            {
+                "id": "F049FNFCZJ7",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1667531291.266499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nJT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n最終版：41平 PRの1:21のところ、イメージが真っ白になってました。\nまた、エンディングのにカラコレが乗っていたので、最終書き出し前にこちらで修正したのですが、それも反映されてませんでした。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "bdef9606-d992-4654-84a6-a493a7ebe4b5",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "534f2d74-60ef-4aea-8497-2ad19b32b354",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> 修正して書き出しました　taira_PRだけ2.1出直しがなかったんで先に書き出してました。Replay上で技術チェックもしてまして、\nいま違和感あり、ときたのがこれ。\n一旦共有。\n&gt; tairaさんのep2の8分29秒あたりと17分16秒あたりの音楽からの切り替えに違和感を感じます。 \n&gt; \n&gt; nakanoさんep2の10:56〜あたりに換気扇？みたいな音が入ってます",
+        "user": "U03CXUXB5PF",
+        "ts": "1667536039.600569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rfwH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 修正して書き出しました　taira_PRだけ2.1出直しがなかったんで先に書き出してました。Replay上で技術チェックもしてまして、\nいま違和感あり、ときたのがこれ。\n一旦共有。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tairaさんのep2の8分29秒あたりと17分16秒あたりの音楽からの切り替えに違和感を感じます。 \n\nnakanoさんep2の10:56〜あたりに換気扇？みたいな音が入ってます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

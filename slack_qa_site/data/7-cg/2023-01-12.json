@@ -1,0 +1,319 @@
+[
+    {
+        "client_msg_id": "ea138962-4ddd-4ebb-9cd0-6bf86ac1e528",
+        "type": "message",
+        "text": "```・第1編4:34 の図　解釈と認知の間の矢印が逆になっています。```\n<@U041XC6213P> 酒井さん本人からの指摘なのですが、これ矢印が逆だそうです。修正をお願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1673593131.750509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "79UA5",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "・第1編4:34 の図　解釈と認知の間の矢印が逆になっています。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 酒井さん本人からの指摘なのですが、これ矢印が逆だそうです。修正をお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673593131.750509",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1673598176.805539",
+        "reply_users": [
+            "U041XC6213P",
+            "U03CXUXB5PF",
+            "U03RA83HRN0"
+        ],
+        "replies": [
+            {
+                "user": "U041XC6213P",
+                "ts": "1673594476.252349"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1673594532.269009"
+            },
+            {
+                "user": "U041XC6213P",
+                "ts": "1673594601.584209"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1673595085.548849"
+            },
+            {
+                "user": "U041XC6213P",
+                "ts": "1673597243.595319"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1673598176.805539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1673598176.805539",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 修正いたしました。ご確認ください。\nこちら、大変申し訳ございません。台本の画像を十分に拡大せずに作成したことが原因です。以後、台本画像はPagesに貼り付けて十分拡大をして確認後作成することを必須にいたします:man-bowing:",
+        "files": [
+            {
+                "id": "F04JUNV6ZN0",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U041XC6213P",
+        "display_as_bot": false,
+        "ts": "1673594476.252349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Tda7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 修正いたしました。ご確認ください。\nこちら、大変申し訳ございません。台本の画像を十分に拡大せずに作成したことが原因です。以後、台本画像はPagesに貼り付けて十分拡大をして確認後作成することを必須にいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U041XC6213P",
+            "ts": "1673594511.000000"
+        },
+        "client_msg_id": "8cf1bad4-4961-4309-860f-84dcb08b3b15",
+        "thread_ts": "1673593131.750509",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "mechanical_arm",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8d7969e6-d7ba-4e2f-a005-ca1dc6d0424a",
+        "type": "message",
+        "text": "<@U03RA83HRN0> こちらで修正をお願いします",
+        "user": "U03CXUXB5PF",
+        "ts": "1673594532.269009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sYjY9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こちらで修正をお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673593131.750509",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "85defaf7-f542-4d79-8ab0-39c0504cd24e",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> dropboxへのアップは必要でしょうか？",
+        "user": "U041XC6213P",
+        "ts": "1673594601.584209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uoOf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " dropboxへのアップは必要でしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673593131.750509",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "73d3ec49-c3f1-4268-893d-6ca47d39f19a",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U041XC6213P>\nCGのフォルダにわかるように入れていただければこちらで頂きます。",
+        "user": "U03RA83HRN0",
+        "ts": "1673595085.548849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bDx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nCGのフォルダにわかるように入れていただければこちらで頂きます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03RA83HRN0",
+            "ts": "1673595134.000000"
+        },
+        "thread_ts": "1673593131.750509",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

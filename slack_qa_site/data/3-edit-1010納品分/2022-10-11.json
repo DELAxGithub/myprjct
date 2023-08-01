@@ -1,0 +1,286 @@
+[
+    {
+        "client_msg_id": "f046a3c0-cdab-48bb-8143-7d6493e6669e",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 25中島　作品名入れました\n残るは本人修正ですね。とりいそぎ39松永31土井の手元試写にまわります",
+        "user": "U03Q17LBJP3",
+        "ts": "1665482506.362099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "145",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 25中島　作品名入れました\n残るは本人修正ですね。とりいそぎ39松永31土井の手元試写にまわります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 31どい、25中島、も書き出ししてクライアントチェックに。\n手元試写ですが、\n流石に、2→2.1→2.2のタイミングで大間違えすることはないと思うので、\n３点チェックで、頭・けつ、直したところが問題なければOKです\n\nなお、書き出し場所とかルールが変わっています\n<#C03DD5YH9D1|3-edit>\nにもありますが、全て一旦10_outputに書き出されます\nチェックもそこでやるか、後日の場合は、自分で手元試写に引っ越ししてください\nご不明な点は何なりとおしらせください。",
+        "files": [
+            {
+                "id": "F045T1PTEHL",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1665485982.320439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o0h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 31どい、25中島、も書き出ししてクライアントチェックに。\n手元試写ですが、\n流石に、2→2.1→2.2のタイミングで大間違えすることはないと思うので、\n３点チェックで、頭・けつ、直したところが問題なければOKです\n\nなお、書き出し場所とかルールが変わっています\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03DD5YH9D1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nにもありますが、全て一旦10_outputに書き出されます\nチェックもそこでやるか、後日の場合は、自分で手元試写に引っ越ししてください\nご不明な点は何なりとおしらせください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2432642d-96d6-4eb1-9ff2-dc09daaac484"
+    },
+    {
+        "type": "message",
+        "text": "<@U040YCC00V6> これステータスってあってる？\n修正が終わって新たに書き出した状態→in reviewです\n\n新たな書き出し自体がまだ？",
+        "files": [
+            {
+                "id": "F045WMG4353",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F045WMHNREH",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "ts": "1665486120.418519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5=kYq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " これステータスってあってる？\n修正が終わって新たに書き出した状態→in reviewです\n\n新たな書き出し自体がまだ？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "15245593-21e8-4eb2-9bf0-7a8dcb9c876f"
+    },
+    {
+        "client_msg_id": "f0224cf3-6770-4cd3-b755-1518c926b780",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U040YCC00V6>\n39松永 手元試写終わりました\nep2だけ一か所微調整したので再度書き出し依頼したいです\nのちほど依頼のチャンネルにも記載します。",
+        "user": "U03Q17LBJP3",
+        "ts": "1665488492.589429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G2N\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n39松永 手元試写終わりました\nep2だけ一か所微調整したので再度書き出し依頼したいです\nのちほど依頼のチャンネルにも記載します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e2a01ea8-7220-4f02-90ab-19942eaf0308",
+        "type": "message",
+        "text": "全部いったん試写中です\n試写2.2~3　でおわれば、このあとは納品になります。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665549431.360249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bQgO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "全部いったん試写中です\n試写2.2~3　でおわれば、このあとは納品になります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clown_face",
+                "users": [
+                    "U040YCC00V6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 試写終わりました、大変おまたせしました\n25中島ep2でクライアント修正で指示があった「波形のグラフ」の件、試写してみると中島さんの言っていることの方が合っていると思うのですが、私の認識が違うのでしょうか･･･？\nこの後にオクターブごとのドを弾くのですが、高くなるほどグラフが右に反応しているように見えます。",
+        "files": [
+            {
+                "id": "F045PVAKHGX",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F046709TDFE",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03Q17LBJP3",
+        "ts": "1665549994.525619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dt9+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 試写終わりました、大変おまたせしました\n25中島ep2でクライアント修正で指示があった「波形のグラフ」の件、試写してみると中島さんの言っていることの方が合っていると思うのですが、私の認識が違うのでしょうか･･･？\nこの後にオクターブごとのドを弾くのですが、高くなるほどグラフが右に反応しているように見えます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "07e4c8b0-f267-497f-8d8e-b84bf52eba82",
+        "thread_ts": "1665549994.525619",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1665614592.943169",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665614592.943169"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1665614592.943169"
+    }
+]

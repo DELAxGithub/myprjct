@@ -1,0 +1,458 @@
+[
+    {
+        "client_msg_id": "0ADFF7CE-79BF-46A3-BE22-499F6DC9EB97",
+        "type": "message",
+        "text": "違うの見てるかも。左上のバージョン変更して見て",
+        "user": "U03CXUXB5PF",
+        "ts": "1663232103.486869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x01sT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "違うの見てるかも。左上のバージョン変更して見て"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663215894.539279",
+        "parent_user_id": "U040YCC00V6"
+    },
+    {
+        "type": "message",
+        "text": "<@U040YCC00V6> やる前より少なくなった？結構まだサイズが小さいのが残ってるねぇ。",
+        "files": [
+            {
+                "id": "F042H9ZKDMZ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1663232821.176219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5+V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " やる前より少なくなった？結構まだサイズが小さいのが残ってるねぇ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "958e29a6-de3f-42ad-a44c-b88829b934ed"
+    },
+    {
+        "client_msg_id": "8e95627f-22e8-4cbd-b3ee-293540949c20",
+        "type": "message",
+        "text": "<@U040YCC00V6> <https:\/\/replay.dropbox.com\/share-folder\/qtNRQUJeYWdAenXy>\nこれですよ",
+        "user": "U03CXUXB5PF",
+        "ts": "1663233088.475539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G31pI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/replay.dropbox.com\/share-folder\/qtNRQUJeYWdAenXy"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこれですよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/replay.dropbox.com\/share-folder\/qtNRQUJeYWdAenXy",
+                "image_url": "https:\/\/cfl.dropboxstatic.com\/static\/metaserver\/static\/images\/reel\/unfurl-image-vflJ2sZZi.jpeg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 115485,
+                "id": 1,
+                "original_url": "https:\/\/replay.dropbox.com\/share-folder\/qtNRQUJeYWdAenXy",
+                "fallback": "Dropbox Replay",
+                "text": "Dropbox Replay allows creative teams to better create, collaborate on and deliver content. No Dropbox account is required to give feedback.",
+                "title": "Dropbox Replay",
+                "title_link": "https:\/\/replay.dropbox.com\/share-folder\/qtNRQUJeYWdAenXy",
+                "service_name": "dropbox.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4a9f50ad-ccde-4890-a449-ad43441cc427",
+        "type": "message",
+        "text": "<@U03V84JSHNK> <@U040YCC00V6>\nそろそろ業務終了ですかね。\n\nテロップ明日作りましょうか。\n作り方は、<https:\/\/docs.google.com\/document\/d\/16YUcVBVAiVg8y3rbAI1VKRWphMyBguGDyhdhrcNJcpg\/edit?usp=sharing>\nの下の方にあります\n\n<@U040YCC00V6> 寝る前に51~57のプロキシーできてるやつは起こしをお願いします。アップする場所は、ここです\nあと、46,47がそもそも不具合出てたので、プロキシができてるか確認して書き出しを。mp4書き出した後、音来てるかをお願いします。一応3点チェックで。\n\/Users\/delax\/kin production Dropbox\/KODERA Hiroshi\/KDDI2022\/10_Output\/okoshi",
+        "user": "U03CXUXB5PF",
+        "ts": "1663241298.027509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7y7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nそろそろ業務終了ですかね。\n\nテロップ明日作りましょうか。\n作り方は、"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/16YUcVBVAiVg8y3rbAI1VKRWphMyBguGDyhdhrcNJcpg\/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nの下の方にあります\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 寝る前に51~57のプロキシーできてるやつは起こしをお願いします。アップする場所は、ここです\nあと、46,47がそもそも不具合出てたので、プロキシができてるか確認して書き出しを。mp4書き出した後、音来てるかをお願いします。一応3点チェックで。\n\/Users\/delax\/kin production Dropbox\/KODERA Hiroshi\/KDDI2022\/10_Output\/okoshi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663241298.027509",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1663241450.076199",
+        "reply_users": [
+            "U03V84JSHNK"
+        ],
+        "replies": [
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1663241450.076199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1663241450.076199"
+    },
+    {
+        "client_msg_id": "572E3C14-1125-486A-B565-7C5257F2FF20",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> すみません、ロケハンからの打ち合わせ長引き、まだ作業できていません。明日夕方でしたら作業できそうですので見ておきますね！",
+        "user": "U03V84JSHNK",
+        "ts": "1663241450.076199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HF1e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すみません、ロケハンからの打ち合わせ長引き、まだ作業できていません。明日夕方でしたら作業できそうですので見ておきますね！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663241298.027509",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f50a0fd7-9daa-40f8-b11a-49aaee613a1e",
+        "type": "message",
+        "text": "<@U040YCC00V6> メイクさんに９月分の請求をPDFでもらいたいですー　２１日までにもらえるとありがたいです。よろしくお伝えくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1663245833.089169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1pQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " メイクさんに９月分の請求をPDFでもらいたいですー　２１日までにもらえるとありがたいです。よろしくお伝えくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U040YCC00V6> Proxyの追加で毎回探しに行くのが大変だと思いますがフォルダを右クリックするとお気に入りが作れます",
+        "files": [
+            {
+                "id": "F042KGCPB5Y",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1663255775.242549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WOR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Proxyの追加で毎回探しに行くのが大変だと思いますがフォルダを右クリックするとお気に入りが作れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "32caa168-df18-4329-bf28-4f9535aca864"
+    },
+    {
+        "client_msg_id": "5ea2f0e4-4e41-4d52-9bcf-791fdf3adbf4",
+        "type": "message",
+        "text": "<@U040YCC00V6> 今日の予定はどんな感じ？\n\n昨日消して作り直したものがまた小さいままなのか、何個かはちゃんと作れてるかどうですか？\nプロキシは多分１ファイルずつやってみるか。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663290001.469089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sOn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今日の予定はどんな感じ？\n\n昨日消して作り直したものがまた小さいままなのか、何個かはちゃんと作れてるかどうですか？\nプロキシは多分１ファイルずつやってみるか。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0DDECAF5-C6D0-4F09-A07B-709EE6C07746",
+        "type": "message",
+        "text": "すみません、朝弱く、寝ておりました。\nプロキシ はとりあえず一つずつですね…\nHDDも満タンになってきたのでこちらも質問したいです。宜しくお願い致します:palms_up_together:",
+        "user": "U040YCC00V6",
+        "ts": "1663303999.273919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FMuF+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません、朝弱く、寝ておりました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "プロキシ はとりあえず一つずつですね…"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "HDDも満タンになってきたのでこちらも質問したいです。宜しくお願い致します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "palms_up_together",
+                                "unicode": "1f932"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

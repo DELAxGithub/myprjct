@@ -1,0 +1,427 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U04JJB0MTB7>\nはい、添付のエンブレムは使用して問題ありません。",
+        "user": "U04J38PLGM6",
+        "ts": "1676794244.864439",
+        "thread_ts": "1676608934.700799",
+        "root": {
+            "client_msg_id": "D48FEEFD-91A6-4AD0-A790-D25B82E58A03",
+            "type": "message",
+            "text": "ヒルハウスですよね？",
+            "user": "U04JJB0MTB7",
+            "ts": "1676608934.700799",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "xT=",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "ヒルハウスですよね？"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "edited": {
+                "user": "U04JJB0MTB7",
+                "ts": "1676608961.000000"
+            },
+            "thread_ts": "1676608934.700799",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1676794244.864439",
+            "reply_users": [
+                "U04J38PLGM6",
+                "U04JJB0MTB7"
+            ],
+            "replies": [
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1676609206.521959"
+                },
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1676754871.494949"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1676794244.864439"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z=LO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nはい、添付のエンブレムは使用して問題ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8e73f92f-ca1f-4d42-bf56-eb3f04572b37"
+    },
+    {
+        "client_msg_id": "25162B22-A26B-499D-9C0B-7A7A5FBDD113",
+        "type": "message",
+        "text": "<@U04J38PLGM6> \n使いたいのはエンブレムじゃなくてこちらです\n<https:\/\/commons.wikimedia.org\/wiki\/File:Rugby_School_.jpg|https:\/\/commons.wikimedia.org\/wiki\/File:Rugby_School_.jpg>\nこれじゃなくても外観であればなんでも大丈夫す",
+        "user": "U04JJB0MTB7",
+        "ts": "1676797188.028889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HD1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n使いたいのはエンブレムじゃなくてこちらです\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/commons.wikimedia.org\/wiki\/File:Rugby_School_.jpg",
+                                "text": "https:\/\/commons.wikimedia.org\/wiki\/File:Rugby_School_.jpg"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこれじゃなくても外観であればなんでも大丈夫す"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/commons.wikimedia.org\/wiki\/File:Rugby_School_.jpg",
+                "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/3f\/Rugby_School_.jpg\/1200px-Rugby_School_.jpg",
+                "image_width": 1200,
+                "image_height": 900,
+                "image_bytes": 367396,
+                "service_icon": "https:\/\/commons.wikimedia.org\/static\/apple-touch\/commons.png",
+                "id": 1,
+                "original_url": "https:\/\/commons.wikimedia.org\/wiki\/File:Rugby_School_.jpg",
+                "fallback": "File:Rugby School .jpg - Wikimedia Commons",
+                "title": "File:Rugby School .jpg - Wikimedia Commons",
+                "title_link": "https:\/\/commons.wikimedia.org\/wiki\/File:Rugby_School_.jpg",
+                "service_name": "commons.wikimedia.org"
+            }
+        ],
+        "thread_ts": "1676797188.028889",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1676802127.181489",
+        "reply_users": [
+            "U04J38PLGM6",
+            "U04JJB0MTB7"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1676799749.553779"
+            },
+            {
+                "user": "U04JJB0MTB7",
+                "ts": "1676802127.181489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U04JJB0MTB7>\n使用して大丈夫です。\nクレジットは以下でお願いします。\n「<https:\/\/commons.wikimedia.org\/w\/index.php?title=User:Feing0706&amp;action=edit&amp;redlink=1|Feing0706>」",
+        "user": "U04J38PLGM6",
+        "ts": "1676799749.553779",
+        "thread_ts": "1676797188.028889",
+        "root": {
+            "client_msg_id": "25162B22-A26B-499D-9C0B-7A7A5FBDD113",
+            "type": "message",
+            "text": "<@U04J38PLGM6> \n使いたいのはエンブレムじゃなくてこちらです\n<https:\/\/commons.wikimedia.org\/wiki\/File:Rugby_School_.jpg|https:\/\/commons.wikimedia.org\/wiki\/File:Rugby_School_.jpg>\nこれじゃなくても外観であればなんでも大丈夫す",
+            "user": "U04JJB0MTB7",
+            "ts": "1676797188.028889",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "HD1",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " \n使いたいのはエンブレムじゃなくてこちらです\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/commons.wikimedia.org\/wiki\/File:Rugby_School_.jpg",
+                                    "text": "https:\/\/commons.wikimedia.org\/wiki\/File:Rugby_School_.jpg"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nこれじゃなくても外観であればなんでも大丈夫す"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "attachments": [
+                {
+                    "from_url": "https:\/\/commons.wikimedia.org\/wiki\/File:Rugby_School_.jpg",
+                    "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/3f\/Rugby_School_.jpg\/1200px-Rugby_School_.jpg",
+                    "image_width": 1200,
+                    "image_height": 900,
+                    "image_bytes": 367396,
+                    "service_icon": "https:\/\/commons.wikimedia.org\/static\/apple-touch\/commons.png",
+                    "id": 1,
+                    "original_url": "https:\/\/commons.wikimedia.org\/wiki\/File:Rugby_School_.jpg",
+                    "fallback": "File:Rugby School .jpg - Wikimedia Commons",
+                    "title": "File:Rugby School .jpg - Wikimedia Commons",
+                    "title_link": "https:\/\/commons.wikimedia.org\/wiki\/File:Rugby_School_.jpg",
+                    "service_name": "commons.wikimedia.org"
+                }
+            ],
+            "thread_ts": "1676797188.028889",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1676802127.181489",
+            "reply_users": [
+                "U04J38PLGM6",
+                "U04JJB0MTB7"
+            ],
+            "replies": [
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1676799749.553779"
+                },
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1676802127.181489"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "phRcv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n使用して大丈夫です。\nクレジットは以下でお願いします。\n「"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/commons.wikimedia.org\/w\/index.php?title=User:Feing0706&action=edit&redlink=1",
+                                "text": "Feing0706"
+                            },
+                            {
+                                "type": "text",
+                                "text": "」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "e746c781-01ac-4949-9aa3-833d4f5a6f18",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59E60CF7-6488-485C-9D38-8A5493CBF132",
+        "type": "message",
+        "text": "了解です！ありがとうございます",
+        "user": "U04JJB0MTB7",
+        "ts": "1676802127.181489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "75i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です！ありがとうございます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676797188.028889",
+        "parent_user_id": "U04JJB0MTB7"
+    },
+    {
+        "client_msg_id": "DC026DFF-3BCC-4713-B5EB-A786752D1824",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> \nこちらのハリー回は修正後MAにお渡しして大丈夫でしょうか？",
+        "user": "U04JJB0MTB7",
+        "ts": "1676804193.865059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "diA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nこちらのハリー回は修正後MAにお渡しして大丈夫でしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c9eeedd6-33a8-4422-b9e9-25c2676b9866",
+        "type": "message",
+        "text": "<@U04JJB0MTB7> ハリー MA発注をお願いしますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1676879835.043639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4RCHY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ハリー MA発注をお願いしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

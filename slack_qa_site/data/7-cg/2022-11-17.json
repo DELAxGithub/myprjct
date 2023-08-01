@@ -1,0 +1,170 @@
+[
+    {
+        "client_msg_id": "9c8820ae-ba0a-4b02-acca-4555f28c3037",
+        "type": "message",
+        "text": "<@U041XC6213P> 来週発注します。収録中は色々やっててダメでした。すいません。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1668738572.250039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XbHqu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 来週発注します。収録中は色々やっててダメでした。すいません。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "編集チームの皆さん 51以降に関して\n<@U03NJATSEBH> <@U03Q17LBJP3> <@U03QQ3J656Z> <@U03P0T4KQMV>\nCGフォルダにて納品受け取ったら、\n100_54\nとか、各編集フォルダに移管してください\n\nあと、zipはいらないので解凍後は削除でいいと思います。",
+        "files": [
+            {
+                "id": "F04AUL5S2UT",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1668746149.379199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XsgY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "編集チームの皆さん 51以降に関して\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nCGフォルダにて納品受け取ったら、\n100_54\nとか、各編集フォルダに移管してください\n\nあと、zipはいらないので解凍後は削除でいいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1668891766.000000"
+        },
+        "client_msg_id": "0453130a-2a0f-4c79-8c4e-bc7e73e6e753",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1668751947.809549",
+        "user": "U03NJATSEBH",
+        "text": "<@U03NJATSEBH>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1668751947.892749",
+        "user": "U03Q17LBJP3",
+        "text": "<@U03Q17LBJP3>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1668751947.986779",
+        "user": "U03QQ3J656Z",
+        "text": "<@U03QQ3J656Z>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1668751948.069919",
+        "user": "U03P0T4KQMV",
+        "text": "<@U03P0T4KQMV>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1668754777.414969",
+        "user": "U03RA83HRN0",
+        "text": "<@U03RA83HRN0>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    }
+]

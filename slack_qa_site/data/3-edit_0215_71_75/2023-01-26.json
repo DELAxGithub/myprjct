@@ -1,0 +1,109 @@
+[
+    {
+        "type": "message",
+        "text": "<@U04JJB0MTB7> 73田中優子さんのイメージ素材、テロップをアップしました。よろしくお願いいたします！",
+        "files": [
+            {
+                "id": "F04LQFX68FP",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03V84JSHNK",
+        "display_as_bot": false,
+        "ts": "1674799749.406559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CbsCQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 73田中優子さんのイメージ素材、テロップをアップしました。よろしくお願いいたします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5e69bc89-03f0-489f-96f1-35ab0904cfb5",
+        "thread_ts": "1674799749.406559",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1674800400.523239",
+        "reply_users": [
+            "U04JJB0MTB7"
+        ],
+        "replies": [
+            {
+                "user": "U04JJB0MTB7",
+                "ts": "1674800400.523239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "D7BCA5F4-D802-4BDD-A796-F763D5B66607",
+        "type": "message",
+        "text": "ご連絡ありがとうございます！",
+        "user": "U04JJB0MTB7",
+        "ts": "1674800400.523239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TWg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ご連絡ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674799749.406559",
+        "parent_user_id": "U03V84JSHNK"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1674802579.137749",
+        "user": "U03Q17LBJP3",
+        "text": "<@U03Q17LBJP3>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1674802590.974489",
+        "user": "U04KFCBLY9J",
+        "text": "<@U04KFCBLY9J>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    }
+]

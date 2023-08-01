@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "1eb31296-dec1-496b-af19-48efa140379d",
+        "type": "message",
+        "text": "<@U03L0UFJF70> すいません、発注より先に手元の作業ばっかりやってて、もう少し遅れます。\nひとまずは前回と同じようなデザインテロップ中心になると思いますが、もしかしたら文字の打ち替え系は今回の編集チームに任せようかと思うので、雛形っぽく何パターンかもらうのでもいいかも。\n\n・対比（左右）\n・引用　本文＋著者／作品名／発表年\n・箇条書き（見出し＋番号か点リスト）\nみたいな感じ\nまぁまとめます、、",
+        "user": "U03CXUXB5PF",
+        "ts": "1661464800.891319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pgc\/C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03L0UFJF70"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すいません、発注より先に手元の作業ばっかりやってて、もう少し遅れます。\nひとまずは前回と同じようなデザインテロップ中心になると思いますが、もしかしたら文字の打ち替え系は今回の編集チームに任せようかと思うので、雛形っぽく何パターンかもらうのでもいいかも。\n\n・対比（左右）\n・引用　本文＋著者／作品名／発表年\n・箇条書き（見出し＋番号か点リスト）\nみたいな感じ\nまぁまとめます、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U03L0UFJF70"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

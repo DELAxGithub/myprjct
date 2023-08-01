@@ -1,0 +1,452 @@
+[
+    {
+        "client_msg_id": "ae9422c3-7659-4a03-b607-c2dee75d2ced",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> 日々のtodoに関しては、12時じゃなくても少し早められたらありがたいです。火曜日なので、今週の目標について皆さんとコンセンサスを取りたいです。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667266433.002879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0kv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 日々のtodoに関しては、12時じゃなくても少し早められたらありがたいです。火曜日なので、今週の目標について皆さんとコンセンサスを取りたいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-raising-hand",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e846f7bc-ea0c-4001-af97-e1107b320c2b",
+        "type": "message",
+        "text": "<@U03V84JSHNK> が明日からロケで忙しいと思うので、\n<@U03NZ0E09JN> 今日のうちにやっておくことまとめといてください\n<#C0462AQUAU9|3-edit-制作todoスクショ置き場> でも ここにある制作todoでも。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667268184.677029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4uIu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " が明日からロケで忙しいと思うので、\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今日のうちにやっておくことまとめといてください\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0462AQUAU9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " でも ここにある制作todoでも。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-raising-hand",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6b3fa337-8a45-46fb-a0d3-39275c30af8f",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> どうでしょう、なんか確認ごとありますか？",
+        "user": "U03CXUXB5PF",
+        "ts": "1667273007.932079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kLz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " どうでしょう、なんか確認ごとありますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "038ffc06-2e06-416f-baac-7866611f1a88",
+        "type": "message",
+        "text": "<#C0462AQUAU9|3-edit-制作todoスクショ置き場> に２件おきました。",
+        "user": "U03NZ0E09JN",
+        "ts": "1667273149.200669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LOMKo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "channel",
+                                "channel_id": "C0462AQUAU9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " に２件おきました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "be24e692-5bac-4342-8aab-b8ccd364d196",
+        "type": "message",
+        "text": "今週目標の設定と連絡が済んでればとりあえず大丈夫ですかね。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667273177.402719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B4Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今週目標の設定と連絡が済んでればとりあえず大丈夫ですかね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d1147f25-cc78-4056-b461-da457ca4c08d",
+        "type": "message",
+        "text": "24三宅の足りないイメージは編集マンが着手しないと出てこない感じなので、おそらく明日着手になります。\n足りないものだけ先にピックした方が良いでしょうか。",
+        "user": "U03NZ0E09JN",
+        "ts": "1667273357.275489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NIHwk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "24三宅の足りないイメージは編集マンが着手しないと出てこない感じなので、おそらく明日着手になります。\n足りないものだけ先にピックした方が良いでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "31990832-6b83-45a5-912d-2e2e517eb4b8",
+        "type": "message",
+        "text": "まぁそんなにたくさんないので、明日着手してもらって大丈夫です。編集しながら見つけたらお知らせください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667273546.163169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C9rm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まぁそんなにたくさんないので、明日着手してもらって大丈夫です。編集しながら見つけたらお知らせください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-raising-hand",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce00fac4-0b9c-48f3-b9dd-781db02ea820",
+        "type": "message",
+        "text": "今日、明日の作業\n\n• 高山作業\n11\/1\n35岡 ２試写反映\n42松本 ２試写反映\n44筒井 ２試写反映\n\n11\/2\n24三宅 修正反映→MA発注\n\n\n• 岡野作業\n11\/1　27浅羽　試写２UP\n\n11\/2　和泉　試写２UP\n\n\n• 石橋\n11\/4以降着手\n55長谷",
+        "user": "U03NZ0E09JN",
+        "ts": "1667280845.842819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ILTy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日、明日の作業\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "高山作業"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "11\/1\n35岡 ２試写反映\n42松本 ２試写反映\n44筒井 ２試写反映\n\n11\/2\n24三宅 修正反映→MA発注\n\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "岡野作業"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "11\/1　27浅羽　試写２UP\n\n11\/2　和泉　試写２UP\n\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "石橋"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "11\/4以降着手\n55長谷"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

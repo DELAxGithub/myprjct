@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "4C51FBAF-B950-43BC-8DFB-48ABBA80E237",
+        "type": "message",
+        "text": "<@U03HJRZK295> <@U03CXUXB5PF> \nこちらも23日21時で大丈夫です！\nよろしくお願いします！",
+        "user": "U03L0UFJF70",
+        "ts": "1655764995.394129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Hi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "こちらも23日21時で大丈夫です！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c102214d3e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-17\/3687513129379_c102214d3e84dc081236_72.png",
+            "first_name": "Ryosuke",
+            "real_name": "Ryosuke Sakurai",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "r.sakurai1015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

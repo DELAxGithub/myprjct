@@ -1,0 +1,215 @@
+[
+    {
+        "client_msg_id": "19c24adc-6c28-4e34-9c0b-19e4d2692b5f",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03V84JSHNK>\n錬金術師の3枚の購入をお願いします。",
+        "user": "U03Q17LBJP3",
+        "ts": "1668944241.134249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l1I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n錬金術師の3枚の購入をお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668881216.890149",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3> <@U03CXUXB5PF> 購入しました。【本番購入】のヘッダつけてあります。よろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F04BTNK9CKW",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03V84JSHNK",
+        "display_as_bot": false,
+        "ts": "1668949439.724129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vY5=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 購入しました。【本番購入】のヘッダつけてあります。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3fb19de5-10e6-43e1-a7eb-e1e825b47ba5",
+        "thread_ts": "1668881216.890149",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "074187d0-a405-44af-a15c-bb792d23a976",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03V84JSHNK>\n差し替えました。最終よろしくお願いします。",
+        "user": "U03Q17LBJP3",
+        "ts": "1668951281.844989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6WX=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n差し替えました。最終よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668881216.890149",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 最終にする際は、このシーケンス名の変更をお願いします。\n書き出した時にそのバージョンになってる→シーケンスがその名前になってる、っていう感じです。\n\nこちらで書き出す時は、シーケンスを何にも触らない予定なので\n・インアウトつけない\n・シーケンス名をそのバージョンにする（作業時に変えちゃう方がいいと思います　音楽きたら2.0とか修正始める時に2.1とか）\nっていうのをお願いします",
+        "files": [
+            {
+                "id": "F04BB1YTE0P",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1668967007.342089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NU=3\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 最終にする際は、このシーケンス名の変更をお願いします。\n書き出した時にそのバージョンになってる→シーケンスがその名前になってる、っていう感じです。\n\nこちらで書き出す時は、シーケンスを何にも触らない予定なので\n・インアウトつけない\n・シーケンス名をそのバージョンにする（作業時に変えちゃう方がいいと思います　音楽きたら2.0とか修正始める時に2.1とか）\nっていうのをお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "cdb5e6cb-6a4a-484c-bdc4-6b4a51ae3b5e",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

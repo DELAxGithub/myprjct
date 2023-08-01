@@ -1,0 +1,160 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04QC17DUEP> #89成田聡子で変更がありました\n変更前：リサーチ\n変更後：編集1\n担当者は杉谷です",
+        "ts": "1679824858.109529",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3gtOz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04QC17DUEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #89成田聡子で変更がありました\n変更前：リサーチ\n変更後：編集1\n担当者は杉谷です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03Q17LBJP3> #81早川英男で変更がありました\n変更前：試写2\n変更後：編集3\n担当者は岡野です",
+        "ts": "1679827432.162209",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cll3v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #81早川英男で変更がありました\n変更前：試写2\n変更後：編集3\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04KFCBLY9J> #99パックンで変更がありました\n変更前：台本作成\n変更後：リサーチ\n担当者は中野です",
+        "ts": "1679845439.415429",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UVw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #99パックンで変更がありました\n変更前：台本作成\n変更後：リサーチ\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04QC17DUEP> #100保坂 修司で変更がありました\n変更前：台本作成\n変更後：リサーチ\n担当者は杉谷です",
+        "ts": "1679874227.600209",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vwgQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04QC17DUEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #100保坂 修司で変更がありました\n変更前：台本作成\n変更後：リサーチ\n担当者は杉谷です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03P0T4KQMV> #82河田雅圭で変更がありました\n変更前：試写2\n変更後：本人編集\n担当者は辻井です",
+        "ts": "1679875803.702869",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6\/AYu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #82河田雅圭で変更がありました\n変更前：試写2\n変更後：本人編集\n担当者は辻井です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

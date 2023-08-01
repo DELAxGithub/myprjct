@@ -1,0 +1,179 @@
+[
+    {
+        "client_msg_id": "34D228DB-C611-48B6-9808-2DB5E7B4AC3D",
+        "type": "message",
+        "text": "2のBGMなしはお願いします、\n1のは工事中っぽい長めの雑音のイメージですが、これといった箇所ありますかね？",
+        "user": "U03CXUXB5PF",
+        "ts": "1667206731.386309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "58lX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2のBGMなしはお願いします、\n1のは工事中っぽい長めの雑音のイメージですが、これといった箇所ありますかね？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "↓42マツモトさんEP2のA、Bタイプ×4タイプ(音楽なし)のノイズ除去を施したWAVデータをDropboxにアップしました。\n\nご確認よろしくお願いします:bow:",
+        "files": [
+            {
+                "id": "F048VDEMPEY",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1667218150.997789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l0exB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↓42マツモトさんEP2のA、Bタイプ×4タイプ(音楽なし)のノイズ除去を施したWAVデータをDropboxにアップしました。\n\nご確認よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "27B2615B-291F-4432-BD61-F01919099D1A",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "78A525BA-F5E7-42C1-98E2-168EA2BDA092",
+        "type": "message",
+        "text": "↑②の昨日のノイズ除去を施したもので、音楽抜きのWAVデータになります。",
+        "user": "U03G0LAPT3N",
+        "ts": "1667225475.195749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RrrU8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑②の昨日のノイズ除去を施したもので、音楽抜きのWAVデータになります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "↓43ヒラオカさんEP3で金属音が気になる箇所を見つけたので、その部分にノイズ処理を施しました。\n音楽有りと無しの両パターン書き出しました。\nタイムの詳細は、フォルダ内のPDFに書いてあります。\nご確認よろしくお願いします:bow:",
+        "files": [
+            {
+                "id": "F048D3KH6RM",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1667225533.269559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kb6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↓43ヒラオカさんEP3で金属音が気になる箇所を見つけたので、その部分にノイズ処理を施しました。\n音楽有りと無しの両パターン書き出しました。\nタイムの詳細は、フォルダ内のPDFに書いてあります。\nご確認よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "21F08C19-B5A1-40B3-91FF-D55CC968BF69",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

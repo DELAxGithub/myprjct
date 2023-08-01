@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "d322ac3d-3aeb-4023-9d4a-6bbcc021485f",
+        "type": "message",
+        "text": "42のテロップも新調しました\n premierのtelopフォルダにあります",
+        "user": "U03CXUXB5PF",
+        "ts": "1664014009.843199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VCFx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "42のテロップも新調しました\n premierのtelopフォルダにあります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dbdf70ec-4d01-4ecb-87f3-c8fbcd5a6642",
+        "type": "message",
+        "text": "<@U03V84JSHNK> 41_平の待ち映像、入れられるところはおねぎあします。これ終わったら編集マンにお伝えください",
+        "user": "U03CXUXB5PF",
+        "ts": "1664075852.459799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oZT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 41_平の待ち映像、入れられるところはおねぎあします。これ終わったら編集マンにお伝えください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

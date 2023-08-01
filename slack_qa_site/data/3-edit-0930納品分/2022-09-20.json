@@ -1,0 +1,912 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663726635.381779",
+        "user": "U03CXUXB5PF",
+        "text": "<@U03CXUXB5PF>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663726709.221209",
+        "user": "U040YCC00V6",
+        "text": "<@U040YCC00V6>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663726709.300459",
+        "user": "U03NJATSEBH",
+        "text": "<@U03NJATSEBH>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663726709.359639",
+        "user": "U03P0T4KQMV",
+        "text": "<@U03P0T4KQMV>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663726709.419639",
+        "user": "U03Q17LBJP3",
+        "text": "<@U03Q17LBJP3>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663726709.478119",
+        "user": "U03QQ3J656Z",
+        "text": "<@U03QQ3J656Z>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663726709.533659",
+        "user": "U03RA83HRN0",
+        "text": "<@U03RA83HRN0>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663726709.600609",
+        "user": "U03NZ0E09JN",
+        "text": "<@U03NZ0E09JN>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "e5f8c572-5e47-41f0-9ae1-f0048c36438a",
+        "type": "message",
+        "text": "納品までこちらで。。\n修正MA音源きてるやつで、直しがまだの箇所あればお知らせください。すぐ直します。\n<@U03NJATSEBH> <@U03QQ3J656Z>\n<@U03P0T4KQMV>\n\nせっかく作ったのでフォーマットも適用まだならお願いします\nフォーマットっていうシーケンスあるのでそこからつかってください\n<https:\/\/docs.google.com\/document\/d\/1TDYNGNWKszjfCxnt6rTLzY58scC7xuRf6eoSbdIl37U\/edit?usp=sharing>",
+        "user": "U03CXUXB5PF",
+        "ts": "1663726784.143629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DFrJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "納品までこちらで。。\n修正MA音源きてるやつで、直しがまだの箇所あればお知らせください。すぐ直します。\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nせっかく作ったのでフォーマットも適用まだならお願いします\nフォーマットっていうシーケンスあるのでそこからつかってください\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1TDYNGNWKszjfCxnt6rTLzY58scC7xuRf6eoSbdIl37U\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1663727990.000000"
+        },
+        "thread_ts": "1663726784.143629",
+        "reply_count": 10,
+        "reply_users_count": 4,
+        "latest_reply": "1663844338.190429",
+        "reply_users": [
+            "U03P0T4KQMV",
+            "U03NZ0E09JN",
+            "U03CXUXB5PF",
+            "U03Q17LBJP3"
+        ],
+        "replies": [
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1663741356.198239"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1663840272.157279"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663841341.016829"
+            },
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1663841762.910749"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1663842474.821289"
+            },
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1663842801.679579"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663842860.859279"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663843138.109949"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663843311.529919"
+            },
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1663844338.190429"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1663844338.190429"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663728720.078879",
+        "user": "U03NJGXEPL7",
+        "text": "<@U03NJGXEPL7>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "client_msg_id": "357992b0-d9a0-4b7c-9f20-ce078d5cff3a",
+        "type": "message",
+        "text": "<@U03NJATSEBH> <@U03QQ3J656Z> <@U03QQ3J656Z>\n今お願いしている作業の中で最も優先度高いのがこのチャンネルです\n本件作業できるタイミングになりましたら、上にあります、MAの張り替え＆フォーマットの変更優先的に作業をお願いします\nやってもらってる途中なら何度もすいません\nあらすじが30秒になるのですが、その分音楽を調整お願いします\nPRにもありますのでお忘れなく。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663736729.068829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NwNT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今お願いしている作業の中で最も優先度高いのがこのチャンネルです\n本件作業できるタイミングになりましたら、上にあります、MAの張り替え＆フォーマットの変更優先的に作業をお願いします\nやってもらってる途中なら何度もすいません\nあらすじが30秒になるのですが、その分音楽を調整お願いします\nPRにもありますのでお忘れなく。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1663736861.000000"
+        }
+    },
+    {
+        "client_msg_id": "1e48aae0-88a6-4e3b-a908-e7673cbe6cfb",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n小野塚の\"MA後\"の張り替えは本日夜作業されるとのことでした。",
+        "user": "U03NZ0E09JN",
+        "ts": "1663738287.836009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VIDQc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n小野塚の\"MA後\"の張り替えは本日夜作業されるとのことでした。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03NZ0E09JN",
+            "ts": "1663738315.000000"
+        }
+    },
+    {
+        "client_msg_id": "f9388870-b3d0-46c1-9b24-4ce5f0b5f4b3",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> ありがとうございます。はい、大丈夫です。さっき ４５−50の方でも見たので。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663738460.895999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cDo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます。はい、大丈夫です。さっき ４５−50の方でも見たので。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "945a95df-57f4-4771-b67a-8926b2915120",
+        "type": "message",
+        "text": "<@U03NJATSEBH> パックン、赤いマーカーのところだけ残しました。そこ作業してもらったら完パケようで書き出しますが、提出前に、一回通して試写してもらってもいいですか？変なところあったら教えてください。簡単に直すべきケアレスミスなら直していいんですが、まさか、そんな、今更、、っていうやつならお知らせください。ちょっと触ってんで、作業時は同期してからお願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663738553.054729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m7L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " パックン、赤いマーカーのところだけ残しました。そこ作業してもらったら完パケようで書き出しますが、提出前に、一回通して試写してもらってもいいですか？変なところあったら教えてください。簡単に直すべきケアレスミスなら直していいんですが、まさか、そんな、今更、、っていうやつならお知らせください。ちょっと触ってんで、作業時は同期してからお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1663738569.000000"
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d54a7f73-485a-4e28-a0cf-998c0840000e",
+        "type": "message",
+        "text": "<@U03P0T4KQMV> <@U03QQ3J656Z> <@U03NJATSEBH> 終わったら <@U040YCC00V6> にご連絡ください\nまぁ書き出し夕方〜夜以降でもいいか。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663739672.846699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t2v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 終わったら "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にご連絡ください\nまぁ書き出し夕方〜夜以降でもいいか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ab2be6f0-9091-4040-bd50-6351bddd31c5",
+        "type": "message",
+        "text": "日本時間の20時ごろ戻ります。よろしくお願いいたします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663740104.698969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Py8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "日本時間の20時ごろ戻ります。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF>\n小野塚MA反映していますが、数点共有事項があります。\n\nep1→00:08:28:11の「太平洋」から「大西洋」への変更が反映されていません。\nep2、ep3→タイトル後の話し始めまで1秒伸ばしている部分が反映されておらず、音声にズレが出ています。応急処置として、音声のみカットしてずらしを行ったため問題ないといえば問題ないですが、こちらもご確認ください。\n\nよろしくお願いします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1663741356.198239",
+        "thread_ts": "1663726784.143629",
+        "root": {
+            "client_msg_id": "e5f8c572-5e47-41f0-9ae1-f0048c36438a",
+            "type": "message",
+            "text": "納品までこちらで。。\n修正MA音源きてるやつで、直しがまだの箇所あればお知らせください。すぐ直します。\n<@U03NJATSEBH> <@U03QQ3J656Z>\n<@U03P0T4KQMV>\n\nせっかく作ったのでフォーマットも適用まだならお願いします\nフォーマットっていうシーケンスあるのでそこからつかってください\n<https:\/\/docs.google.com\/document\/d\/1TDYNGNWKszjfCxnt6rTLzY58scC7xuRf6eoSbdIl37U\/edit?usp=sharing>",
+            "user": "U03CXUXB5PF",
+            "ts": "1663726784.143629",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "DFrJ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "納品までこちらで。。\n修正MA音源きてるやつで、直しがまだの箇所あればお知らせください。すぐ直します。\n"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03NJATSEBH"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03QQ3J656Z"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03P0T4KQMV"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nせっかく作ったのでフォーマットも適用まだならお願いします\nフォーマットっていうシーケンスあるのでそこからつかってください\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/docs.google.com\/document\/d\/1TDYNGNWKszjfCxnt6rTLzY58scC7xuRf6eoSbdIl37U\/edit?usp=sharing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "edited": {
+                "user": "U03CXUXB5PF",
+                "ts": "1663727990.000000"
+            },
+            "thread_ts": "1663726784.143629",
+            "reply_count": 10,
+            "reply_users_count": 4,
+            "latest_reply": "1663844338.190429",
+            "reply_users": [
+                "U03P0T4KQMV",
+                "U03NZ0E09JN",
+                "U03CXUXB5PF",
+                "U03Q17LBJP3"
+            ],
+            "replies": [
+                {
+                    "user": "U03P0T4KQMV",
+                    "ts": "1663741356.198239"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1663840272.157279"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1663841341.016829"
+                },
+                {
+                    "user": "U03P0T4KQMV",
+                    "ts": "1663841762.910749"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1663842474.821289"
+                },
+                {
+                    "user": "U03P0T4KQMV",
+                    "ts": "1663842801.679579"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1663842860.859279"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1663843138.109949"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1663843311.529919"
+                },
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1663844338.190429"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1663844338.190429"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R4RWw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n小野塚MA反映していますが、数点共有事項があります。\n\nep1→00:08:28:11の「太平洋」から「大西洋」への変更が反映されていません。\nep2、ep3→タイトル後の話し始めまで1秒伸ばしている部分が反映されておらず、音声にズレが出ています。応急処置として、音声のみカットしてずらしを行ったため問題ないといえば問題ないですが、こちらもご確認ください。\n\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4e5a0a0c-80be-4e6c-8a92-7c0f3668a053"
+    },
+    {
+        "client_msg_id": "ac697f75-2277-4854-bc12-c9914f2cd3e4",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>  <@U040YCC00V6> <@U03HJRZK295>\n25中島　MA貼り中です\ndropboxにPR分のMA一式、全部のALL MIXが入っておりませんので、ご確認よろしくお願いします。",
+        "user": "U03Q17LBJP3",
+        "ts": "1663741701.237799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p1B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n25中島　MA貼り中です\ndropboxにPR分のMA一式、全部のALL MIXが入っておりませんので、ご確認よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663741701.237799",
+        "reply_count": 13,
+        "reply_users_count": 2,
+        "latest_reply": "1663752335.229969",
+        "reply_users": [
+            "U040YCC00V6",
+            "U03Q17LBJP3"
+        ],
+        "replies": [
+            {
+                "user": "U040YCC00V6",
+                "ts": "1663742305.243219"
+            },
+            {
+                "user": "U040YCC00V6",
+                "ts": "1663743491.912009"
+            },
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1663746195.032689"
+            },
+            {
+                "user": "U040YCC00V6",
+                "ts": "1663746492.394099"
+            },
+            {
+                "user": "U040YCC00V6",
+                "ts": "1663747571.779759"
+            },
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1663748050.568959"
+            },
+            {
+                "user": "U040YCC00V6",
+                "ts": "1663748185.709379"
+            },
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1663748604.300729"
+            },
+            {
+                "user": "U040YCC00V6",
+                "ts": "1663748685.702209"
+            },
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1663748916.266849"
+            },
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1663749021.845099"
+            },
+            {
+                "user": "U040YCC00V6",
+                "ts": "1663749231.845549"
+            },
+            {
+                "user": "U040YCC00V6",
+                "ts": "1663752335.229969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1663752335.229969"
+    },
+    {
+        "client_msg_id": "FD3C6646-60E7-447D-ABE3-AD2D07F58716",
+        "type": "message",
+        "text": "ありがとうございます。\n確認致します",
+        "user": "U040YCC00V6",
+        "ts": "1663742305.243219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oRj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "確認致します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663741701.237799",
+        "parent_user_id": "U03Q17LBJP3"
+    },
+    {
+        "client_msg_id": "dfb2edfb-0aaf-4fb7-a6ff-f72e4dcf5953",
+        "type": "message",
+        "text": "Dropbox内「KDDI_MA」に「25_nakajima_本番MA」というフォルダ、データが入っておりますが、こちらではないでしょうか？\n（引き継いだばかりでわからないことが多く、申し訳ありません）",
+        "user": "U040YCC00V6",
+        "ts": "1663743491.912009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4B\/cY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dropbox内「KDDI_MA」に「25_nakajima_本番MA」というフォルダ、データが入っておりますが、こちらではないでしょうか？\n（引き継いだばかりでわからないことが多く、申し訳ありません）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663741701.237799",
+        "parent_user_id": "U03Q17LBJP3"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U040YCC00V6> <@U03HJRZK295>\n29_パックン MAに関しまして\nep1→ALLmix以外のファイル無し(ALLmixはPremiereに読み込めるようなりました)\n　　 ALLmixが少しズレています(Premiere上でファイル該当箇所に赤マーク)\nep3→3ファイルのみ\n PR→一式なし\n\n添付画像が現状Dropboxにあるファイルです。\nep2、ep3従来通り音が来ているようなので\nファイル名と数がep毎に違うのは気にしなくでも良いでしょうか\nご確認いただければ幸いです。",
+        "files": [
+            {
+                "id": "F0438S0GBR8",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NJATSEBH",
+        "display_as_bot": false,
+        "ts": "1663743581.953739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Ktj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n29_パックン MAに関しまして\nep1→ALLmix以外のファイル無し(ALLmixはPremiereに読み込めるようなりました)\n　　 ALLmixが少しズレています(Premiere上でファイル該当箇所に赤マーク)\nep3→3ファイルのみ\n PR→一式なし\n\n添付画像が現状Dropboxにあるファイルです。\nep2、ep3従来通り音が来ているようなので\nファイル名と数がep毎に違うのは気にしなくでも良いでしょうか\nご確認いただければ幸いです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2e2b61a1-98ea-474f-b2b1-7c43e7b5d326"
+    }
+]

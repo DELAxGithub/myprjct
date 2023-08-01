@@ -1,0 +1,1256 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U040YCC00V6>\nすいません、私の書き方が悪かったのですが、\n43平岡、44筒井はクライアントReplay試写１へお願いいたします。\n「KDDI_41-50_1試写」です。",
+        "user": "U03NZ0E09JN",
+        "ts": "1665045684.488809",
+        "thread_ts": "1665039370.838899",
+        "root": {
+            "client_msg_id": "c9f4b6c0-95d7-4a74-a0ce-f7f37dd55281",
+            "type": "message",
+            "text": "<@U03P0T4KQMV> <@U03QQ3J656Z>\n43平岡、44筒井（pr無し）を手元試写用に書き出しました",
+            "user": "U040YCC00V6",
+            "ts": "1665039370.838899",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "rqYFi",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03P0T4KQMV"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03QQ3J656Z"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n43平岡、44筒井（pr無し）を手元試写用に書き出しました"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1665039370.838899",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1665045684.488809",
+            "reply_users": [
+                "U03NZ0E09JN"
+            ],
+            "replies": [
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1665045684.488809"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lM33",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nすいません、私の書き方が悪かったのですが、\n43平岡、44筒井はクライアントReplay試写１へお願いいたします。\n「KDDI_41-50_1試写」です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a8e3d713-a33c-4a71-9c0e-dd4cf588b778",
+        "edited": {
+            "user": "U03NZ0E09JN",
+            "ts": "1665045733.000000"
+        }
+    },
+    {
+        "client_msg_id": "df9508ea-42ae-4cd1-9880-63f1ef637de1",
+        "type": "message",
+        "text": "<@U03RA83HRN0> クライアントからのリクエスト、台本に反映いただいてますが、Replayにあれば問題ないですので、ステータスをNeeds Revieｗにしておいて、その旨お知らせくださいー\n\nNeeds Reviewにしたときに僕のところにメールがきますので。（もっというと、指定のslackチャンネルに転送できるんですが、まぁそこまで自動化するかどうかは検討中です）",
+        "user": "U03CXUXB5PF",
+        "ts": "1665058399.110079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VrXb\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " クライアントからのリクエスト、台本に反映いただいてますが、Replayにあれば問題ないですので、ステータスをNeeds Revieｗにしておいて、その旨お知らせくださいー\n\nNeeds Reviewにしたときに僕のところにメールがきますので。（もっというと、指定のslackチャンネルに転送できるんですが、まぁそこまで自動化するかどうかは検討中です）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665058399.110079",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1665064141.784199",
+        "reply_users": [
+            "U03RA83HRN0"
+        ],
+        "replies": [
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1665064141.784199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1665064141.784199",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U040YCC00V6> <@U03V84JSHNK>\n41の映像リクエスト、Replayにきてますがここにも共有しておきます\n\n<@U03RA83HRN0> ep2の59秒のところ、時間差テロップがうまくいってないってことですかね　レイアウト微調整をおねがいします",
+        "files": [
+            {
+                "id": "F045DTGLEEP",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F044ZDYAF7H",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F0463MJ362C",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "ts": "1665058799.818859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ou7e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n41の映像リクエスト、Replayにきてますがここにも共有しておきます\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ep2の59秒のところ、時間差テロップがうまくいってないってことですかね　レイアウト微調整をおねがいします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8b823e32-3181-4ce7-abf2-7aac0fe45f49",
+        "thread_ts": "1665058799.818859",
+        "reply_count": 20,
+        "reply_users_count": 2,
+        "latest_reply": "1665068739.011399",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U03RA83HRN0"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665058890.831469"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1665064015.738089"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665064591.776809"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1665065045.686369"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665065101.111949"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1665065154.264849"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665065193.516139"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1665065217.003769"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665065234.819619"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1665065398.336429"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665065633.396789"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1665066041.899149"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665066142.466739"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1665066732.376349"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665066802.948429"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1665067292.830769"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665067409.856479"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1665067992.823329"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665068069.297809"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1665068739.011399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1665068739.011399"
+    },
+    {
+        "client_msg_id": "649768c4-91d2-4137-9574-8d7a1df4a0a6",
+        "type": "message",
+        "text": "<@U03RA83HRN0> 修正終わり次第、MAしますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1665058890.831469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+A2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 修正終わり次第、MAしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665058799.818859",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "6637a81d-04de-4bb8-8925-9b47ae9dad9e",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nこちら的にはあくまでも1枚で出したいから魔を開けて入れたものを、向こう的には2秒前に出てきたのが「また出てきた」という認識なのではと思います。\n1枚ずつにしますか？",
+        "user": "U03RA83HRN0",
+        "ts": "1665064015.738089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xu+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこちら的にはあくまでも1枚で出したいから魔を開けて入れたものを、向こう的には2秒前に出てきたのが「また出てきた」という認識なのではと思います。\n1枚ずつにしますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03RA83HRN0",
+            "ts": "1665064041.000000"
+        },
+        "thread_ts": "1665058799.818859",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "e5431270-a9ce-4035-ba6d-b62d7c18967a",
+        "type": "message",
+        "text": "抜けがないようにはしてみました。\n実際忘れっぽいので保険も含めてでした。",
+        "user": "U03RA83HRN0",
+        "ts": "1665064141.784199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ajw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "抜けがないようにはしてみました。\n実際忘れっぽいので保険も含めてでした。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665058399.110079",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "346f39b0-0d0e-41e6-bccb-e7419171b186",
+        "type": "message",
+        "text": "いや　時間差でいいとおもいます。結構、隙間あるし。\nたぶんレイアウトが微妙に重なってるので、\n全体1枚の決まりをつくって、\nまず半分をクロップとかですかねぇ。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665064591.776809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cPA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いや　時間差でいいとおもいます。結構、隙間あるし。\nたぶんレイアウトが微妙に重なってるので、\n全体1枚の決まりをつくって、\nまず半分をクロップとかですかねぇ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665058799.818859",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "2a17af80-200f-4cf8-b6de-eca529419482",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n前にもあったのですが、Replayの文字の書体で時々こういうふうに重なりますね。\n本編で使っている書体では重なりはありません。\nテロップを左合わせにすれば、カットでも時間差で出せるので重なりはないはずです。",
+        "user": "U03RA83HRN0",
+        "ts": "1665065045.686369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "alLcJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n前にもあったのですが、Replayの文字の書体で時々こういうふうに重なりますね。\n本編で使っている書体では重なりはありません。\nテロップを左合わせにすれば、カットでも時間差で出せるので重なりはないはずです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665058799.818859",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "3c2e3b95-0a4f-45e5-b56f-b5ccbcd5924c",
+        "type": "message",
+        "text": "<@U03RA83HRN0>\nあー、なるほど。Replay上の問題。書き出したmp4で問題なきゃ大丈夫です。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665065101.111949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J2T\/X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nあー、なるほど。Replay上の問題。書き出したmp4で問題なきゃ大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665058799.818859",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "9e0b4c96-24b2-43f3-9717-160d29ddf249",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nの、はずです。28_田中でも数カ所あったはずです。他の人はないのかなぁ・・\nそれではこのままにしておきます。",
+        "user": "U03RA83HRN0",
+        "ts": "1665065154.264849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8W2ni",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nの、はずです。28_田中でも数カ所あったはずです。他の人はないのかなぁ・・\nそれではこのままにしておきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03RA83HRN0",
+            "ts": "1665065192.000000"
+        },
+        "thread_ts": "1665058799.818859",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "506a321a-5439-46bb-b45a-fb72d9bd192c",
+        "type": "message",
+        "text": "なぞですね。単に見るだけのサイトで、焼き付きのテロップのレイアウト変わるってのは。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665065193.516139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aZv\/q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なぞですね。単に見るだけのサイトで、焼き付きのテロップのレイアウト変わるってのは。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665058799.818859",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "6fdad826-a07e-4969-8fe9-46711cb23eba",
+        "type": "message",
+        "text": "そもそも不可解です。",
+        "user": "U03RA83HRN0",
+        "ts": "1665065217.003769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uOlN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そもそも不可解です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665058799.818859",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "7c4d66f5-8a5e-4ffc-ab8f-0c5bbcaa3ff7",
+        "type": "message",
+        "text": "ちなみにmp4のスクショできます？",
+        "user": "U03CXUXB5PF",
+        "ts": "1665065234.819619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d5o5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちなみにmp4のスクショできます？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665058799.818859",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "こんな感じです。",
+        "files": [
+            {
+                "id": "F045EM7EJTU",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03RA83HRN0",
+        "display_as_bot": false,
+        "ts": "1665065398.336429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gsn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こんな感じです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ae9746a9-0751-49c7-8362-d4a737bcf7a6",
+        "thread_ts": "1665058799.818859",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "3cb6c2d0-ce14-4f54-bffc-e71869fdc0eb",
+        "type": "message",
+        "text": "あれ、レイアウトはいいけど、このフォント、あってます？ スタイルでいうとフォローってやつかと。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665065633.396789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fLJh6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あれ、レイアウトはいいけど、このフォント、あってます？ スタイルでいうとフォローってやつかと。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1665065702.000000"
+        },
+        "thread_ts": "1665058799.818859",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "b83130f4-5b23-4e19-8ac0-e4e79826fb6d",
+        "type": "message",
+        "text": "頂いたフォローを乗せてますが・・違いましたか？",
+        "user": "U03RA83HRN0",
+        "ts": "1665066041.899149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2=z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "頂いたフォローを乗せてますが・・違いましたか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665058799.818859",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "b871b97e-64e0-4f6f-86aa-cd5e6b69351a",
+        "type": "message",
+        "text": "<@U03RA83HRN0>\nすいません、フォローテロップや取り切りのデザインは作ったときにやったりやらなかったりしてまして、最終的には、フォーマットシーケンスにあわせてスタイルをあてていだけますようお願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665066142.466739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LSy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nすいません、フォローテロップや取り切りのデザインは作ったときにやったりやらなかったりしてまして、最終的には、フォーマットシーケンスにあわせてスタイルをあてていだけますようお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665058799.818859",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "5482c7d7-ebea-41ab-88be-1ba55708f9ca",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nもしかして書体って NotoSansJP-Regular になりますか？",
+        "user": "U03RA83HRN0",
+        "ts": "1665066732.376349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "opk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nもしかして書体って NotoSansJP-Regular になりますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665058799.818859",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "72f1001e-0a1b-45ba-aef4-9787aeecf417",
+        "type": "message",
+        "text": "たぶんそうですが、書体で指定するというか、essentialグラフィックか、プロジェクトで「フォロー」って検索するとヒットするスタイルがあるはずです。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665066802.948429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JL5r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "たぶんそうですが、書体で指定するというか、essentialグラフィックか、プロジェクトで「フォロー」って検索するとヒットするスタイルがあるはずです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665058799.818859",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "これですよね。この書体を持っていないから他のに置き換わっちゃうんですかね？\nいつもプロジェクト開くと聞いてきます。\n28_田中は大丈夫だったでしょうか？",
+        "files": [
+            {
+                "id": "F0450AD3T0X",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F045HBJHUVA",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F045HBJSNLU",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03RA83HRN0",
+        "ts": "1665067292.830769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A81",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これですよね。この書体を持っていないから他のに置き換わっちゃうんですかね？\nいつもプロジェクト開くと聞いてきます。\n28_田中は大丈夫だったでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "aaa44a7f-6a38-45f5-908a-3a58dfcac561",
+        "thread_ts": "1665058799.818859",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "お、、そういうことか。手元で無視してる限りは、こっちで開いたときに狂いはないのかもしれませんが、お手元にもインストールください。。\n\nDropboxの決まりのここにあるやつです。\nNoto_Sans_JP\nShipporiMincho-oft\nです",
+        "files": [
+            {
+                "id": "F045EU13LUA",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1665067409.856479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iXWxF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お、、そういうことか。手元で無視してる限りは、こっちで開いたときに狂いはないのかもしれませんが、お手元にもインストールください。。\n\nDropboxの決まりのここにあるやつです。\nNoto_Sans_JP\nShipporiMincho-oft\nです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "959579b7-3e5a-420b-86d0-4738adcc2e04",
+        "thread_ts": "1665058799.818859",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "ありがとうございます！\nダウンロードして反映されました。\nちょっともろもろ大丈夫か確認してみますね。",
+        "files": [
+            {
+                "id": "F045F0M9DL2",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03RA83HRN0",
+        "display_as_bot": false,
+        "ts": "1665067992.823329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FjQJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！\nダウンロードして反映されました。\nちょっともろもろ大丈夫か確認してみますね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6a275b1a-3f9f-43ec-a9d1-2cdb076282e7",
+        "thread_ts": "1665058799.818859",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "4f5735e5-e848-43d2-916f-79d4af58b6fd",
+        "type": "message",
+        "text": "MAがとどいて、次の試写までで大丈夫ですー　こちらは尺に関係ないので（編集リズムなど尺に関する修正があればお願いしますが）\n終わったら <#C044PJ0DX60|3-edit-encorder書き出し依頼> にてMA用書き出しを依頼ください",
+        "user": "U03CXUXB5PF",
+        "ts": "1665068069.297809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zsnc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MAがとどいて、次の試写までで大丈夫ですー　こちらは尺に関係ないので（編集リズムなど尺に関する修正があればお願いしますが）\n終わったら "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C044PJ0DX60"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にてMA用書き出しを依頼ください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665058799.818859",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "ff98b759-e3cb-4812-bca2-37f8f90411bd",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n承知しました。ep3まで終わったら書き出しの依頼をします。\nいろいろとありがとうございました！:innocent:",
+        "user": "U03RA83HRN0",
+        "ts": "1665068739.011399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eacw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n承知しました。ep3まで終わったら書き出しの依頼をします。\nいろいろとありがとうございました！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "innocent",
+                                "unicode": "1f607"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665058799.818859",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "40d95129-21ce-4fe7-9e49-f4a18f44991a",
+        "type": "message",
+        "text": "<@U03RA83HRN0> 41平も\nちょっと台本を修正するのでMA書き出し依頼、少々お待ちください",
+        "user": "U03CXUXB5PF",
+        "ts": "1665071175.514309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Efo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 41平も\nちょっと台本を修正するのでMA書き出し依頼、少々お待ちください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

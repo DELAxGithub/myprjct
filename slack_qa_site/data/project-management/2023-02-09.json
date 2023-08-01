@@ -1,0 +1,373 @@
+[
+    {
+        "client_msg_id": "53bcec3c-a042-4aad-a053-7bef01289921",
+        "type": "message",
+        "text": "<@U04J38PLGM6> 技術チェックも現状渡してから1〜2日かかるのを考えると、結構前倒しで渡すのもそうですが、24~26日あたりにどかっといくかもしれないのと締め切り27日を連絡しておいてください。\n収録24日にあるんで、これの文字起こし&amp;Proxy変換とかも考えるとできるだけ23までに最終にしておきたいですが、MacBook Airでもひとまず文字起こし＆変換にするとかの体制作っておきましょうかねぇ。",
+        "user": "U03CXUXB5PF",
+        "ts": "1675929634.071669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "osJ5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 技術チェックも現状渡してから1〜2日かかるのを考えると、結構前倒しで渡すのもそうですが、24~26日あたりにどかっといくかもしれないのと締め切り27日を連絡しておいてください。\n収録24日にあるんで、これの文字起こし&Proxy変換とかも考えるとできるだけ23までに最終にしておきたいですが、MacBook Airでもひとまず文字起こし＆変換にするとかの体制作っておきましょうかねぇ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675929634.071669",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1675931938.233939",
+        "reply_users": [
+            "U04J38PLGM6",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1675930932.896649"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1675930989.727519"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1675931145.576309"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1675931409.905099"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1675931763.816719"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1675931827.082289"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1675931938.233939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675931938.233939"
+    },
+    {
+        "client_msg_id": "bb6eba15-d494-4ea9-8583-240f1db8fbba",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n24日-26日は何本ぐらいいきそうですかね？\nできれば、24まで最終になっていて欲しいですね。25日-26日は、別件があるので、吐き出し作業は夜にやる予定です。",
+        "user": "U04J38PLGM6",
+        "ts": "1675930932.896649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sid",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n24日-26日は何本ぐらいいきそうですかね？\nできれば、24まで最終になっていて欲しいですね。25日-26日は、別件があるので、吐き出し作業は夜にやる予定です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675929634.071669",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "efbae543-0343-4eb4-9f37-aa1a84925089",
+        "type": "message",
+        "text": "あ、そうか。書き出し先をDropboxに仕掛けておけば、まぁ日中勝手にできるはできるんだけどねぇ。",
+        "user": "U03CXUXB5PF",
+        "ts": "1675930989.727519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z1JBU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あ、そうか。書き出し先をDropboxに仕掛けておけば、まぁ日中勝手にできるはできるんだけどねぇ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675929634.071669",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "e1e2d80a-1c5e-4e88-840a-279a6aefe776",
+        "type": "message",
+        "text": "エンコーダーに送っとけば大丈夫そうですよね。小笠原さんには、何本ぐらい行きそうと伝えておきますか？それで締め切りが27日一杯、納品が28日という感じですか？",
+        "user": "U04J38PLGM6",
+        "ts": "1675931145.576309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8HZL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "エンコーダーに送っとけば大丈夫そうですよね。小笠原さんには、何本ぐらい行きそうと伝えておきますか？それで締め切りが27日一杯、納品が28日という感じですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675929634.071669",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "2ccc0ef2-2f99-49ee-80d1-490e4f550d39",
+        "type": "message",
+        "text": "まぁほんとの最後は27日朝までに全部チェック終えて欲しいって感じです。\n\n２７・２８はP社がチェック→納品する感じ。\n\n26日までに20人分近く行くってことでお伝えしておいてください。なるべく分散させますが、ためると大変です、っていう感じでいいかな。\nこぼれた分は別の人に頼まざるを得ない、というぐらい今回は締め切り厳守なので。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1675931409.905099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t9DX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まぁほんとの最後は27日朝までに全部チェック終えて欲しいって感じです。\n\n２７・２８はP社がチェック→納品する感じ。\n\n26日までに20人分近く行くってことでお伝えしておいてください。なるべく分散させますが、ためると大変です、っていう感じでいいかな。\nこぼれた分は別の人に頼まざるを得ない、というぐらい今回は締め切り厳守なので。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675929634.071669",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "eb2f35f5-e9fb-47f0-9519-e0cea99035fb",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> なるほど。分かりました。27朝までということで伝えます。",
+        "user": "U04J38PLGM6",
+        "ts": "1675931763.816719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I+kc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " なるほど。分かりました。27朝までということで伝えます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675929634.071669",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "acfa467d-0c10-4825-89dd-ee63beb77f9a",
+        "type": "message",
+        "text": "次の最終を送る時とかからお願いしますー　こちらが遅れてたらどうにもなりませんが、、",
+        "user": "U03CXUXB5PF",
+        "ts": "1675931827.082289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mbL+U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "次の最終を送る時とかからお願いしますー　こちらが遅れてたらどうにもなりませんが、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675929634.071669",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "0b9e0c06-a777-42f1-8877-ff6dde9b411b",
+        "type": "message",
+        "text": "了解です！",
+        "user": "U04J38PLGM6",
+        "ts": "1675931938.233939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2E+fl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675929634.071669",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

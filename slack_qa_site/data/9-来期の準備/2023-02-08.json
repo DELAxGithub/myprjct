@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "dd8db168-2eac-49e9-9b4a-a5536dd015c9",
+        "type": "message",
+        "text": "<@U04J38PLGM6> 上の件、状況わかったら小島さん宛にメールしてくださーい。一応電話で話してあるので、スケジュールNGのところあったらそこは外してURLを送って貰えばそれで大丈夫と思いますが。",
+        "user": "U03CXUXB5PF",
+        "ts": "1675909307.498879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KzXVb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 上の件、状況わかったら小島さん宛にメールしてくださーい。一応電話で話してあるので、スケジュールNGのところあったらそこは外してURLを送って貰えばそれで大丈夫と思いますが。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675909307.498879",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1675909453.054439",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1675909453.054439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675909453.054439"
+    },
+    {
+        "client_msg_id": "576483A0-A991-4396-9B1E-65AACDA40299",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 了解しました。",
+        "user": "U04J38PLGM6",
+        "ts": "1675909453.054439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pVeBK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675909307.498879",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

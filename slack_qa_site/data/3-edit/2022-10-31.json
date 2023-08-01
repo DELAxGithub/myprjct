@@ -1,0 +1,232 @@
+[
+    {
+        "type": "message",
+        "text": "*重要 ノイズ処理*\n\n音声ノイズ処理にかなり神経質なクライアントに対応するためこちらもだいぶあれこれやりましたが、\n一応合格ラインをもとに、編集時点でどうするか考えてみました\n\nMA前の編集をやってるものについては以下、お願いします。\n\n• 波形ですら確認できるほど明確なノイズ\n→MA前に編集でカットします　\n　台本にコメント／台本の前後をスクショ→slack\n　いただければ、代案考えます\n\n• しゃべりに被ってるノイズ\n→MAにて直してもらいます\n　マーカーで「ノイズ（ 長い）」とかしておいて、マーカー一覧\n　スクショをMA（QT＋OMF）のフォルダに入れといてください　長いか短いかはBGM入れた方がいいかどうかの判断になるので、ノイズの特徴も軽く書いといてもらえるとありがたいです\n\n\n→*試写1時点で「ノイズ処理」というテロップは不要です。*\n　試写に集中してもらいたいと思います\n\nMA後\n• しゃべりに被ってるノイズ\nマーカー箇所のノイズ、軽減されてるか確認し、白マーカーに\n\nクライアントチェック\n• 修正すんでる箇所でまだ言ってきたら「修正ずみ」とリアクションします。これ以上修正すると歪みます、とは伝えてあります\n• こちらの修正もれっぽいところ\nそれはMAでの見落としかもしれないので、再MA\n\n\n聴き比べ素材がMAフォルダにあります。今後の参考に聞いといてくださいー",
+        "files": [
+            {
+                "id": "F049620CYTB",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F048TAV038B",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "ts": "1667223632.163299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CjAVw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "重要 ノイズ処理",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n音声ノイズ処理にかなり神経質なクライアントに対応するためこちらもだいぶあれこれやりましたが、\n一応合格ラインをもとに、編集時点でどうするか考えてみました\n\nMA前の編集をやってるものについては以下、お願いします。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "波形ですら確認できるほど明確なノイズ"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "→MA前に編集でカットします　\n　台本にコメント／台本の前後をスクショ→slack\n　いただければ、代案考えます\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "しゃべりに被ってるノイズ"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "→MAにて直してもらいます\n　マーカーで「ノイズ（ 長い）」とかしておいて、マーカー一覧\n　スクショをMA（QT＋OMF）のフォルダに入れといてください　長いか短いかはBGM入れた方がいいかどうかの判断になるので、ノイズの特徴も軽く書いといてもらえるとありがたいです\n\n\n→"
+                            },
+                            {
+                                "type": "text",
+                                "text": "試写1時点で「ノイズ処理」というテロップは不要です。",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n　試写に集中してもらいたいと思います\n\nMA後\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "しゃべりに被ってるノイズ"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "マーカー箇所のノイズ、軽減されてるか確認し、白マーカーに\n\nクライアントチェック\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "修正すんでる箇所でまだ言ってきたら「修正ずみ」とリアクションします。これ以上修正すると歪みます、とは伝えてあります"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "こちらの修正もれっぽいところ"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それはMAでの見落としかもしれないので、再MA\n\n\n聴き比べ素材がMAフォルダにあります。今後の参考に聞いといてくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "bc9f3dd7-00f0-4e0d-aa41-15b41b9bd3e2",
+        "thread_ts": "1667223632.163299",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1667747156.547779",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1667747156.547779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1667747156.547779",
+        "reactions": [
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN",
+                    "U03Q17LBJP3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "bookmark",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bulb",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

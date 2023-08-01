@@ -1,0 +1,105 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> コメントフォロー調整しました。基本はそんなにいじらずシャドウを強くした感じです。\n下が以前のもの。上が調整後。\nチームプロジェクト保存？更新？ですが、なんかぽちぽちして閉じてしまいました。本当に大丈夫か後ほど確認してもらえますか？",
+        "files": [
+            {
+                "id": "F03MXHJ310A",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03L0UFJF70",
+        "display_as_bot": false,
+        "ts": "1656625368.941369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0flKX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " コメントフォロー調整しました。基本はそんなにいじらずシャドウを強くした感じです。\n下が以前のもの。上が調整後。\nチームプロジェクト保存？更新？ですが、なんかぽちぽちして閉じてしまいました。本当に大丈夫か後ほど確認してもらえますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "57b33b23-45cc-453d-a681-8c22365e7070",
+        "thread_ts": "1656507035.835169",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "E8A7F4D0-3CCA-4A52-89AF-144F45B651F8",
+        "type": "message",
+        "text": "プロジェクトの同期は来てました！ありがとう！\n文字の背景が真っ白でも読めますかねぇ。\nイメージカットのインサートの上にフォローテロップがくることもあるので、まだちょっと不安かも。極端なバージョンも一応作ってみてもらえます？",
+        "user": "U03CXUXB5PF",
+        "ts": "1656628652.527749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UgUe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "プロジェクトの同期は来てました！ありがとう！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "文字の背景が真っ白でも読めますかねぇ。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "イメージカットのインサートの上にフォローテロップがくることもあるので、まだちょっと不安かも。極端なバージョンも一応作ってみてもらえます？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1656507035.835169",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U03L0UFJF70"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

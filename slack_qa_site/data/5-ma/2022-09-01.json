@@ -1,0 +1,495 @@
+[
+    {
+        "client_msg_id": "801957fe-fefd-4e70-94d8-2587704b7ae0",
+        "type": "message",
+        "text": "なるべく時間使えるように調整します。",
+        "user": "U03G0LAPT3N",
+        "ts": "1662043929.469029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qwmq4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるべく時間使えるように調整します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1661999249.259959",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e216fc28-6745-4989-8901-1680bd88ec1d",
+        "type": "message",
+        "text": "素材のプロキシ化とのことで音への影響なないと思います。\n通常通りomfで書き出しをお願いします。\nまた、トラックの書き出し方法ですがは以下です。\n\nMAまでの手順\n\n\nまず、音響効果用の書き出し\n映像はプロキシデータ\nこの段階でomfは必要ありません。\n\n音響効果から制作へ、仕込み終わった音楽と効果音のWAVが届きます。\n\nそれを貼り付け、クライアントチェックが済み、音に関する修正は音響効果の音全てを引き連れながら作業を行います。\n\n次にMA用書き出しです。\n映像、プロキシ\n音声、omf\n（ここでは制作的にはMA用に書き出しという名称ですが、音チーム側では一回音響効果のスタッフにデータが渡り音楽や効果音の仕込み直しが発生した箇所を仕込み直し、その後MAに移ります）\n\nomfのトラック分の理想は以下です\n\n1chピンマイク\n2chガンマイク\n3ch音効仕込みM1-Lch\n4ch音効仕込みM1-Rch\n5ch音効仕込みM2-Lch\n6ch音効仕込みM2-Rch\n7ch音効仕込みSE-Lch\n8ch音効仕込みSE-Rch\n9chリクエストBGM-Lch\n10chリクエストBGM-Rch\n9chナレーション\n\nこのように、ステレオ素材は\n奇数チャンネルにL、偶数ちゃんねるにR、となるよう配置し、リクエストBGMは音効トラックとは分けるようにしていただけるとわかりやすいです。\nピンマイクやガンマイク、ナレーショントラックはモノラルです。\n以上を基本とし、イレギュラーな配置の時は引き継ぎをくださればご対応いたします。\n宜しくお願いします。",
+        "user": "U03G0LAPT3N",
+        "ts": "1662045025.886839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YH3B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "素材のプロキシ化とのことで音への影響なないと思います。\n通常通りomfで書き出しをお願いします。\nまた、トラックの書き出し方法ですがは以下です。\n\nMAまでの手順\n\n\nまず、音響効果用の書き出し\n映像はプロキシデータ\nこの段階でomfは必要ありません。\n\n音響効果から制作へ、仕込み終わった音楽と効果音のWAVが届きます。\n\nそれを貼り付け、クライアントチェックが済み、音に関する修正は音響効果の音全てを引き連れながら作業を行います。\n\n次にMA用書き出しです。\n映像、プロキシ\n音声、omf\n（ここでは制作的にはMA用に書き出しという名称ですが、音チーム側では一回音響効果のスタッフにデータが渡り音楽や効果音の仕込み直しが発生した箇所を仕込み直し、その後MAに移ります）\n\nomfのトラック分の理想は以下です\n\n1chピンマイク\n2chガンマイク\n3ch音効仕込みM1-Lch\n4ch音効仕込みM1-Rch\n5ch音効仕込みM2-Lch\n6ch音効仕込みM2-Rch\n7ch音効仕込みSE-Lch\n8ch音効仕込みSE-Rch\n9chリクエストBGM-Lch\n10chリクエストBGM-Rch\n9chナレーション\n\nこのように、ステレオ素材は\n奇数チャンネルにL、偶数ちゃんねるにR、となるよう配置し、リクエストBGMは音効トラックとは分けるようにしていただけるとわかりやすいです。\nピンマイクやガンマイク、ナレーショントラックはモノラルです。\n以上を基本とし、イレギュラーな配置の時は引き継ぎをくださればご対応いたします。\n宜しくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1661868554.694739",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "e0e3fa97-5fba-48ca-bd1c-2d98326658d3",
+        "type": "message",
+        "text": "詳細ありがとうございます！",
+        "user": "U03CXUXB5PF",
+        "ts": "1662045333.176299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M=m+y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "詳細ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1661868554.694739",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "0634f4b9-9311-4914-bbb7-1cd34a269fd5",
+        "type": "message",
+        "text": "<@U03G0LAPT3N>\n出演者から戻しがあり尺調整が入ったので土曜に書き出し予定ですが、\n一個音楽のリクエストがあったのでご相談です。\n23_小野塚のep2\n<https:\/\/docs.google.com\/document\/d\/1TePxZ8KArAGhUdlOAtY7qGz15vxfT9CRqoMyCG5xN9Y\/edit?usp=sharing>\n\n&gt; 第２章　貿易は不幸の始まり\n&gt; 背後の音楽：この第２章の時代の雰囲気を出すために、たとえば、マーラーの交響曲第５番の第４楽章とか、シェーンベルクの五つの管弦楽曲でも、切れ目なしに流してくださると嬉しいです。演奏時間はマーラーが10分ほど、シェーンベルクは５曲のうちいくつかを抜粋すれば、ちょうど全編にわって流すことができると思います。演奏は誰でも結構です\nだそうです。まぁできる範囲で。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1662045534.643769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uDU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n出演者から戻しがあり尺調整が入ったので土曜に書き出し予定ですが、\n一個音楽のリクエストがあったのでご相談です。\n23_小野塚のep2\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1TePxZ8KArAGhUdlOAtY7qGz15vxfT9CRqoMyCG5xN9Y\/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "第２章　貿易は不幸の始まり\n背後の音楽：この第２章の時代の雰囲気を出すために、たとえば、マーラーの交響曲第５番の第４楽章とか、シェーンベルクの五つの管弦楽曲でも、切れ目なしに流してくださると嬉しいです。演奏時間はマーラーが10分ほど、シェーンベルクは５曲のうちいくつかを抜粋すれば、ちょうど全編にわって流すことができると思います。演奏は誰でも結構です"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nだそうです。まぁできる範囲で。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "64459d48-2ecb-464d-b99d-3f3b50029db8",
+        "type": "message",
+        "text": "<https:\/\/windy-vis.com\/art\/viewer\/mahler_adagietto.html>\n先日ご提案したサイトに見つけました。\n別途有料ライセンスの問い合わせをすれば使えます。\n\nこちらは完全著作権フリーのサイトで、ここにもマーラーの交響曲第5番第4楽章がありましたが、こちらは尺が7分半程度で、音質が上のMIDI音源有料サイトとはかなり違います。\n\nまた、シェーンベルクのフリー音源は見つかりませんでした…\n\n上記から音源をご確認ください。\n\nお手数ですが、有料の場合も無料の場合も、制作側でダウンロードをしていただき、編集ソフトに曲を仕込んだ状態でomfを返していただければ、こちらでMAさせていただきます。\n宜しくお願いします。\n\n<https:\/\/classix.sitefactory.info\/downmp3.html#a01>",
+        "user": "U03G0LAPT3N",
+        "ts": "1662053562.045959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DYR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/windy-vis.com\/art\/viewer\/mahler_adagietto.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n先日ご提案したサイトに見つけました。\n別途有料ライセンスの問い合わせをすれば使えます。\n\nこちらは完全著作権フリーのサイトで、ここにもマーラーの交響曲第5番第4楽章がありましたが、こちらは尺が7分半程度で、音質が上のMIDI音源有料サイトとはかなり違います。\n\nまた、シェーンベルクのフリー音源は見つかりませんでした…\n\n上記から音源をご確認ください。\n\nお手数ですが、有料の場合も無料の場合も、制作側でダウンロードをしていただき、編集ソフトに曲を仕込んだ状態でomfを返していただければ、こちらでMAさせていただきます。\n宜しくお願いします。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/classix.sitefactory.info\/downmp3.html#a01"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/windy-vis.com\/art\/viewer\/mahler_adagietto.html",
+                "service_icon": "https:\/\/windy-vis.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/windy-vis.com\/art\/viewer\/mahler_adagietto.html",
+                "fallback": "マーラー　交響曲第5番　第4楽章 Adagietto , Mahler Symphony No.5 - MIDI CLASSICS MP3 by Windy-",
+                "text": "マーラー作曲の交響曲第5番　第4楽章 Adagietto のMP3 by MIDI CLASICS",
+                "title": "マーラー　交響曲第5番　第4楽章 Adagietto , Mahler Symphony No.5 - MIDI CLASSICS MP3 by Windy-",
+                "title_link": "https:\/\/windy-vis.com\/art\/viewer\/mahler_adagietto.html",
+                "service_name": "windy-vis.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b729908f-69c9-4d46-880f-7f22381f48ad",
+        "type": "message",
+        "text": "<@U03HJRZK295> <@U040YCC00V6>\nたかなしさんから教えてもらった上記サイトから購入手続き＆ダウンロードの上premiere・ドロップボックスにアップなどお願いします。支払いにカード情報とか必要になったら別途お伝えします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1662086213.920009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sjwr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nたかなしさんから教えてもらった上記サイトから購入手続き＆ダウンロードの上premiere・ドロップボックスにアップなどお願いします。支払いにカード情報とか必要になったら別途お伝えします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662086213.920009",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1662100737.267769",
+        "reply_users": [
+            "U03HJRZK295"
+        ],
+        "replies": [
+            {
+                "user": "U03HJRZK295",
+                "ts": "1662100737.267769"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1662100737.267769"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1662086500.257149",
+        "user": "U040YCC00V6",
+        "text": "<@U040YCC00V6>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "b212dbd2-c1bc-4e71-979c-6e02e9234a54",
+        "type": "message",
+        "text": "ドロップボックスで階層分けのご相談です。\n現場、KDDI-MAとなっている階層の中に３つのフォルダを作ると見やすいかと思いご提案です。\n\n01_編集to音効（プリプロ）←仮づけ\n02_編集to音効（本MA用）\n03_音効toMA←音チームでの受け渡し用\n\nいかがでしょうか？\n制作から見てわかりにくかったりしますでしょうか？",
+        "user": "U03G0LAPT3N",
+        "ts": "1662096634.673189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TQ=BH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ドロップボックスで階層分けのご相談です。\n現場、KDDI-MAとなっている階層の中に３つのフォルダを作ると見やすいかと思いご提案です。\n\n01_編集to音効（プリプロ）←仮づけ\n02_編集to音効（本MA用）\n03_音効toMA←音チームでの受け渡し用\n\nいかがでしょうか？\n制作から見てわかりにくかったりしますでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662096634.673189",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1662109561.631499",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1662102602.956279"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1662109561.631499"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1662109561.631499",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b8551057-3fa6-4793-a4af-917d6fade10e",
+        "type": "message",
+        "text": "今夜からMA作業に入れれば週末で５本なんとか頑張れそうです。\nデータお待ちしています。",
+        "user": "U03G0LAPT3N",
+        "ts": "1662100667.146229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xsf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今夜からMA作業に入れれば週末で５本なんとか頑張れそうです。\nデータお待ちしています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25edf04e-a1e5-47e7-8037-0901af5ca01a",
+        "type": "message",
+        "text": "ドビュッシーのやつで連絡入れたんですが途中でメールが来なくりました。今回ので再度せっついてみます",
+        "user": "U03HJRZK295",
+        "ts": "1662100737.267769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Zg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ドビュッシーのやつで連絡入れたんですが途中でメールが来なくりました。今回ので再度せっついてみます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662086213.920009",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

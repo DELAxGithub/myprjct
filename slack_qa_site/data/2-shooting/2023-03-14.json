@@ -1,0 +1,128 @@
+[
+    {
+        "client_msg_id": "d45973a3-9f48-4e25-b6d7-ee342d105d01",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U04J38PLGM6> 18（土）の収録ですが、ごめんなさい、またロケが入ってしまいまして、欠席させて下さい。24（金）は今の所行けそうな気がしています。すみません。",
+        "user": "U03V84JSHNK",
+        "ts": "1678856896.721669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UouS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 18（土）の収録ですが、ごめんなさい、またロケが入ってしまいまして、欠席させて下さい。24（金）は今の所行けそうな気がしています。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "476b7f89-31bc-466d-9104-9c09aa1311a2",
+        "type": "message",
+        "text": "24日は収録ないよ",
+        "user": "U03CXUXB5PF",
+        "ts": "1678857182.500139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QUlE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "24日は収録ないよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "df0d5ebd-a6cd-48e9-90a1-56b1c826129b",
+        "type": "message",
+        "text": "あ、そうでしたか、失礼しました、、すみません。。",
+        "user": "U03V84JSHNK",
+        "ts": "1678857229.208119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a8sS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あ、そうでしたか、失礼しました、、すみません。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

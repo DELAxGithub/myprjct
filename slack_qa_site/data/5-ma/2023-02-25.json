@@ -1,0 +1,483 @@
+[
+    {
+        "client_msg_id": "8E754168-D55B-4461-9D7E-FE683CB6C01B",
+        "type": "message",
+        "text": "ハリーのEP2とPRのomfがどちらも12KBしかないため、出し直しをお願いします！",
+        "user": "U03G0LAPT3N",
+        "ts": "1677312346.096299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dqibm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ハリーのEP2とPRのomfがどちらも12KBしかないため、出し直しをお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677312346.096299",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677330941.988339",
+        "reply_users": [
+            "U04JJB0MTB7"
+        ],
+        "replies": [
+            {
+                "user": "U04JJB0MTB7",
+                "ts": "1677330941.988339"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "76オカモトさんのWAVをDropboxにアップしました。\nご確認よろしくお願いします:bow:",
+        "files": [
+            {
+                "id": "F04RBRF08AG",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1677323334.983969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gPS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "76オカモトさんのWAVをDropboxにアップしました。\nご確認よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4FBA2634-C725-41FE-AD4E-0FBD73198B8F",
+        "thread_ts": "1677323334.983969",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677388301.199989",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1677388301.199989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677388301.199989"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "大変申し訳ございませんでした！\n先程ep2とPRのOMFを入れ直しました\nファイル名はそのままです！",
+        "user": "U04JJB0MTB7",
+        "ts": "1677330941.988339",
+        "thread_ts": "1677312346.096299",
+        "root": {
+            "client_msg_id": "8E754168-D55B-4461-9D7E-FE683CB6C01B",
+            "type": "message",
+            "text": "ハリーのEP2とPRのomfがどちらも12KBしかないため、出し直しをお願いします！",
+            "user": "U03G0LAPT3N",
+            "ts": "1677312346.096299",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Dqibm",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "ハリーのEP2とPRのomfがどちらも12KBしかないため、出し直しをお願いします！"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1677312346.096299",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1677330941.988339",
+            "reply_users": [
+                "U04JJB0MTB7"
+            ],
+            "replies": [
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1677330941.988339"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4sBt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大変申し訳ございませんでした！\n先程ep2とPRのOMFを入れ直しました\nファイル名はそのままです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9CB6FC6E-6959-454D-A2C1-EC5A1FD7243D",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03G0LAPT3N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "98イチカワさんのWAVをDropboxにアップしました。\n\n全体的にノイズが酷かった為、全EPに強めのノイズ除去を施しております。\n\nご確認よろしくお願いします:bow:",
+        "files": [
+            {
+                "id": "F04QVMMTNJ3",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1677371439.007059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y3T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "98イチカワさんのWAVをDropboxにアップしました。\n\n全体的にノイズが酷かった為、全EPに強めのノイズ除去を施しております。\n\nご確認よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "DD76E51B-98C8-46FA-8314-5A9942A886F3",
+        "thread_ts": "1677371439.007059",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677388238.790179",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1677388238.790179"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677388238.790179",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "78ウエミネさんのWAVをDropboxにアップしました。\nご確認よろしくお願いします:bow:",
+        "files": [
+            {
+                "id": "F04RA7XKRA6",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1677371471.098609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I4OJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "78ウエミネさんのWAVをDropboxにアップしました。\nご確認よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "C828796C-6422-4890-9B67-0D7C203CB3D2",
+        "thread_ts": "1677371471.098609",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677388269.560449",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1677388269.560449"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677388269.560449",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5118bae9-d315-4853-b404-a761b59c962c",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 編集2\nに進めてくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1677388238.790179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WzYG3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 編集2\nに進めてくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677371439.007059",
+        "parent_user_id": "U03G0LAPT3N"
+    },
+    {
+        "client_msg_id": "db86cdc3-d8ed-4f13-8695-56c420ad3965",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 78編集2に進めてくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1677388269.560449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/jXP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 78編集2に進めてくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677371471.098609",
+        "parent_user_id": "U03G0LAPT3N"
+    },
+    {
+        "client_msg_id": "60ca4dfd-1634-4394-9d53-70592a8d2a37",
+        "type": "message",
+        "text": "<@U04KCQL2MFV> 編集2に進めてくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1677388301.199989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g2ML",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KCQL2MFV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 編集2に進めてくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677323334.983969",
+        "parent_user_id": "U03G0LAPT3N"
+    },
+    {
+        "client_msg_id": "b0ceb2c7-b879-4395-9fd5-4e08ddf6eb07",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 72編集2に進めてくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1677388321.621879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iYU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 72編集2に進めてくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677311788.117659",
+        "parent_user_id": "U03G0LAPT3N"
+    }
+]

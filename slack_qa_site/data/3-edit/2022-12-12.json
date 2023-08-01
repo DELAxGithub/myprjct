@@ -1,0 +1,72 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03QQ3J656Z> <@U03NZ0E09JN> <@U03CXUXB5PF> 61横道、テロップも入れました。よろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F04EVBF7K2Q",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03V84JSHNK",
+        "display_as_bot": false,
+        "ts": "1670850352.612039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p33=y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 61横道、テロップも入れました。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3a86b16c-611d-4efb-95a9-386c23ad2681",
+        "thread_ts": "1670766851.776289",
+        "parent_user_id": "U03V84JSHNK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

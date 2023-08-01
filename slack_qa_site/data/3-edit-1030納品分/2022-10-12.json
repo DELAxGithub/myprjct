@@ -1,0 +1,131 @@
+[
+    {
+        "client_msg_id": "42da6d9b-f362-44e1-aa2c-41816b37be4c",
+        "type": "message",
+        "text": "<@U040YCC00V6> <@U03V84JSHNK>\n30和泉と35岡のテロップをお願いします。\nフォローだいぶ増えました。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665631896.267079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "60f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n30和泉と35岡のテロップをお願いします。\nフォローだいぶ増えました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665631896.267079",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1666062088.726109",
+        "reply_users": [
+            "U03QQ3J656Z",
+            "U03NZ0E09JN",
+            "U03V84JSHNK"
+        ],
+        "replies": [
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1665632087.575979"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1666061038.977879"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1666061314.506009"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1666062088.726109"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1666062088.726109"
+    },
+    {
+        "client_msg_id": "ecffdaf6-99ee-4392-873b-b7fa1e3bd7f7",
+        "type": "message",
+        "text": "35_岡は台本の通り直しているので\n作業いただかなくて大丈夫です",
+        "user": "U03QQ3J656Z",
+        "ts": "1665632087.575979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tcp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "35_岡は台本の通り直しているので\n作業いただかなくて大丈夫です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665631896.267079",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

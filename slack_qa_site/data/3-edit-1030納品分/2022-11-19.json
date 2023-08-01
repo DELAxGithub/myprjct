@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "b08629d2-0368-4dcd-94b5-2931ce531f0d",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 浅羽ってまだistock残ってます？最終になったらお知らせくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1668881216.890149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u6wRp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 浅羽ってまだistock残ってます？最終になったらお知らせくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668881216.890149",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1668951281.844989",
+        "reply_users": [
+            "U03Q17LBJP3",
+            "U03V84JSHNK"
+        ],
+        "replies": [
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1668944241.134249"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1668949439.724129"
+            },
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1668951281.844989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1668951281.844989"
+    }
+]

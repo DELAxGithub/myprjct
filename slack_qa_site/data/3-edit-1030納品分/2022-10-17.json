@@ -1,0 +1,342 @@
+[
+    {
+        "client_msg_id": "3038d775-1c60-45d8-95ff-d105876af5e5",
+        "type": "message",
+        "text": "<@U03Q17LBJP3>\n30和泉はいつ頃着手されますか？\nそれまでに足りないイメージの準備をお願いしたいと思っています。",
+        "user": "U03NZ0E09JN",
+        "ts": "1666060458.838609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+wxZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n30和泉はいつ頃着手されますか？\nそれまでに足りないイメージの準備をお願いしたいと思っています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1666060470.548349",
+        "user": "U03Q17LBJP3",
+        "text": "<@U03Q17LBJP3>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U040YCC00V6> <@U03V84JSHNK>\n30和泉のフォローテロップが増えた件で、テロップってもう作成いただいてましたでしょうか。すいません状況を見失っておりまして。\n\n35岡は必要ないとのことでしたが、\n\n<@U03Q17LBJP3>\n30和泉は作成した方が良いでしょうか。",
+        "user": "U03NZ0E09JN",
+        "ts": "1666061038.977879",
+        "thread_ts": "1665631896.267079",
+        "root": {
+            "client_msg_id": "42da6d9b-f362-44e1-aa2c-41816b37be4c",
+            "type": "message",
+            "text": "<@U040YCC00V6> <@U03V84JSHNK>\n30和泉と35岡のテロップをお願いします。\nフォローだいぶ増えました。",
+            "user": "U03CXUXB5PF",
+            "ts": "1665631896.267079",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "60f",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U040YCC00V6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03V84JSHNK"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n30和泉と35岡のテロップをお願いします。\nフォローだいぶ増えました。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1665631896.267079",
+            "reply_count": 4,
+            "reply_users_count": 3,
+            "latest_reply": "1666062088.726109",
+            "reply_users": [
+                "U03QQ3J656Z",
+                "U03NZ0E09JN",
+                "U03V84JSHNK"
+            ],
+            "replies": [
+                {
+                    "user": "U03QQ3J656Z",
+                    "ts": "1665632087.575979"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1666061038.977879"
+                },
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1666061314.506009"
+                },
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1666062088.726109"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1666062088.726109"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D\/eR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n30和泉のフォローテロップが増えた件で、テロップってもう作成いただいてましたでしょうか。すいません状況を見失っておりまして。\n\n35岡は必要ないとのことでしたが、\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n30和泉は作成した方が良いでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3346b611-f5b9-493b-9018-cd3d69e3aa55"
+    },
+    {
+        "client_msg_id": "4a336c0e-cb9f-4578-88bc-3da148764c6f",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> すみません、今作成します。少しお待ち下さい。",
+        "user": "U03V84JSHNK",
+        "ts": "1666061314.506009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U8gYU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すみません、今作成します。少しお待ち下さい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665631896.267079",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03NZ0E09JN> <@U03Q17LBJP3>\n2Q2に和泉テロップ（フォロー＆取り切り）入れました。よろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F046XJZH77D",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03V84JSHNK",
+        "display_as_bot": false,
+        "ts": "1666062088.726109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3wu5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n2Q2に和泉テロップ（フォロー＆取り切り）入れました。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "26b15650-c896-4fd1-963d-d44a035f7dbe",
+        "thread_ts": "1665631896.267079",
+        "parent_user_id": "U03CXUXB5PF",
+        "subtype": "thread_broadcast",
+        "root": {
+            "client_msg_id": "42da6d9b-f362-44e1-aa2c-41816b37be4c",
+            "type": "message",
+            "text": "<@U040YCC00V6> <@U03V84JSHNK>\n30和泉と35岡のテロップをお願いします。\nフォローだいぶ増えました。",
+            "user": "U03CXUXB5PF",
+            "ts": "1665631896.267079",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "60f",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U040YCC00V6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03V84JSHNK"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n30和泉と35岡のテロップをお願いします。\nフォローだいぶ増えました。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1665631896.267079",
+            "reply_count": 4,
+            "reply_users_count": 3,
+            "latest_reply": "1666062088.726109",
+            "reply_users": [
+                "U03QQ3J656Z",
+                "U03NZ0E09JN",
+                "U03V84JSHNK"
+            ],
+            "replies": [
+                {
+                    "user": "U03QQ3J656Z",
+                    "ts": "1665632087.575979"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1666061038.977879"
+                },
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1666061314.506009"
+                },
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1666062088.726109"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1666062088.726109"
+        },
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN",
+                    "U03Q17LBJP3"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

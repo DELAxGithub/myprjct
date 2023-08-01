@@ -1,0 +1,114 @@
+[
+    {
+        "client_msg_id": "C6F91B03-4F58-4C50-8494-B08B0374AFA8",
+        "type": "message",
+        "text": "<@U03HJRZK295> 9月の渋谷ですが、ちょっと埋まらなそうだそう。スタジオにバラしの相談、しますかね。",
+        "user": "U03CXUXB5PF",
+        "ts": "1660537938.438429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UO05x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 9月の渋谷ですが、ちょっと埋まらなそうだそう。スタジオにバラしの相談、しますかね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "15,16がバラシですか？",
+        "files": [
+            {
+                "id": "F03U00FNV33",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03HJRZK295",
+        "display_as_bot": false,
+        "ts": "1660538410.560679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "li1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "15,16がバラシですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2e887d82-b62d-40bb-ab3d-e05e39578604"
+    },
+    {
+        "client_msg_id": "1a958614-b49c-4340-83de-be96a0df993b",
+        "type": "message",
+        "text": "その可能性あります。\n小島さん経由でもいいけど。",
+        "user": "U03CXUXB5PF",
+        "ts": "1660543155.519089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IlN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "その可能性あります。\n小島さん経由でもいいけど。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

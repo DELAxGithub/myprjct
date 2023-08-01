@@ -1,0 +1,114 @@
+[
+    {
+        "client_msg_id": "F7461809-257D-4C38-A852-52C8352E5FFB",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> \n56たくま、58山本試写2.1アップしました。よろしくお願いします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1672486611.289149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qJqW8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n56たくま、58山本試写2.1アップしました。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c9a2369b-ac86-479a-ac5d-8875e7c314c0",
+        "type": "message",
+        "text": "<@U03Q17LBJP3>\n```「60阿部さん」（試写）を観ました。小説を読む際に注意すべき点など、今まであえて意識していなかったのですが、人間の欲望や感情が詰まったコンテクストとして理解することで新たな読み方ができそうだという実感を持ちました。社会にAIが取り入れられる中、バランスを取るためにも「小説」をどんどん読むことで人間に対する理解が深まり、新しいアイデアも生まれるのではないかと。夏目漱石やヘミングウェイなど有名な作家の事例を上げてお話を頂いていることも、本編を視聴するときに「感情が入りやすい」と感じました。編集、大変お疲れさまでした！！```\n編集2へお願いします",
+        "user": "U03CXUXB5PF",
+        "ts": "1672527127.507749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3pZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「60阿部さん」（試写）を観ました。小説を読む際に注意すべき点など、今まであえて意識していなかったのですが、人間の欲望や感情が詰まったコンテクストとして理解することで新たな読み方ができそうだという実感を持ちました。社会にAIが取り入れられる中、バランスを取るためにも「小説」をどんどん読むことで人間に対する理解が深まり、新しいアイデアも生まれるのではないかと。夏目漱石やヘミングウェイなど有名な作家の事例を上げてお話を頂いていることも、本編を視聴するときに「感情が入りやすい」と感じました。編集、大変お疲れさまでした！！"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "編集2へお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

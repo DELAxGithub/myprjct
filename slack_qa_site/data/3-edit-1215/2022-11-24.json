@@ -1,0 +1,75 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1669330183.730819",
+        "user": "U040YCC00V6",
+        "text": "<@U040YCC00V6>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "3e4fa4a2-b7c6-48ce-a211-7b81c6c7016e",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> <@U03CXUXB5PF>\n51、52、53が全て見出しテロップと支持されている件、申し訳ないです。修正します！",
+        "user": "U040YCC00V6",
+        "ts": "1669330393.346659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wh+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n51、52、53が全て見出しテロップと支持されている件、申し訳ないです。修正します！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

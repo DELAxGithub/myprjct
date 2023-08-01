@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "d4360e67-a9d8-41a5-9a79-036a7b2a77d8",
+        "type": "message",
+        "text": "<@U04J38PLGM6> <@U03V84JSHNK> 103から１０５もリサーチはできるんで進めてください\nちょっと溜まって来てますので、よろしくお願いしますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1680483600.958229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7OSe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 103から１０５もリサーチはできるんで進めてください\nちょっと溜まって来てますので、よろしくお願いしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

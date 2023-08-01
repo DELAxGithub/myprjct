@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "b50cd23f-a5b0-48f6-9e60-81341e07a895",
+        "type": "message",
+        "text": "じゃ１番12時〜でお願いします。\n<https:\/\/us02web.zoom.us\/j\/3423637728>\n\n進捗表に、premiereマニュアルシートを再掲しております　editに書いたのをストックしてます",
+        "user": "U03CXUXB5PF",
+        "ts": "1668739694.066639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vcJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "じゃ１番12時〜でお願いします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/3423637728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n進捗表に、premiereマニュアルシートを再掲しております　editに書いたのをストックしてます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e9061316-b9a0-402b-a718-5653433be36f",
+        "type": "message",
+        "text": "<!channel> 始めますー　入れる方はお願いします",
+        "user": "U03CXUXB5PF",
+        "ts": "1668740434.230389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m7SJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 始めますー　入れる方はお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

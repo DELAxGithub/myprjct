@@ -1,0 +1,165 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n37片岡ですが、もらい素材がそのままです",
+        "files": [
+            {
+                "id": "F04FM4DDWBA",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03QQ3J656Z",
+        "display_as_bot": false,
+        "ts": "1670904890.427379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kFFg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n37片岡ですが、もらい素材がそのままです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "70c30a12-1511-49ce-a7ae-85c760f72dc1"
+    },
+    {
+        "client_msg_id": "64213b77-a9db-488b-b967-af9dd15d9cd3",
+        "type": "message",
+        "text": "あ、しまった。これインサート？取り切り？どっちでしたっけ？ <@U03QQ3J656Z>",
+        "user": "U03CXUXB5PF",
+        "ts": "1670906271.661549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cvBjR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あ、しまった。これインサート？取り切り？どっちでしたっけ？ "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e48c1499-e655-46b0-b957-5cc37bf5b00b",
+        "type": "message",
+        "text": "インサートですね。\n４まいくらいあります",
+        "user": "U03QQ3J656Z",
+        "ts": "1670911410.891619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uiVYz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "インサートですね。\n４まいくらいあります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "79FE58D9-7E1F-4DE1-9064-A94B0925790A",
+        "type": "message",
+        "text": "じゃとりあえず2.1になったら出演者に当てますので、ひとまずそのままに。",
+        "user": "U03CXUXB5PF",
+        "ts": "1670918283.808719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wjo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "じゃとりあえず2.1になったら出演者に当てますので、ひとまずそのままに。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03QQ3J656Z"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

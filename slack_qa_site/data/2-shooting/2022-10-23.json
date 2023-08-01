@@ -1,0 +1,95 @@
+[
+    {
+        "client_msg_id": "b3739c1c-70a3-44f5-aaba-35450e8aacf6",
+        "type": "message",
+        "text": "<@U040YCC00V6> 現場で撮影した写真、現場の雰囲気わかるやつくださいー。\nついでに、出演者プロフィール用の写真も納品しといてくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1666565818.171839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gxs=O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 現場で撮影した写真、現場の雰囲気わかるやつくださいー。\nついでに、出演者プロフィール用の写真も納品しといてくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "clown_face",
+                "users": [
+                    "U040YCC00V6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "10f9e185-6c85-4589-9947-8d77dc6a48a5",
+        "type": "message",
+        "text": "<@U040YCC00V6> さいやさんから次のスタジオの場所案でメールきてましたが、小島さんと詰めてください\n11月18日も渋谷のがばらし担った分を埋め合わせようとおもっています。7時から20時つかいます。あとは1月9日か次の週の平日。まぁメールしますので引き継ぎをお願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1666591910.458809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qh79W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " さいやさんから次のスタジオの場所案でメールきてましたが、小島さんと詰めてください\n11月18日も渋谷のがばらし担った分を埋め合わせようとおもっています。7時から20時つかいます。あとは1月9日か次の週の平日。まぁメールしますので引き継ぎをお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "d3c0c284-2adb-42ed-ae9e-55c7e69a3122",
+        "type": "message",
+        "text": "<!channel>\nシーズン2(#51~80）キックオフ\n\n編集のやり方が独自の方法でなりつつあるので、51〜のローカルプロジェクト化に向けて、一回フォーマットを整理して、改めて全体共有したいと思います。\n年内収録が金曜で終わりなのと\n21~50がシーズン1\nとすると、51~80をシーズン2と考えたいと思いますので。\n\n今週金曜もしくは来週月曜でまたzoomで時間合わせましょう。\n51〜からのスタートしちゃってる人は足並み揃えるのに手戻りになっちゃうと申し訳ないですが、\n確認すべきは<#C03DD5YH9D1|3-edit> にてありますので、そちらをご覧いただくか、~50までの作業で残っているやつがあればそちらをお願いします。\n新作は今在庫多いし。\n\n金曜\n18日　昼12時〜13時　 :one:\nor\n18日　15時〜16時　:two:\nで参加できない人はzoomの確認をお願いします",
+        "user": "U03CXUXB5PF",
+        "ts": "1668560401.266239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZBK+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nシーズン2(#51~80）キックオフ\n\n編集のやり方が独自の方法でなりつつあるので、51〜のローカルプロジェクト化に向けて、一回フォーマットを整理して、改めて全体共有したいと思います。\n年内収録が金曜で終わりなのと\n21~50がシーズン1\nとすると、51~80をシーズン2と考えたいと思いますので。\n\n今週金曜もしくは来週月曜でまたzoomで時間合わせましょう。\n51〜からのスタートしちゃってる人は足並み揃えるのに手戻りになっちゃうと申し訳ないですが、\n確認すべきは"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03DD5YH9D1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にてありますので、そちらをご覧いただくか、~50までの作業で残っているやつがあればそちらをお願いします。\n新作は今在庫多いし。\n\n金曜\n18日　昼12時〜13時　 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "one",
+                                "unicode": "0031-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nor\n18日　15時〜16時　"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two",
+                                "unicode": "0032-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nで参加できない人はzoomの確認をお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

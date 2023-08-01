@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "8d81e740-2fe8-47da-ae6e-c7bb683ee030",
+        "type": "message",
+        "text": "テロップの発注〜修正〜反映のタイミング\n\n\ntw周りの体制が変わります\n大きくいって　2回＋修正\n\n1回目　1編集時点\n台本ベースでtwチェックを踏まえたテロップ作成（1020納品分とか新作分から）\n\n2回目  MA差し替え時点\n1回目のクライアントチェック時点で台本ベースで直しスタートしますが、ここはMAには関係ないので、いったん放置してMAへ（内容の直しがでたら尺に関係するのでそこは対応） →MA後にテロップ修正を反映\n　　これが台本からになるかReplayからになるかは1試写次第",
+        "user": "U03CXUXB5PF",
+        "ts": "1665017137.139059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cBDz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "テロップの発注〜修正〜反映のタイミング\n\n\ntw周りの体制が変わります\n大きくいって　2回＋修正\n\n1回目　1編集時点\n台本ベースでtwチェックを踏まえたテロップ作成（1020納品分とか新作分から）\n\n2回目  MA差し替え時点\n1回目のクライアントチェック時点で台本ベースで直しスタートしますが、ここはMAには関係ないので、いったん放置してMAへ（内容の直しがでたら尺に関係するのでそこは対応） →MA後にテロップ修正を反映\n　　これが台本からになるかReplayからになるかは1試写次第"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

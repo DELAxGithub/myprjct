@@ -1,0 +1,144 @@
+[
+    {
+        "type": "message",
+        "text": "66カラサワさんの修正版WAVをDropboxにアップしました。\nご指定箇所、丁寧にノイズ処理いたしましたので、ご確認ください。\nよろしくお願いします！",
+        "files": [
+            {
+                "id": "F04PR43RDSN",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1676469840.528619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DzB9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "66カラサワさんの修正版WAVをDropboxにアップしました。\nご指定箇所、丁寧にノイズ処理いたしましたので、ご確認ください。\nよろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "B0855DF3-7422-4465-95F9-F5DD57B76215",
+        "thread_ts": "1676425431.731439",
+        "parent_user_id": "U04KFCBLY9J"
+    },
+    {
+        "type": "message",
+        "text": "61ヨコミチさんのWAVをDropboxにアップしました。\nヨコミチさんですが、EP2が特に衣擦れのノイズが酷かった為、お声に影響が出ないレベルのノイズ除去を施しております。\nご確認よろしくお願いします:bow:",
+        "files": [
+            {
+                "id": "F04PUKBR63W",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1676478284.940229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S7zRh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "61ヨコミチさんのWAVをDropboxにアップしました。\nヨコミチさんですが、EP2が特に衣擦れのノイズが酷かった為、お声に影響が出ないレベルのノイズ除去を施しております。\nご確認よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "CF616845-E194-4551-B967-C5F4AC6C339B",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "CBB91A7E-6C50-468F-A35B-6F0882E7446C",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> \nありがとうございます:blush:！\nお手数おかけしました :woman-bowing: ！",
+        "user": "U04KFCBLY9J",
+        "ts": "1676524383.773919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "acKS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！\nお手数おかけしました "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676425431.731439",
+        "parent_user_id": "U04KFCBLY9J"
+    }
+]

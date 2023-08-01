@@ -1,0 +1,75 @@
+[
+    {
+        "type": "message",
+        "text": "[編集マンのみなさんへ]\n<https:\/\/docs.google.com\/spreadsheets\/d\/1DNPNfjXprb6GhRCOCfC9t_T1ye8VpRCVp60HeXRfl0Q\/edit?usp=sharing>\n作業が進んだら、進捗表のステータスを一個進めてください\n進めると<#C04RF8LE64C|進捗君> に自分宛にも通知が行っちゃうのが鬱陶しいですが、\nこれはそのうち直します\n\n基本はいままで「なんとか終わりました」みたいな話で、試写やMAへの連絡前にステータスをアップデートいただきたいのですが、一点MAを反映した編集2→試写２のタイミングで\noutputにアップしたep1~3を出演者チェック用にURLを発行いただきたいというのがあります。\nこれやり方はこの進捗の「ワークフロー変更箇所」にあるので、そちらを確認ください\nご不明な点があれば何なりとおしらせください。",
+        "files": [
+            {
+                "id": "F04TLV9HVM2",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1678625516.204369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TWSi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[編集マンのみなさんへ]\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1DNPNfjXprb6GhRCOCfC9t_T1ye8VpRCVp60HeXRfl0Q\/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n作業が進んだら、進捗表のステータスを一個進めてください\n進めると"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04RF8LE64C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " に自分宛にも通知が行っちゃうのが鬱陶しいですが、\nこれはそのうち直します\n\n基本はいままで「なんとか終わりました」みたいな話で、試写やMAへの連絡前にステータスをアップデートいただきたいのですが、一点MAを反映した編集2→試写２のタイミングで\noutputにアップしたep1~3を出演者チェック用にURLを発行いただきたいというのがあります。\nこれやり方はこの進捗の「ワークフロー変更箇所」にあるので、そちらを確認ください\nご不明な点があれば何なりとおしらせください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7de1b3fa-b010-4239-9ba0-93ddbb8598f6",
+        "reactions": [
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7",
+                    "U03RA83HRN0",
+                    "U03Q17LBJP3"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "client_msg_id": "a0cce957-ed4c-444e-a226-37da6ec9f414",
+        "type": "message",
+        "text": "[台本の取り消し箇所アンケート]\n\n台本作る時に「取り消し箇所」\n~こういうやつ~\nがあると思いますが、\nこれあったほうがいいですか？\n\n取り消し線があると、\n・編集時、ざっくり抜いた後に、細かくカットするところがわかる\n\n\nない（取り消し線じゃなくて台本からカット）と\n・台本作成時に、文字数カウントが正確に出せる\n\nということで一長一短ありまして。\n\n1：あったほうがいい\n2：なくてもいい\nのアンケート投票をお願いします\n\nカット箇所は改行をガッツリやる、っていうその他の処理もありますので、3はその他で",
+        "user": "U03CXUXB5PF",
+        "ts": "1673470569.939479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ls+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[台本の取り消し箇所アンケート]\n\n台本作る時に「取り消し箇所」\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "こういうやつ",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nがあると思いますが、\nこれあったほうがいいですか？\n\n取り消し線があると、\n・編集時、ざっくり抜いた後に、細かくカットするところがわかる\n\n\nない（取り消し線じゃなくて台本からカット）と\n・台本作成時に、文字数カウントが正確に出せる\n\nということで一長一短ありまして。\n\n1：あったほうがいい\n2：なくてもいい\nのアンケート投票をお願いします\n\nカット箇所は改行をガッツリやる、っていうその他の処理もありますので、3はその他で"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1673470644.000000"
+        },
+        "thread_ts": "1673470569.939479",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1673509150.414619",
+        "reply_users": [
+            "U03NZ0E09JN"
+        ],
+        "replies": [
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1673509150.414619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1673509150.414619",
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U03NZ0E09JN",
+                    "U03P0T4KQMV"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c6edc6d9-efe0-40fb-8ab4-1f5397bc571e",
+        "type": "message",
+        "text": "あったほうがカットする箇所を探しやすいです。\n「取り消し線」がない場合はカットの必要な箇所の見落としなどが発生しそうです。",
+        "user": "U03NZ0E09JN",
+        "ts": "1673509150.414619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AsW86",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あったほうがカットする箇所を探しやすいです。\n「取り消し線」がない場合はカットの必要な箇所の見落としなどが発生しそうです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673470569.939479",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

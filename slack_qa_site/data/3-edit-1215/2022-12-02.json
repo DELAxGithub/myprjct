@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "6311F7C9-C301-4B17-A188-329B8AE5E8A8",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> 今一度確認します！ありがとうございます",
+        "user": "U040YCC00V6",
+        "ts": "1670026330.120679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q7\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今一度確認します！ありがとうございます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669954673.873879",
+        "parent_user_id": "U03NZ0E09JN"
+    }
+]

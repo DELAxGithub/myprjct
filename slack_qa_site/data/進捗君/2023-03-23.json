@@ -1,0 +1,66 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03P0T4KQMV> #82河田雅圭で変更がありました\n変更前：編集2\n変更後：試写2\n担当者は辻井です",
+        "ts": "1679560400.239259",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Hjhq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #82河田雅圭で変更がありました\n変更前：編集2\n変更後：試写2\n担当者は辻井です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03P0T4KQMV> #82河田雅圭で変更がありました\n変更前：undefined\n変更後：<https:\/\/www.dropbox.com\/t\/PohowQiNRWRfP01b>\n担当者は辻井です",
+        "ts": "1679564498.985629",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZsYpU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #82河田雅圭で変更がありました\n変更前：undefined\n変更後："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/t\/PohowQiNRWRfP01b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n担当者は辻井です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

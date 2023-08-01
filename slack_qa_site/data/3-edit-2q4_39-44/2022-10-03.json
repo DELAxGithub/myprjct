@@ -1,0 +1,188 @@
+[
+    {
+        "client_msg_id": "e5c4cd3e-7e11-448d-8569-021f9614cf4d",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> <@U03CXUXB5PF>\nお騒がせいたしました。\n自動保存の方から探し出して修復できました。",
+        "user": "U03RA83HRN0",
+        "ts": "1664782003.592149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mKw47",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお騒がせいたしました。\n自動保存の方から探し出して修復できました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664776041.507139",
+        "parent_user_id": "U03NZ0E09JN",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 46平岡手元試写完了し、微修正しました。\n引き継ぎ事項はマーカー入れていますのでよろしくお願いします。\n1枚目からep1,2,3です。",
+        "files": [
+            {
+                "id": "F044WPUQ94L",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F044DQ1L4TZ",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F044WQCT3N0",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03P0T4KQMV",
+        "ts": "1664783281.375399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dHrkp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 46平岡手元試写完了し、微修正しました。\n引き継ぎ事項はマーカー入れていますのでよろしくお願いします。\n1枚目からep1,2,3です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "73e2fb33-d6ea-4ec0-b334-324a6a3df19a",
+        "thread_ts": "1664622176.505339",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4c6022fb-5080-4d99-9852-7bf64a83cdaa",
+        "type": "message",
+        "text": "41-44のReplayはこちら\n<https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3>\n納品まで使うか、試写1だけにするかは検討中\n\nステータスがedit requestになったら作業開始ください",
+        "user": "U03CXUXB5PF",
+        "ts": "1664838093.933539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gGvb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "41-44のReplayはこちら\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n納品まで使うか、試写1だけにするかは検討中\n\nステータスがedit requestになったら作業開始ください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3",
+                "image_url": "https:\/\/cfl.dropboxstatic.com\/static\/metaserver\/static\/images\/reel\/unfurl-image-vflJ2sZZi.jpeg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 115485,
+                "id": 1,
+                "original_url": "https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3",
+                "fallback": "Dropbox Replay",
+                "text": "Dropbox Replay allows creative teams to better create, collaborate on and deliver content. No Dropbox account is required to give feedback.",
+                "title": "Dropbox Replay",
+                "title_link": "https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3",
+                "service_name": "dropbox.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

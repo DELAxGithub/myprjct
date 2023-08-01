@@ -1,0 +1,226 @@
+[
+    {
+        "client_msg_id": "37eabecd-1c62-4550-8344-2a61f89d7f82",
+        "type": "message",
+        "text": "*結構重要：MA後の尺に絡む修正*\n\n試写1→MAで先方の試写が追いつかず1人がOKならMAに進めてよい、ということになりました。\nスピードが上がる分、試写1で出なかったのに試写2で尺に絡む修正が発生する確率が少し上がっています。\n\nMAをもう一回やると結構大変なので、出来る限りMAをしないよう、以下の対応でなんとかPremiereレベルで対応したいと思います。\n\n• カットで短くなるパターン\n内容的に重複してたり、どうしてもノイズが気になる（元素材から聴き比べてノイズ処理されてない場合）、とか、「カット」する場合は、Premiereで全体詰める＆BGMがある箇所なら、ケツ合わせで済ませる\n\n• インタビューの順番入れ替え\nこれは、編集で順番差し替えるだけなので、BGMを調整してなんとかpremiereで済ませます\n\n• 機械音声の修正\nもう一回作り直して、音量を調整＋BGM調整でMA不要\n\n以上に関してはPremiereだけでなんとか乗り切っていただきたいです\n\nどうしてもMA必要なのは↓これぐらいでしょうか\n• インタビューの復活で尺が伸ばす場合\nもっと別の話ない？とかいう結構大事の修正依頼が来たら、これは喋りを整音しないといけないので、修正後MAです\n\n〜〜〜〜\nBGMの調整は適当に、長めにトランジションかけて音楽まるめちゃうぐらいで大丈夫です。\n\n編集1でのノイズカットをやってもらって以降、ほとんどノイズの依頼については無視できてます。大変助かります！引き続きよろしくお願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1669837272.957399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T=l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "結構重要：MA後の尺に絡む修正",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n試写1→MAで先方の試写が追いつかず1人がOKならMAに進めてよい、ということになりました。\nスピードが上がる分、試写1で出なかったのに試写2で尺に絡む修正が発生する確率が少し上がっています。\n\nMAをもう一回やると結構大変なので、出来る限りMAをしないよう、以下の対応でなんとかPremiereレベルで対応したいと思います。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "カットで短くなるパターン"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "内容的に重複してたり、どうしてもノイズが気になる（元素材から聴き比べてノイズ処理されてない場合）、とか、「カット」する場合は、Premiereで全体詰める＆BGMがある箇所なら、ケツ合わせで済ませる\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "インタビューの順番入れ替え"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これは、編集で順番差し替えるだけなので、BGMを調整してなんとかpremiereで済ませます\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "機械音声の修正"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もう一回作り直して、音量を調整＋BGM調整でMA不要\n\n以上に関してはPremiereだけでなんとか乗り切っていただきたいです\n\nどうしてもMA必要なのは↓これぐらいでしょうか\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "インタビューの復活で尺が伸ばす場合"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もっと別の話ない？とかいう結構大事の修正依頼が来たら、これは喋りを整音しないといけないので、修正後MAです\n\n〜〜〜〜\nBGMの調整は適当に、長めにトランジションかけて音楽まるめちゃうぐらいで大丈夫です。\n\n編集1でのノイズカットをやってもらって以降、ほとんどノイズの依頼については無視できてます。大変助かります！引き続きよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1669837321.000000"
+        },
+        "reactions": [
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "[マルチの組み方]\n映像V1~4はどこにどれが来ても結局スイッチングするんでどうでもいいですが、\n音声A1には、確実にメインカメラのピンマイクがきてることを確認してください",
+        "files": [
+            {
+                "id": "F04CU2ASFRV",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1669877930.236499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RiCy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[マルチの組み方]\n映像V1~4はどこにどれが来ても結局スイッチングするんでどうでもいいですが、\n音声A1には、確実にメインカメラのピンマイクがきてることを確認してください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "75546f6e-f297-4891-b578-40b3d0234f4f",
+        "reactions": [
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

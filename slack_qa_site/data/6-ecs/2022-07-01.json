@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 調整しました。",
+        "files": [
+            {
+                "id": "F03N0KM6VHB",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F03MNV31QGP",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03L0UFJF70",
+        "ts": "1656742973.602259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jns0K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 調整しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "df81ad74-bae0-4568-a9a2-6a92e7890be3",
+        "thread_ts": "1656507035.835169",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

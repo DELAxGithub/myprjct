@@ -1,0 +1,117 @@
+[
+    {
+        "client_msg_id": "4cba5e20-13f8-468c-ba05-6cd62a1d44ff",
+        "type": "message",
+        "text": "<@U04KFCBLY9J> ６５石川ですが、、本人リクエストにより、「取り切り部分を全部カットしたもの」を作ってもらっていいですか？\nどうなるかわかりませんが、そのバージョンも必要になるかもでして、お手隙のタイミングで結構ですので、よろしくお願いいたします。\n名前を変えてまぎれないようにしてください。よろしくお願いいたします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1682034330.480809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BHc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ６５石川ですが、、本人リクエストにより、「取り切り部分を全部カットしたもの」を作ってもらっていいですか？\nどうなるかわかりませんが、そのバージョンも必要になるかもでして、お手隙のタイミングで結構ですので、よろしくお願いいたします。\n名前を変えてまぎれないようにしてください。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682034330.480809",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1682243162.039099",
+        "reply_users": [
+            "U04KFCBLY9J"
+        ],
+        "replies": [
+            {
+                "user": "U04KFCBLY9J",
+                "ts": "1682035278.013259"
+            },
+            {
+                "user": "U04KFCBLY9J",
+                "ts": "1682243162.039099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1682243162.039099",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19529788-7F32-428A-B515-37ECE9A464DC",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 了解です〜！",
+        "user": "U04KFCBLY9J",
+        "ts": "1682035278.013259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0vx0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解です〜！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682034330.480809",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

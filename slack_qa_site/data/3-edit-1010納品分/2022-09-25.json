@@ -1,0 +1,361 @@
+[
+    {
+        "client_msg_id": "53fcc44e-a6bd-4d65-9729-6039e772e902",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 　25 中島 本番BGM、追加CG←PR分も乗せました\nep1で動画始まり1秒の声がオンになってる所があったのでこちらで処理しました\n残りはPRの音声、ep3作品名は待ちでお間違いないですか？",
+        "user": "U03Q17LBJP3",
+        "ts": "1664099612.191919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XoxL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 　25 中島 本番BGM、追加CG←PR分も乗せました\nep1で動画始まり1秒の声がオンになってる所があったのでこちらで処理しました\n残りはPRの音声、ep3作品名は待ちでお間違いないですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664099612.191919",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1664100506.105569",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1664100506.105569"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1664100506.105569",
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "793e13ac-7543-4a5d-b1ec-58ed1e5aca7f",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> ありがとうございます。Replayのチェック待ちですが、今週末は<#C043LP5RA81|3-edit-0930納品分> をチェックしてるみたいで、ちょっと待ちです",
+        "user": "U03CXUXB5PF",
+        "ts": "1664100506.105569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uMYSB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます。Replayのチェック待ちですが、今週末は"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043LP5RA81"
+                            },
+                            {
+                                "type": "text",
+                                "text": " をチェックしてるみたいで、ちょっと待ちです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664099612.191919",
+        "parent_user_id": "U03Q17LBJP3",
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03NJATSEBH> コメントいただい箇所、リアクションしました。なんか適当に埋めてくださいー",
+        "files": [
+            {
+                "id": "F043VSW4JQL",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1664118174.425879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "joL7Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " コメントいただい箇所、リアクションしました。なんか適当に埋めてくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "e7888fa0-3f0c-4f3e-b8fa-cd3234b565fc",
+        "thread_ts": "1664061845.784499",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "c86fe06d-ebbf-43c5-adc4-643596f3dda3",
+        "type": "message",
+        "text": "9\/26\n25中島,39松永→Replay到着してます 松永が本番M Aあるので優先で　音張った後の修正なので直し方は今一度 <#C03DD5YH9D1|3-edit> にて。\n\n26武田・31土井のReplayは明日夜になりそうです\n\n21田中はあと一箇所YouTube周りで絵を入れたら、出演者チェック＆Replay待ちに移行します",
+        "user": "U03CXUXB5PF",
+        "ts": "1664154001.313329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pKqS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "9\/26\n25中島,39松永→Replay到着してます 松永が本番M Aあるので優先で　音張った後の修正なので直し方は今一度 "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03DD5YH9D1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にて。\n\n26武田・31土井のReplayは明日夜になりそうです\n\n21田中はあと一箇所YouTube周りで絵を入れたら、出演者チェック＆Replay待ちに移行します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664154001.313329",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1664193292.326869",
+        "reply_users": [
+            "U03NJATSEBH",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1664156547.445679"
+            },
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1664184121.884509"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1664186304.571649"
+            },
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1664193126.258589"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1664193292.326869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1664193292.326869",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "762c1540-dc88-4a81-95e4-83c4dac445f7",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n21_田中ですが、台本上部のご指示(待ち画像、テロップ、tw入れ)が\n完了したものの、フォーマット確認などが遅れており…\n現在作業中です。申し訳ありませんが、今しばらくお待ちいただけますでしょうか:woman-bowing:",
+        "user": "U03NJATSEBH",
+        "ts": "1664156547.445679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w8Ig",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n21_田中ですが、台本上部のご指示(待ち画像、テロップ、tw入れ)が\n完了したものの、フォーマット確認などが遅れており…\n現在作業中です。申し訳ありませんが、今しばらくお待ちいただけますでしょうか"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664154001.313329",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6d311bec-c89f-4bdf-868c-25db2cfcf06f",
+        "type": "message",
+        "text": "39_松永　出演者本人からチェック中→今日には返事するとのこと\n…山ほど直しきたらすいません",
+        "user": "U03CXUXB5PF",
+        "ts": "1664169372.636219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7GpOB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "39_松永　出演者本人からチェック中→今日には返事するとのこと\n…山ほど直しきたらすいません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

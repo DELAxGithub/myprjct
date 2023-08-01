@@ -1,0 +1,557 @@
+[
+    {
+        "client_msg_id": "ceda22fa-af71-43a7-9598-ea0f1d423ef8",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> 進捗表にてチェック入れようと思いますが、僕も忘れてました。\n\nが、これやっぱり*福田さんが把握*→編集チームに連絡というのに必要なので、僕はチェックしないほうがいいですね。\nとはいえ、福田さんがこのslackを拾い切れるのか、、\n全書き込み読んでると思いますが、どうすっかな。\n進捗表に記入依頼の場合は、なんかわかるような合図＝検索可能にしておく、とかですかね。リアクションマークも検索可能なので、:ballot_box_with_check:を入れるかな。\n\nためにしこの:ballot_box_with_check:で全文検索して見てください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1669030828.236299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wfqQr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 進捗表にてチェック入れようと思いますが、僕も忘れてました。\n\nが、これやっぱり"
+                            },
+                            {
+                                "type": "text",
+                                "text": "福田さんが把握",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "→編集チームに連絡というのに必要なので、僕はチェックしないほうがいいですね。\nとはいえ、福田さんがこのslackを拾い切れるのか、、\n全書き込み読んでると思いますが、どうすっかな。\n進捗表に記入依頼の場合は、なんかわかるような合図＝検索可能にしておく、とかですかね。リアクションマークも検索可能なので、"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ballot_box_with_check",
+                                "unicode": "2611-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "を入れるかな。\n\nためにしこの"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ballot_box_with_check",
+                                "unicode": "2611-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で全文検索して見てください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-raising-hand",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a2748ef8-a0fd-4467-a823-b5db29d2f906",
+        "type": "message",
+        "text": "<@U03V84JSHNK> イメージ調達、53林と57大塚をお願いします。集まったら<#C0438AU7LV8|3-edit-3q1_51_57> にて。",
+        "user": "U03CXUXB5PF",
+        "ts": "1669031011.409279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oOHzX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " イメージ調達、53林と57大塚をお願いします。集まったら"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0438AU7LV8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にて。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U03NZ0E09JN> 在庫把握方法を共有しましょう。\n\n試写1＝Replayのin reviewを数える\n\nMA＝MA発注してるもの→まだWavが来てないものをslackとdropboxで数える\n発注は <#C03DFG6ERL4|5-ma> にて各編集から依頼してもらうようになってきたと思いますが、<#C04610P4H96|5-ma_納品> にwav納品後に通知が来るので、これが来てないやつってことになります。\n間に入ってあげてるんなら把握されてると思いますが。\n\n試写2＝これもReplayのin reviewの数\n\nDropbox Replayへんリンクは各チャンネルに貼ってあるので、毎朝それチェックですかね。通知やろうとしたんですが、ファイル単位になって通知多すぎになるのでやめました\n\n〜〜〜〜〜〜〜〜\nそのほか、制作のせいで編集が待ちになってるのもある意味編集台本の在庫なんですが、これの把握ってどうしますかね。台本／素材・テロップ・ボイス　っていうのが在庫になりますね。進捗表にて把握でいいんですが、待ちになってたら作業のタイミングなど制作に確認しつつでいけたら。実はもう在庫ない？\n\nあと、出演者の分担いただいてるのを稼働可能リソース都度振り直しって可能でしょうか。台本の難易度によっては在庫にしやすいのとそうでないのがありそうです。\n\n台本作成が簡単なものをどんどん進めた結果、編集マンに偏りが出そう。",
+        "files": [
+            {
+                "id": "F04BH7ZT6CF",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1669070741.652439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e4gl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 在庫把握方法を共有しましょう。\n\n試写1＝Replayのin reviewを数える\n\nMA＝MA発注してるもの→まだWavが来てないものをslackとdropboxで数える\n発注は "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03DFG6ERL4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にて各編集から依頼してもらうようになってきたと思いますが、"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04610P4H96"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にwav納品後に通知が来るので、これが来てないやつってことになります。\n間に入ってあげてるんなら把握されてると思いますが。\n\n試写2＝これもReplayのin reviewの数\n\nDropbox Replayへんリンクは各チャンネルに貼ってあるので、毎朝それチェックですかね。通知やろうとしたんですが、ファイル単位になって通知多すぎになるのでやめました\n\n〜〜〜〜〜〜〜〜\nそのほか、制作のせいで編集が待ちになってるのもある意味編集台本の在庫なんですが、これの把握ってどうしますかね。台本／素材・テロップ・ボイス　っていうのが在庫になりますね。進捗表にて把握でいいんですが、待ちになってたら作業のタイミングなど制作に確認しつつでいけたら。実はもう在庫ない？\n\nあと、出演者の分担いただいてるのを稼働可能リソース都度振り直しって可能でしょうか。台本の難易度によっては在庫にしやすいのとそうでないのがありそうです。\n\n台本作成が簡単なものをどんどん進めた結果、編集マンに偏りが出そう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "41f5259a-4796-4fa4-b715-d5d9150181a1"
+    },
+    {
+        "client_msg_id": "adfcd0e6-f624-4fc5-ac43-aceca919ef2c",
+        "type": "message",
+        "text": "<@U03V84JSHNK> 今週ってどうですか？稼働状況をなんとなく共有ください。\n\n急ぎのイメージ探しなんかが編集マンの進捗によっては生じそうです。",
+        "user": "U03CXUXB5PF",
+        "ts": "1669070860.597309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JMr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今週ってどうですか？稼働状況をなんとなく共有ください。\n\n急ぎのイメージ探しなんかが編集マンの進捗によっては生じそうです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1E36CBFC-FD73-490E-B5FC-AF3944F7DC79",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 今日と木曜、土日はわりかし動けそうです。水曜と金曜は難しいです。すみません。",
+        "user": "U03V84JSHNK",
+        "ts": "1669079875.524649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U9P7v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今日と木曜、土日はわりかし動けそうです。水曜と金曜は難しいです。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669079875.524649",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1669082669.075019",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1669082669.075019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1669082669.075019",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "67ebd0cf-5de2-4a1a-881d-a5eaf47cbcaa",
+        "type": "message",
+        "text": "&gt; あと、出演者の分担いただいてるのを稼働可能リソース都度振り直しって可能でしょうか。台本の難易度によっては在庫にしやすいのとそうでないのがありそうです。\n&gt; \n&gt; 台本作成が簡単なものをどんどん進めた結果、編集マンに偏りが出そう。\nこちらについては編集に着手してなければ可能です。\n現状も手が空いた人に振り直しております。\n56詫摩(高山)→(辻井)へ変更\n\n在庫把握については承知いたしました。",
+        "user": "U03NZ0E09JN",
+        "ts": "1669082400.256929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5u4",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あと、出演者の分担いただいてるのを稼働可能リソース都度振り直しって可能でしょうか。台本の難易度によっては在庫にしやすいのとそうでないのがありそうです。\n\n台本作成が簡単なものをどんどん進めた結果、編集マンに偏りが出そう。"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nこちらについては編集に着手してなければ可能です。\n現状も手が空いた人に振り直しております。\n56詫摩(高山)→(辻井)へ変更\n\n在庫把握については承知いたしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bb54416f-7eab-45ae-95c4-64c248fbf54d",
+        "type": "message",
+        "text": "<@U03V84JSHNK> じゃ今日は５３、５７の素材集めをお願いします。\n池田くんが58の台本やってるので終わったら連絡してもらいます。",
+        "user": "U03CXUXB5PF",
+        "ts": "1669082669.075019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tk=rM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " じゃ今日は５３、５７の素材集めをお願いします。\n池田くんが58の台本やってるので終わったら連絡してもらいます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669079875.524649",
+        "parent_user_id": "U03V84JSHNK"
+    },
+    {
+        "client_msg_id": "8d744682-017b-4f9c-a4b9-f4592aa08750",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> <#C048CGTB45A|3-edit-1115納品分> で催促が来まして。なんとなく納期を守れ的なプレッシャーがだんだん強くなってきました。在庫方式＞納期　ではありますが、在庫は３を目標にしてたのを1にしてしばらくは納期目標にしましょうかね。\n１１３０まで収めれば一旦落ち着くとは思うんですが。\n在庫ってどっかにわかるようにします？",
+        "user": "U03CXUXB5PF",
+        "ts": "1669090095.675859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RhwXV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C048CGTB45A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " で催促が来まして。なんとなく納期を守れ的なプレッシャーがだんだん強くなってきました。在庫方式＞納期　ではありますが、在庫は３を目標にしてたのを1にしてしばらくは納期目標にしましょうかね。\n１１３０まで収めれば一旦落ち着くとは思うんですが。\n在庫ってどっかにわかるようにします？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-raising-hand",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "be8ae262-adb0-41b1-88c6-a38632e12786",
+        "type": "message",
+        "text": "<@U03V84JSHNK> 上の件もあり、<#C048CGTB45A|3-edit-1115納品分> <#C04A8UH8L0Z|3-edit-1130> でのリクエストを優先しつつ、新作準備ってことに。まぁ区切りがついたところで、ででいいので。",
+        "user": "U03CXUXB5PF",
+        "ts": "1669090225.331259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rXABa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 上の件もあり、"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C048CGTB45A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04A8UH8L0Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " でのリクエストを優先しつつ、新作準備ってことに。まぁ区切りがついたところで、ででいいので。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "102d28bc-a86e-4ff1-be81-d7141221ef70",
+        "type": "message",
+        "text": "在庫の表示場所は都度更新の方がいいと思うので、Slackではなくスプレットシート内のよく見る場所＝進捗表がいいと思いますが、悩ましいですね。\nA列の左に１行作ってそこに入れるとかはどうですか？",
+        "user": "U03NZ0E09JN",
+        "ts": "1669092159.813439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oFB\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "在庫の表示場所は都度更新の方がいいと思うので、Slackではなくスプレットシート内のよく見る場所＝進捗表がいいと思いますが、悩ましいですね。\nA列の左に１行作ってそこに入れるとかはどうですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

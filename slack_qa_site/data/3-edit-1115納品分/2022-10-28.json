@@ -1,0 +1,420 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1666960656.497959",
+        "user": "U03V84JSHNK",
+        "text": "<@U03V84JSHNK>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03V84JSHNK>\n49 川上 制作中です\n素材不足分と、もらいCGが2回使われるので確認です。\nマーカーを打っているのでそれぞれご確認よろしくお願いします。",
+        "files": [
+            {
+                "id": "F048CU3LNF8",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F048CUMDJPQ",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F048N1M76R2",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03Q17LBJP3",
+        "ts": "1666969810.318559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ls4Ni",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n49 川上 制作中です\n素材不足分と、もらいCGが2回使われるので確認です。\nマーカーを打っているのでそれぞれご確認よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8d8c9a17-de3f-4f9f-ad7a-e45c01b15cfd",
+        "thread_ts": "1666969810.318559",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1667017755.946399",
+        "reply_users": [
+            "U03NZ0E09JN",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1667016688.561189"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1667016999.624069"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1667017755.946399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1667017755.946399",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c7eaad88-e9d3-4d8c-9227-840b6bce2e0d",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n度々すみません。\n24三宅ですが、メディアマッピングをするとまたしてもカメラサイズが小さくなってしまいました。\nお手隙の時で結構ですので、修正いただけると助かります。",
+        "user": "U03QQ3J656Z",
+        "ts": "1667014372.915519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6RmP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n度々すみません。\n24三宅ですが、メディアマッピングをするとまたしてもカメラサイズが小さくなってしまいました。\nお手隙の時で結構ですので、修正いただけると助かります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "49db9674-52b3-4bfd-9321-463031c2d83e",
+        "type": "message",
+        "text": "2Q1は三宅だけなので、どっか別のプロジェクトに合流し直すかとかも考えてますが、どうですかね",
+        "user": "U03CXUXB5PF",
+        "ts": "1667014494.641929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EqzIM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2Q1は三宅だけなので、どっか別のプロジェクトに合流し直すかとかも考えてますが、どうですかね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667014494.641929",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1667026984.898309",
+        "reply_users": [
+            "U03QQ3J656Z",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1667026705.081749"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1667026750.266369"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1667026984.898309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1667026984.898309"
+    },
+    {
+        "client_msg_id": "967323dd-226c-41eb-858d-9fa392cda5eb",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nこちらは本日中に素材が揃えば明日には試写１へお渡しできるのですが、素材はご用意いただけるのでしょうか。または素材はないまま進めても良いのでしょうか。",
+        "user": "U03NZ0E09JN",
+        "ts": "1667016688.561189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EWMT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこちらは本日中に素材が揃えば明日には試写１へお渡しできるのですが、素材はご用意いただけるのでしょうか。または素材はないまま進めても良いのでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666969810.318559",
+        "parent_user_id": "U03Q17LBJP3"
+    },
+    {
+        "client_msg_id": "214a39d3-20a5-4906-baca-d1dcfec90762",
+        "type": "message",
+        "text": "すぐ確認します。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667016999.624069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ijab",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すぐ確認します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666969810.318559",
+        "parent_user_id": "U03Q17LBJP3"
+    },
+    {
+        "type": "message",
+        "text": "・ep1の素数は今いらないです\n・MA前でいいんですが、Vあけ口パクが1秒あるところは違和感を感じるようですので、半秒とか。要は、１フレーム目から声がはじまるのがYouTubeの編集ぽくてやだなということでして。\nep2は、CGはコメント不足だったので足しました。\n自動運転とか、FreeImgとかにたいがいあるので一回フォルダ検索を。\nep3のも、インタビュー絵被せは、死者の妨げにはならないので、ひとまず。\nというわけでこっちで作業したので、同期して、書き出し→Replayにアップロードをお願いします。",
+        "files": [
+            {
+                "id": "F048QLJVBM2",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1667017755.946399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+VuM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "・ep1の素数は今いらないです\n・MA前でいいんですが、Vあけ口パクが1秒あるところは違和感を感じるようですので、半秒とか。要は、１フレーム目から声がはじまるのがYouTubeの編集ぽくてやだなということでして。\nep2は、CGはコメント不足だったので足しました。\n自動運転とか、FreeImgとかにたいがいあるので一回フォルダ検索を。\nep3のも、インタビュー絵被せは、死者の妨げにはならないので、ひとまず。\nというわけでこっちで作業したので、同期して、書き出し→Replayにアップロードをお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "020a6384-31d2-4511-8341-3d582424a15d",
+        "thread_ts": "1666969810.318559",
+        "parent_user_id": "U03Q17LBJP3",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03NZ0E09JN",
+                    "U03Q17LBJP3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "373CFD7F-D25D-4AE5-B2FF-34B2E99658D9",
+        "type": "message",
+        "text": "全然合流してもらってOkですが、\nあと少しなので、そのままでも問題ありません。\nそちらの作業的に合流した方がスムーズでしたら合流でかまいません。",
+        "user": "U03QQ3J656Z",
+        "ts": "1667026705.081749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MGV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "全然合流してもらってOkですが、\nあと少しなので、そのままでも問題ありません。\nそちらの作業的に合流した方がスムーズでしたら合流でかまいません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667014494.641929",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "0dc55f8f-3e68-4899-852b-0c0ccc13147f",
+        "type": "message",
+        "text": "じゃそのまま行きます　ちなみに、まだ全く修正台本できてないので、少々お待ちください。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667026750.266369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z9065",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "じゃそのまま行きます　ちなみに、まだ全く修正台本できてないので、少々お待ちください。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1667026759.000000"
+        },
+        "thread_ts": "1667014494.641929",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

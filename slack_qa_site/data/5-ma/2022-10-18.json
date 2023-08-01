@@ -1,0 +1,318 @@
+[
+    {
+        "type": "message",
+        "text": "岡さんについて\n\nep2の11:02〜\nCGと記載の箇所はBGMどうしましょう？\nひとまず保留で進めます！\n\nまた、PRのomfが入っておらずep3のomfが2種類入っていました。\nご確認お願いします。",
+        "files": [
+            {
+                "id": "F047B5SFCAD",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1666079098.877779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TQxye",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "岡さんについて\n\nep2の11:02〜\nCGと記載の箇所はBGMどうしましょう？\nひとまず保留で進めます！\n\nまた、PRのomfが入っておらずep3のomfが2種類入っていました。\nご確認お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "02E43835-BF56-4521-9347-2D668C5EAF5E"
+    },
+    {
+        "client_msg_id": "7a43176c-47a9-4aa8-ace6-f050392e2c2a",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> あ、すいません、仮CGが入ってるつもりでした。確認します！",
+        "user": "U03CXUXB5PF",
+        "ts": "1666079198.600149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sOW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " あ、すいません、仮CGが入ってるつもりでした。確認します！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666079198.600149",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1666079340.103329",
+        "reply_users": [
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1666079340.103329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1666079340.103329"
+    },
+    {
+        "client_msg_id": "26FC306C-8D0D-4CAD-B70A-A38AD6B9D31A",
+        "type": "message",
+        "text": "お願いします",
+        "user": "U03G0LAPT3N",
+        "ts": "1666079340.103329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7BmXA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666079198.600149",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "5fd3dba8-37aa-46bf-8750-df722737bd7a",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> クライアントに聴き比べてもらうように、\n&gt; 10：37～12：15\tカンカン工事の音、バイクの音　BGMのない部分は外の音が気になります。\nと指摘されたところを書き出しました\n・修正前　BGMなし\n・修正後　BGMなし\n・修正後　BGMあり\n<https:\/\/www.dropbox.com\/t\/xH555GJKyfKR1u39>\n\n修正後＋BGMなしで合格が出るはずですが、\nここで気になるのは、この修正をもっと手加減しておいた方がいいいかも、と思い、先方に当てる前にご相談です。\n\nこの修正が毎回やるのは結構大変、ってレベルの過剰品質になってた場合、今後の修正が大変になるのではという。\n\nつまり、\n修正前／簡単な修正をテスト用に作る／手間のかかる今回の修正\n\n２番目で合格出るのが理想ですが、\nいや簡単な修正じゃやっぱり不合格だろう、ということなら\n手間のかかるやつで渡します。\n\n別に急ぎじゃないので、ご検討くださいー。",
+        "user": "U03CXUXB5PF",
+        "ts": "1666128452.099659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LR\/qa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " クライアントに聴き比べてもらうように、\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10：37～12：15\tカンカン工事の音、バイクの音　BGMのない部分は外の音が気になります。"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "と指摘されたところを書き出しました\n・修正前　BGMなし\n・修正後　BGMなし\n・修正後　BGMあり\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/t\/xH555GJKyfKR1u39"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n修正後＋BGMなしで合格が出るはずですが、\nここで気になるのは、この修正をもっと手加減しておいた方がいいいかも、と思い、先方に当てる前にご相談です。\n\nこの修正が毎回やるのは結構大変、ってレベルの過剰品質になってた場合、今後の修正が大変になるのではという。\n\nつまり、\n修正前／簡単な修正をテスト用に作る／手間のかかる今回の修正\n\n２番目で合格出るのが理想ですが、\nいや簡単な修正じゃやっぱり不合格だろう、ということなら\n手間のかかるやつで渡します。\n\n別に急ぎじゃないので、ご検討くださいー。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.dropbox.com\/t\/xH555GJKyfKR1u39",
+                "image_url": "https:\/\/uc886979bfb921708c2ffa1c55f4.previews.dropboxusercontent.com\/p\/thumb\/ABvrgp3rRhIZT0QMS9oxlBchmaPWLeavuG576n9nbNHuAeicLddEveuy2p7JS37_9pK1QBWvVqkh7s7vJLQ4LThadPrL8je-wHBMm__rgnhfbGpsG0BNQxHgOZtImMUr5F6MLUVa_Y9bIM8q9YgX8szDVw5Yu8g2JLdkwAhG7_SQzFwFZt4cRddJptED8pZvwrBipAnu68MGSxw94FTesXe5PSMvDiLK5ivkoyAEpJ656bad8u5iDknZuZsALW5d7nBKivQPo_1Z0hMWSo6HGrrcUjjRgBFVL8Cs6Dw-58zV5FoDwOvqUoj_q_cV0lcHzWE\/p.png",
+                "image_width": 392,
+                "image_height": 220,
+                "image_bytes": 75633,
+                "id": 1,
+                "original_url": "https:\/\/www.dropbox.com\/t\/xH555GJKyfKR1u39",
+                "fallback": "Dropbox: KODERA Hiroshi sent you 3 items",
+                "text": "音質テスト_修正前_BGMなし_21田中_ep3_最終_修正1018.mp4 + 2 more items",
+                "title": "KODERA Hiroshi sent you 3 items",
+                "title_link": "https:\/\/www.dropbox.com\/t\/xH555GJKyfKR1u39",
+                "service_name": "Dropbox"
+            }
+        ],
+        "thread_ts": "1666128452.099659",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1666135274.291529",
+        "reply_users": [
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1666135274.291529"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1666135274.291529"
+    },
+    {
+        "client_msg_id": "77F3B08F-BD2D-47ED-B8EC-F761BA656DB7",
+        "type": "message",
+        "text": "検討させていただきます。",
+        "user": "U03G0LAPT3N",
+        "ts": "1666135274.291529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P5gK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "検討させていただきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666128452.099659",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "21田中のEP3、追加音楽2箇所を反映させたWAVを Dropboxにアップしました。\nその他のVTRとM2のWAVは、前回のものを使用していただければと思います。\nよろしくお願い致します:bow:",
+        "files": [
+            {
+                "id": "F047T7UFW9W",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1666135323.373119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RjSu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "21田中のEP3、追加音楽2箇所を反映させたWAVを Dropboxにアップしました。\nその他のVTRとM2のWAVは、前回のものを使用していただければと思います。\nよろしくお願い致します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "D3BCE514-9816-47D3-83A2-39D9B5C28B9A",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

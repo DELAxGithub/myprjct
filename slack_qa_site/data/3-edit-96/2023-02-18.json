@@ -1,0 +1,323 @@
+[
+    {
+        "client_msg_id": "98674e47-40ab-4f20-8f62-00df0a89c388",
+        "type": "message",
+        "text": "<@U03P0T4KQMV> 追加で伸ばせたらMAに進めてください。足りなかったら、ところどころで微調整して何とか伸ばしていただければ。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1676721861.386099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ynl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 追加で伸ばせたらMAに進めてください。足りなかったら、ところどころで微調整して何とか伸ばしていただければ。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF>\nこちら、魔笛の部分が音楽の指定「♪モーツァルトの魔笛」がありますが\nMA発注時にシーケンスに入れておく必要があるでしょうか？\nまたその際、BGMのご用意があれば支給いただければと思います。\nよろしくお願いいたします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1676744212.141279",
+        "thread_ts": "1676701099.087589",
+        "root": {
+            "client_msg_id": "80c4e7e8-50e6-468c-b8cc-0ba7e543d22c",
+            "type": "message",
+            "text": "<@U03P0T4KQMV>\nep3で\n魔笛・氷艶をトリキリで使うようにちょっと追加しました。\n追加ってコメントしてる所です",
+            "user": "U03CXUXB5PF",
+            "ts": "1676701099.087589",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "KXa6",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03P0T4KQMV"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nep3で\n魔笛・氷艶をトリキリで使うようにちょっと追加しました。\n追加ってコメントしてる所です"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1676701099.087589",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1676747237.874699",
+            "reply_users": [
+                "U03P0T4KQMV",
+                "U03CXUXB5PF"
+            ],
+            "replies": [
+                {
+                    "user": "U03P0T4KQMV",
+                    "ts": "1676744212.141279"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1676747237.874699"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1676747237.874699"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fqzDY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこちら、魔笛の部分が音楽の指定「♪モーツァルトの魔笛」がありますが\nMA発注時にシーケンスに入れておく必要があるでしょうか？\nまたその際、BGMのご用意があれば支給いただければと思います。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "fa572bdd-f0ee-4a15-84da-d18ec2ba9eb1"
+    },
+    {
+        "type": "message",
+        "text": "<@U04J38PLGM6>\n96宮本、ep2にてイメージの追加・変更についてコメントがありました。\n※その他にも舞台映像や写真のリクエストもありましたが、いただいてるもので全てかと思いますのでそちらは省いております\nご確認よろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F04QYV1R716",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03P0T4KQMV",
+        "display_as_bot": false,
+        "ts": "1676745816.866239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JVz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n96宮本、ep2にてイメージの追加・変更についてコメントがありました。\n※その他にも舞台映像や写真のリクエストもありましたが、いただいてるもので全てかと思いますのでそちらは省いております\nご確認よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2f95a5b0-f62c-487c-96d0-67101c1d8d5d",
+        "thread_ts": "1676745816.866239",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1676764420.922749",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1676764420.922749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "D38512EC-C99C-4FCD-99B2-6222BB17E0BE",
+        "type": "message",
+        "text": "あけたままMA時に発注くださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1676747237.874699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fLlRH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あけたままMA時に発注くださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676701099.087589",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03P0T4KQMV>\n作業道具いくつか入れましたので、\nこれで大丈夫かご確認ください。",
+        "files": [
+            {
+                "id": "F04QZ8LN5EU",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1676764420.922749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8XtBb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n作業道具いくつか入れましたので、\nこれで大丈夫かご確認ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "38789be2-3837-44a7-bd16-baa05f4db529",
+        "thread_ts": "1676745816.866239",
+        "parent_user_id": "U03P0T4KQMV",
+        "subtype": "thread_broadcast",
+        "root": {
+            "type": "message",
+            "text": "<@U04J38PLGM6>\n96宮本、ep2にてイメージの追加・変更についてコメントがありました。\n※その他にも舞台映像や写真のリクエストもありましたが、いただいてるもので全てかと思いますのでそちらは省いております\nご確認よろしくお願いいたします。",
+            "files": [
+                {
+                    "id": "F04QYV1R716",
+                    "mode": "hidden_by_limit"
+                }
+            ],
+            "upload": false,
+            "user": "U03P0T4KQMV",
+            "display_as_bot": false,
+            "ts": "1676745816.866239",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "JVz",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n96宮本、ep2にてイメージの追加・変更についてコメントがありました。\n※その他にも舞台映像や写真のリクエストもありましたが、いただいてるもので全てかと思いますのでそちらは省いております\nご確認よろしくお願いいたします。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "client_msg_id": "2f95a5b0-f62c-487c-96d0-67101c1d8d5d",
+            "thread_ts": "1676745816.866239",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1676764420.922749",
+            "reply_users": [
+                "U04J38PLGM6"
+            ],
+            "replies": [
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1676764420.922749"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

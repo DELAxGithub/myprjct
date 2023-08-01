@@ -1,0 +1,433 @@
+[
+    {
+        "client_msg_id": "327d634c-c970-4e8d-826b-0de94b2c60e4",
+        "type": "message",
+        "text": "45＿フジガキのドリーカムが拡大されています",
+        "user": "U03QQ3J656Z",
+        "ts": "1663747973.817729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K\/ng",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "45＿フジガキのドリーカムが拡大されています"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663732180.377219",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF>\n【2Q45-50のシーケンス確認】\n先日ドリーが小さかったため、本日下記を試してみました。\nちなみにですが、下記を試す前に45_藤垣、47_平藤ともに\n音声はくるようになっておりました。\n\n■試したこと\n・再起動→プロキシ切り離し→プロキシ「追加」で\n　もう一回Dropbox上のプロキシーファイルに繋ぐ\n・ソフトの再起動\n・Premiereのアップデート\n・PCの再起動\n・ローカルのAdobe関係のキャッシュ消し\n\n上記を試しましたがドリーに変化はなく小さいままでした…\n関係しそうな部分は一通り試したのですが\n他に試せそうな手段など、どなたかご存じでしょうか?",
+        "user": "U03NJATSEBH",
+        "ts": "1663812951.771289",
+        "thread_ts": "1663737416.937749",
+        "root": {
+            "client_msg_id": "a1b61d67-8fc3-4e8e-88b6-4bf7d557cd97",
+            "type": "message",
+            "text": "<@U03NJATSEBH> 46はどうですか？さっきの僕のやつと一緒なプロパティ？",
+            "user": "U03CXUXB5PF",
+            "ts": "1663737416.937749",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "04FE",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03NJATSEBH"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 46はどうですか？さっきの僕のやつと一緒なプロパティ？"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1663737416.937749",
+            "reply_count": 9,
+            "reply_users_count": 2,
+            "latest_reply": "1663815762.419669",
+            "reply_users": [
+                "U03CXUXB5PF",
+                "U03NJATSEBH"
+            ],
+            "replies": [
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1663737633.078279"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1663737781.569079"
+                },
+                {
+                    "user": "U03NJATSEBH",
+                    "ts": "1663738659.217319"
+                },
+                {
+                    "user": "U03NJATSEBH",
+                    "ts": "1663812951.771289"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1663814523.223889"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1663815063.366809"
+                },
+                {
+                    "user": "U03NJATSEBH",
+                    "ts": "1663815167.532809"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1663815285.021019"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1663815762.419669"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1663815762.419669"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zEh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【2Q45-50のシーケンス確認】\n先日ドリーが小さかったため、本日下記を試してみました。\nちなみにですが、下記を試す前に45_藤垣、47_平藤ともに\n音声はくるようになっておりました。\n\n■試したこと\n・再起動→プロキシ切り離し→プロキシ「追加」で\n　もう一回Dropbox上のプロキシーファイルに繋ぐ\n・ソフトの再起動\n・Premiereのアップデート\n・PCの再起動\n・ローカルのAdobe関係のキャッシュ消し\n\n上記を試しましたがドリーに変化はなく小さいままでした…\n関係しそうな部分は一通り試したのですが\n他に試せそうな手段など、どなたかご存じでしょうか?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7c5c0279-4da7-4a08-ab98-7633d8399567"
+    },
+    {
+        "client_msg_id": "df8c75b1-12a2-4e4f-92b9-8250e945ec0f",
+        "type": "message",
+        "text": "一回画面共有で見せていただくこと可能でしょうか？slackのハドルミーティング、いけたらお願いします。こちら12時には大丈夫です。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663814523.223889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x=Tnc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一回画面共有で見せていただくこと可能でしょうか？slackのハドルミーティング、いけたらお願いします。こちら12時には大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663737416.937749",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "e6d154bb-8239-4b36-b636-d71a047993c0",
+        "type": "message",
+        "text": "<@U03NJATSEBH> 今どうですか？",
+        "user": "U03CXUXB5PF",
+        "ts": "1663815063.366809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/uH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今どうですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663737416.937749",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "5EA41927-45A4-438D-935C-45267AFBE3AD",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 失礼しました。只今外のため、10分後くらいからパドルミーティング可能です",
+        "user": "U03NJATSEBH",
+        "ts": "1663815167.532809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2HYi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "失礼しました。只今外のため、10分後くらいからパドルミーティング可能です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663737416.937749",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "23da4edd-7ff8-44dc-b480-d008148c5ebe",
+        "type": "message",
+        "text": "<@U03NJATSEBH> では、もうちょっと後にして、素材持ってる池田くんまじえてやりましょう。またお声がけしますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1663815285.021019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9mpwj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " では、もうちょっと後にして、素材持ってる池田くんまじえてやりましょう。またお声がけしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663737416.937749",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "720ad21e-10ee-41c6-b74f-c9844661a0a9",
+        "type": "message",
+        "text": "<@U040YCC00V6> ちょっと素材の確認があるので良きタイミングにハドルをお願いしますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1663815762.419669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jC+Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ちょっと素材の確認があるので良きタイミングにハドルをお願いしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663737416.937749",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U03NJATSEBH> 小さくなってるやつは見事に小さいので、多分、プロジェクトが、プロキシを本素材と勘違いしてるのかなぁ。一回元素材に繋いで、そんでもう一回プロキシつなぎ直す、で治るかやってみます",
+        "files": [
+            {
+                "id": "F0437TC9A0N",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1663820308.663599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vnmq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 小さくなってるやつは見事に小さいので、多分、プロジェクトが、プロキシを本素材と勘違いしてるのかなぁ。一回元素材に繋いで、そんでもう一回プロキシつなぎ直す、で治るかやってみます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "94bd62e4-4617-4cb9-9662-654167db6495",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

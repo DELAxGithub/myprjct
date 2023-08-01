@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "B54024A8-0D7D-4258-8A68-94005BC9A584",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> \n初めまして！浜地と申します\n63伊達のMA用QT &amp;omf.をアップしました\nご確認宜しくお願い致します！",
+        "user": "U04JJB0MTB7",
+        "ts": "1674580270.552269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i\/nQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n初めまして！浜地と申します\n63伊達のMA用QT &omf.をアップしました\nご確認宜しくお願い致します！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674580270.552269",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1674600319.652229",
+        "reply_users": [
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1674600319.652229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9C9113F4-779B-40DA-A6B4-3B50CE922A01",
+        "type": "message",
+        "text": "はじめまして、MA髙梨と申します。\nデータ確認させて頂きます。",
+        "user": "U03G0LAPT3N",
+        "ts": "1674600319.652229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KqbaT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はじめまして、MA髙梨と申します。\nデータ確認させて頂きます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674580270.552269",
+        "parent_user_id": "U04JJB0MTB7"
+    }
+]

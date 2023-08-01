@@ -1,0 +1,586 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 試写１か試写２かっていうのと、ステータスをinReview にしておいてくださいー。この辺のラベルで進捗管理しているので、何卒。。",
+        "files": [
+            {
+                "id": "F04FTQP07PG",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1671544431.179039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sqe7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 試写１か試写２かっていうのと、ステータスをinReview にしておいてくださいー。この辺のラベルで進捗管理しているので、何卒。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "183b4b7f-393f-43c6-a77c-e3ce15afd445"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 60阿部\nジェーン・オースティンマナーに関する引用\nこちらvoice入りますか？その場合は至急制作お願いします。",
+        "files": [
+            {
+                "id": "F04G10BFEAH",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03Q17LBJP3",
+        "display_as_bot": false,
+        "ts": "1671589740.545819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "So9h3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 60阿部\nジェーン・オースティンマナーに関する引用\nこちらvoice入りますか？その場合は至急制作お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ad145e55-2915-4d61-b669-9af5a0198eb3",
+        "thread_ts": "1671589740.545819",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1671590248.880779",
+        "reply_users": [
+            "U03Q17LBJP3"
+        ],
+        "replies": [
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1671589912.157529"
+            },
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1671590248.880779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1671590248.880779"
+    },
+    {
+        "client_msg_id": "EF5AB4D3-7C0A-492F-B474-7B14C4FA763D",
+        "type": "message",
+        "text": "すぐ作ります",
+        "user": "U03CXUXB5PF",
+        "ts": "1671589900.401489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JT3x+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すぐ作ります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nここもです よろしくお願いします",
+        "files": [
+            {
+                "id": "F04G3R3K7NF",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03Q17LBJP3",
+        "display_as_bot": false,
+        "ts": "1671589912.157529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nN4M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nここもです よろしくお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "25ebf070-9914-4339-91de-838460dda121",
+        "thread_ts": "1671589740.545819",
+        "parent_user_id": "U03Q17LBJP3",
+        "subtype": "thread_broadcast",
+        "root": {
+            "type": "message",
+            "text": "<@U03CXUXB5PF> 60阿部\nジェーン・オースティンマナーに関する引用\nこちらvoice入りますか？その場合は至急制作お願いします。",
+            "files": [
+                {
+                    "id": "F04G10BFEAH",
+                    "mode": "hidden_by_limit"
+                }
+            ],
+            "upload": false,
+            "user": "U03Q17LBJP3",
+            "display_as_bot": false,
+            "ts": "1671589740.545819",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "So9h3",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03CXUXB5PF"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 60阿部\nジェーン・オースティンマナーに関する引用\nこちらvoice入りますか？その場合は至急制作お願いします。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "client_msg_id": "ad145e55-2915-4d61-b669-9af5a0198eb3",
+            "thread_ts": "1671589740.545819",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1671590248.880779",
+            "reply_users": [
+                "U03Q17LBJP3"
+            ],
+            "replies": [
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1671589912.157529"
+                },
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1671590248.880779"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1671590248.880779"
+        }
+    },
+    {
+        "client_msg_id": "1ac3ba1b-0671-4797-b8c1-3f51211a20e8",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nすみません！楽しいこと～はありました！\n上のほうだけお願いします",
+        "user": "U03Q17LBJP3",
+        "ts": "1671590248.880779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sm23",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nすみません！楽しいこと～はありました！\n上のほうだけお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1671589740.545819",
+        "parent_user_id": "U03Q17LBJP3"
+    },
+    {
+        "client_msg_id": "a4a31a04-50f8-496f-aaba-c8dc93896a01",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> ２つ100_60のフォルダに入れました。なんか台本が「そのその」ってなってたんで直したほうがいいかも。",
+        "user": "U03CXUXB5PF",
+        "ts": "1671590399.202819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wn\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ２つ100_60のフォルダに入れました。なんか台本が「そのその」ってなってたんで直したほうがいいかも。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a98a807d-2839-40c1-adfd-3a3fe2a8c35a",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n53_林ですがep1は試写の指摘により画を伸ばしているので、\n再MA必要です",
+        "user": "U03QQ3J656Z",
+        "ts": "1671590605.675809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i3et",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n53_林ですがep1は試写の指摘により画を伸ばしているので、\n再MA必要です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cfbd3e7d-a485-494c-a91e-6431fff637d2",
+        "type": "message",
+        "text": "BGMを引き直すじゃ厳しいですか？全部音源もらってるので。\nそれかAIで無理くりのばすとか。\n音声が復活してるなら再MAですが。　<@U03QQ3J656Z>",
+        "user": "U03CXUXB5PF",
+        "ts": "1671590675.814609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+mo1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BGMを引き直すじゃ厳しいですか？全部音源もらってるので。\nそれかAIで無理くりのばすとか。\n音声が復活してるなら再MAですが。　"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1671590675.814609",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1671590870.062629",
+        "reply_users": [
+            "U03QQ3J656Z",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1671590785.243699"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1671590818.608539"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1671590849.336299"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1671590870.062629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1671590870.062629"
+    },
+    {
+        "client_msg_id": "6706df6e-f5f0-44ab-a910-d0a058bade9a",
+        "type": "message",
+        "text": "音声が復活してます",
+        "user": "U03QQ3J656Z",
+        "ts": "1671590785.243699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QMCs6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "音声が復活してます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1671590675.814609",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "9c41965d-55ed-49d0-9e3f-fb5c9ece6a8f",
+        "type": "message",
+        "text": "作用でしたか、では、再MAをお願いします。お手数をおかけします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1671590818.608539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "64v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "作用でしたか、では、再MAをお願いします。お手数をおかけします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1671590675.814609",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "804ba2ac-605d-4d26-b1f4-fdd3c62c6b7c",
+        "type": "message",
+        "text": "ep1だけでよいですよね？",
+        "user": "U03QQ3J656Z",
+        "ts": "1671590849.336299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pBQsy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ep1だけでよいですよね？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1671590675.814609",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "8e5f5d01-2b98-4e6e-b2f1-d11692c3ad21",
+        "type": "message",
+        "text": "インタビュー復活してるepだけで大丈夫です。",
+        "user": "U03CXUXB5PF",
+        "ts": "1671590870.062629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qpq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "インタビュー復活してるepだけで大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1671590675.814609",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

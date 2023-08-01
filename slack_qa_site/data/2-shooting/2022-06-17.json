@@ -1,0 +1,87 @@
+[
+    {
+        "client_msg_id": "18bb3877-2d49-4e61-b002-17fcfa93109d",
+        "type": "message",
+        "text": "渡辺さんのchatworkでスタジオ控室、菅野さん分が１つ追加されてたのですが、これスタジオ側にお伝えしてもいいですか？",
+        "user": "U03HJRZK295",
+        "ts": "1655512740.146909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xLGMp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "渡辺さんのchatworkでスタジオ控室、菅野さん分が１つ追加されてたのですが、これスタジオ側にお伝えしてもいいですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E8814A0D-76FB-48D5-86D6-82F7A5EBCE70",
+        "type": "message",
+        "text": "いやこれ7月のなんで、今回やってみておそらく不要になるだろうなと。なくす方向です。",
+        "user": "U03CXUXB5PF",
+        "ts": "1655513050.108989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wvy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いやこれ7月のなんで、今回やってみておそらく不要になるだろうなと。なくす方向です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03HJRZK295"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,281 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "こちら対応完了しています。\nよろしくお願いします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1661326938.241779",
+        "thread_ts": "1661251783.135289",
+        "root": {
+            "client_msg_id": "41f6a035-d844-4bbe-a373-dc6a24b78237",
+            "type": "message",
+            "text": "<@U03P0T4KQMV>　33_中野の修正箇所　（あらすじやらまとめやらタイトルやら）とかに★を入れました。台本上で★を検索してみてください。",
+            "user": "U03CXUXB5PF",
+            "ts": "1661251783.135289",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "jLQ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03P0T4KQMV"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "　33_中野の修正箇所　（あらすじやらまとめやらタイトルやら）とかに★を入れました。台本上で★を検索してみてください。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1661251783.135289",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1661326938.241779",
+            "reply_users": [
+                "U03P0T4KQMV"
+            ],
+            "replies": [
+                {
+                    "user": "U03P0T4KQMV",
+                    "ts": "1661326938.241779"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1661326938.241779"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nDCsn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こちら対応完了しています。\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "d0104412-9c37-41d1-9a87-3c29b6930ac3",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF> 39_松永さま\n案の定カット苦戦してます。。。\n最初は台本に「ここは意味合いが通じるのでカット～」等記載してたんですが、枚挙にいとまがないので不安なところだけ記載するほうにシフトします。また出来上がりましたらお知らせします。",
+        "user": "U03Q17LBJP3",
+        "ts": "1661351763.593779",
+        "thread_ts": "1660867201.077669",
+        "root": {
+            "client_msg_id": "22868257-20ca-45d3-8949-aa923bf27c2a",
+            "type": "message",
+            "text": "8\/19\n39_松永 編集台本できました\n<@U03HJRZK295>\n素材収集をお願いします\nゲームの話ですが、実写でもいいのでできるだけ映像あった方がいいかなぁ。試写でもコメントありますが、あと1~2割ほど増えると嬉しいかも。\n\n編集担当 <@U03Q17LBJP3>\n書き起こし読む限り、すごい言い直しが多いみたいです。全部削るとそれこそ半分になりそうなぐらいなんで、無理になおさなくてもいいですけど、あまりにも「口下手」な印象になりそうなら少しはカット必要かもしれません。その際は、イメージカットで潜るしかないので、そういう箇所はぜひコメント残して、イメージカット必要箇所をメモください。\n\n40_岡本までやったらまた収録準備に戻ります",
+            "user": "U03CXUXB5PF",
+            "ts": "1660867201.077669",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "0Kh",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "8\/19\n39_松永 編集台本できました\n"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03HJRZK295"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n素材収集をお願いします\nゲームの話ですが、実写でもいいのでできるだけ映像あった方がいいかなぁ。試写でもコメントありますが、あと1~2割ほど増えると嬉しいかも。\n\n編集担当 "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03Q17LBJP3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n書き起こし読む限り、すごい言い直しが多いみたいです。全部削るとそれこそ半分になりそうなぐらいなんで、無理になおさなくてもいいですけど、あまりにも「口下手」な印象になりそうなら少しはカット必要かもしれません。その際は、イメージカットで潜るしかないので、そういう箇所はぜひコメント残して、イメージカット必要箇所をメモください。\n\n40_岡本までやったらまた収録準備に戻ります"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1660867201.077669",
+            "reply_count": 3,
+            "reply_users_count": 1,
+            "latest_reply": "1661377390.829139",
+            "reply_users": [
+                "U03Q17LBJP3"
+            ],
+            "replies": [
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1660872749.926089"
+                },
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1661351763.593779"
+                },
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1661377390.829139"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1661377390.829139"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S9ZN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 39_松永さま\n案の定カット苦戦してます。。。\n最初は台本に「ここは意味合いが通じるのでカット～」等記載してたんですが、枚挙にいとまがないので不安なところだけ記載するほうにシフトします。また出来上がりましたらお知らせします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "29471a92-50c8-47e7-948f-72bc0c9e8acf"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF> 39_松永さま\n本編の編集完了しました、不明点は台本に★つけてますのでご確認ください。",
+        "user": "U03Q17LBJP3",
+        "ts": "1661377390.829139",
+        "thread_ts": "1660867201.077669",
+        "root": {
+            "client_msg_id": "22868257-20ca-45d3-8949-aa923bf27c2a",
+            "type": "message",
+            "text": "8\/19\n39_松永 編集台本できました\n<@U03HJRZK295>\n素材収集をお願いします\nゲームの話ですが、実写でもいいのでできるだけ映像あった方がいいかなぁ。試写でもコメントありますが、あと1~2割ほど増えると嬉しいかも。\n\n編集担当 <@U03Q17LBJP3>\n書き起こし読む限り、すごい言い直しが多いみたいです。全部削るとそれこそ半分になりそうなぐらいなんで、無理になおさなくてもいいですけど、あまりにも「口下手」な印象になりそうなら少しはカット必要かもしれません。その際は、イメージカットで潜るしかないので、そういう箇所はぜひコメント残して、イメージカット必要箇所をメモください。\n\n40_岡本までやったらまた収録準備に戻ります",
+            "user": "U03CXUXB5PF",
+            "ts": "1660867201.077669",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "0Kh",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "8\/19\n39_松永 編集台本できました\n"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03HJRZK295"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n素材収集をお願いします\nゲームの話ですが、実写でもいいのでできるだけ映像あった方がいいかなぁ。試写でもコメントありますが、あと1~2割ほど増えると嬉しいかも。\n\n編集担当 "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03Q17LBJP3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n書き起こし読む限り、すごい言い直しが多いみたいです。全部削るとそれこそ半分になりそうなぐらいなんで、無理になおさなくてもいいですけど、あまりにも「口下手」な印象になりそうなら少しはカット必要かもしれません。その際は、イメージカットで潜るしかないので、そういう箇所はぜひコメント残して、イメージカット必要箇所をメモください。\n\n40_岡本までやったらまた収録準備に戻ります"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1660867201.077669",
+            "reply_count": 3,
+            "reply_users_count": 1,
+            "latest_reply": "1661377390.829139",
+            "reply_users": [
+                "U03Q17LBJP3"
+            ],
+            "replies": [
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1660872749.926089"
+                },
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1661351763.593779"
+                },
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1661377390.829139"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1661377390.829139"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QVWfI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 39_松永さま\n本編の編集完了しました、不明点は台本に★つけてますのでご確認ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a1cabd3e-4386-4e5e-a82f-94e5fc884ef9",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03HJRZK295"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

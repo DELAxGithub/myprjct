@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "bce0647c-ffca-4df4-b7b7-019593a29a66",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> 98市川紗椰さんで、バッハの音源使い所ありまして。\n♪ヨハン・セバスチャン・バッハ 「ブーレ ホ短調」\nって使えるのあります？",
+        "user": "U03CXUXB5PF",
+        "ts": "1676697627.325329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cktl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 98市川紗椰さんで、バッハの音源使い所ありまして。\n♪ヨハン・セバスチャン・バッハ 「ブーレ ホ短調」\nって使えるのあります？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676697627.325329",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1676758371.330949",
+        "reply_users": [
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1676697674.898159"
+            },
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1676758371.330949"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1676758371.330949"
+    },
+    {
+        "client_msg_id": "20DC7BA9-E490-4E11-B21F-3BDBFD7D9E41",
+        "type": "message",
+        "text": "探してみます",
+        "user": "U03G0LAPT3N",
+        "ts": "1676697674.898159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "anR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "探してみます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676697627.325329",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

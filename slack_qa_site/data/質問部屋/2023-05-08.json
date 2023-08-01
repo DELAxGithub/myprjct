@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "69795789-1866-4b4d-a71a-ee21a5c9a977",
+        "type": "message",
+        "text": "<@U054X8LCUBB> Googleカレンダーから予定を取得して、任意のgoogleシートに出力するGASのコードください",
+        "user": "U03CXUXB5PF",
+        "ts": "1683542109.029709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M1sz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U054X8LCUBB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Googleカレンダーから予定を取得して、任意のgoogleシートに出力するGASのコードください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ba79fb73-a56f-408e-bcad-401b27dd4d21",
+        "type": "message",
+        "text": "反応しなくなった。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1683545176.091819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X8gM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反応しなくなった。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

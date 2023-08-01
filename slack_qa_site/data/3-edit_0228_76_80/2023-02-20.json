@@ -1,0 +1,395 @@
+[
+    {
+        "client_msg_id": "1238bdd2-5abf-4fe5-b7cb-c458ca6ba7cf",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n小山さんのチェック待ちです。",
+        "user": "U03RA83HRN0",
+        "ts": "1676880418.712139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HxVb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n小山さんのチェック待ちです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676879367.435089",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> \n80大澤ep1でインサートの差し替えの修正がきています。悩む　のインサートになります。MAには現状のまま出してしまいますがよろしくお願い致します :blush: :woman-bowing: ",
+        "files": [
+            {
+                "id": "F04PYM9DM2B",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04PYMZLATH",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04KFCBLY9J",
+        "ts": "1676892722.760569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DrD=W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n80大澤ep1でインサートの差し替えの修正がきています。悩む　のインサートになります。MAには現状のまま出してしまいますがよろしくお願い致します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9F51D332-C01B-4F26-89B4-6471BC70B09A",
+        "thread_ts": "1676892722.760569",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1676897080.227459",
+        "reply_users": [
+            "U03V84JSHNK",
+            "U04KFCBLY9J"
+        ],
+        "replies": [
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1676895088.536909"
+            },
+            {
+                "user": "U04KFCBLY9J",
+                "ts": "1676897080.227459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1676897080.227459"
+    },
+    {
+        "client_msg_id": "309e30e6-d563-4166-9f51-1aeb9208cd36",
+        "type": "message",
+        "text": "<@U04KFCBLY9J> 「悩む」3つ入れました。よろしくお願いいたします。",
+        "user": "U03V84JSHNK",
+        "ts": "1676895088.536909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5ZLtF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 「悩む」3つ入れました。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03V84JSHNK",
+            "ts": "1676895102.000000"
+        },
+        "thread_ts": "1676892722.760569",
+        "parent_user_id": "U04KFCBLY9J"
+    },
+    {
+        "client_msg_id": "961CE9A6-5A76-4B7D-93BD-FCE05EBB9863",
+        "type": "message",
+        "text": "<@U03V84JSHNK> \nありがとうございます:blush: :woman-bowing: !\n",
+        "user": "U04KFCBLY9J",
+        "ts": "1676897080.227459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v9=eW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676892722.760569",
+        "parent_user_id": "U04KFCBLY9J"
+    },
+    {
+        "client_msg_id": "efea7bb9-f340-4c54-a4b1-9b2239590667",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n77_中尾の試写1をReplayにアップいたしました。",
+        "user": "U03RA83HRN0",
+        "ts": "1676897953.983649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pB0Ru",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n77_中尾の試写1をReplayにアップいたしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676897953.983649",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677029814.975169",
+        "reply_users": [
+            "U03NZ0E09JN"
+        ],
+        "replies": [
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1677029814.975169"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677029814.975169"
+    },
+    {
+        "client_msg_id": "759d11e1-312b-4450-9305-a390ffe8071f",
+        "type": "message",
+        "text": "```#78V3に日本地図が出てきますが、「沖縄まで入っているもの」にできませんか？職業病のようで恐縮ですが、イメージであっても、こうした表現に非常に敏感な方々はいらっしゃいますので、一つお願いです。```\n<@U04J38PLGM6> これ、そもそも日本地図である必要なくってことだったりします？",
+        "user": "U03CXUXB5PF",
+        "ts": "1676924744.234909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kjc",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#78V3に日本地図が出てきますが、「沖縄まで入っているもの」にできませんか？職業病のようで恐縮ですが、イメージであっても、こうした表現に非常に敏感な方々はいらっしゃいますので、一つお願いです。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " これ、そもそも日本地図である必要なくってことだったりします？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "856db38b-91a1-4f89-8916-0adab148c319",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 日本列島が分かりやすいかもしれません。他は、原生林とか山とか日本の太古の風景を連想させる写真とかですかね。",
+        "user": "U04J38PLGM6",
+        "ts": "1676935424.101709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LQik",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 日本列島が分かりやすいかもしれません。他は、原生林とか山とか日本の太古の風景を連想させる写真とかですかね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

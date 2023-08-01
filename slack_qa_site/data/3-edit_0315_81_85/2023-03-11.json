@@ -1,0 +1,130 @@
+[
+    {
+        "client_msg_id": "c040ee69-40da-4ed1-b617-edd4281c4968",
+        "type": "message",
+        "text": "<@U04KFCBLY9J> <#C04RF8LE64C|進捗君> にてお伝えしてますが、84試写１終わったので、必要な箇所直してMAに進めてください。\nタイトルは、「現代に問いかける宮沢賢治の“本当“の意味」に変更をお願いします",
+        "user": "U03CXUXB5PF",
+        "ts": "1678561660.768659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fp6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04RF8LE64C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にてお伝えしてますが、84試写１終わったので、必要な箇所直してMAに進めてください。\nタイトルは、「現代に問いかける宮沢賢治の“本当“の意味」に変更をお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678561660.768659",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1678581991.001879",
+        "reply_users": [
+            "U04KFCBLY9J"
+        ],
+        "replies": [
+            {
+                "user": "U04KFCBLY9J",
+                "ts": "1678581991.001879"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1678581991.001879",
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F531A476-F2E5-4E3E-99DC-C0F5AAAB08F1",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 了解です :blush: ！",
+        "user": "U04KFCBLY9J",
+        "ts": "1678581991.001879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bU5N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解です "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678561660.768659",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

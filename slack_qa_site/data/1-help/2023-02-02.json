@@ -1,0 +1,114 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nDropboxの容量がいっぱいの様です。\nお手数ですがお手隙の時にご確認をお願いいたします。",
+        "files": [
+            {
+                "id": "F04MZ57N68L",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1675408965.736229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zIo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDropboxの容量がいっぱいの様です。\nお手数ですがお手隙の時にご確認をお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1d12ee05-3b18-4bc0-a901-3e8c3feffed4"
+    },
+    {
+        "client_msg_id": "D6F2221A-35CF-4042-8491-0865EC87EC35",
+        "type": "message",
+        "text": "なぜか納品済みのproxyが復活してましたが、消しました。いかがでしょうか。",
+        "user": "U03CXUXB5PF",
+        "ts": "1675409206.996779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Exws",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なぜか納品済みのproxyが復活してましたが、消しました。いかがでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b9e7b9fd-416f-46d7-a19d-c1fc519936b6",
+        "type": "message",
+        "text": "大丈夫になりました。ありがとうございます！",
+        "user": "U03NZ0E09JN",
+        "ts": "1675409318.256979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Y8S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大丈夫になりました。ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

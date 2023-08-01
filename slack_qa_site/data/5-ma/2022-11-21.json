@@ -1,0 +1,332 @@
+[
+    {
+        "client_msg_id": "4a56b60b-a6f1-496b-82b1-7017445e1ae7",
+        "type": "message",
+        "text": "<@U03G0LAPT3N>\n46吉岡　MA用データ用意してありますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1669045242.803089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/4jsj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n46吉岡　MA用データ用意してありますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669045242.803089",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1669054143.555589",
+        "reply_users": [
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1669054143.555589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1669054143.555589"
+    },
+    {
+        "client_msg_id": "BCCD5A30-BA31-4C39-BFFE-C4C97076646D",
+        "type": "message",
+        "text": "ありがとうございます。",
+        "user": "U03G0LAPT3N",
+        "ts": "1669054143.555589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AgU89",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669045242.803089",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U03G0LAPT3N> <@U03CXUXB5PF>\n【修正依頼】\n45藤垣 ep3\n13:01～13:07\n13:39～13:41 部分\n\nReplayにて修正のご依頼がありました。\n大変お手数ですが、添付画像とあわせてご確認いただければ幸いです。",
+        "files": [
+            {
+                "id": "F04BY5MQG1G",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04C0K8DTT6",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04BY2MPYAF",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NJATSEBH",
+        "ts": "1669077755.576119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d9f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【修正依頼】\n45藤垣 ep3\n13:01～13:07\n13:39～13:41 部分\n\nReplayにて修正のご依頼がありました。\n大変お手数ですが、添付画像とあわせてご確認いただければ幸いです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "02669a46-40e7-4dcd-8a46-1caa03b09389",
+        "thread_ts": "1669077755.576119",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1669078371.970199",
+        "reply_users": [
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1669078371.970199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1669078371.970199"
+    },
+    {
+        "client_msg_id": "F3345D76-3576-428D-9182-EEEE28BB45C0",
+        "type": "message",
+        "text": "確認いたします:bow:",
+        "user": "U03G0LAPT3N",
+        "ts": "1669078371.970199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mmik",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "確認いたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669077755.576119",
+        "parent_user_id": "U03NJATSEBH"
+    },
+    {
+        "client_msg_id": "caf4fb38-2156-4657-971d-969a8caeda1e",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> <@U03CXUXB5PF>\n55_長谷のep1~ep3のQTとOMFを\nMA用のQT＆OMFフォルダにアップしました。\nよろしくお願いいたします。",
+        "user": "U03RA83HRN0",
+        "ts": "1669101964.868709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KJc=e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n55_長谷のep1~ep3のQTとOMFを\nMA用のQT＆OMFフォルダにアップしました。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669101964.868709",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1669124884.192049",
+        "reply_users": [
+            "U03G0LAPT3N",
+            "U03NZ0E09JN"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1669103449.823179"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1669124884.192049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1669124884.192049",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3E169ED8-FE5D-4AFF-82CE-1CA33F529ADA",
+        "type": "message",
+        "text": "承知しました。",
+        "user": "U03G0LAPT3N",
+        "ts": "1669103449.823179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EqpgP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669101964.868709",
+        "parent_user_id": "U03RA83HRN0"
+    }
+]

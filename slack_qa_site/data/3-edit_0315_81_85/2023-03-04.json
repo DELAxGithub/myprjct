@@ -1,0 +1,621 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF> <@U03RA83HRN0> 遅くなりすみません。テロップ出力_83_小幡績取り切り2.xmlというファイル名で新しく作りました。よろしくお願いいたします。",
+        "user": "U03V84JSHNK",
+        "ts": "1677919994.567869",
+        "thread_ts": "1677846624.788259",
+        "root": {
+            "client_msg_id": "719c7a02-f7fa-406c-88a7-b6f1156d5f50",
+            "type": "message",
+            "text": "<@U03V84JSHNK> 83のOP\/EDまでできました　テロップ作成してください\n<@U03RA83HRN0> 揃ったところで\n編集1をお願いします",
+            "user": "U03CXUXB5PF",
+            "ts": "1677846624.788259",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "=yw4",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03V84JSHNK"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 83のOP\/EDまでできました　テロップ作成してください\n"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03RA83HRN0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 揃ったところで\n編集1をお願いします"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1677846624.788259",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1677919994.567869",
+            "reply_users": [
+                "U03V84JSHNK"
+            ],
+            "replies": [
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1677919994.567869"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1677919994.567869"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K=bi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 遅くなりすみません。テロップ出力_83_小幡績取り切り2.xmlというファイル名で新しく作りました。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "c2fb8eb8-28d6-4c71-b6c3-373116f741c3",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n83_小幡ですがep1で、添付した台本の部分にしゃべり部分にノイズが乗っていました。\n生活音ではなく、いわゆる音のノイズのようです。\n2つの部分しか確認できないのでマイクのノイズとは思えないのですが・・・\n1つ目の「原始的」というところはカットしても大丈夫かと思いますが、\n2つ目の「食べちゃったら・・」というとこはフォローもあるところです。\nご確認いただけますでしょうか？しゃべりに乗っているので誤魔化せるのかどうか。",
+        "files": [
+            {
+                "id": "F04T34V09NU",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04SFTT6DSQ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03RA83HRN0",
+        "ts": "1677942202.688169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "umZxV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n83_小幡ですがep1で、添付した台本の部分にしゃべり部分にノイズが乗っていました。\n生活音ではなく、いわゆる音のノイズのようです。\n2つの部分しか確認できないのでマイクのノイズとは思えないのですが・・・\n1つ目の「原始的」というところはカットしても大丈夫かと思いますが、\n2つ目の「食べちゃったら・・」というとこはフォローもあるところです。\nご確認いただけますでしょうか？しゃべりに乗っているので誤魔化せるのかどうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b0fe75c5-e3da-4289-a26d-530767be8d61"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n83_小幡でもう1点。\nep1ですが、添付した台本上「短期:景気対策 中期:産業政策 長期:成長戦略」で1枚とありますが、\n産業政策は「中期とも言える・・」とはっきり言わず、成長戦略のほうは「中期」とはっきり言っています。\nその後にも、景気対策は短期、成長戦略は中期とはっきり言っていますが、\n産業政策については期間は明言していませんでした。\nただし、この流れがあった後に「長期の成長戦略もありうるわけで・・」と初めて「長期」が出てきます。\nいかがいたしましょうか？",
+        "files": [
+            {
+                "id": "F04SDJ0FBT4",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04SDE7C38B",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04SG29G8E8",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03RA83HRN0",
+        "ts": "1677948557.286359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FESwY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n83_小幡でもう1点。\nep1ですが、添付した台本上「短期:景気対策 中期:産業政策 長期:成長戦略」で1枚とありますが、\n産業政策は「中期とも言える・・」とはっきり言わず、成長戦略のほうは「中期」とはっきり言っています。\nその後にも、景気対策は短期、成長戦略は中期とはっきり言っていますが、\n産業政策については期間は明言していませんでした。\nただし、この流れがあった後に「長期の成長戦略もありうるわけで・・」と初めて「長期」が出てきます。\nいかがいたしましょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ea2cd335-550e-4a52-98fa-eacef0f54428"
+    },
+    {
+        "type": "message",
+        "text": "<@U03RA83HRN0> 83\nカット箇所増やしました\n短期、中期、長期はまぁこれで。",
+        "files": [
+            {
+                "id": "F04RZM76DD5",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1677984851.578679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hq2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 83\nカット箇所増やしました\n短期、中期、長期はまぁこれで。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4f1d86c4-69a6-4782-820f-e1fa3263f84a",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> \n#84山下さんのep3でノイズが気になる箇所と、スタッフの方が映り込んでいるシーンがありました。カットなどご指示よろしくお願い致します :blush: :woman-bowing: ",
+        "files": [
+            {
+                "id": "F04SE4WVDHR",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04T3UTP5LY",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04KFCBLY9J",
+        "ts": "1677987705.442099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DUi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n#84山下さんのep3でノイズが気になる箇所と、スタッフの方が映り込んでいるシーンがありました。カットなどご指示よろしくお願い致します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "48C99BCE-2072-447A-BD0D-88C38643961A"
+    },
+    {
+        "type": "message",
+        "text": "<@U04KFCBLY9J> カット箇所です。スタッフについてはなんかしらインサートをお願いします",
+        "files": [
+            {
+                "id": "F04SE6UQR51",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1677992436.718299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZJtYS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " カット箇所です。スタッフについてはなんかしらインサートをお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8b329c2d-5df2-466b-b107-d476240dde54",
+        "thread_ts": "1677992436.718299",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1677993803.633579",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U04KFCBLY9J"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1677992890.860119"
+            },
+            {
+                "user": "U04KFCBLY9J",
+                "ts": "1677993803.633579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677993803.633579"
+    },
+    {
+        "type": "message",
+        "text": "<@U04KFCBLY9J> もう一個カットです",
+        "files": [
+            {
+                "id": "F04S7NFVA3Y",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1677992890.860119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "irB11",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " もう一個カットです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4cd66a86-c045-4630-9e46-cdf56c0d2656",
+        "thread_ts": "1677992436.718299",
+        "parent_user_id": "U03CXUXB5PF",
+        "subtype": "thread_broadcast",
+        "root": {
+            "type": "message",
+            "text": "<@U04KFCBLY9J> カット箇所です。スタッフについてはなんかしらインサートをお願いします",
+            "files": [
+                {
+                    "id": "F04SE6UQR51",
+                    "mode": "hidden_by_limit"
+                }
+            ],
+            "upload": false,
+            "user": "U03CXUXB5PF",
+            "display_as_bot": false,
+            "ts": "1677992436.718299",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ZJtYS",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04KFCBLY9J"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " カット箇所です。スタッフについてはなんかしらインサートをお願いします"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "client_msg_id": "8b329c2d-5df2-466b-b107-d476240dde54",
+            "thread_ts": "1677992436.718299",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1677993803.633579",
+            "reply_users": [
+                "U03CXUXB5PF",
+                "U04KFCBLY9J"
+            ],
+            "replies": [
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1677992890.860119"
+                },
+                {
+                    "user": "U04KFCBLY9J",
+                    "ts": "1677993803.633579"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1677993803.633579"
+        }
+    },
+    {
+        "client_msg_id": "BAD97E84-FB6E-4316-ABA7-A7283E71BE6E",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> ありがとうございます:blush: :woman-bowing: ！",
+        "user": "U04KFCBLY9J",
+        "ts": "1677993803.633579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zzfxd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677992436.718299",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "022c8507-411a-460c-998c-27240a6edfe2",
+        "type": "message",
+        "text": "<@U04KFCBLY9J> 84のOP\/EDも作りました。\nテロップは手打ちで作っちゃってください。\n\n編集終われば試写1へ。",
+        "user": "U03CXUXB5PF",
+        "ts": "1677994740.242149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zBD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 84のOP\/EDも作りました。\nテロップは手打ちで作っちゃってください。\n\n編集終われば試写1へ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677994740.242149",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677997300.243939",
+        "reply_users": [
+            "U04KFCBLY9J"
+        ],
+        "replies": [
+            {
+                "user": "U04KFCBLY9J",
+                "ts": "1677997300.243939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677997300.243939",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A7854317-DFC1-495E-8ABB-40AF5DF9F101",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 了解です〜！\nありがとうございます:blush:！",
+        "user": "U04KFCBLY9J",
+        "ts": "1677997300.243939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u23",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解です〜！\nありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677994740.242149",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

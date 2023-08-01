@@ -1,0 +1,87 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#105久野愛で変更がありました\n変更前：編集1\n変更後：リサーチ\n担当者は中野です",
+        "ts": "1681284011.865469",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Ua1C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#105久野愛で変更がありました\n変更前：編集1\n変更後：リサーチ\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04KFCBLY9J> #105久野愛で変更がありました\n変更前：リサーチ\n変更後：編集1\n担当者は中野です",
+        "ts": "1681284935.158489",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H\/5s7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #105久野愛で変更がありました\n変更前：リサーチ\n変更後：編集1\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#81早川英男で変更がありました\n変更前：技術確認\n変更後：納品試写\n担当者は岡野です",
+        "ts": "1681296362.378189",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zmtJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#81早川英男で変更がありました\n変更前：技術確認\n変更後：納品試写\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663231422.101579",
+        "user": "U03P0T4KQMV",
+        "text": "<@U03P0T4KQMV>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "b314e514-c674-41b7-97e6-7b03880833a9",
+        "type": "message",
+        "text": "9\/16\n作業\n１１時から納品スケジュールの確認回\n・完パケ　MA発注中\n　　　28_田中 Replay修正をお願いします <@U03RA83HRN0>\n　　　　詳細は<#C03DD5YH9D1|3-edit> にてポストします\n\n新着素材\n・土井　もらい写真はめ替え→足りないみたいなので追加必要なら「待ち」のまま\n・\n\n全体連絡\n・フォーマット部分の一覧表作成中\n　Premiere用は＃４1から適用\n\n・１０月納品分の台本修正開始",
+        "user": "U03CXUXB5PF",
+        "ts": "1663290001.001619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "twT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "9\/16\n作業\n１１時から納品スケジュールの確認回\n・完パケ　MA発注中\n　　　28_田中 Replay修正をお願いします "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n　　　　詳細は"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03DD5YH9D1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にてポストします\n\n新着素材\n・土井　もらい写真はめ替え→足りないみたいなので追加必要なら「待ち」のまま\n・\n\n全体連絡\n・フォーマット部分の一覧表作成中\n　Premiere用は＃４1から適用\n\n・１０月納品分の台本修正開始"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0",
+                    "U03Q17LBJP3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663291830.849669",
+        "user": "U03V84JSHNK",
+        "text": "<@U03V84JSHNK>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663294301.801799",
+        "user": "U03NJATSEBH",
+        "text": "<@U03NJATSEBH>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663299761.250379",
+        "user": "U03Q17LBJP3",
+        "text": "<@U03Q17LBJP3>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    }
+]

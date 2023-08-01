@@ -1,0 +1,112 @@
+[
+    {
+        "client_msg_id": "b9074e62-87de-4ceb-b39a-3d868654b6e4",
+        "type": "message",
+        "text": "<@U04J38PLGM6> 68のあらすじとかOP,EDを作りました\n• テロップ再度作成\nをお願いします\nあと、イメージカットの調達に関して注意事項を台本の上の方に書いときましたので、編集前に確認ください\n本編中のインサートについては全然指示入れてないんですが、なんか良さげな戦争カットをたくさん集めておいて、入れられそうなところにインサート指示をしといてください。まぁインタビューが2分超えそうなところには１回ぐらいインサートするというか。",
+        "user": "U03CXUXB5PF",
+        "ts": "1673635594.131749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E9LWq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 68のあらすじとかOP,EDを作りました\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "テロップ再度作成"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "をお願いします\nあと、イメージカットの調達に関して注意事項を台本の上の方に書いときましたので、編集前に確認ください\n本編中のインサートについては全然指示入れてないんですが、なんか良さげな戦争カットをたくさん集めておいて、入れられそうなところにインサート指示をしといてください。まぁインタビューが2分超えそうなところには１回ぐらいインサートするというか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "14eabc52-b8dd-46cf-91dc-f3b38fed9879",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 了解しました",
+        "user": "U04J38PLGM6",
+        "ts": "1673656502.281449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jbma",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解しました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

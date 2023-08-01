@@ -1,0 +1,310 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U04J38PLGM6> シーケンスに何もなかったら編集中にも何もないのかもですが、なんかあった方がいいね。\nどっか前後に良さそうな静止画あればそれを（使い回しに見えないように画角変えつつ）\nなければ、なんか日本のなんかローカルな街並みとか適当に",
+        "user": "U03CXUXB5PF",
+        "ts": "1679416854.266349",
+        "thread_ts": "1679270809.313449",
+        "root": {
+            "client_msg_id": "5291d8d9-c327-4af0-8ffc-5924705ef0a5",
+            "type": "message",
+            "text": "<@U04KCQL2MFV> 再送です\n76 岡本さん\n\n&gt; プロフィールのところで\n&gt; 一点だけ\n&gt; 博士課程と書かれていたのですが\n&gt; 博士後期課程が正式名称です。\nep1~3,PRにあるのでこれ直したら最終にしてくださいー",
+            "user": "U03CXUXB5PF",
+            "ts": "1679270809.313449",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "2\/=sS",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04KCQL2MFV"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 再送です\n76 岡本さん\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_quote",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "プロフィールのところで\n一点だけ\n博士課程と書かれていたのですが\n博士後期課程が正式名称です。"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nep1~3,PRにあるのでこれ直したら最終にしてくださいー"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1679270809.313449",
+            "reply_count": 9,
+            "reply_users_count": 4,
+            "latest_reply": "1679472534.671779",
+            "reply_users": [
+                "U04KCQL2MFV",
+                "U04J38PLGM6",
+                "U03CXUXB5PF",
+                "U03NZ0E09JN"
+            ],
+            "replies": [
+                {
+                    "user": "U04KCQL2MFV",
+                    "ts": "1679286691.871499"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1679294732.654679"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1679416854.266349"
+                },
+                {
+                    "user": "U04KCQL2MFV",
+                    "ts": "1679447187.241489"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1679449423.468469"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1679449592.635849"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1679450415.841669"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1679471858.810369"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1679472534.671779"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1679472534.671779"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TmN7f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " シーケンスに何もなかったら編集中にも何もないのかもですが、なんかあった方がいいね。\nどっか前後に良さそうな静止画あればそれを（使い回しに見えないように画角変えつつ）\nなければ、なんか日本のなんかローカルな街並みとか適当に"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "357de887-ecc7-4b21-a872-9e456dee0680"
+    },
+    {
+        "client_msg_id": "4ec260f4-d977-4539-a2af-3e1e1150871e",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U04J38PLGM6>\n指定のイメージが見当たらなかったので、黒にしておりました。お手数おかけしますがお願いいたします。",
+        "user": "U04KCQL2MFV",
+        "ts": "1679447187.241489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VSAy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n指定のイメージが見当たらなかったので、黒にしておりました。お手数おかけしますがお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g2df2bb9a4e2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2df2bb9a4e22dfcb7c0d789c9b4ca996.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "tamaki",
+            "real_name": "tamaki",
+            "display_name": "tamaki",
+            "team": "T03CU6RQ154",
+            "name": "tamakitomoyuki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679270809.313449",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> こういうのでいかがでしょうか？",
+        "files": [
+            {
+                "id": "F04V51037BN",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1679449423.468469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fHVr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こういうのでいかがでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9c7e9796-caf7-4f67-81f9-5e4ab4938aaa",
+        "thread_ts": "1679270809.313449",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "9f76b58d-6a04-445c-8da0-40ddc70221b1",
+        "type": "message",
+        "text": "<@U04J38PLGM6> OKですー",
+        "user": "U03CXUXB5PF",
+        "ts": "1679449592.635849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sr9Wy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " OKですー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679270809.313449",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U04KCQL2MFV> <@U03CXUXB5PF>\n新たに画像を入れました。\n\nあともう一つお願いです。\nep3　0655-0717　門真市ゾンビ映画のもらい画像とイメージのところに、クレジットとして\n\n映画「門真市ゾンビ人材センター」より\n\nと入れといてください。\nよろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F04V2HLAY6N",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1679450415.841669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eqdm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KCQL2MFV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n新たに画像を入れました。\n\nあともう一つお願いです。\nep3　0655-0717　門真市ゾンビ映画のもらい画像とイメージのところに、クレジットとして\n\n映画「門真市ゾンビ人材センター」より\n\nと入れといてください。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "032ff351-47db-4981-b69d-a1155a931194",
+        "thread_ts": "1679270809.313449",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

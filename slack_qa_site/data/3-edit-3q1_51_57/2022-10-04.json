@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "888eef26-45ce-4082-900b-5fb6eace3c29",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n54_酒井の粗編尺が出ました。\nep-1　26:07\nep-2　36:30\nep-3　31:48\nよろしくお願い致します。",
+        "user": "U03RA83HRN0",
+        "ts": "1664875375.168199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z7Lf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n54_酒井の粗編尺が出ました。\nep-1　26:07\nep-2　36:30\nep-3　31:48\nよろしくお願い致します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

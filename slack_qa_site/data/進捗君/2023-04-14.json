@@ -1,0 +1,139 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#81早川英男で変更がありました\n変更前：納品試写\n変更後：納品済み\n担当者は岡野です",
+        "ts": "1681472344.762009",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "unjA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#81早川英男で変更がありました\n変更前：納品試写\n変更後：納品済み\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "総集編 柳川で変更がありました\n変更前：undefined\n変更後：リサーチ\n担当者はです",
+        "ts": "1681511826.131929",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YPJJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "総集編 柳川で変更がありました\n変更前：undefined\n変更後：リサーチ\n担当者はです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04KFCBLY9J> #91納富信留で変更がありました\n変更前：MA\n変更後：編集2\n担当者は中野です",
+        "ts": "1681513196.089289",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AxcSv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #91納富信留で変更がありました\n変更前：MA\n変更後：編集2\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04QC17DUEP> #89成田聡子で変更がありました\n変更前：MA\n変更後：編集2\n担当者は杉谷です",
+        "ts": "1681520501.390639",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y8gD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04QC17DUEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #89成田聡子で変更がありました\n変更前：MA\n変更後：編集2\n担当者は杉谷です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "北川智子で変更がありました\n変更前：undefined\n変更後：リサーチ\n担当者はです",
+        "ts": "1681524687.798199",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VfLSQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "北川智子で変更がありました\n変更前：undefined\n変更後：リサーチ\n担当者はです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,246 @@
+[
+    {
+        "client_msg_id": "ba092728-1c6f-4731-818c-a8d7dad4e829",
+        "type": "message",
+        "text": "林は差し替え画像待ちでしたが\nいただいたので現在作業中です",
+        "user": "U03QQ3J656Z",
+        "ts": "1672906895.684439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "em6F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "林は差し替え画像待ちでしたが\nいただいたので現在作業中です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1672788610.269009",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f0f749de-0ca1-47ab-8681-1d1f61a0dc7d",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 52志田さんご本人からの依頼です　反映したら「最終」でお願いします\n```動画、ありがとうございました。\n効果的なビジュアルも入れていただき、とてもありがたく思っております。\n\n私のプロフィールと、動画１の最後のまとめテロップの２件について、ご提案があります。\n以下、同じ内容を添付ファイルにも入れてあります。\nご検討いただけますと幸いです。\n\n\n１．動画１、２，３共通の冒頭プロフィールにつきまして　\n以下のようにしていただけるでしょうか。\n \n1961年生まれ\n学位：博士（法学・論文・早稲田大学）\n最終学歴：早稲田大学大学院法学研究科博士後期課程\n憲法理論研究会運営委員長　全国憲法研究会運営委員\n \n（・所属学会での役職が１０月から変わりましたので、「長」の字を追加してください。ただ、収録時を基準にするという場合には、今のままでOKです。\n（・最終学歴については、「単位取得退学」が正式な書き方ではあるのですが、印象がよくないという話も聞きます。また、卒業校としての「早稲田大学」よりも、「博士（法学）」（論文博士＠早稲田大学）という学位のほうが、研究者としては重要なので、これらを総合して、上記のようにお願いできるとありがたいです。\n \n \n動画１　17:30-  最後のまとめの文章について、ご提案です。\n私の解説の中で、「競争（の自由）」という言葉が出てきます。ここを生かしていただいて、\n解説文章の１パラグラフを、以下のようにしてはいかがでしょう。\n \n自分の考えのほうが良い、と主張し競争するのは自由\nしかし考えの異なる人に不法な妨害をしてはならない\n（２パラグラフ以下は、今のままでOKです）\n \n \n動画２、動画３については、こちらから修正やご提案をしたいところはありませんでした。```\n51湯澤さんもクライアントチェック終わってますので、本人依頼箇所終わったら「最終」としてくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1672943013.122819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ukm8v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 52志田さんご本人からの依頼です　反映したら「最終」でお願いします\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "動画、ありがとうございました。\n効果的なビジュアルも入れていただき、とてもありがたく思っております。\n\n私のプロフィールと、動画１の最後のまとめテロップの２件について、ご提案があります。\n以下、同じ内容を添付ファイルにも入れてあります。\nご検討いただけますと幸いです。\n\n\n１．動画１、２，３共通の冒頭プロフィールにつきまして　\n以下のようにしていただけるでしょうか。\n \n1961年生まれ\n学位：博士（法学・論文・早稲田大学）\n最終学歴：早稲田大学大学院法学研究科博士後期課程\n憲法理論研究会運営委員長　全国憲法研究会運営委員\n \n（・所属学会での役職が１０月から変わりましたので、「長」の字を追加してください。ただ、収録時を基準にするという場合には、今のままでOKです。\n（・最終学歴については、「単位取得退学」が正式な書き方ではあるのですが、印象がよくないという話も聞きます。また、卒業校としての「早稲田大学」よりも、「博士（法学）」（論文博士＠早稲田大学）という学位のほうが、研究者としては重要なので、これらを総合して、上記のようにお願いできるとありがたいです。\n \n \n動画１　17:30-  最後のまとめの文章について、ご提案です。\n私の解説の中で、「競争（の自由）」という言葉が出てきます。ここを生かしていただいて、\n解説文章の１パラグラフを、以下のようにしてはいかがでしょう。\n \n自分の考えのほうが良い、と主張し競争するのは自由\nしかし考えの異なる人に不法な妨害をしてはならない\n（２パラグラフ以下は、今のままでOKです）\n \n \n動画２、動画３については、こちらから修正やご提案をしたいところはありませんでした。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n51湯澤さんもクライアントチェック終わってますので、本人依頼箇所終わったら「最終」としてくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U03QQ3J656Z> 37片岡の修正箇所、コメントしました\n\n\nプロフィールはep1〜３,PRで全部、\nその他、こんな感じで1\/6修正ってコメントしてます。",
+        "files": [
+            {
+                "id": "F04HTATFLQL",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1672963611.253439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XxV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 37片岡の修正箇所、コメントしました\n\n\nプロフィールはep1〜３,PRで全部、\nその他、こんな感じで1\/6修正ってコメントしてます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "d31f9313-e9ee-4712-9fb9-00fb897f065e"
+    },
+    {
+        "client_msg_id": "b78ccdcb-1bb3-4832-ab71-594c80832aad",
+        "type": "message",
+        "text": "<@U03QQ3J656Z> ダミーがep2に混じってました、これ発注します。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1672963886.627289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6kyxK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ダミーがep2に混じってました、これ発注します。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1672963886.627289",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1672964180.238129",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1672964180.238129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1672964180.238129"
+    },
+    {
+        "client_msg_id": "64b491b1-d23f-4d43-a7a5-62fe57458fc3",
+        "type": "message",
+        "text": "発注やめます　カットで",
+        "user": "U03CXUXB5PF",
+        "ts": "1672964180.238129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gmZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "発注やめます　カットで"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1672963886.627289",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

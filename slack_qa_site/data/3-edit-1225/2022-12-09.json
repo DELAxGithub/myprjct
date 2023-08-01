@@ -1,0 +1,634 @@
+[
+    {
+        "type": "message",
+        "text": "<@U040YCC00V6>\nありがとうございます。\nすいませんこちらもご確認ください。\n日本語がちょっとおかしいような気がします。",
+        "files": [
+            {
+                "id": "F04EDN34GH3",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1670573359.078139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "50Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nありがとうございます。\nすいませんこちらもご確認ください。\n日本語がちょっとおかしいような気がします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a05c0367-2d3a-46c5-9aaf-bd4aa836cc4c",
+        "thread_ts": "1670573359.078139",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1670573995.014789",
+        "reply_users": [
+            "U040YCC00V6",
+            "U03NZ0E09JN"
+        ],
+        "replies": [
+            {
+                "user": "U040YCC00V6",
+                "ts": "1670573733.676679"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1670573946.226589"
+            },
+            {
+                "user": "U040YCC00V6",
+                "ts": "1670573971.482669"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1670573995.014789"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "79310D3B-72E0-41A1-A036-50900BE74C19",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> ありがとうございます。修正し、コメント残しておきました",
+        "user": "U040YCC00V6",
+        "ts": "1670573733.676679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n1O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます。修正し、コメント残しておきました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670573359.078139",
+        "parent_user_id": "U03NZ0E09JN"
+    },
+    {
+        "type": "message",
+        "text": "<@U040YCC00V6>\n早速ありがとうございます！\n\nあと、もう一点良いですか？\n「岡本が進める」は\n勧めるでしょうか、薦めるでしょうか。",
+        "files": [
+            {
+                "id": "F04EA3XKG30",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1670573946.226589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aQvMq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n早速ありがとうございます！\n\nあと、もう一点良いですか？\n「岡本が進める」は\n勧めるでしょうか、薦めるでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "56705d30-41ac-46c3-a0cf-9b6d724a399c",
+        "thread_ts": "1670573359.078139",
+        "parent_user_id": "U03NZ0E09JN"
+    },
+    {
+        "client_msg_id": "643E0EE1-D60D-4BD7-8478-7DAF1FB9A8CF",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> すみません、勧めるですね…",
+        "user": "U040YCC00V6",
+        "ts": "1670573971.482669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jTsr9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すみません、勧めるですね…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670573359.078139",
+        "parent_user_id": "U03NZ0E09JN"
+    },
+    {
+        "client_msg_id": "eaddf80c-22b5-4e1b-bf4d-bbd0f658ea73",
+        "type": "message",
+        "text": "承知しました。ありがとうございます。",
+        "user": "U03NZ0E09JN",
+        "ts": "1670573995.014789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t74C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました。ありがとうございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670573359.078139",
+        "parent_user_id": "U03NZ0E09JN"
+    },
+    {
+        "client_msg_id": "dbe5c981-5fb7-4d31-9c89-1909cc391728",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n58山本、試写1をReplyにアップしました。\nよろしくお願いいたします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1670574781.002149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mg9L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n58山本、試写1をReplyにアップしました。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "13850FB6-2437-4F6F-8A2C-F9DB484B56A6",
+        "type": "message",
+        "text": "<@U040YCC00V6>\n59岡本ep3 の尺が15:00でした。\nもし尺長が必要であればお知らせください。\n",
+        "user": "U03NZ0E09JN",
+        "ts": "1670577552.020029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2qV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n59岡本ep3 の尺が15:00でした。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "もし尺長が必要であればお知らせください。\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670577552.020029",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1670592053.816819",
+        "reply_users": [
+            "U040YCC00V6",
+            "U03NZ0E09JN"
+        ],
+        "replies": [
+            {
+                "user": "U040YCC00V6",
+                "ts": "1670590845.714859"
+            },
+            {
+                "user": "U040YCC00V6",
+                "ts": "1670591413.501569"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1670592053.816819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U040YCC00V6>\n57大塚 ep2のイメージにイラストが２箇所あったのですが、今までのイメージとテイストが違うように感じたので念の為ご報告いたします。問題ないようでしたら忘れてください。",
+        "files": [
+            {
+                "id": "F04EEC6NTRB",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04EW00DE3T",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "ts": "1670582423.372349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TGR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n57大塚 ep2のイメージにイラストが２箇所あったのですが、今までのイメージとテイストが違うように感じたので念の為ご報告いたします。問題ないようでしたら忘れてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "dcf14e03-53ec-4354-b226-a3b8592936c9",
+        "thread_ts": "1670582423.372349",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1671467901.474679",
+        "reply_users": [
+            "U03V84JSHNK",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1671466693.530329"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1671466863.924599"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1671467901.474679"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1671467901.474679",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U040YCC00V6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "06561F7D-723F-450A-9C8E-1EA80FEB746F",
+        "type": "message",
+        "text": "いらすとはやめますー。",
+        "user": "U03CXUXB5PF",
+        "ts": "1670584994.347679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gFmbx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いらすとはやめますー。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9AA40C79-8164-4366-AADD-82EC392920F1",
+        "type": "message",
+        "text": "62をやってました。59了解です。直します",
+        "user": "U040YCC00V6",
+        "ts": "1670590845.714859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rin7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "62をやってました。59了解です。直します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670577552.020029",
+        "parent_user_id": "U03NZ0E09JN"
+    },
+    {
+        "client_msg_id": "716603F3-688A-4E43-9BF6-524281FA6239",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> 59岡本ep3、コメントを残して追加しました。と言ってもほとんど使っているので少しですが…宜しくお願い致します:palms_up_together:",
+        "user": "U040YCC00V6",
+        "ts": "1670591413.501569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YDj1Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 59岡本ep3、コメントを残して追加しました。と言ってもほとんど使っているので少しですが…宜しくお願い致します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "palms_up_together",
+                                "unicode": "1f932"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670577552.020029",
+        "parent_user_id": "U03NZ0E09JN"
+    },
+    {
+        "client_msg_id": "aaa9979d-9fa8-43a9-8083-9f7d6945de10",
+        "type": "message",
+        "text": "<@U040YCC00V6> ありがとうございます。\n<@U03QQ3J656Z>\nすいません、試写１のUPいただいたところで申し訳ないです。\nep3の尺長がありましたのでご対応の程お願いいたします。:woman-bowing:",
+        "user": "U03NZ0E09JN",
+        "ts": "1670592053.816819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Ta",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます。\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nすいません、試写１のUPいただいたところで申し訳ないです。\nep3の尺長がありましたのでご対応の程お願いいたします。"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670577552.020029",
+        "parent_user_id": "U03NZ0E09JN"
+    }
+]

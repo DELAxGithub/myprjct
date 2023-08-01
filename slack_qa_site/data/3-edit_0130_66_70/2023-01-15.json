@@ -1,0 +1,111 @@
+[
+    {
+        "client_msg_id": "f96318f3-539f-4f52-981d-cd3340a53c1f",
+        "type": "message",
+        "text": "<!channel> 67松田のイメージ、テロップを入れました。よろしくお願いいたします。（編集ご担当の方がなかったので全体周知しています）",
+        "user": "U03V84JSHNK",
+        "ts": "1673778385.007539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rP2kw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 67松田のイメージ、テロップを入れました。よろしくお願いいたします。（編集ご担当の方がなかったので全体周知しています）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b067a4cf-9026-4833-ae1f-1a321f9d0d19",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03V84JSHNK> <@U04J38PLGM6>\n68多湖の担当は岡野さんになりましたのでよろしくお願いいたします。",
+        "user": "U03NZ0E09JN",
+        "ts": "1673842763.735289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "15f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n68多湖の担当は岡野さんになりましたのでよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

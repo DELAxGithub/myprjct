@@ -1,0 +1,486 @@
+[
+    {
+        "client_msg_id": "8a5831ec-8267-40df-9e43-378978f8d1b4",
+        "type": "message",
+        "text": "<@U03QQ3J656Z> 宛先間違えました。失礼しました\n<@U03RDSN3ZMG>\n36吉永の他の回はどうですか？",
+        "user": "U03CXUXB5PF",
+        "ts": "1660203714.075319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZE3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 宛先間違えました。失礼しました\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RDSN3ZMG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n36吉永の他の回はどうですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1660125329.010459",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "type": "message",
+        "text": "夏休みが諸般の事情で途中切り上げになったので、作業再開します\n\n試写前のチェック、というか粗編にて重視することが２１〜２５のクライアントチェックでなんとなく明らかになってきたので今後は以下対策をしたいと思います。\n\n・epの尺　18〜22が理想ですが、それを3分以上外れると試写前対策が必要そうです。台本時点で、書き起こし部分をなんとなく4500文字~6000文字程度を目指してますがどうも人によって早口かどうか、起こしのきめ細かさ次第なので、特に足りない場合が出てるかも。というわけで*15分切ってたらその時点でご一報ください*、というのが*36以降の新たなルール*ですが、その後の対策についてもお知らせしておくと、\n\n1. なんとか尺を伸ばす：普通なら言い淀みとかでカットしてるのも、まぁ喋り方のクセだよねとかで、無理に切らない。V前、V降りで、気持ち長めに間を取る、取り切りもテロップ文字数的に違和感ない程度に伸ばす、とかです。内容変えずに編集でなんとかする、っていうパターン\n2. ボイス付き引用とか差し込める場所考える：本編中になんかしらの先行研究を紹介してるのがあれば、そこ探します。ちょっとお時間いただくかご本人確認なので、編集的には「誰々の言葉引用」とかいう感じでダミーの本人写真でも数十秒おいときます。\n3. インタを別epから持ってくる：他の編集にも影響出るんですが、やっぱり撮れ高的には使える話になってるので、４よりはこれで対応したい\n4. 書き起こしから持ってくる；１に比べると苦肉ですが、しょうがない\n１で対策してもらいつつ、２の入れどころを検討、ダメなら３、４を考えて、クライアントチェック前には対応した上で書き出しします。\nなんにせよ、尺は結構重要なので、進捗表に作業後の尺を一覧化できるとありがたいです。ご報告いただくのですが、対策がもれまして。。また3の対策するのに他の回も知りたいので、編集後の報告かねて記入をお願いします、この数字が出た段階で制作も諸々作業に取り掛かります。\n\n\n・誤字、脱字、フレーム溢れチェック→もうすでに何度かお伝えしてますが、すいません。ケアレスミスは誰にでも、、という寛容な人々ではあるんですが、本数が多いので箇所が増えるとどうしてもフラストレーションが蓄積するようです。\n特にチェックしたいのは、*同音異義語の取り違え・専門用語の聞き取り*あたりでしょうか。書き起こし時点で間違っててあんまり気にせずテロップ依頼してるのがそもそも原因なので、そこも今対策中ではありますが、誤字・脱字になってるかどうかは、音声聴きながらのところで判定いただけるとありがたいです。なんなら怪しいところは無理に入れなきゃいいだけの話なので、*怪しいやつは台本にコメントするかマーカー*しておいてください。\n<@U03HJRZK295> 26~30のチェックしてもらったと思いますが、特に編集マンチェック時点でお願いしたい作業あればぜひ共有を。\n\n・インタ中の雑音チェック：結構音に対して要求が高いので、対策必要でして。処理の方法は検討・テスト中ですが、作業箇所の把握を編集しながら抜けないようお願いします。ひとまず台本にコメントで大丈夫と思いますが、別の箇所から似たような音だけ持ってくる、とか色々手当の必要が出てくるかもです。撮影の問題をカバーいただく形で恐縮ですが、よろしくお願いします\n\n以上、クライアントチェックに向けての新たなマニュアルご連絡でした。編集ワークフローにもコピーしておきます。\n\n8\/11予定\n・台本　35,37\n・21〜25の修正案\n・26~31 あらすじ・まとめ着手\nって感じです。先に進めるより納品に近づけないとなので、下２つの優先度が高いはずなんですが、、",
+        "files": [
+            {
+                "id": "F03TY9D2QP2",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1660205348.075599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jIq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "夏休みが諸般の事情で途中切り上げになったので、作業再開します\n\n試写前のチェック、というか粗編にて重視することが２１〜２５のクライアントチェックでなんとなく明らかになってきたので今後は以下対策をしたいと思います。\n\n・epの尺　18〜22が理想ですが、それを3分以上外れると試写前対策が必要そうです。台本時点で、書き起こし部分をなんとなく4500文字~6000文字程度を目指してますがどうも人によって早口かどうか、起こしのきめ細かさ次第なので、特に足りない場合が出てるかも。というわけで"
+                            },
+                            {
+                                "type": "text",
+                                "text": "15分切ってたらその時点でご一報ください",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "、というのが"
+                            },
+                            {
+                                "type": "text",
+                                "text": "36以降の新たなルール",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "ですが、その後の対策についてもお知らせしておくと、\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "なんとか尺を伸ばす：普通なら言い淀みとかでカットしてるのも、まぁ喋り方のクセだよねとかで、無理に切らない。V前、V降りで、気持ち長めに間を取る、取り切りもテロップ文字数的に違和感ない程度に伸ばす、とかです。内容変えずに編集でなんとかする、っていうパターン"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ボイス付き引用とか差し込める場所考える：本編中になんかしらの先行研究を紹介してるのがあれば、そこ探します。ちょっとお時間いただくかご本人確認なので、編集的には「誰々の言葉引用」とかいう感じでダミーの本人写真でも数十秒おいときます。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "インタを別epから持ってくる：他の編集にも影響出るんですが、やっぱり撮れ高的には使える話になってるので、４よりはこれで対応したい"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "書き起こしから持ってくる；１に比べると苦肉ですが、しょうがない"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n１で対策してもらいつつ、２の入れどころを検討、ダメなら３、４を考えて、クライアントチェック前には対応した上で書き出しします。\nなんにせよ、尺は結構重要なので、進捗表に作業後の尺を一覧化できるとありがたいです。ご報告いただくのですが、対策がもれまして。。また3の対策するのに他の回も知りたいので、編集後の報告かねて記入をお願いします、この数字が出た段階で制作も諸々作業に取り掛かります。\n\n\n・誤字、脱字、フレーム溢れチェック→もうすでに何度かお伝えしてますが、すいません。ケアレスミスは誰にでも、、という寛容な人々ではあるんですが、本数が多いので箇所が増えるとどうしてもフラストレーションが蓄積するようです。\n特にチェックしたいのは、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "同音異義語の取り違え・専門用語の聞き取り",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "あたりでしょうか。書き起こし時点で間違っててあんまり気にせずテロップ依頼してるのがそもそも原因なので、そこも今対策中ではありますが、誤字・脱字になってるかどうかは、音声聴きながらのところで判定いただけるとありがたいです。なんなら怪しいところは無理に入れなきゃいいだけの話なので、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "怪しいやつは台本にコメントするかマーカー",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "しておいてください。\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 26~30のチェックしてもらったと思いますが、特に編集マンチェック時点でお願いしたい作業あればぜひ共有を。\n\n・インタ中の雑音チェック：結構音に対して要求が高いので、対策必要でして。処理の方法は検討・テスト中ですが、作業箇所の把握を編集しながら抜けないようお願いします。ひとまず台本にコメントで大丈夫と思いますが、別の箇所から似たような音だけ持ってくる、とか色々手当の必要が出てくるかもです。撮影の問題をカバーいただく形で恐縮ですが、よろしくお願いします\n\n以上、クライアントチェックに向けての新たなマニュアルご連絡でした。編集ワークフローにもコピーしておきます。\n\n8\/11予定\n・台本　35,37\n・21〜25の修正案\n・26~31 あらすじ・まとめ着手\nって感じです。先に進めるより納品に近づけないとなので、下２つの優先度が高いはずなんですが、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1660206586.000000"
+        },
+        "client_msg_id": "2480abe2-ec66-46ba-89ba-3cda641ad29b",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NZ0E09JN",
+                    "U03Q17LBJP3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03P0T4C4F9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "117DF6A7-006C-4A19-BF43-329FCF4FFC26",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> ep2とep3に関しては、\n締切が私だと間に合わない可能性が高いので\n別の方に変わられたようです。\nですので、変更になった方からの連絡をお待ちいただきたいです。\nご迷惑をおかけいたします。",
+        "user": "U03RDSN3ZMG",
+        "ts": "1660208215.970859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "miKrv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ep2とep3に関しては、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "締切が私だと間に合わない可能性が高いので"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "別の方に変わられたようです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ですので、変更になった方からの連絡をお待ちいただきたいです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ご迷惑をおかけいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ba4756d9ff45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-28\/3852142960871_ba4756d9ff450cdff3d5_72.png",
+            "first_name": "村井希",
+            "real_name": "村井希",
+            "display_name": "Murai Nozomi",
+            "team": "T03CU6RQ154",
+            "name": "fukuoka.nozomi620",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1660125329.010459",
+        "parent_user_id": "U03RDSN3ZMG",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "02e3fed4-dac9-49f9-a01b-0011db348123",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n#36吉永さん担当は村井さんから高山さんへ変更となりました。\n\n台本が完成したということが分からず、着手までに時間が経ってしまい、12日までのゴール目標に間に合わないということで余裕のある方に引き継いでいただきました。",
+        "user": "U03NZ0E09JN",
+        "ts": "1660208420.523259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OHk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n#36吉永さん担当は村井さんから高山さんへ変更となりました。\n\n台本が完成したということが分からず、着手までに時間が経ってしまい、12日までのゴール目標に間に合わないということで余裕のある方に引き継いでいただきました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1660125329.010459",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "0c0644f0-dc01-41e1-b5c0-9668c890c739",
+        "type": "message",
+        "text": "すいません、こちらの連絡ミスです。\n台本待ちはややこしいので\n台本作成中にしました\n作成が終わったらお知らせしますが、「編集1」になってたら作業開始できます。",
+        "user": "U03CXUXB5PF",
+        "ts": "1660208519.343679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wo5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すいません、こちらの連絡ミスです。\n台本待ちはややこしいので\n台本作成中にしました\n作成が終わったらお知らせしますが、「編集1」になってたら作業開始できます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1660125329.010459",
+        "parent_user_id": "U03RDSN3ZMG",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03NZ0E09JN",
+                    "U03QQ3J656Z"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5296b2d1-c7ad-45fb-8cff-3ebf0902bfd2",
+        "type": "message",
+        "text": "<@U03HJRZK295> 35の台本できました・イメージをお願いします。生物、生命系の具体例が結構あるので、自然系のイメージでいけそうな気がするのと、シミュレーションはもらいとかであるかも。本人著作にも何個かあったような気がするので、見つけたら共有します。",
+        "user": "U03CXUXB5PF",
+        "ts": "1660243092.562429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j+nVy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 35の台本できました・イメージをお願いします。生物、生命系の具体例が結構あるので、自然系のイメージでいけそうな気がするのと、シミュレーションはもらいとかであるかも。本人著作にも何個かあったような気がするので、見つけたら共有します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03HJRZK295"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57440cdf-9a1e-4be0-a2f1-55d397b89737",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n#36吉永さんは、昨日作業終えております。\n台本にもコメントいたしましたが、かなり雑音がすごいです。\n整音で多少は抑えられるとは思いますが・・・",
+        "user": "U03QQ3J656Z",
+        "ts": "1660262585.766179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GAr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n#36吉永さんは、昨日作業終えております。\n台本にもコメントいたしましたが、かなり雑音がすごいです。\n整音で多少は抑えられるとは思いますが・・・"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1660125329.010459",
+        "parent_user_id": "U03RDSN3ZMG"
+    }
+]

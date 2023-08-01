@@ -1,0 +1,105 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1665011465.614039",
+        "user": "U03CXUXB5PF",
+        "text": "<@U03CXUXB5PF>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1665011532.417629",
+        "user": "U044WA2FMJT",
+        "text": "<@U044WA2FMJT>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "26_Takeda_EP1-3_PR_MIX WAV_221003\n\n\/KDDI2022\/8_MA\/本編\/26_Takeda_EP1-3_PR_MIX WAV_221003\n\n_Sent via <https:\/\/zapier.com\/app\/editor\/169570285#slack|zapier.com\/app\/editor\/169570285#slack>_",
+        "ts": "1665011532.573199",
+        "username": "MA納品",
+        "bot_id": "B0457TSJ7N1",
+        "app_id": "A024R9PQM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QDlN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "26_Takeda_EP1-3_PR_MIX WAV_221003\n\n\/KDDI2022\/8_MA\/本編\/26_Takeda_EP1-3_PR_MIX WAV_221003\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sent via ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zapier.com\/app\/editor\/169570285#slack",
+                                "text": "zapier.com\/app\/editor\/169570285#slack",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "21_Tanaka_MIX WAV_221006_retake\n\n\/KDDI2022\/8_MA\/本編\/21_Tanaka_MIX WAV_221006_retake\n\n_Sent via <https:\/\/zapier.com\/app\/editor\/169570285#slack|zapier.com\/app\/editor\/169570285#slack>_",
+        "ts": "1665015772.605679",
+        "username": "MA納品",
+        "bot_id": "B0457TSJ7N1",
+        "app_id": "A024R9PQM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UUCo6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "21_Tanaka_MIX WAV_221006_retake\n\n\/KDDI2022\/8_MA\/本編\/21_Tanaka_MIX WAV_221006_retake\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sent via ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zapier.com\/app\/editor\/169570285#slack",
+                                "text": "zapier.com\/app\/editor\/169570285#slack",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1665018740.690259",
+        "user": "U03NZ0E09JN",
+        "text": "<@U03NZ0E09JN>さんがチャンネルに参加しました"
+    }
+]

@@ -1,0 +1,141 @@
+[
+    {
+        "type": "message",
+        "text": "マーカーの記入先\n\nこうやってみるので、内容のところにメモをお願いします。。\nあと、マーカーの色について、なんかルール決めますかね。\n赤..危険信号　→直したら..白\nみたいな感じ　台本と揃えるつもり",
+        "files": [
+            {
+                "id": "F04378PCYR5",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1663931748.366029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/BP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "マーカーの記入先\n\nこうやってみるので、内容のところにメモをお願いします。。\nあと、マーカーの色について、なんかルール決めますかね。\n赤..危険信号　→直したら..白\nみたいな感じ　台本と揃えるつもり"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "23c85c32-dc2b-4e1e-8a21-10670211009b",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b58fee75-f3d3-499f-af65-14ebbdf27f19",
+        "type": "message",
+        "text": "編アップの時のお願い\n\n修正が終わったら制作書き出し前はもう極力シーケンスを触りたくないので\n・インアウトを解除\n・音声トラックの生き死に確認（A1ピンマイクとか殺すやつはちゃんとミュート）\nなどよろしくお願いします\nロックとかターゲットとかはチームプロジェクトの保存であんまり保存されてない気もするのでどっちでもいいですけど。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663938828.418249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U=SJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "編アップの時のお願い\n\n修正が終わったら制作書き出し前はもう極力シーケンスを触りたくないので\n・インアウトを解除\n・音声トラックの生き死に確認（A1ピンマイクとか殺すやつはちゃんとミュート）\nなどよろしくお願いします\nロックとかターゲットとかはチームプロジェクトの保存であんまり保存されてない気もするのでどっちでもいいですけど。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "06226e82-7026-4ab1-92c6-4867e15f59f2",
+        "type": "message",
+        "text": "編集の現在地とスクショのショートカット\n\n台本→Replay→マーカーとあっちこっちに作業メモありますが、\nSlackで確認し合うのが基本としつつ、以下心がけを。\n\n台本は１試写〜修正〜音効〜出演者／Replay 試写まではコメントとか修正→完了ボタンとか「待ち」ボタンとか\n\nReplay：Replay試写〜　本番MAまで／Resolveでゼロになるまでやるのでこれはまぁまぁわかりやすい\nマーカー：本番MA後〜完パケ　／マーカーの本文欄にメモ\n\nって感じで主戦場が変わりますので、例えばマーカーでやりとりしてる時に台本と食い違いきてももう気にしない、とか。\n\nで、今どこに修正が集約されてるかは、「台本の*上の方*」が掲示板みたいになってるので、そこをみてください。\n\nまた、これどうしましょう系のslackでのやり取りの際はぜひスクショをお願いします\n台本／Replay／マーカー、どれも常に立ち上げてるわけじゃないので、slackのスクショが一番早いです。もちろん込み入った場合はそうでもないですが、第一報はSlack＋スクショだとありがたいです。\n\nで、スクショ邪魔くさいっていう人は、ショートカットキー使えばそうでもなくなるかなと。\n\nMacだと、⌘＋⇧（シフト）＋⌃（コントロール）＋4\nで、範囲線選択をコピーして、slackの上でペーストすればできます\n\n\nこれこそスクショとれっては話ですね。。マニュアル・進捗の方に書いときます。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663945480.009179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LZk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "編集の現在地とスクショのショートカット\n\n台本→Replay→マーカーとあっちこっちに作業メモありますが、\nSlackで確認し合うのが基本としつつ、以下心がけを。\n\n台本は１試写〜修正〜音効〜出演者／Replay 試写まではコメントとか修正→完了ボタンとか「待ち」ボタンとか\n\nReplay：Replay試写〜　本番MAまで／Resolveでゼロになるまでやるのでこれはまぁまぁわかりやすい\nマーカー：本番MA後〜完パケ　／マーカーの本文欄にメモ\n\nって感じで主戦場が変わりますので、例えばマーカーでやりとりしてる時に台本と食い違いきてももう気にしない、とか。\n\nで、今どこに修正が集約されてるかは、「台本の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "上の方",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "」が掲示板みたいになってるので、そこをみてください。\n\nまた、これどうしましょう系のslackでのやり取りの際はぜひスクショをお願いします\n台本／Replay／マーカー、どれも常に立ち上げてるわけじゃないので、slackのスクショが一番早いです。もちろん込み入った場合はそうでもないですが、第一報はSlack＋スクショだとありがたいです。\n\nで、スクショ邪魔くさいっていう人は、ショートカットキー使えばそうでもなくなるかなと。\n\nMacだと、⌘＋⇧（シフト）＋⌃（コントロール）＋4\nで、範囲線選択をコピーして、slackの上でペーストすればできます\n\n\nこれこそスクショとれっては話ですね。。マニュアル・進捗の方に書いときます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03Q17LBJP3",
+                    "U03NZ0E09JN",
+                    "U03NJATSEBH"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

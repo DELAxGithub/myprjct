@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "9f1a3749-a455-4702-bc7b-c7529c70784c",
+        "type": "message",
+        "text": "アプリをSlackからDiscordに変えただけで学生の反応が激変　その理由とは？（1\/2 ページ） - ねとらぼ\n<https:\/\/nlab.itmedia.co.jp\/nl\/articles\/2210\/06\/news102.html>\n\nslackがあと8日でまた無料仕様になるので、引っ越しするかも。。\ntodoリストができちゃったのでまぁいいかともおもうけど",
+        "user": "U03CXUXB5PF",
+        "ts": "1665235710.228719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ggrH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アプリをSlackからDiscordに変えただけで学生の反応が激変　その理由とは？（1\/2 ページ） - ねとらぼ\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nlab.itmedia.co.jp\/nl\/articles\/2210\/06\/news102.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nslackがあと8日でまた無料仕様になるので、引っ越しするかも。。\ntodoリストができちゃったのでまぁいいかともおもうけど"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/nlab.itmedia.co.jp\/nl\/articles\/2210\/06\/news102.html",
+                "image_url": "https:\/\/image.itmedia.co.jp\/nl\/articles\/2210\/06\/cover_news102.jpg",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 240854,
+                "service_icon": "https:\/\/nlab.itmedia.co.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/nlab.itmedia.co.jp\/nl\/articles\/2210\/06\/news102.html",
+                "fallback": "ねとらぼ: アプリをSlackからDiscordに変えただけで学生の反応が激変　その理由とは？",
+                "text": "確かに使い慣れてるかどうかは、大きく影響しそう……。",
+                "title": "アプリをSlackからDiscordに変えただけで学生の反応が激変　その理由とは？",
+                "title_link": "https:\/\/nlab.itmedia.co.jp\/nl\/articles\/2210\/06\/news102.html",
+                "service_name": "ねとらぼ"
+            }
+        ]
+    }
+]

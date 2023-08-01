@@ -1,0 +1,135 @@
+[
+    {
+        "client_msg_id": "8b02c4e8-dcb3-46f2-8622-48281d11ba59",
+        "type": "message",
+        "text": "<@U04JJB0MTB7> 73田中の試写1終わりましたので、修正確認してMAへ回してくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1675806071.453189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BSw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 73田中の試写1終わりましたので、修正確認してMAへ回してくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675806071.453189",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1675822689.498569",
+        "reply_users": [
+            "U04JJB0MTB7"
+        ],
+        "replies": [
+            {
+                "user": "U04JJB0MTB7",
+                "ts": "1675822689.498569"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675822689.498569"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF> 承知しました！",
+        "user": "U04JJB0MTB7",
+        "ts": "1675822689.498569",
+        "thread_ts": "1675806071.453189",
+        "root": {
+            "client_msg_id": "8b02c4e8-dcb3-46f2-8622-48281d11ba59",
+            "type": "message",
+            "text": "<@U04JJB0MTB7> 73田中の試写1終わりましたので、修正確認してMAへ回してくださいー",
+            "user": "U03CXUXB5PF",
+            "ts": "1675806071.453189",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "BSw",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04JJB0MTB7"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 73田中の試写1終わりましたので、修正確認してMAへ回してくださいー"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1675806071.453189",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1675822689.498569",
+            "reply_users": [
+                "U04JJB0MTB7"
+            ],
+            "replies": [
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1675822689.498569"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1675822689.498569"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oqRBO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 承知しました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "23FF31B0-03D8-496F-AA76-61A43D2F4F7A"
+    }
+]

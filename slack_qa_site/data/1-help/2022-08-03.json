@@ -1,0 +1,324 @@
+[
+    {
+        "client_msg_id": "1167164e-bebd-4e27-9e6b-72b63b63f885",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> <@U03CXUXB5PF> <@U03HJRZK295>\nお世話になっております。\n先ほどproxyと繋げてみた結果ようやく映像が小さくなることがなくなりました。\n大変お手数をおかけいたしました。\n多少納期がずれると思うのですが、このまま中野先生を担当させていただいてもよろしいでしょうか？",
+        "user": "U03RDSN3ZMG",
+        "ts": "1659517322.898699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LIX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお世話になっております。\n先ほどproxyと繋げてみた結果ようやく映像が小さくなることがなくなりました。\n大変お手数をおかけいたしました。\n多少納期がずれると思うのですが、このまま中野先生を担当させていただいてもよろしいでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ba4756d9ff45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-28\/3852142960871_ba4756d9ff450cdff3d5_72.png",
+            "first_name": "村井希",
+            "real_name": "村井希",
+            "display_name": "Murai Nozomi",
+            "team": "T03CU6RQ154",
+            "name": "fukuoka.nozomi620",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "f1e25ed6-c535-41d0-9870-9bfc6b459939",
+        "type": "message",
+        "text": "編集前に大変お手数をおかけしました。どれを担当するかはお任せしますので、決まったら<#C03DD5YH9D1|3-edit>\nの方と、進捗表で共有お願いします。ちなみに台本ができてるのは中野さんです。\n\n<@U03HJRZK295> なんだろうねえ。プロキシーの作り方とか今後の注意点、少なくとも編集前に小さくなったかどうかとかなんか発見を早くできてると対処も後手にならないんでしょうけど。",
+        "user": "U03CXUXB5PF",
+        "ts": "1659517454.951199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BBH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "編集前に大変お手数をおかけしました。どれを担当するかはお任せしますので、決まったら"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03DD5YH9D1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nの方と、進捗表で共有お願いします。ちなみに台本ができてるのは中野さんです。\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " なんだろうねえ。プロキシーの作り方とか今後の注意点、少なくとも編集前に小さくなったかどうかとかなんか発見を早くできてると対処も後手にならないんでしょうけど。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "AED538C4-8CBE-4361-91E9-D6AA1BF28C4E",
+        "type": "message",
+        "text": "原因がまだよくわかりませんね。土井さんもそうでしたけど、一度元の素材入れ直して作ると上手くいくみたいです。中野さんは一回元素材そのままでプロキシだけ作り直してやったのですが、それだと解決されないようです",
+        "user": "U03HJRZK295",
+        "ts": "1659518655.252839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p99",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "原因がまだよくわかりませんね。土井さんもそうでしたけど、一度元の素材入れ直して作ると上手くいくみたいです。中野さんは一回元素材そのままでプロキシだけ作り直してやったのですが、それだと解決されないようです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dcb233e6-7bd1-45e3-964b-ece9f44c1f3c",
+        "type": "message",
+        "text": "プロキシーできたところで多分寺田くんの手元だけだと検証しきれないので、一旦担当者は台本できてるかどうかに関わらず、立ち上げてみるってことですかねぇ。",
+        "user": "U03CXUXB5PF",
+        "ts": "1659518740.980519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IFI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "プロキシーできたところで多分寺田くんの手元だけだと検証しきれないので、一旦担当者は台本できてるかどうかに関わらず、立ち上げてみるってことですかねぇ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "ba59d0bf-0386-44e9-91eb-7f3a457ecaab",
+        "type": "message",
+        "text": "ですねー",
+        "user": "U03HJRZK295",
+        "ts": "1659518878.559459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l6fO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ですねー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG",
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aea4faa5-43a4-4249-8b79-0e7bbd6074f5",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03HJRZK295>\n担当になった方には一旦立ち上げてみて問題がないかの確認をするようにいたします。",
+        "user": "U03NZ0E09JN",
+        "ts": "1659519032.628499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IFW+J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n担当になった方には一旦立ち上げてみて問題がないかの確認をするようにいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03HJRZK295"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

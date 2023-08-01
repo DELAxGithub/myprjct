@@ -1,0 +1,142 @@
+[
+    {
+        "client_msg_id": "b6f60d5d-f2aa-4ed5-adbf-6b2b562bb5bd",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 98市川\nMAからカバー風音源リストがとどいてますが、尺調整しますか？切り取り追加等あればご指示ください。",
+        "user": "U03Q17LBJP3",
+        "ts": "1677159241.145259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kAYu9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 98市川\nMAからカバー風音源リストがとどいてますが、尺調整しますか？切り取り追加等あればご指示ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "63058EE0-6586-4004-B339-10C67CD83E76",
+        "type": "message",
+        "text": "インタビューで言ってる、バッハと似てるところだけ聞かせたいんですが、どこかわかります？\nもし特定できるならその分をビートルズとレッドツェッペリンつかいますが。\n\n使わなくても17分まできてれば別に足さなくていいです\n",
+        "user": "U03CXUXB5PF",
+        "ts": "1677159371.797009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hezk1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "インタビューで言ってる、バッハと似てるところだけ聞かせたいんですが、どこかわかります？\nもし特定できるならその分をビートルズとレッドツェッペリンつかいますが。\n\n使わなくても17分まできてれば別に足さなくていいです\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1cea1250-9376-4295-be44-067449c52308",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> やっぱビートルズとか原曲と違うんで使わないで大丈夫です。バッハで尺稼いでいい感じになったら、MAに回してくださいー。",
+        "user": "U03CXUXB5PF",
+        "ts": "1677197638.343999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TWr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " やっぱビートルズとか原曲と違うんで使わないで大丈夫です。バッハで尺稼いでいい感じになったら、MAに回してくださいー。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

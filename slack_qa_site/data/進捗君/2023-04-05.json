@@ -1,0 +1,106 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#82河田雅圭で変更がありました\n変更前：undefined\n変更後：<https:\/\/www.dropbox.com\/t\/p1ptidAcjn5204U6>\n担当者は辻井です",
+        "ts": "1680678502.161269",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SqHdO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#82河田雅圭で変更がありました\n変更前：undefined\n変更後："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/t\/p1ptidAcjn5204U6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n担当者は辻井です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#92斉藤幸平で変更がありました\n変更前：編集1\n変更後：試写1\n担当者は濱地です",
+        "ts": "1680687170.310009",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A43o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#92斉藤幸平で変更がありました\n変更前：編集1\n変更後：試写1\n担当者は濱地です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#85大場紀章で変更がありました\n変更前：本人編集\n変更後：試写3\n担当者は岡野です",
+        "ts": "1680694361.081989",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jMg11",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#85大場紀章で変更がありました\n変更前：本人編集\n変更後：試写3\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#88松原 正樹で変更がありました\n変更前：MA編集\n変更後：MA\n担当者は石橋です",
+        "ts": "1680746753.482809",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZM=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#88松原 正樹で変更がありました\n変更前：MA編集\n変更後：MA\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

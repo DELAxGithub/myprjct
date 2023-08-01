@@ -1,0 +1,221 @@
+[
+    {
+        "client_msg_id": "3257cd9a-a20a-44bd-b9ef-b0bce466bd21",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> まもなく34菅野のMA始められると思うのですが、\nトークの中でショパン「革命のエチュード」の話が出てきまして、使える音源あるか確認をお願いします",
+        "user": "U03CXUXB5PF",
+        "ts": "1667871051.476699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M+T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " まもなく34菅野のMA始められると思うのですが、\nトークの中でショパン「革命のエチュード」の話が出てきまして、使える音源あるか確認をお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667871051.476699",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1667878642.378839",
+        "reply_users": [
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1667878642.378839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1667878642.378839"
+    },
+    {
+        "client_msg_id": "9734E04F-8462-46E0-8764-DB8C2D8DE8ED",
+        "type": "message",
+        "text": "確認します！",
+        "user": "U03G0LAPT3N",
+        "ts": "1667872749.854379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "utDzp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "確認します！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7d11cf8b-732a-4030-ba12-e76a88f9a6e8",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> あと、機械音声で修正が出た場合、こちらで作り直すんですが、なんか馴染ませるコツとかあったりします？\n書き出した音声をまるっと差し替えてもそれでいいっちゃいいんですけど。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667872819.053689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ffOt7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " あと、機械音声で修正が出た場合、こちらで作り直すんですが、なんか馴染ませるコツとかあったりします？\n書き出した音声をまるっと差し替えてもそれでいいっちゃいいんですけど。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F8B19973-3D3E-48FD-A881-C0CA73986B1E",
+        "type": "message",
+        "text": "EQやコンプなどの処理をしているので、一部だけの差し替えは馴染みにくいかもしれませんので、まるっと差し替えて、ボリュームを2〜3db下げると前後のインタビュー同録と聴感が揃うと思います。",
+        "user": "U03G0LAPT3N",
+        "ts": "1667875732.789619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aI=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "EQやコンプなどの処理をしているので、一部だけの差し替えは馴染みにくいかもしれませんので、まるっと差し替えて、ボリュームを2〜3db下げると前後のインタビュー同録と聴感が揃うと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "使える音源を持っていたので、Dropboxに入れました。\nプレミア上で、使用したい箇所に仕込み、omfの書き出しをお願いします。",
+        "files": [
+            {
+                "id": "F049X03GSBV",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1667878642.378839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eoEBq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "使える音源を持っていたので、Dropboxに入れました。\nプレミア上で、使用したい箇所に仕込み、omfの書き出しをお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "AAB1D204-86B6-4C88-B121-3EC916F06114",
+        "thread_ts": "1667871051.476699",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

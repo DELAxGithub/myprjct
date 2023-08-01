@@ -1,0 +1,877 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663728660.602489",
+        "user": "U03CXUXB5PF",
+        "text": "<@U03CXUXB5PF>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663728687.328549",
+        "user": "U040YCC00V6",
+        "text": "<@U040YCC00V6>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663728687.387569",
+        "user": "U03NJATSEBH",
+        "text": "<@U03NJATSEBH>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663728687.450469",
+        "user": "U03V84JSHNK",
+        "text": "<@U03V84JSHNK>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663728687.512139",
+        "user": "U03QQ3J656Z",
+        "text": "<@U03QQ3J656Z>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663728687.579219",
+        "user": "U03Q17LBJP3",
+        "text": "<@U03Q17LBJP3>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663728687.745369",
+        "user": "U03P0T4KQMV",
+        "text": "<@U03P0T4KQMV>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "7cd64e9d-f55d-427c-ae45-3dea4e237f53",
+        "type": "message",
+        "text": "2Q45-50、立ち上がりますか？\n\n<@U03NJATSEBH> <@U03QQ3J656Z> <@U03Q17LBJP3> <@U03P0T4KQMV>\n招待行ってなかったらお知らせくださいー\n何度もすいません。こちらの確認しないと心配で。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663732180.377219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gnLn6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2Q45-50、立ち上がりますか？\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n招待行ってなかったらお知らせくださいー\n何度もすいません。こちらの確認しないと心配で。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663732180.377219",
+        "reply_count": 15,
+        "reply_users_count": 4,
+        "latest_reply": "1663847039.821849",
+        "reply_users": [
+            "U03P0T4KQMV",
+            "U03QQ3J656Z",
+            "U03NJATSEBH",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1663732687.428679"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1663733569.514589"
+            },
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1663736024.499329"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663736076.838299"
+            },
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1663736136.158569"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663736197.195039"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663736330.860039"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663736517.808299"
+            },
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1663737322.563109"
+            },
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1663742133.258589"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1663747973.817729"
+            },
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1663846318.650989"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663846437.828329"
+            },
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1663846898.147899"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663847039.821849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1663847039.821849",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5bc08228-ee27-49f0-8191-ecf86f05f72e",
+        "type": "message",
+        "text": "すみません別件作業があるため本日夜以降に確認いたします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1663732687.428679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fsd2i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません別件作業があるため本日夜以降に確認いたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663732180.377219",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "457383b5-7e76-469d-bc24-3293b4902f12",
+        "type": "message",
+        "text": "現在ダウンロードしておりますので\n終わり次第確認します",
+        "user": "U03QQ3J656Z",
+        "ts": "1663733569.514589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hhy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "現在ダウンロードしておりますので\n終わり次第確認します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663732180.377219",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n2Q45-50、立ち上がりの確認をしてみました。\n\n45_藤垣→OK?\nマルチカメラのドリーだけ表示小さかったので大きくしました\n\n47_平藤→異変あり\n・オリジナルシーケンスでドリーとサイド以外絵が動きません\n・オリジナルシーケンス内で音が出ません\n (不思議ですが、マルチ内では音が出るようです)\n・ドリーの絵が45藤垣同様小さく、マルチ上で大きく出来ません\n※添付あり\n\n一度ご確認いただければ幸いです。",
+        "files": [
+            {
+                "id": "F043ATX81BN",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F043M3XFCQH",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NJATSEBH",
+        "ts": "1663736024.499329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yp7c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n2Q45-50、立ち上がりの確認をしてみました。\n\n45_藤垣→OK?\nマルチカメラのドリーだけ表示小さかったので大きくしました\n\n47_平藤→異変あり\n・オリジナルシーケンスでドリーとサイド以外絵が動きません\n・オリジナルシーケンス内で音が出ません\n (不思議ですが、マルチ内では音が出るようです)\n・ドリーの絵が45藤垣同様小さく、マルチ上で大きく出来ません\n※添付あり\n\n一度ご確認いただければ幸いです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5a3d9182-64c0-485e-9d69-18bd77351b18",
+        "thread_ts": "1663732180.377219",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "d0a3853e-42ea-427f-b1e7-b86670fcc2c2",
+        "type": "message",
+        "text": "<@U03NJATSEBH> ドリー小さい、っていうのは、触る前にお知らせして欲しかった。。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663736076.838299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YvTo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ドリー小さい、っていうのは、触る前にお知らせして欲しかった。。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663732180.377219",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "6103a84c-c315-4492-b874-565b114bfbe4",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 大変失礼いたしました…",
+        "user": "U03NJATSEBH",
+        "ts": "1663736136.158569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=3m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 大変失礼いたしました…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663732180.377219",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U03NJATSEBH> Dropboxの同期は素材来てますよね。サイズご確認いただけますか？",
+        "files": [
+            {
+                "id": "F043M44FBEV",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1663736197.195039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i7a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Dropboxの同期は素材来てますよね。サイズご確認いただけますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "77294214-4774-4009-842d-42e2850b6dee",
+        "thread_ts": "1663732180.377219",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "一回触ると作業取り消ししても共有ログに残るんでややこしさが。。\nこうなりますので、多分お手元のとこっちのがなんか違う気がする\n<@U03NJATSEBH>",
+        "files": [
+            {
+                "id": "F042TTXMYB1",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1663736330.860039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IlUM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一回触ると作業取り消ししても共有ログに残るんでややこしさが。。\nこうなりますので、多分お手元のとこっちのがなんか違う気がする\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "82e8e30b-3399-4df6-b21a-2fc742b5ff8b",
+        "thread_ts": "1663732180.377219",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03NJATSEBH> ドリー素材のプロパティをご確認ください\nファイルパスがあってるか、とかファイルサイズがあってるか、とか。",
+        "files": [
+            {
+                "id": "F043Y6QBNTA",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1663736517.808299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "anIZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ドリー素材のプロパティをご確認ください\nファイルパスがあってるか、とかファイルサイズがあってるか、とか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "fb4a16bb-edf9-426d-9f92-148eb2f4eddc",
+        "thread_ts": "1663732180.377219",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> こちらで確認いたしました。\nパスやファイルサイズは同じようです。",
+        "files": [
+            {
+                "id": "F043Y7PDJMN",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NJATSEBH",
+        "display_as_bot": false,
+        "ts": "1663737322.563109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TSFVq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こちらで確認いたしました。\nパスやファイルサイズは同じようです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b8f0a543-c970-4dab-87d7-bd1251cdff07",
+        "thread_ts": "1663732180.377219",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "a1b61d67-8fc3-4e8e-88b6-4bf7d557cd97",
+        "type": "message",
+        "text": "<@U03NJATSEBH> 46はどうですか？さっきの僕のやつと一緒なプロパティ？",
+        "user": "U03CXUXB5PF",
+        "ts": "1663737416.937749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "04FE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 46はどうですか？さっきの僕のやつと一緒なプロパティ？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663737416.937749",
+        "reply_count": 9,
+        "reply_users_count": 2,
+        "latest_reply": "1663815762.419669",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U03NJATSEBH"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663737633.078279"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663737781.569079"
+            },
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1663738659.217319"
+            },
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1663812951.771289"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663814523.223889"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663815063.366809"
+            },
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1663815167.532809"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663815285.021019"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663815762.419669"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1663815762.419669"
+    },
+    {
+        "type": "message",
+        "text": "<@U03NJATSEBH> こちらは無事に再生されます。　一旦プレミア再起動をお願いします",
+        "files": [
+            {
+                "id": "F0431U3BTQW",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F042U06J74P",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "ts": "1663737633.078279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bbdA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こちらは無事に再生されます。　一旦プレミア再起動をお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a327e433-4a63-4179-b5c4-aab7d7a69b69",
+        "thread_ts": "1663737416.937749",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "cd449b58-2d6c-459a-988f-ab168f729f84",
+        "type": "message",
+        "text": "<@U03NJATSEBH> おんなじプロキシファイルっぽいので、多分単なるプレミアの不具合か。。\n再起動→プロキシ切り離し→プロキシ「追加」で、もう一回Dropbox上のプロキシーファイルに繋いでみてください\n\nダメならもう一回諦めます。気にせず編集してもらうかもですが、それよりパックンの完パケいけるか最終チェックをお願いします",
+        "user": "U03CXUXB5PF",
+        "ts": "1663737781.569079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lxaE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " おんなじプロキシファイルっぽいので、多分単なるプレミアの不具合か。。\n再起動→プロキシ切り離し→プロキシ「追加」で、もう一回Dropbox上のプロキシーファイルに繋いでみてください\n\nダメならもう一回諦めます。気にせず編集してもらうかもですが、それよりパックンの完パケいけるか最終チェックをお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663737416.937749",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b2ed5d33-851c-45b2-882b-69bb6db1fbd1",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n2Q45-50 Premiereを再起動して確認をしましたが、一番初めと状態が変わりませんでした。先にパックン作業を行い、2Q45-50は今夜Premiere再起動→プロキシを繋ぎ直し、確認を行うことにします。",
+        "user": "U03NJATSEBH",
+        "ts": "1663738659.217319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "La2mP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n2Q45-50 Premiereを再起動して確認をしましたが、一番初めと状態が変わりませんでした。先にパックン作業を行い、2Q45-50は今夜Premiere再起動→プロキシを繋ぎ直し、確認を行うことにします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663737416.937749",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "200b8210-774a-4c05-81b7-d363002f015e",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nすみません確認遅くなりました。\nこちら招待きてないようなので対応お願いいたします:woman-bowing:",
+        "user": "U03P0T4KQMV",
+        "ts": "1663742133.258589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1i94y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nすみません確認遅くなりました。\nこちら招待きてないようなので対応お願いいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663732180.377219",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

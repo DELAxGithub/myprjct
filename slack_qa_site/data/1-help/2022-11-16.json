@@ -1,0 +1,549 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03RA83HRN0> これやりましょうかね",
+        "user": "U03CXUXB5PF",
+        "ts": "1668652024.059319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LAM60",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " これやりましょうかね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/kdddipresidentnep2022.slack.com\/archives\/C03CY2TFJS1\/p1668350197285399",
+                "ts": "1668350197.285399",
+                "author_id": "U03CXUXB5PF",
+                "channel_id": "C03CY2TFJS1",
+                "channel_team": "T03CU6RQ154",
+                "channel_name": "1-help",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T03CU6RQ154",
+                        "channel": "C03CY2TFJS1",
+                        "ts": "1668350197.285399",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "gtwI",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "こんな感じで考えています　編集で使ってるのは全部Dropbox上のファイルだと思いますが、それ以外に使ってるものあります？\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_quote",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "作業フォルダ　100_番号_出演者名（_編集担当者）←ここまでいる？番号まででいいけど。。\n中身　要検討\n・プロジェクト\n・Proxy　　　　　\n・TW　　　　　　\n・CG（ダミーも）\n・もらい\n・MA（受け取りは現状と同じMAですが、作業時に移動する）\n\n注意\n・決まり・フリー・購入は使いまわせるので現状と同じ場所\n・Proxyは複数作らない　←Dropbox圧迫するのでコピーではなく、個別フォルダに移す"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "is_share": true,
+                "fallback": "[November 13th, 2022 9:36 AM] h.kodera: こんな感じで考えています　編集で使ってるのは全部Dropbox上のファイルだと思いますが、それ以外に使ってるものあります？\n&gt; 作業フォルダ　100_番号_出演者名（_編集担当者）←ここまでいる？番号まででいいけど。。\n&gt; 中身　要検討\n&gt; ・プロジェクト\n&gt; ・Proxy　　　　　\n&gt; ・TW　　　　　　\n&gt; ・CG（ダミーも）\n&gt; ・もらい\n&gt; ・MA（受け取りは現状と同じMAですが、作業時に移動する）\n&gt; \n&gt; 注意\n&gt; ・決まり・フリー・購入は使いまわせるので現状と同じ場所\n&gt; ・Proxyは複数作らない　←Dropbox圧迫するのでコピーではなく、個別フォルダに移す",
+                "text": "こんな感じで考えています　編集で使ってるのは全部Dropbox上のファイルだと思いますが、それ以外に使ってるものあります？\n&gt; 作業フォルダ　100_番号_出演者名（_編集担当者）←ここまでいる？番号まででいいけど。。\n&gt; 中身　要検討\n&gt; ・プロジェクト\n&gt; ・Proxy　　　　　\n&gt; ・TW　　　　　　\n&gt; ・CG（ダミーも）\n&gt; ・もらい\n&gt; ・MA（受け取りは現状と同じMAですが、作業時に移動する）\n&gt; \n&gt; 注意\n&gt; ・決まり・フリー・購入は使いまわせるので現状と同じ場所\n&gt; ・Proxyは複数作らない　←Dropbox圧迫するのでコピーではなく、個別フォルダに移す",
+                "author_name": "h.kodera",
+                "author_link": "https:\/\/kdddipresidentnep2022.slack.com\/team\/U03CXUXB5PF",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_48.png",
+                "author_subname": "h.kodera",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "#1-help に投稿"
+            }
+        ],
+        "thread_ts": "1668652024.059319",
+        "reply_count": 9,
+        "reply_users_count": 2,
+        "latest_reply": "1668654866.069749",
+        "reply_users": [
+            "U03RA83HRN0",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1668652313.665789"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1668652391.640239"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1668654204.039379"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1668654381.610269"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1668654435.769449"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1668654487.910729"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1668654729.687179"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1668654819.586929"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1668654866.069749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1668654866.069749",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fc741bcb-7c1b-486e-81ad-d05b50f60478",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nとりあえず作業で使用した\nProxy\nTW\nプロジェクト（55用に変換）\nvoice\nをフォルダの55に移行しました。",
+        "user": "U03RA83HRN0",
+        "ts": "1668652313.665789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pGt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nとりあえず作業で使用した\nProxy\nTW\nプロジェクト（55用に変換）\nvoice\nをフォルダの55に移行しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668652024.059319",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "7a35fc59-0a85-480c-abfb-2313f0a1ef64",
+        "type": "message",
+        "text": "<@U03RA83HRN0> ありがとうございます。\nじゃこっちでプロジェクトを変換してみますので、それで普通に編集再開できるか確認させてください。プロジェクト、いじるの12時ぐらいになりそう。",
+        "user": "U03CXUXB5PF",
+        "ts": "1668652391.640239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pvtdf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます。\nじゃこっちでプロジェクトを変換してみますので、それで普通に編集再開できるか確認させてください。プロジェクト、いじるの12時ぐらいになりそう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668652024.059319",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03RA83HRN0> すでにプロジェクトあります？これローカルプロジェクトで編集できてるならいいのかな？",
+        "files": [
+            {
+                "id": "F04BPJQ00NM",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1668654204.039379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mlz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すでにプロジェクトあります？これローカルプロジェクトで編集できてるならいいのかな？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ee252feb-00e2-4e16-ad6e-f8fffce66714",
+        "thread_ts": "1668652024.059319",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nプロジェクトはチームプロジェクトから、この間聞いた通りに変換したものになります。",
+        "files": [
+            {
+                "id": "F04B81RJW2H",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03RA83HRN0",
+        "display_as_bot": false,
+        "ts": "1668654381.610269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xZF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nプロジェクトはチームプロジェクトから、この間聞いた通りに変換したものになります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "06d854d7-c941-4142-9940-c9c79e362d0e",
+        "thread_ts": "1668652024.059319",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "c957c61d-a7fb-4858-b9ed-f24d1777b9b7",
+        "type": "message",
+        "text": "変換してからはまだ作業はしていません。",
+        "user": "U03RA83HRN0",
+        "ts": "1668654435.769449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C+Ge",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "変換してからはまだ作業はしていません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668652024.059319",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "B03E84C2-0142-4E6C-9AFC-FF2EE9EE81EA",
+        "type": "message",
+        "text": "立ち上げてみて、普通に編集続きできるなら、それで問題ないですね",
+        "user": "U03CXUXB5PF",
+        "ts": "1668654487.910729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "86K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "立ち上げてみて、普通に編集続きできるなら、それで問題ないですね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668652024.059319",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "c5bd8718-c053-4003-8e87-286b6880b478",
+        "type": "message",
+        "text": "ですかね。\n自分はDropboxを別件の作業でも使用しているので、現状こちらの作業においては、Dropboxを引っ掛けて編集はしていません。\nProxy・イメージ等は自身のHDDに移行して、TWは作ったものをDropboxにアップして作業していますので、\n他の方が開いた時に全てがオンラインになってくれてれば大丈夫かと思います。\n（編集作業後にプロジェクトはこのフォルダにアップします）",
+        "user": "U03RA83HRN0",
+        "ts": "1668654729.687179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Sd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ですかね。\n自分はDropboxを別件の作業でも使用しているので、現状こちらの作業においては、Dropboxを引っ掛けて編集はしていません。\nProxy・イメージ等は自身のHDDに移行して、TWは作ったものをDropboxにアップして作業していますので、\n他の方が開いた時に全てがオンラインになってくれてれば大丈夫かと思います。\n（編集作業後にプロジェクトはこのフォルダにアップします）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668652024.059319",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "c04a7e74-a06f-469e-bef7-8a1a13784236",
+        "type": "message",
+        "text": "<@U03RA83HRN0> こちらとしてさは最終書き出しの際に、インタビューをプロキシーから本素材にさえできればそれでよくて、まぁ最悪メディア入れ替えでどうにかなると思います。というわけで無事移行ということで、引き続きよろしくお願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1668654819.586929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f\/I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こちらとしてさは最終書き出しの際に、インタビューをプロキシーから本素材にさえできればそれでよくて、まぁ最悪メディア入れ替えでどうにかなると思います。というわけで無事移行ということで、引き続きよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668652024.059319",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "24e87c50-85f3-4f9b-b7fa-fd17b24082f1",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n承知しました！\n引き続きよろしくお願いいたします！",
+        "user": "U03RA83HRN0",
+        "ts": "1668654866.069749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nc\/G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n承知しました！\n引き続きよろしくお願いいたします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668652024.059319",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

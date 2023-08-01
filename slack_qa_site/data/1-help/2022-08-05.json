@@ -1,0 +1,80 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1659768083.714859",
+        "thread_ts": "1659768083.714859",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1659769218.244639",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U03P0T4KQMV"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1659769190.122889"
+            },
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1659769218.244639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1659769218.244639"
+    },
+    {
+        "client_msg_id": "a7bcf8a7-13a0-49c2-9969-91b0cef5be59",
+        "type": "message",
+        "text": "ありがとうございます→続きは<#C03DD5YH9D1|3-edit> へー。\nこちらは編集全般のサポートチャンネルですのでー。",
+        "user": "U03CXUXB5PF",
+        "ts": "1659769190.122889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7x+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます→続きは"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03DD5YH9D1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " へー。\nこちらは編集全般のサポートチャンネルですのでー。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659768083.714859",
+        "parent_user_id": "USLACKBOT"
+    }
+]

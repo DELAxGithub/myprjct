@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "3d5d7ec7-1a37-45b7-8ef2-029dbd43bbbd",
+        "type": "message",
+        "text": "こちら、使い物になりませんでした！",
+        "user": "U03QQ3J656Z",
+        "ts": "1665482863.093869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ph=o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こちら、使い物になりませんでした！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665369431.510649",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

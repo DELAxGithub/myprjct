@@ -1,0 +1,107 @@
+[
+    {
+        "client_msg_id": "8092dfc6-e954-4672-bf95-3bb5b750f885",
+        "type": "message",
+        "text": "11\/17 木曜\n*在庫 試写1（3) MA（1）試写2 (1)*\nMAがないことには、試写2もなく、試写1が終わらないことにはMAもなく、っていうパイプラインになってるわけですが、進捗管理としては試写2が終わったやつを納品していくっていう感じです。　納期区分があんまり機能しなくなりそうですが。\n\n<#C03D36KA10U|general> にてシーズン2確認会議のお声がけしてます、リアクションお願いします\n\n\n<#C043UBH5VFC|3-edit-1030納品分>\n最終の書き出し中ですが、ダミー差し替え時期を試写２の前にするようにします。2.1終わったあとだとそれまちで最終出せないので。\n\n<#C048CGTB45A|3-edit-1115納品分>\n試写2が終わってます。ダミーあれば報告ください。このタイミングですいません。\n\n<#C04A8UH8L0Z|3-edit-1130>\n試写1を依頼中です。新作は47平藤が待ちです\n\n<#C04BB328NAC|3-edit-1215>\nMAに出せる37片岡を前倒しでお願いします\n新作は５１〜なのですが、本日から作業する際はまだチームプロジェクトで大丈夫です。今日昼ごろからプロジェクトを変換しますので、作業してる時はお声がけください。\n\n\n本日予定\n37CG発注準備\nプロジェクト移行の準備",
+        "user": "U03CXUXB5PF",
+        "ts": "1668640316.993209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sr0p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "11\/17 木曜\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "在庫 試写1（3) MA（1）試写2 (1)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMAがないことには、試写2もなく、試写1が終わらないことにはMAもなく、っていうパイプラインになってるわけですが、進捗管理としては試写2が終わったやつを納品していくっていう感じです。　納期区分があんまり機能しなくなりそうですが。\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03D36KA10U"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にてシーズン2確認会議のお声がけしてます、リアクションお願いします\n\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043UBH5VFC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n最終の書き出し中ですが、ダミー差し替え時期を試写２の前にするようにします。2.1終わったあとだとそれまちで最終出せないので。\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C048CGTB45A"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n試写2が終わってます。ダミーあれば報告ください。このタイミングですいません。\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04A8UH8L0Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n試写1を依頼中です。新作は47平藤が待ちです\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04BB328NAC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMAに出せる37片岡を前倒しでお願いします\n新作は５１〜なのですが、本日から作業する際はまだチームプロジェクトで大丈夫です。今日昼ごろからプロジェクトを変換しますので、作業してる時はお声がけください。\n\n\n本日予定\n37CG発注準備\nプロジェクト移行の準備"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

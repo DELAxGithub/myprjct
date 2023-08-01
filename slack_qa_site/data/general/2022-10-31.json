@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "de6f2c49-df8c-4c05-bce5-ffd0bac3caa9",
+        "type": "message",
+        "text": "0930,1010に使用したプロキシをDropboxから削除します。\nもう編集チーム的に触ることはないと思いますが、ひとまずご連絡でした。\nフォーマットの見栄えとか、なんか不具合できたらお知らせください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667223685.656799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eJ2kI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "0930,1010に使用したプロキシをDropboxから削除します。\nもう編集チーム的に触ることはないと思いますが、ひとまずご連絡でした。\nフォーマットの見栄えとか、なんか不具合できたらお知らせください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

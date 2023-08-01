@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "0bd3d995-a33d-4cb5-b79e-d7cb22a81a08",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n41_平のReplay修正と取り切りテロップの入れ方も変更しました。手元試写も大丈夫かと思います。\nep1とep2で「要検討」というのが数カ所ありましたので、そこは残してシーケンスに赤マーカーで記しました。\nよろしくお願い致します。",
+        "user": "U03RA83HRN0",
+        "ts": "1664434698.857709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uih7h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n41_平のReplay修正と取り切りテロップの入れ方も変更しました。手元試写も大丈夫かと思います。\nep1とep2で「要検討」というのが数カ所ありましたので、そこは残してシーケンスに赤マーカーで記しました。\nよろしくお願い致します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03RA83HRN0",
+            "ts": "1664434769.000000"
+        },
+        "thread_ts": "1664247475.144829",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

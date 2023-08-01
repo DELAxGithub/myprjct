@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "7ca49e84-9a29-471d-89ce-09f533268212",
+        "type": "message",
+        "text": "<@U04J38PLGM6> ８８松原、OP\/ED  できました",
+        "user": "U03CXUXB5PF",
+        "ts": "1679601961.317609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d89B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ８８松原、OP\/ED  できました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "36bc4b28-d1cb-4039-9741-54241072d283",
+        "type": "message",
+        "text": "<@U03V84JSHNK> 　89成田　OP\/ED  できました　生物学なので、もらえるか相談ですが、あんまり本人もってなさそうです。ご自身の連載で挿絵を作ってるので、それをイラストに発注するっていう方向も探ってみてください　発注は<#C040XCK7RMK|7-cg> までですが、発注までお願いしてもいい？ややこしかったら横から割って入ります",
+        "user": "U03CXUXB5PF",
+        "ts": "1679610593.487109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GSIYn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 　89成田　OP\/ED  できました　生物学なので、もらえるか相談ですが、あんまり本人もってなさそうです。ご自身の連載で挿絵を作ってるので、それをイラストに発注するっていう方向も探ってみてください　発注は"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C040XCK7RMK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " までですが、発注までお願いしてもいい？ややこしかったら横から割って入ります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

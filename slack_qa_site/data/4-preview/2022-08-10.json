@@ -1,0 +1,127 @@
+[
+    {
+        "client_msg_id": "72BD5449-5DB7-4441-A104-FADABD1124D8",
+        "type": "message",
+        "text": "あら。尺は見落とすなぁ。\nところで浅羽さんって星新一引用とかどうするかな",
+        "user": "U03CXUXB5PF",
+        "ts": "1660115898.456189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WiWG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あら。尺は見落とすなぁ。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ところで浅羽さんって星新一引用とかどうするかな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ここですかね、探してみます",
+        "files": [
+            {
+                "id": "F03T2EKQCBU",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03HJRZK295",
+        "display_as_bot": false,
+        "ts": "1660116553.234959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mwak",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ここですかね、探してみます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "aae59770-551e-4b08-b45c-0ececed77418"
+    },
+    {
+        "client_msg_id": "182D96FF-FC6F-4CE4-B9E4-25DD05CAA439",
+        "type": "message",
+        "text": "結構何カ所か入れてもいいと思ってます。これも本人に当てるか。",
+        "user": "U03CXUXB5PF",
+        "ts": "1660116624.009519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tVQ6\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "結構何カ所か入れてもいいと思ってます。これも本人に当てるか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03HJRZK295"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

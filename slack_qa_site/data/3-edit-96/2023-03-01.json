@@ -1,0 +1,136 @@
+[
+    {
+        "client_msg_id": "B09C5DE9-174F-44E4-AC93-8BB02EBDB99F",
+        "type": "message",
+        "text": "<@U03P0T4KQMV> \n\n&gt; 宮本亞門さん2.1視聴しました。\n&gt; ep2のみ1か所修正入れています。\n\n直したら最終にしてください",
+        "user": "U03CXUXB5PF",
+        "ts": "1677717553.446159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N\/x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "宮本亞門さん2.1視聴しました。\nep2のみ1か所修正入れています。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "直したら最終にしてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "002498a6-e6aa-4c58-baba-33ce95ac4a3a",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U04J38PLGM6>\n96宮本、シーケンス・プロジェクト共に最終にしております。\nよろしくお願いいたします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1677728230.380149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gX1p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n96宮本、シーケンス・プロジェクト共に最終にしております。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF",
+                    "U04J38PLGM6"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

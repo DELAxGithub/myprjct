@@ -1,0 +1,323 @@
+[
+    {
+        "client_msg_id": "a851f34f-1040-44f9-a33a-4b08eb76190f",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03HJRZK295>\n▼本日の作業報告▼\n【#34 菅野さん】\n現在スイッチングを開始したところです。\n\n一点確認です。\n菅野さんのカメラなのですが\nスイッチングの選択肢で寄りのカメラが\n見当たりませんが、このまま進めても\n問題ございませんか？\n一旦作業ストップいたしますので\nご確認いただければ幸いです。\n\n【#29 パックン】\n追加や復活作業(イメージ含め)完了しました。",
+        "user": "U03NJATSEBH",
+        "ts": "1659959095.807799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iIqe\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n▼本日の作業報告▼\n【#34 菅野さん】\n現在スイッチングを開始したところです。\n\n一点確認です。\n菅野さんのカメラなのですが\nスイッチングの選択肢で寄りのカメラが\n見当たりませんが、このまま進めても\n問題ございませんか？\n一旦作業ストップいたしますので\nご確認いただければ幸いです。\n\n【#29 パックン】\n追加や復活作業(イメージ含め)完了しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659959095.807799",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1659960534.533789",
+        "reply_users": [
+            "U03HJRZK295",
+            "U03NJATSEBH"
+        ],
+        "replies": [
+            {
+                "user": "U03HJRZK295",
+                "ts": "1659959275.914419"
+            },
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1659960534.533789"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1659960534.533789",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03HJRZK295"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "209cab5c-8268-446f-8d4d-04a1d81a99b3",
+        "type": "message",
+        "text": "ご報告ありがとうございます、今追加して共有いたしました、いかがですか？",
+        "user": "U03HJRZK295",
+        "ts": "1659959275.914419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J08",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ご報告ありがとうございます、今追加して共有いたしました、いかがですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659959095.807799",
+        "parent_user_id": "U03NJATSEBH"
+    },
+    {
+        "client_msg_id": "bf04617e-090a-4cb6-ac9a-958ca1c9458a",
+        "type": "message",
+        "text": "ご対応ありがとうございます！確認し、問題ございませんでした！続きは明日作業させていただきますね。",
+        "user": "U03NJATSEBH",
+        "ts": "1659960534.533789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J8ssu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ご対応ありがとうございます！確認し、問題ございませんでした！続きは明日作業させていただきますね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03NJATSEBH",
+            "ts": "1659960547.000000"
+        },
+        "thread_ts": "1659959095.807799",
+        "parent_user_id": "U03NJATSEBH",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03HJRZK295"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1b11f943-8a3e-46b0-87f9-5064d300b481",
+        "type": "message",
+        "text": "武田ep1、修正完了しております",
+        "user": "U03QQ3J656Z",
+        "ts": "1660005406.202689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eq2c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "武田ep1、修正完了しております"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659834000.520949",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03HJRZK295>\n武田ep1完了しております。\nよろしくお願いいたします。",
+        "user": "U03NZ0E09JN",
+        "ts": "1660008513.304129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QeP8H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n武田ep1完了しております。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/kdddipresidentnep2022.slack.com\/archives\/C03DD5YH9D1\/p1660005406202689?thread_ts=1659834000520949&cid=C03DD5YH9D1",
+                "ts": "1660005406.202689",
+                "author_id": "U03QQ3J656Z",
+                "channel_team": "T03CU6RQ154",
+                "channel_id": "C03DD5YH9D1",
+                "channel_name": "3-edit",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T03CU6RQ154",
+                        "channel": "C03DD5YH9D1",
+                        "ts": "1660005406.202689",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "eq2c",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "武田ep1、修正完了しております"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "is_share": true,
+                "fallback": "[August 9th, 2022 9:36 AM] takayama.t0910: 武田ep1、修正完了しております",
+                "text": "武田ep1、修正完了しております",
+                "author_name": "Toshi Takayama",
+                "author_link": "https:\/\/kdddipresidentnep2022.slack.com\/team\/U03QQ3J656Z",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_48.png",
+                "author_subname": "Toshi Takayama",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "#3-edit のスレッドから"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03HJRZK295"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

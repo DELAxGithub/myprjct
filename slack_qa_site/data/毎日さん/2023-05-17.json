@@ -1,0 +1,34 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "在庫\n試写1:0 | MA:0 | 試写2:5 | 試写3:4\n————————————-\n<@U03P0T4KQMV> : #102、 千葉聡、 本人編集、: 05-17\n",
+        "ts": "1684368697.265639",
+        "bot_id": "B0527SNLW83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ae1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "在庫\n試写1:0 | MA:0 | 試写2:5 | 試写3:4\n————————————-\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #102、 千葉聡、 本人編集、: 05-17"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

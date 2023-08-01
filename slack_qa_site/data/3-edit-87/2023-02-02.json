@@ -1,0 +1,168 @@
+[
+    {
+        "client_msg_id": "270c89dc-f768-409b-83fa-699a80c7470b",
+        "type": "message",
+        "text": "```「87渡部陽一さん」（2.0）→弊社視聴完了しました。渡部陽一さんの写真のクレジットの位置に関して、ほとんど右下にありますが、一部は右上にありました。ご確認頂けると幸いです。```\n<@U03P0T4KQMV> 試写2が終わったそうです。\nこれクレジットの位置を変えたのってなんか狙いがあるなら別にどこにあってもいいんですが、その辺りが伝わらない人たちなので、右下で統一でもいいんですけど、どうしましょう。",
+        "user": "U03CXUXB5PF",
+        "ts": "1675334308.011609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Kjtk",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「87渡部陽一さん」（2.0）→弊社視聴完了しました。渡部陽一さんの写真のクレジットの位置に関して、ほとんど右下にありますが、一部は右上にありました。ご確認頂けると幸いです。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 試写2が終わったそうです。\nこれクレジットの位置を変えたのってなんか狙いがあるなら別にどこにあってもいいんですが、その辺りが伝わらない人たちなので、右下で統一でもいいんですけど、どうしましょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675334308.011609",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1675336153.529649",
+        "reply_users": [
+            "U03P0T4KQMV",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1675334533.070329"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1675336153.529649"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675336153.529649"
+    },
+    {
+        "client_msg_id": "4671AE6B-05EF-4A24-ABDF-B394DC2D9CE9",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> \n写真+フォローテロップがある場合のみ、テロップが被るのでクレジットを右上にしてます。\nクレジットちょっと下げてもいいんですが、セーフマージン超えてしまうので一応右上にした、という経緯です。\nそのあたり編集的に特別こだわりないので、右下統一であれば右下に修正いたします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1675334533.070329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pnY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n写真+フォローテロップがある場合のみ、テロップが被るのでクレジットを右上にしてます。\nクレジットちょっと下げてもいいんですが、セーフマージン超えてしまうので一応右上にした、という経緯です。\nそのあたり編集的に特別こだわりないので、右下統一であれば右下に修正いたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675334308.011609",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "fa7189cd-50d7-4610-aef8-1d0e57e44c6d",
+        "type": "message",
+        "text": "じゃテロップちょいあげますか。セーフティはWebコンテンツなんで無視してもいいですけど。",
+        "user": "U03CXUXB5PF",
+        "ts": "1675336153.529649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "erkJv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "じゃテロップちょいあげますか。セーフティはWebコンテンツなんで無視してもいいですけど。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675334308.011609",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

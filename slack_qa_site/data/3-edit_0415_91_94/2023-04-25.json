@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "b6331bda-ceed-460a-b1dd-646d2df0ac00",
+        "type": "message",
+        "text": "<@U04JJB0MTB7>\n&gt; \n&gt; 下記、確認しました。ep01だけコメント済みです\n&gt; #92 :斉藤幸平 -更新日時：04\/22",
+        "user": "U03CXUXB5PF",
+        "ts": "1682471262.495429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+nMY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n下記、確認しました。ep01だけコメント済みです\n#92 :斉藤幸平 -更新日時：04\/22"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

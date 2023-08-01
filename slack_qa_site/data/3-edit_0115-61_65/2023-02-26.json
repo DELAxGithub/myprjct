@@ -1,0 +1,358 @@
+[
+    {
+        "client_msg_id": "18fbe681-2106-45f8-8b33-4883e3d49d2a",
+        "type": "message",
+        "text": "```横道さん試写3視聴しました。```\n<@U03P0T4KQMV>\nご確認いただき、何もなければ最終にしてくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1677474201.036639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dK8",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "横道さん試写3視聴しました。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nご確認いただき、何もなければ最終にしてくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677474201.036639",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1677481228.839919",
+        "reply_users": [
+            "U03P0T4KQMV",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1677481200.792149"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1677481228.839919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677481228.839919",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF>\n61横道、最終にしています。\nが、Dropboxがいっぱいで最終版のプロジェクトの同期ができません、、\n\n試写3から特にご指摘ないため内容自体は変わらないので、現状あるプロジェクトをそのまま使用いただいても問題ないのですが、\n念の為最終版プロジェクトをこちらでも共有させていただきます。\n\n<https:\/\/55.gigafile.nu\/0607-c7a27b244b5652f13cc52bc79f5ad0652>\n\nよろしくお願いいたします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1677481200.792149",
+        "thread_ts": "1677474201.036639",
+        "root": {
+            "client_msg_id": "18fbe681-2106-45f8-8b33-4883e3d49d2a",
+            "type": "message",
+            "text": "```横道さん試写3視聴しました。```\n<@U03P0T4KQMV>\nご確認いただき、何もなければ最終にしてくださいー",
+            "user": "U03CXUXB5PF",
+            "ts": "1677474201.036639",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "dK8",
+                    "elements": [
+                        {
+                            "type": "rich_text_preformatted",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "横道さん試写3視聴しました。"
+                                }
+                            ],
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03P0T4KQMV"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nご確認いただき、何もなければ最終にしてくださいー"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1677474201.036639",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1677481228.839919",
+            "reply_users": [
+                "U03P0T4KQMV",
+                "U03CXUXB5PF"
+            ],
+            "replies": [
+                {
+                    "user": "U03P0T4KQMV",
+                    "ts": "1677481200.792149"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1677481228.839919"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1677481228.839919"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gVosH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n61横道、最終にしています。\nが、Dropboxがいっぱいで最終版のプロジェクトの同期ができません、、\n\n試写3から特にご指摘ないため内容自体は変わらないので、現状あるプロジェクトをそのまま使用いただいても問題ないのですが、\n念の為最終版プロジェクトをこちらでも共有させていただきます。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/55.gigafile.nu\/0607-c7a27b244b5652f13cc52bc79f5ad0652"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "attachments": [
+            {
+                "from_url": "https:\/\/55.gigafile.nu\/0607-c7a27b244b5652f13cc52bc79f5ad0652",
+                "service_icon": "https:\/\/55.gigafile.nu\/favicon.ico",
+                "thumb_url": "https:\/\/src.gigafile.nu\/images\/og_new_200_60.png",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "id": 1,
+                "original_url": "https:\/\/55.gigafile.nu\/0607-c7a27b244b5652f13cc52bc79f5ad0652",
+                "fallback": "GigaFile（ギガファイル）便",
+                "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる６種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+                "title": "GigaFile（ギガファイル）便",
+                "title_link": "https:\/\/55.gigafile.nu\/0607-c7a27b244b5652f13cc52bc79f5ad0652",
+                "service_name": "55.gigafile.nu"
+            }
+        ],
+        "client_msg_id": "a02b72b8-b505-4a43-9925-b79d2772123b",
+        "reactions": [
+            {
+                "name": "mechanical_arm",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9d91516b-9f95-4036-8a10-080b8cc12b69",
+        "type": "message",
+        "text": "Dropbox整理します",
+        "user": "U03CXUXB5PF",
+        "ts": "1677481228.839919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dcK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dropbox整理します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677474201.036639",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3e86d74a-5646-40ae-a165-5fcb2b773482",
+        "type": "message",
+        "text": "<@U03P0T4KQMV> Dropbox整理しましたが、いかがでしょうか？",
+        "user": "U03CXUXB5PF",
+        "ts": "1677481666.096119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rh8C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Dropbox整理しましたが、いかがでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677481666.096119",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677481701.990739",
+        "reply_users": [
+            "U03P0T4KQMV"
+        ],
+        "replies": [
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1677481701.990739"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677481701.990739"
+    },
+    {
+        "client_msg_id": "80a24062-30f2-4150-97bc-187fec94129a",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n同期できました！ありがとうございます",
+        "user": "U03P0T4KQMV",
+        "ts": "1677481701.990739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lPCm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n同期できました！ありがとうございます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677481666.096119",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

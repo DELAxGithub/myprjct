@@ -1,0 +1,73 @@
+[
+    {
+        "client_msg_id": "87f6894e-455f-47bd-ab46-c2535ac980a7",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 53林、納品のURLです\n<https:\/\/www.dropbox.com\/t\/2rZxzbQggWCyuLp6>",
+        "user": "U04J38PLGM6",
+        "ts": "1674021410.843049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WdhI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 53林、納品のURLです\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/t\/2rZxzbQggWCyuLp6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.dropbox.com\/t\/2rZxzbQggWCyuLp6",
+                "image_url": "https:\/\/uc9fda4eb75b3cbb7aaf3525e9a3.previews.dropboxusercontent.com\/p\/thumb\/ABylGCN8tBGI8tHRu7eTgHGTceXu1zUqwV4wj86xhFIWNzN0doNfYyMqS37Stx4nrftRhsBruvl9KZfy1kgicfzhMLtGqCi0gt0BUyBw7keZ21d0I-xVIr2ibfRDLa8CJGEg5B78JLq3vaVvemDG99H4CMtpUnsAB0iAFOj6av7pGPxvR7N2hl5v5i57rRz6xkA3BCwVJfdsmTTLtgq8sgoyLOVw0JcSqhspt6MTsfjbv8Oty9FhcYV4evthlV3Vv-yjEeS3VtLlxiKtnX-3xXME1fKwSxDm5GdSLk9Wk1F6w5K1aGANPKA7BiZxDCgNmro\/p.png",
+                "image_width": 392,
+                "image_height": 220,
+                "image_bytes": 90383,
+                "id": 1,
+                "original_url": "https:\/\/www.dropbox.com\/t\/2rZxzbQggWCyuLp6",
+                "fallback": "Dropbox: KODERA Hiroshi sent you 4 items",
+                "text": "53_hayashi_ep1_最終2.mp4 + 3 more items",
+                "title": "KODERA Hiroshi sent you 4 items",
+                "title_link": "https:\/\/www.dropbox.com\/t\/2rZxzbQggWCyuLp6",
+                "service_name": "Dropbox"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,335 @@
+[
+    {
+        "type": "message",
+        "text": "スプレッドシートのtipsですが、\nシート単位で既存のspreadsheetにコピーできます　ってことで進捗表と合体しました。",
+        "files": [
+            {
+                "id": "F049UNP7F34",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1667844648.476029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Lj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スプレッドシートのtipsですが、\nシート単位で既存のspreadsheetにコピーできます　ってことで進捗表と合体しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "677a7fab-8096-42c6-92aa-a20524baadff",
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6e7be048-9a59-4262-8704-e0ef3e176c2b",
+        "type": "message",
+        "text": "５１、５２、５３は池田くんが台本作ってます。\n編集してみて\nあれこれ前と違うな\nっていう場合は、何なりとお知らせください\n\n台本、僕の方で全部の直してる余裕がなくてすいませんが、\nここまで５周編集してきてルールの見直し兼ねて。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667869201.414969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZaAzC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "５１、５２、５３は池田くんが台本作ってます。\n編集してみて\nあれこれ前と違うな\nっていう場合は、何なりとお知らせください\n\n台本、僕の方で全部の直してる余裕がなくてすいませんが、\nここまで５周編集してきてルールの見直し兼ねて。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d33b98b8-3c10-484f-9037-abd13304fcdd",
+        "type": "message",
+        "text": "<@U03NZ0E09JN>\nちなみに以下、どんな感じですか？\n<#C043UBH5VFC|3-edit-1030納品分>\n浅羽、和泉 Replay２試写反映→2.1、出演者試写\n松本　~最終書き出し~　→2.2試写\n岡　Replay2.1修正→2.2試写\n筒井　Replay2.1試写修正なし→2.2試写\n\n2.1の試写が予定では、2.0で出たやつを直すだけのはずだったんですが、クライアントが2.1になっても新しい直しを求めてきています。\nこれ次はやめてって言ってますが、、1030はとりあえず全部2.2を経由することになりそうです。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667870324.032689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qlnk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nちなみに以下、どんな感じですか？\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043UBH5VFC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n浅羽、和泉 Replay２試写反映→2.1、出演者試写\n松本　"
+                            },
+                            {
+                                "type": "text",
+                                "text": "最終書き出し　",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "→2.2試写\n岡　Replay2.1修正→2.2試写\n筒井　Replay2.1試写修正なし→2.2試写\n\n2.1の試写が予定では、2.0で出たやつを直すだけのはずだったんですが、クライアントが2.1になっても新しい直しを求めてきています。\nこれ次はやめてって言ってますが、、1030はとりあえず全部2.2を経由することになりそうです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fd2f025a-d108-4ca4-9db2-e749c5758c78",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n浅羽、和泉は岡野さんで、昨日今日で作業できるとのことだったので、何もなければ今日中には。\n浅羽はvoiceが修正ありなので待ちです。\n\n岡、筒井のReplay修正も来たので進めたいと思います。\n松本も修正ですね。\n高山さん本日は別件ありまして、夜作業になると思います。",
+        "user": "U03NZ0E09JN",
+        "ts": "1667872557.319739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rt3l3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n浅羽、和泉は岡野さんで、昨日今日で作業できるとのことだったので、何もなければ今日中には。\n浅羽はvoiceが修正ありなので待ちです。\n\n岡、筒井のReplay修正も来たので進めたいと思います。\n松本も修正ですね。\n高山さん本日は別件ありまして、夜作業になると思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "692886dc-2dfe-4dc4-aaf9-eaabd00f5a5d",
+        "type": "message",
+        "text": "浅羽はvoice一個だけ修正だったかな。じゃこの後作ります。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667872693.860539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4l9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "浅羽はvoice一個だけ修正だったかな。じゃこの後作ります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1a41ba28-dfe2-4828-8bf7-8189a8cbba66",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n高山スケジュールのご相談です。\n11\/16-11\/20まで別件で全く動けなくなりますので、以下の対策をできればと思っております。\n\n16日頃に関係してくるのが以下の３つです。\n\n• 24三宅(1115)　2試写以降の仕上げ\n• 48坂井(1130)　MA発注\n• 46吉岡(1130)　MA発注\n三宅はすでに試写２に進んでいるので問題なさそうです。\n\n48,46はMA発注する週になるので、\n15日までにMA発注できるように進めたいです。\n\n11\/9(水)　編集１\n11\/10(木)　小山チェック&amp;修正\n11\/12,13 　試写１\n11\/14　修正台本、素材追加\n11\/15　編集２　MA発注\n\n\n試写１が終わった後、すぐに編集が始められるとありがたいです。\n\nあと、46吉岡のイメージがまだだったと思います。\n明日までにいただけると助かります。",
+        "user": "U03NZ0E09JN",
+        "ts": "1667886662.612339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5uy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n高山スケジュールのご相談です。\n11\/16-11\/20まで別件で全く動けなくなりますので、以下の対策をできればと思っております。\n\n16日頃に関係してくるのが以下の３つです。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "24三宅(1115)　2試写以降の仕上げ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "48坂井(1130)　MA発注"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "46吉岡(1130)　MA発注"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n三宅はすでに試写２に進んでいるので問題なさそうです。\n\n48,46はMA発注する週になるので、\n15日までにMA発注できるように進めたいです。\n\n11\/9(水)　編集１\n11\/10(木)　小山チェック&修正\n11\/12,13 　試写１\n11\/14　修正台本、素材追加\n11\/15　編集２　MA発注\n\n\n試写１が終わった後、すぐに編集が始められるとありがたいです。\n\nあと、46吉岡のイメージがまだだったと思います。\n明日までにいただけると助かります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "mechanical_arm",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

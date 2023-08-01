@@ -1,0 +1,622 @@
+[
+    {
+        "client_msg_id": "6257F14F-8658-4D6D-83E8-A603B391A518",
+        "type": "message",
+        "text": "<@U040YCC00V6> \nありがとうございます。\n\nこちらは台本でご確認いただきましたか、\nそれとも動画でご確認いただいてますか？\n\n動画の方はゴールドの縁取り文字で作成してもらってます。\n\n動画でOKでしたらそのままで、\n台本上でしたらその様に修正の必要がありますか？",
+        "user": "U03NZ0E09JN",
+        "ts": "1670401045.742209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YGxvL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nありがとうございます。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "こちらは台本でご確認いただきましたか、\nそれとも動画でご確認いただいてますか？\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "動画の方はゴールドの縁取り文字で作成してもらってます。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "動画でOKでしたらそのままで、\n台本上でしたらその様に修正の必要がありますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03NZ0E09JN",
+            "ts": "1670401504.000000"
+        },
+        "thread_ts": "1670399866.586139",
+        "parent_user_id": "U040YCC00V6"
+    },
+    {
+        "client_msg_id": "2B556A6A-D4CF-42A1-B933-417FAD811A3E",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> 動画で確認しました。\n金色でしたね、ありがとうございます。\n台本はあくまで編集台本ですので、反映は大丈夫かと思います。",
+        "user": "U040YCC00V6",
+        "ts": "1670401738.592379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SP9+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 動画で確認しました。\n金色でしたね、ありがとうございます。\n台本はあくまで編集台本ですので、反映は大丈夫かと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670399866.586139",
+        "parent_user_id": "U040YCC00V6"
+    },
+    {
+        "client_msg_id": "3e7ab1bb-bc4f-42cd-b99e-91703cb66824",
+        "type": "message",
+        "text": "58山本さんのtw部分、台本に指示点を書きました。\nお手数お掛けしますが、よろしくお願いいたします。",
+        "user": "U040YCC00V6",
+        "ts": "1670458045.211639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X4uo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "58山本さんのtw部分、台本に指示点を書きました。\nお手数お掛けしますが、よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d221e05e-b04e-4a49-8a3e-3af463454b3b",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n＃59岡本のep3の冒頭ダイジェスト部分が空白となっています。",
+        "user": "U03QQ3J656Z",
+        "ts": "1670460804.256749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M2I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n＃59岡本のep3の冒頭ダイジェスト部分が空白となっています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U040YCC00V6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9665BFA5-BB29-4655-A36B-7638C8DFE221",
+        "type": "message",
+        "text": "<@U03QQ3J656Z> すみません、私です。すぐ加えてお知らせします :pray: ",
+        "user": "U040YCC00V6",
+        "ts": "1670460844.947469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "586J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すみません、私です。すぐ加えてお知らせします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "61AEC1CD-AC76-444B-B1E2-1636114A2A6D",
+        "type": "message",
+        "text": "<@U03QQ3J656Z>  \n59岡本のep3冒頭追加しました。宜しくお願い致します:palms_up_together:",
+        "user": "U040YCC00V6",
+        "ts": "1670462611.306019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hvc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  \n59岡本のep3冒頭追加しました。宜しくお願い致します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "palms_up_together",
+                                "unicode": "1f932"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "25676FAC-0028-4BB3-8F11-72C41A358403",
+        "type": "message",
+        "text": "<@U03QQ3J656Z> \n59岡本分、twの指示が「時間差」のまま残ってしまっており、大変失礼致しました。\n全て見直し、修正しました。まだ慣れておらずお手数おかけしました",
+        "user": "U040YCC00V6",
+        "ts": "1670464751.843579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HHMnN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n59岡本分、twの指示が「時間差」のまま残ってしまっており、大変失礼致しました。\n全て見直し、修正しました。まだ慣れておらずお手数おかけしました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16e52df7-cf73-4636-9ff9-6e9c12d3f23b",
+        "type": "message",
+        "text": "<@U040YCC00V6>\nありがとうございます。\nでは現行のままで進めさせていただきます。\n\n今後台本を作成する際で結構なのですが、もし白地とゴールドの意図的な差がないということであれば、ゴールドの指示をいただけないでしょうか。\ntwにフォーマットの指定がある場合は一つづつphtoshopにて作成する必要があり、枚数が増えるとそれなりに時間と労力が必要となります。\n\nゴールドの場合は制作の方でシーケンスに作成いただいているものをタイムラインに載せる形なので、クライアントからの修正が入った場合もphotshopを開かずに済むので、作業時間も少なくてすみます。\n\nゴールドの指示は台本に指示を書かない＝「空白」にするか、ノーマルと記載いただければと思います。\n\n現状twは全てphotoshopで作成している状態なので、ご理解いただけると幸いです。\n\n・tw＋フォーマット指示=photoshop\n・空白=ゴールド(premierのテキスト)\n\n何卒よろしくお願いいたします。",
+        "user": "U03NZ0E09JN",
+        "ts": "1670465306.623999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q2G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nありがとうございます。\nでは現行のままで進めさせていただきます。\n\n今後台本を作成する際で結構なのですが、もし白地とゴールドの意図的な差がないということであれば、ゴールドの指示をいただけないでしょうか。\ntwにフォーマットの指定がある場合は一つづつphtoshopにて作成する必要があり、枚数が増えるとそれなりに時間と労力が必要となります。\n\nゴールドの場合は制作の方でシーケンスに作成いただいているものをタイムラインに載せる形なので、クライアントからの修正が入った場合もphotshopを開かずに済むので、作業時間も少なくてすみます。\n\nゴールドの指示は台本に指示を書かない＝「空白」にするか、ノーマルと記載いただければと思います。\n\n現状twは全てphotoshopで作成している状態なので、ご理解いただけると幸いです。\n\n・tw＋フォーマット指示=photoshop\n・空白=ゴールド(premierのテキスト)\n\n何卒よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670399866.586139",
+        "parent_user_id": "U040YCC00V6"
+    },
+    {
+        "client_msg_id": "BDBB9661-0EAE-421E-B592-AC28C7AD09AD",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> 了解しました。twもきちんとやります。申し訳ありませんでした :pray: ",
+        "user": "U040YCC00V6",
+        "ts": "1670466092.589889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cfa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解しました。twもきちんとやります。申し訳ありませんでした "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670399866.586139",
+        "parent_user_id": "U040YCC00V6",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03RA83HRN0>\n57大塚の編集１を確認中です。\nep2 10:17　ノイズで飛行機の音が目立つところがありました。\nクライアントから指摘を受けそうな目立ち方でしたので、こちらの「これ*一種のブランド化*といいますか」の部分をカットしても大丈夫でしょうか。",
+        "files": [
+            {
+                "id": "F04ENKX142D",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1670482502.108169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YZq+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n57大塚の編集１を確認中です。\nep2 10:17　ノイズで飛行機の音が目立つところがありました。\nクライアントから指摘を受けそうな目立ち方でしたので、こちらの「これ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "一種のブランド化",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "といいますか」の部分をカットしても大丈夫でしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2c6c7d41-fe71-42bd-85b2-fb54b7dfcfdd"
+    },
+    {
+        "client_msg_id": "3277e03b-3716-4acb-8e13-79c0adb24263",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U040YCC00V6> <@U03V84JSHNK>\n60阿部 編集1を進めております\n追加部分を中心にイメージ不足しておりましたのでご対応ください。\n（台本に★マークをつけております）\nまた、調べ中の引用部分やそれに伴うvoiceもあわせて作業できればと思うのですが、いかがでしょうか？\nご確認よろしくお願いします。",
+        "user": "U03Q17LBJP3",
+        "ts": "1670484107.897339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ehiVR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n60阿部 編集1を進めております\n追加部分を中心にイメージ不足しておりましたのでご対応ください。\n（台本に★マークをつけております）\nまた、調べ中の引用部分やそれに伴うvoiceもあわせて作業できればと思うのですが、いかがでしょうか？\nご確認よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03Q17LBJP3",
+            "ts": "1670484202.000000"
+        },
+        "thread_ts": "1670484107.897339",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1670570232.258639",
+        "reply_users": [
+            "U040YCC00V6",
+            "U03V84JSHNK",
+            "U03Q17LBJP3"
+        ],
+        "replies": [
+            {
+                "user": "U040YCC00V6",
+                "ts": "1670488965.840039"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1670557030.721889"
+            },
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1670568633.159869"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1670568673.219909"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1670570232.258639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1670570232.258639"
+    }
+]

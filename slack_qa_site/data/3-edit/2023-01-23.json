@@ -1,0 +1,598 @@
+[
+    {
+        "client_msg_id": "6eca50d5-dba3-4075-bbcb-912506cf3ff7",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> dropboxの容量がいっぱいになっていました･･･\nご対応をよろしくお願いします。",
+        "user": "U03Q17LBJP3",
+        "ts": "1674471565.209849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ql2d=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " dropboxの容量がいっぱいになっていました･･･\nご対応をよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674471565.209849",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1674477360.475009",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1674471729.411229"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1674472405.771449"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1674472461.617229"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1674472525.105569"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1674474530.387299"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1674477360.475009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1674477360.475009",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "48AB0C19-A82E-4155-A1FB-E991049D1EE3",
+        "type": "message",
+        "text": "<@U04J38PLGM6> 納品終わった37.51-60をDropboxから一回作業用ハードディスクに移してください。おわったらお知らせくださいー。まだ余裕あるかな。\nバックアップはご自身のMac使ってやっちゃってください。バックアップハードディスクはまだ余裕あったかな。",
+        "user": "U03CXUXB5PF",
+        "ts": "1674471729.411229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xkD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 納品終わった37.51-60をDropboxから一回作業用ハードディスクに移してください。おわったらお知らせくださいー。まだ余裕あるかな。\nバックアップはご自身のMac使ってやっちゃってください。バックアップハードディスクはまだ余裕あったかな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674471565.209849",
+        "parent_user_id": "U03Q17LBJP3"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF> 37-51-60の件、了解です\nバックアップ今日明日の分は入りますが、明後日の分は微妙です。\n追加で購入します。",
+        "user": "U04J38PLGM6",
+        "ts": "1674472405.771449",
+        "thread_ts": "1674471565.209849",
+        "root": {
+            "client_msg_id": "6eca50d5-dba3-4075-bbcb-912506cf3ff7",
+            "type": "message",
+            "text": "<@U03CXUXB5PF> dropboxの容量がいっぱいになっていました･･･\nご対応をよろしくお願いします。",
+            "user": "U03Q17LBJP3",
+            "ts": "1674471565.209849",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ql2d=",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03CXUXB5PF"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " dropboxの容量がいっぱいになっていました･･･\nご対応をよろしくお願いします。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1674471565.209849",
+            "reply_count": 6,
+            "reply_users_count": 2,
+            "latest_reply": "1674477360.475009",
+            "reply_users": [
+                "U03CXUXB5PF",
+                "U04J38PLGM6"
+            ],
+            "replies": [
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1674471729.411229"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1674472405.771449"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1674472461.617229"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1674472525.105569"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1674474530.387299"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1674477360.475009"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1674477360.475009"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y8uvs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 37-51-60の件、了解です\nバックアップ今日明日の分は入りますが、明後日の分は微妙です。\n追加で購入します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "eb7a99f7-47b1-41d7-8315-a85a71ca92b2"
+    },
+    {
+        "client_msg_id": "df4b7a7a-e3f1-447a-bb24-141efe4d6ef8",
+        "type": "message",
+        "text": "いや買うなら僕の方で買うんでいいですよ。\nでも、実はまだ事務所にあるので、次の土曜日の時に持って行きます。明後日の分は土曜日に。",
+        "user": "U03CXUXB5PF",
+        "ts": "1674472461.617229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9OZ1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いや買うなら僕の方で買うんでいいですよ。\nでも、実はまだ事務所にあるので、次の土曜日の時に持って行きます。明後日の分は土曜日に。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674471565.209849",
+        "parent_user_id": "U03Q17LBJP3"
+    },
+    {
+        "client_msg_id": "7ef90f1c-40b7-43e9-bf75-34a20a4b4ab7",
+        "type": "message",
+        "text": "了解しました！",
+        "user": "U04J38PLGM6",
+        "ts": "1674472525.105569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QMCCD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解しました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674471565.209849",
+        "parent_user_id": "U03Q17LBJP3"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF> 37、51-60を DROP BOXからハードディスクに移しました。",
+        "user": "U04J38PLGM6",
+        "ts": "1674474530.387299",
+        "thread_ts": "1674471565.209849",
+        "root": {
+            "client_msg_id": "6eca50d5-dba3-4075-bbcb-912506cf3ff7",
+            "type": "message",
+            "text": "<@U03CXUXB5PF> dropboxの容量がいっぱいになっていました･･･\nご対応をよろしくお願いします。",
+            "user": "U03Q17LBJP3",
+            "ts": "1674471565.209849",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ql2d=",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03CXUXB5PF"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " dropboxの容量がいっぱいになっていました･･･\nご対応をよろしくお願いします。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1674471565.209849",
+            "reply_count": 6,
+            "reply_users_count": 2,
+            "latest_reply": "1674477360.475009",
+            "reply_users": [
+                "U03CXUXB5PF",
+                "U04J38PLGM6"
+            ],
+            "replies": [
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1674471729.411229"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1674472405.771449"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1674472461.617229"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1674472525.105569"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1674474530.387299"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1674477360.475009"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1674477360.475009"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D0tvo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 37、51-60を DROP BOXからハードディスクに移しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "58156bfd-6155-4a77-a027-e25d362b78ee"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF> 53、54、60はまだ納品していません。",
+        "user": "U04J38PLGM6",
+        "ts": "1674477360.475009",
+        "thread_ts": "1674471565.209849",
+        "root": {
+            "client_msg_id": "6eca50d5-dba3-4075-bbcb-912506cf3ff7",
+            "type": "message",
+            "text": "<@U03CXUXB5PF> dropboxの容量がいっぱいになっていました･･･\nご対応をよろしくお願いします。",
+            "user": "U03Q17LBJP3",
+            "ts": "1674471565.209849",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ql2d=",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03CXUXB5PF"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " dropboxの容量がいっぱいになっていました･･･\nご対応をよろしくお願いします。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1674471565.209849",
+            "reply_count": 6,
+            "reply_users_count": 2,
+            "latest_reply": "1674477360.475009",
+            "reply_users": [
+                "U03CXUXB5PF",
+                "U04J38PLGM6"
+            ],
+            "replies": [
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1674471729.411229"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1674472405.771449"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1674472461.617229"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1674472525.105569"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1674474530.387299"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1674477360.475009"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1674477360.475009"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZMsb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 53、54、60はまだ納品していません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ca13244a-d1d9-4176-8c37-5d6b90a82c47"
+    },
+    {
+        "type": "message",
+        "text": "このプロジェクト複製問題ですが、プロジェクト重複するとややこしくなるらしいので、\n編集マン以外がプロジェクト中身見る時は、\n必ず複製→リネームしてから、というふうにしておきましょうか",
+        "files": [
+            {
+                "id": "F04LV331J8Y",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1674500309.242079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M=EU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "このプロジェクト複製問題ですが、プロジェクト重複するとややこしくなるらしいので、\n編集マン以外がプロジェクト中身見る時は、\n必ず複製→リネームしてから、というふうにしておきましょうか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "99aa1376-a078-45d1-b0a3-b21f516a8a6d",
+        "reactions": [
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 納品済みの回についてはDropboxからプロキシーごと落としました。必要なものを復活するのはDropboxページからできるので何かあれば、ご自身で操作してください。\n*Dropboxのページに移動→削除したファイルを表示→フォルダごとでもファイル単位でも復活できます*",
+        "files": [
+            {
+                "id": "F04L7SBKVKN",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04KQSA1P7H",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "ts": "1674500453.072509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8IX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 納品済みの回についてはDropboxからプロキシーごと落としました。必要なものを復活するのはDropboxページからできるので何かあれば、ご自身で操作してください。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Dropboxのページに移動→削除したファイルを表示→フォルダごとでもファイル単位でも復活できます",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a9d44db1-de30-4700-a826-4bb3870f765e",
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

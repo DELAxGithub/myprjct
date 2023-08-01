@@ -1,0 +1,153 @@
+[
+    {
+        "client_msg_id": "29e9a380-6b04-4fcf-b2a5-6f5c8c35682a",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>  とりあえずいま予定しているロケハンがほぼ終わりました。５日使えそうなスタジオは見つかっていませんが、３日くらいならいけそうなところはありました(小島さん談)。進捗はスプレッドシートに記入してます",
+        "user": "U054HSHFAAH",
+        "ts": "1683710286.784199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JMVe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  とりあえずいま予定しているロケハンがほぼ終わりました。５日使えそうなスタジオは見つかっていませんが、３日くらいならいけそうなところはありました(小島さん談)。進捗はスプレッドシートに記入してます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "3c0472cbdd87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5181600335649_3c0472cbdd874f9a32ff_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Uramoto",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "kuramoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1683502994.812589",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "971a79f3-c96b-4bf2-81c4-f983c4a5f709",
+        "type": "message",
+        "text": "<@U054HSHFAAH> ロケハンお疲れ様でした　ラスト一個のは狭そうだから一旦バラシでいいかなー。",
+        "user": "U03CXUXB5PF",
+        "ts": "1683732010.931739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vo\/3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U054HSHFAAH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ロケハンお疲れ様でした　ラスト一個のは狭そうだから一旦バラシでいいかなー。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1683732010.931739",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1683765788.184219",
+        "reply_users": [
+            "U054HSHFAAH"
+        ],
+        "replies": [
+            {
+                "user": "U054HSHFAAH",
+                "ts": "1683765788.184219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1683765788.184219"
+    },
+    {
+        "client_msg_id": "62c0ab9e-0ccd-4b13-a855-11557f2e1a8f",
+        "type": "message",
+        "text": "了解しました",
+        "user": "U054HSHFAAH",
+        "ts": "1683765788.184219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Mn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解しました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "3c0472cbdd87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5181600335649_3c0472cbdd874f9a32ff_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Uramoto",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "kuramoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1683732010.931739",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

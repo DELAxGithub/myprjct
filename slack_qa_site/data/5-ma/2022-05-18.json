@@ -1,0 +1,93 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1652872533.364389",
+        "user": "U03G0LAPT3N",
+        "text": "<@U03G0LAPT3N>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "f53d5a1b-0d23-4fc3-8bc3-046f938c8886",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> MAチャンネルはこちら",
+        "user": "U03CXUXB5PF",
+        "ts": "1652872567.819039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R\/SyP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " MAチャンネルはこちら"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "65e11824-d27e-4ea3-b2f7-37bef238eec7",
+        "type": "message",
+        "text": "スケジュール\n<https:\/\/docs.google.com\/spreadsheets\/d\/1fNhXUlgPtBFaDS6qKzS985_BUNb98G7KpKgbFTSO21M\/edit?usp=sharing>",
+        "user": "U03CXUXB5PF",
+        "ts": "1652873255.182769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "py9EC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スケジュール\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1fNhXUlgPtBFaDS6qKzS985_BUNb98G7KpKgbFTSO21M\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

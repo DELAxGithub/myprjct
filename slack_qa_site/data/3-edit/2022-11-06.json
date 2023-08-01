@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "d7fdb315-fd29-4bbc-bf2c-d49771004882",
+        "type": "message",
+        "text": "ノイズのレベルは、MAフォルダに一覧ありますので、一回ご確認ください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667747156.547779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SH\/Wz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ノイズのレベルは、MAフォルダに一覧ありますので、一回ご確認ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667223632.163299",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

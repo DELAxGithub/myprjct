@@ -1,0 +1,47 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03P0T4KQMV>\n82河田のCGを入れました。\nよろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F04TC659HFU",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1678450405.368749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Y5b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n82河田のCGを入れました。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "be5d9919-7fa7-49cc-a32c-58e709c32a31",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

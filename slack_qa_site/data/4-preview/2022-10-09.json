@@ -1,0 +1,143 @@
+[
+    {
+        "type": "message",
+        "text": "<@U040YCC00V6> 30和泉って修正を全く手つけてないんですが、10\/8にかきだされてるけどなんかあったっけ？ 1020納品分でもないし",
+        "files": [
+            {
+                "id": "F045U4W165S",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1665320212.496879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LO2z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 30和泉って修正を全く手つけてないんですが、10\/8にかきだされてるけどなんかあったっけ？ 1020納品分でもないし"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1665320258.000000"
+        },
+        "client_msg_id": "03fd3c03-e120-42d9-a7ef-de645eeb91a1",
+        "thread_ts": "1665320212.496879",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1665322166.123899",
+        "reply_users": [
+            "U040YCC00V6",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U040YCC00V6",
+                "ts": "1665321958.661269"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665322166.123899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1665322166.123899"
+    },
+    {
+        "client_msg_id": "144B02E9-4F56-4806-8532-E3CFAE60FD4D",
+        "type": "message",
+        "text": "これ最初、全く関係ないテロップとかが入っていたらしいです。サイヤさんからもこれ合ってないよね？と連絡合ったので",
+        "user": "U040YCC00V6",
+        "ts": "1665321958.661269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GuwZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これ最初、全く関係ないテロップとかが入っていたらしいです。サイヤさんからもこれ合ってないよね？と連絡合ったので"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665320212.496879",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "d5730cac-6abd-4d47-8410-5645bb0e3edf",
+        "type": "message",
+        "text": "さいやさん用？なら書き出ししなくてもファイル転送でいいような気もしますが、まぁ関係ないReplayにおいとくとややこしくなるので不要なら（役割をおえたら）、削除しちゃってください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665322166.123899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bj3M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "さいやさん用？なら書き出ししなくてもファイル転送でいいような気もしますが、まぁ関係ないReplayにおいとくとややこしくなるので不要なら（役割をおえたら）、削除しちゃってください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665320212.496879",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

@@ -1,0 +1,219 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03HJRZK295> 書き出しですけど、設定とか手元にあります？どうやるのが早いのかちょっと検証中ですが、\n書き出したいものを複数選択→書き出し→設定はここにおきました（プロキシを使った書き出しです）\n\/kin production Dropbox\/KODERA Hiroshi\/KDDI2022\/10_Output\/1試写0806.epr\n\n→書き出し先はKDDI_試写\n→ドロップボックス上にアップされたら\n\n<https:\/\/replay.dropbox.com\/folder\/pid_rf:AAAAALvlzRKMt-l470ruouvgx5anCcb4QptiRSeSCTTnslxW>\nここにアクセスして、ドロップボックス上で新規書き出ししたものを追加\n\nになります\n\n31の土井さんまで書き出し終わったところで、\nまるやまさん、渡辺さんにお声がけします。\n\nってことで、テストでなんか書き出し一個試してみてもらえます？どれも最後までやってないんですが、パックンのep3とかかな。",
+        "files": [
+            {
+                "id": "F03SM0PTKK5",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1659770235.068759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "meDPq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 書き出しですけど、設定とか手元にあります？どうやるのが早いのかちょっと検証中ですが、\n書き出したいものを複数選択→書き出し→設定はここにおきました（プロキシを使った書き出しです）\n\/kin production Dropbox\/KODERA Hiroshi\/KDDI2022\/10_Output\/1試写0806.epr\n\n→書き出し先はKDDI_試写\n→ドロップボックス上にアップされたら\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/replay.dropbox.com\/folder\/pid_rf:AAAAALvlzRKMt-l470ruouvgx5anCcb4QptiRSeSCTTnslxW"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nここにアクセスして、ドロップボックス上で新規書き出ししたものを追加\n\nになります\n\n31の土井さんまで書き出し終わったところで、\nまるやまさん、渡辺さんにお声がけします。\n\nってことで、テストでなんか書き出し一個試してみてもらえます？どれも最後までやってないんですが、パックンのep3とかかな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a1539f56-4ed6-4f0c-bcfd-0e8b7149dae1",
+        "thread_ts": "1659770235.068759",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1659771111.178699",
+        "reply_users": [
+            "U03HJRZK295",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03HJRZK295",
+                "ts": "1659770418.573299"
+            },
+            {
+                "user": "U03HJRZK295",
+                "ts": "1659770979.269259"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1659771111.178699"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1659771111.178699",
+        "attachments": [
+            {
+                "from_url": "https:\/\/replay.dropbox.com\/folder\/pid_rf:AAAAALvlzRKMt-l470ruouvgx5anCcb4QptiRSeSCTTnslxW",
+                "image_url": "https:\/\/cfl.dropboxstatic.com\/static\/metaserver\/static\/images\/reel\/unfurl-image-vflJ2sZZi.jpeg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 115485,
+                "id": 1,
+                "original_url": "https:\/\/replay.dropbox.com\/folder\/pid_rf:AAAAALvlzRKMt-l470ruouvgx5anCcb4QptiRSeSCTTnslxW",
+                "fallback": "Dropbox Replay",
+                "text": "Dropbox Replay allows creative teams to better create, collaborate on and deliver content. No Dropbox account is required to give feedback.",
+                "title": "Dropbox Replay",
+                "title_link": "https:\/\/replay.dropbox.com\/folder\/pid_rf:AAAAALvlzRKMt-l470ruouvgx5anCcb4QptiRSeSCTTnslxW",
+                "service_name": "dropbox.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03HJRZK295"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e0bbabcb-9e59-4892-9c57-8445f069a33d",
+        "type": "message",
+        "text": "テスト兼ねてパックンep3やってみます",
+        "user": "U03HJRZK295",
+        "ts": "1659770418.573299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ma0nl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "テスト兼ねてパックンep3やってみます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659770235.068759",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "アップロードしてみました",
+        "files": [
+            {
+                "id": "F03SJ53GA13",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03HJRZK295",
+        "display_as_bot": false,
+        "ts": "1659770979.269259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fC2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アップロードしてみました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "09efb00e-7a02-41eb-8665-f4ce343212ef",
+        "thread_ts": "1659770235.068759",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "947cf5e0-6da5-4ff3-a444-26f924a41315",
+        "type": "message",
+        "text": "打ち合わせなくても大丈夫そうですね　まとめ・あらすじなど更新したらお知らせします、、",
+        "user": "U03CXUXB5PF",
+        "ts": "1659771111.178699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nu6Jz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "打ち合わせなくても大丈夫そうですね　まとめ・あらすじなど更新したらお知らせします、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659770235.068759",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

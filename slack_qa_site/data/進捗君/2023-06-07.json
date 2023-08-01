@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03RA83HRN0> #106-3総集編 北川で変更がありました\n変更前：返事待ち\n変更後：本人編集\n担当者は石橋です",
+        "ts": "1686155905.449779",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G2ay",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #106-3総集編 北川で変更がありました\n変更前：返事待ち\n変更後：本人編集\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#90秋元雄史で変更がありました\n変更前：技術確認\n変更後：納品試写\n担当者は濱地です",
+        "ts": "1686189693.839649",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P5\/7i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#90秋元雄史で変更がありました\n変更前：技術確認\n変更後：納品試写\n担当者は濱地です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

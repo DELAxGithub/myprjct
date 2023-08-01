@@ -1,0 +1,438 @@
+[
+    {
+        "client_msg_id": "bcfb4ea3-bdc7-4b9b-af44-9c11bb95ec83",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>こちらは、私が作成という認識でよろしいでしょうか？すいません、他にも画像作成のスタッフさんがいるのか知らないので、確認させてください。",
+        "user": "U041XC6213P",
+        "ts": "1666945203.763729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jkM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "こちらは、私が作成という認識でよろしいでしょうか？すいません、他にも画像作成のスタッフさんがいるのか知らないので、確認させてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666934753.164199",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> イラスト作成しました。ご確認ください。",
+        "files": [
+            {
+                "id": "F048J4UEMPD",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F0483LYHG8P",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U041XC6213P",
+        "ts": "1666954220.941299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rcV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " イラスト作成しました。ご確認ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "350cef93-1f85-412a-8563-d773ea5fa1a5",
+        "thread_ts": "1666934753.164199",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9a0e54ee-c435-4f4a-819f-929b7443b9a0",
+        "type": "message",
+        "text": "<@U041XC6213P> ありがとうございます。",
+        "user": "U03CXUXB5PF",
+        "ts": "1666958914.695469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SOWB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666934753.164199",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U041XC6213P> ワークフローとして納品ってどうやってるんでしたっけ？\nDropboxのCGにある個別のフォルダ\n書き出しとPSDと両方入れておいていただく\nってのが理想ですが、\nそれがややこしいならひとまずDropboxのCGにアップロードっていうことはできます\n\n<https:\/\/www.dropbox.com\/request\/MI7NU9knFlZlO1bYG05G>",
+        "files": [
+            {
+                "id": "F048X69PGKT",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1666959074.796719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "javbn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ワークフローとして納品ってどうやってるんでしたっけ？\nDropboxのCGにある個別のフォルダ\n書き出しとPSDと両方入れておいていただく\nってのが理想ですが、\nそれがややこしいならひとまずDropboxのCGにアップロードっていうことはできます\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/request\/MI7NU9knFlZlO1bYG05G"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "206daf1a-c847-4661-b4fc-a7f2c31b996c",
+        "thread_ts": "1666959074.796719",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1666961383.650709",
+        "reply_users": [
+            "U041XC6213P",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U041XC6213P",
+                "ts": "1666960202.870319"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1666961383.650709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1666961383.650709",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.dropbox.com\/request\/MI7NU9knFlZlO1bYG05G",
+                "thumb_url": "https:\/\/cfl.dropboxstatic.com\/static\/metaserver\/static\/images\/logo_catalog\/dropbox_webclip_200_vis.png",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/www.dropbox.com\/request\/MI7NU9knFlZlO1bYG05G",
+                "fallback": "Dropbox: Dropbox - Submit files",
+                "text": "Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily. Never email yourself a file again!",
+                "title": "Dropbox - Submit files",
+                "title_link": "https:\/\/www.dropbox.com\/request\/MI7NU9knFlZlO1bYG05G",
+                "service_name": "Dropbox"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a13ff13f-037b-4561-9bed-aea67162d19f",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>　納品は、小山さん（以前は福田さん）にレイヤー分けしたaiデータと書き出したpngをお渡ししています。費用のこともあるので、その際に小山さんと何枚作成したかも確認しています。直接dropboxに入れた方がよろしいでしょうか？",
+        "user": "U041XC6213P",
+        "ts": "1666960202.870319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ld47w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　納品は、小山さん（以前は福田さん）にレイヤー分けしたaiデータと書き出したpngをお渡ししています。費用のこともあるので、その際に小山さんと何枚作成したかも確認しています。直接dropboxに入れた方がよろしいでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666959074.796719",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "206f9c45-a1a4-465b-bebf-39c61d8b59c6",
+        "type": "message",
+        "text": "流れはいいと思いますが、受け渡しをDropbox上にしたら作業とのタイムラグがなくていいのかなと。",
+        "user": "U03CXUXB5PF",
+        "ts": "1666961383.650709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oIJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "流れはいいと思いますが、受け渡しをDropbox上にしたら作業とのタイムラグがなくていいのかなと。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666959074.796719",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1dd730db-12fc-45d0-bbda-027709509fcd",
+        "type": "message",
+        "text": "<@U041XC6213P> ということで41平の納品をお願いします",
+        "user": "U03CXUXB5PF",
+        "ts": "1666995437.541149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IKvyP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ということで41平の納品をお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666995437.541149",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1667012238.511199",
+        "reply_users": [
+            "U041XC6213P"
+        ],
+        "replies": [
+            {
+                "user": "U041XC6213P",
+                "ts": "1667012238.511199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1667012238.511199",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "99bb6d02-03c8-4b59-aba3-00fffbe303b3",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> データ納品完了しました。",
+        "user": "U041XC6213P",
+        "ts": "1667012238.511199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rp=qS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " データ納品完了しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666995437.541149",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

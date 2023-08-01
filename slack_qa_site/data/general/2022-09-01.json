@@ -1,0 +1,114 @@
+[
+    {
+        "client_msg_id": "2778a5f0-b45b-4004-af73-0892c15b688b",
+        "type": "message",
+        "text": "```<https:\/\/news.kddi.com\/kddi\/corporate\/newsrelease\/2022\/09\/01\/6228.html>```\n",
+        "user": "U03CXUXB5PF",
+        "ts": "1662030016.278939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W1BB6",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/news.kddi.com\/kddi\/corporate\/newsrelease\/2022\/09\/01\/6228.html"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b278b022-d8e8-44b4-8a59-12e86d9ec99e",
+        "type": "message",
+        "text": "<https:\/\/news.kddi.com\/kddi\/corporate\/newsrelease\/2022\/09\/01\/6228.html>\nイーオンとKDDI、社会人向けリベラルアーツプログラムを9月1日から提供開始\n\nこちらが正式にオープンしました。\n10月から毎月5~10本追加でして、そのうち5本を仕上げ中です。皆様引き続きよろしくお願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1662032087.210949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z+3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/news.kddi.com\/kddi\/corporate\/newsrelease\/2022\/09\/01\/6228.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nイーオンとKDDI、社会人向けリベラルアーツプログラムを9月1日から提供開始\n\nこちらが正式にオープンしました。\n10月から毎月5~10本追加でして、そのうち5本を仕上げ中です。皆様引き続きよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/news.kddi.com\/kddi\/corporate\/newsrelease\/2022\/09\/01\/6228.html",
+                "image_url": "https:\/\/news.kddi.com\/kddi\/corporate\/newsrelease\/2022\/09\/01\/image\/p_index_p629_01.png",
+                "image_width": 672,
+                "image_height": 250,
+                "image_bytes": 460657,
+                "service_icon": "https:\/\/news.kddi.com\/common\/img\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/news.kddi.com\/kddi\/corporate\/newsrelease\/2022\/09\/01\/6228.html",
+                "fallback": "イーオンとKDDI、社会人向けリベラルアーツプログラムを9月1日から提供開始",
+                "text": "KDDIのニュースリリース　イーオンとKDDI、社会人向けリベラルアーツプログラムを9月1日から提供開始",
+                "title": "イーオンとKDDI、社会人向けリベラルアーツプログラムを9月1日から提供開始",
+                "title_link": "https:\/\/news.kddi.com\/kddi\/corporate\/newsrelease\/2022\/09\/01\/6228.html",
+                "service_name": "news.kddi.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03P0T4KQMV",
+                    "U03NJATSEBH"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

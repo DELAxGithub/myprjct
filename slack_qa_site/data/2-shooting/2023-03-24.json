@@ -1,0 +1,768 @@
+[
+    {
+        "client_msg_id": "a64957cb-12c2-49c0-a5fd-f7d9666eacb9",
+        "type": "message",
+        "text": "<@U04J38PLGM6> 今日の進捗どうですか？",
+        "user": "U03CXUXB5PF",
+        "ts": "1679649927.927129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GNAz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今日の進捗どうですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679649927.927129",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1679651014.896029",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1679651014.896029"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1679651014.896029"
+    },
+    {
+        "client_msg_id": "A474E9A1-8039-4FC7-8237-7E33B7CB8A90",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 88まだ途中ですが、今日中に終わると思います。イラストは話に合うようなのはありませんでした。",
+        "user": "U04J38PLGM6",
+        "ts": "1679651014.896029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pQNBl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 88まだ途中ですが、今日中に終わると思います。イラストは話に合うようなのはありませんでした。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679649927.927129",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF> 遅くなってすみません。今書き込んでいますが、２回目登場の斎藤さんとか泉谷さんのプロフィール、以前のものがないのですが、どこかにありますか？",
+        "user": "U03V84JSHNK",
+        "ts": "1679655146.595279",
+        "thread_ts": "1679232045.454059",
+        "root": {
+            "type": "message",
+            "text": "<@U03V84JSHNK> 出演者プロフィールって８8以降のやつ、ここになかったりする？<https:\/\/docs.google.com\/document\/d\/1B8BRM4HE_-2qs1fsJ43PLLO-Qkt37lSM\/edit?usp=sharing&amp;ouid=101836780845626897528&amp;rtpof=true&amp;sd=true>",
+            "files": [
+                {
+                    "id": "F04U7J1D9RD",
+                    "created": 1679232048,
+                    "timestamp": 1679232048,
+                    "name": "2022年2Qプロフィール（才也加筆）1024.docx",
+                    "title": "2022年2Qプロフィール（才也加筆）1024.docx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "filetype": "docx",
+                    "pretty_type": "Word Document",
+                    "user": "U03CXUXB5PF",
+                    "user_team": "T03CU6RQ154",
+                    "editable": false,
+                    "size": 0,
+                    "mode": "external",
+                    "is_external": true,
+                    "external_type": "gdrive",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/docs.google.com\/document\/d\/1B8BRM4HE_-2qs1fsJ43PLLO-Qkt37lSM\/edit?usp=sharing&ouid=101836780845626897528&rtpof=true&sd=true",
+                    "media_display_type": "unknown",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04U7J1D9RD-13cd3f90e0\/2022___2q____________________________________1024_64.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04U7J1D9RD-13cd3f90e0\/2022___2q____________________________________1024_80.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04U7J1D9RD-13cd3f90e0\/2022___2q____________________________________1024_360.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                    "thumb_360_w": 255,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04U7J1D9RD-13cd3f90e0\/2022___2q____________________________________1024_480.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                    "thumb_480_w": 340,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04U7J1D9RD-13cd3f90e0\/2022___2q____________________________________1024_160.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04U7J1D9RD-13cd3f90e0\/2022___2q____________________________________1024_720.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                    "thumb_720_w": 509,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04U7J1D9RD-13cd3f90e0\/2022___2q____________________________________1024_800.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1131,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04U7J1D9RD-13cd3f90e0\/2022___2q____________________________________1024_960.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                    "thumb_960_w": 679,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04U7J1D9RD-13cd3f90e0\/2022___2q____________________________________1024_1024.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                    "thumb_1024_w": 724,
+                    "thumb_1024_h": 1024,
+                    "thumb_tiny": "AwAwACHSJxS01scc0oGO5oAWijH1ooAKKKKAGscYoDChu1IB\/s0AO3D1oBB6Un\/AaUfTFAC0UUUANYHIwM0uT6UuOaKACiiigAooooA\/\/9k=",
+                    "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/U03CXUXB5PF\/F04U7J1D9RD\/2022___2q____________________________________1024.docx",
+                    "is_starred": false,
+                    "external_id": "1B8BRM4HE_-2qs1fsJ43PLLO-Qkt37lSM",
+                    "external_url": "https:\/\/docs.google.com\/document\/d\/1B8BRM4HE_-2qs1fsJ43PLLO-Qkt37lSM\/edit?usp=sharing&ouid=101836780845626897528&rtpof=true&sd=true",
+                    "has_rich_preview": true,
+                    "file_access": "visible"
+                }
+            ],
+            "upload": false,
+            "user": "U03CXUXB5PF",
+            "display_as_bot": false,
+            "x_files": [
+                "F04U7J1D9RD"
+            ],
+            "ts": "1679232045.454059",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Q8Ut3",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03V84JSHNK"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 出演者プロフィールって８8以降のやつ、ここになかったりする？"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/docs.google.com\/document\/d\/1B8BRM4HE_-2qs1fsJ43PLLO-Qkt37lSM\/edit?usp=sharing&ouid=101836780845626897528&rtpof=true&sd=true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "client_msg_id": "52dca452-59f0-45b2-8970-9939aa8009af",
+            "thread_ts": "1679232045.454059",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1679655146.595279",
+            "reply_users": [
+                "U03V84JSHNK"
+            ],
+            "replies": [
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1679655146.595279"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1679655146.595279"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rl2q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 遅くなってすみません。今書き込んでいますが、２回目登場の斎藤さんとか泉谷さんのプロフィール、以前のものがないのですが、どこかにありますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "68327446-4964-44f7-9514-5c0be93f8064"
+    },
+    {
+        "client_msg_id": "4772b9f4-7002-4ff3-8a0f-7cd15ae501d9",
+        "type": "message",
+        "text": "<@U03V84JSHNK> 2回目の人は前のそのまま使いますー　　91からお願いしますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1679655202.561519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DQInL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 2回目の人は前のそのまま使いますー　　91からお願いしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d426f5b2-2091-4a1a-82fe-a37adf4c6a33",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 了解しました！",
+        "user": "U03V84JSHNK",
+        "ts": "1679655232.962009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+vTb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解しました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4f269223-dfe8-451e-a7c7-3a5439cd1baf",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> #88から下、プロフィール追記しました！",
+        "user": "U03V84JSHNK",
+        "ts": "1679656085.266289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dS9j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #88から下、プロフィール追記しました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679656085.266289",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1679657373.622679",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U03V84JSHNK"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1679657233.469539"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1679657283.332559"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1679657313.879329"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1679657351.739319"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1679657373.622679"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1679657373.622679",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2de322bc-3c2d-440d-b281-67e394c29962",
+        "type": "message",
+        "text": "<@U03V84JSHNK> あれ？　動画用のプロフィールテロップってどちらにある？",
+        "user": "U03CXUXB5PF",
+        "ts": "1679657233.469539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dMF5d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " あれ？　動画用のプロフィールテロップってどちらにある？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679656085.266289",
+        "parent_user_id": "U03V84JSHNK"
+    },
+    {
+        "client_msg_id": "09ebc063-7b07-47a7-8075-448771d7f9ef",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> コメント残した、45頁から下のところにないですか？",
+        "user": "U03V84JSHNK",
+        "ts": "1679657283.332559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0jno",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " コメント残した、45頁から下のところにないですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679656085.266289",
+        "parent_user_id": "U03V84JSHNK"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/document\/d\/1XP5dab7z2NQg3ZXUu9ktUumWW2Rz8hJy\/edit>\n\nこっちみてた\n\n前のですね",
+        "files": [
+            {
+                "id": "F04VCBUFHN0",
+                "created": 1679544294,
+                "timestamp": 1679544294,
+                "name": "2022年2Qプロフィール（才也加筆）2023.3月9日.docx",
+                "title": "2022年2Qプロフィール（才也加筆）2023.3月9日.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U03CXUXB5PF",
+                "user_team": "T03CU6RQ154",
+                "editable": false,
+                "size": 0,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/document\/d\/1XP5dab7z2NQg3ZXUu9ktUumWW2Rz8hJy\/edit?usp=sharing&ouid=101836780845626897528&rtpof=true&sd=true",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04VCBUFHN0-7038076668\/2022___2q____________________________________2023.3___9____64.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04VCBUFHN0-7038076668\/2022___2q____________________________________2023.3___9____80.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04VCBUFHN0-7038076668\/2022___2q____________________________________2023.3___9____360.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360_w": 255,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04VCBUFHN0-7038076668\/2022___2q____________________________________2023.3___9____480.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_480_w": 340,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04VCBUFHN0-7038076668\/2022___2q____________________________________2023.3___9____160.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04VCBUFHN0-7038076668\/2022___2q____________________________________2023.3___9____720.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04VCBUFHN0-7038076668\/2022___2q____________________________________2023.3___9____800.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1131,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04VCBUFHN0-7038076668\/2022___2q____________________________________2023.3___9____960.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_960_w": 679,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04VCBUFHN0-7038076668\/2022___2q____________________________________2023.3___9____1024.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "thumb_tiny": "AwAwACHSJxS01scc0oGO5oAWijH1ooAKKKKAGscYoDChu1IB\/s0AO3D1oBB6Un\/AaUfTFAC0UUUANbqOM0uT6UpGaKACiiigAooooA\/\/2Q==",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/U03CXUXB5PF\/F04VCBUFHN0\/2022___2q____________________________________2023.3___9___.docx",
+                "is_starred": false,
+                "external_id": "1XP5dab7z2NQg3ZXUu9ktUumWW2Rz8hJy",
+                "external_url": "https:\/\/docs.google.com\/document\/d\/1XP5dab7z2NQg3ZXUu9ktUumWW2Rz8hJy\/edit?usp=sharing&ouid=101836780845626897528&rtpof=true&sd=true",
+                "has_rich_preview": true,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "x_files": [
+            "F04VCBUFHN0"
+        ],
+        "ts": "1679657313.879329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X=BQR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1XP5dab7z2NQg3ZXUu9ktUumWW2Rz8hJy\/edit"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nこっちみてた\n\n前のですね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "892e774e-742c-4c5c-ba6e-46349230af1f",
+        "thread_ts": "1679656085.266289",
+        "parent_user_id": "U03V84JSHNK"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/document\/d\/1B8BRM4HE_-2qs1fsJ43PLLO-Qkt37lSM\/edit>\nこっちに書きました。。間違ってました？？",
+        "files": [
+            {
+                "id": "F04U7J1D9RD",
+                "created": 1679232048,
+                "timestamp": 1679232048,
+                "name": "2022年2Qプロフィール（才也加筆）1024.docx",
+                "title": "2022年2Qプロフィール（才也加筆）1024.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U03CXUXB5PF",
+                "user_team": "T03CU6RQ154",
+                "editable": false,
+                "size": 0,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/document\/d\/1B8BRM4HE_-2qs1fsJ43PLLO-Qkt37lSM\/edit?usp=sharing&ouid=101836780845626897528&rtpof=true&sd=true",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04U7J1D9RD-13cd3f90e0\/2022___2q____________________________________1024_64.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04U7J1D9RD-13cd3f90e0\/2022___2q____________________________________1024_80.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04U7J1D9RD-13cd3f90e0\/2022___2q____________________________________1024_360.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360_w": 255,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04U7J1D9RD-13cd3f90e0\/2022___2q____________________________________1024_480.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_480_w": 340,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04U7J1D9RD-13cd3f90e0\/2022___2q____________________________________1024_160.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04U7J1D9RD-13cd3f90e0\/2022___2q____________________________________1024_720.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04U7J1D9RD-13cd3f90e0\/2022___2q____________________________________1024_800.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1131,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04U7J1D9RD-13cd3f90e0\/2022___2q____________________________________1024_960.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_960_w": 679,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F04U7J1D9RD-13cd3f90e0\/2022___2q____________________________________1024_1024.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "thumb_tiny": "AwAwACHSJxS01scc0oGO5oAWijH1ooAKKKKAGscYoDChu1IB\/s0AO3D1oBB6Un\/AaUfTFAC0UUUANYHIwM0uT6UuOaKACiiigAooooA\/\/9k=",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/U03CXUXB5PF\/F04U7J1D9RD\/2022___2q____________________________________1024.docx",
+                "is_starred": false,
+                "external_id": "1B8BRM4HE_-2qs1fsJ43PLLO-Qkt37lSM",
+                "external_url": "https:\/\/docs.google.com\/document\/d\/1B8BRM4HE_-2qs1fsJ43PLLO-Qkt37lSM\/edit?usp=sharing&ouid=101836780845626897528&rtpof=true&sd=true",
+                "has_rich_preview": true,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03V84JSHNK",
+        "display_as_bot": false,
+        "x_files": [
+            "F04U7J1D9RD"
+        ],
+        "ts": "1679657351.739319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mx+Cy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1B8BRM4HE_-2qs1fsJ43PLLO-Qkt37lSM\/edit"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこっちに書きました。。間違ってました？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a5db2631-6656-4f0c-bb96-061286b38bef",
+        "thread_ts": "1679656085.266289",
+        "parent_user_id": "U03V84JSHNK"
+    },
+    {
+        "client_msg_id": "77b5989e-91db-44e0-ab29-5bef48f5cef1",
+        "type": "message",
+        "text": "大丈ですー",
+        "user": "U03CXUXB5PF",
+        "ts": "1679657373.622679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QvVUn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大丈ですー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679656085.266289",
+        "parent_user_id": "U03V84JSHNK",
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "U03V84JSHNK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EBAEAE3E-342A-41C5-B920-566AAA375E12",
+        "type": "message",
+        "text": "@Tetsuya Shindo @Ryousuke Yasunaga \n９１までOP\/ED できました。テロップまで作って編集１に進めてください\n\nリサーチの所要時間がお二人でだいぶ違うみたいで、\n修正依頼で大きく違わないなら、単なる要領の良し悪しなのか、求める完成度なのか、水準が全く違うってのも困るので、\nどっかでお互い擦り合わせるといいかもですね。\n\n新藤さん１２時間、安永さん４時間ってのが目安だそうです\nまぁ回にもよるんだと思いますが、４時間で済むならそれでいいよねという。\nとはいえ、このペースが変わらないようなら、１：３ぐらいに振り分けも変えちゃいましょう。",
+        "user": "U03CXUXB5PF",
+        "ts": "1679707707.971919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ap01o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@Tetsuya Shindo @Ryousuke Yasunaga \n９１までOP\/ED できました。テロップまで作って編集１に進めてください\n\nリサーチの所要時間がお二人でだいぶ違うみたいで、\n修正依頼で大きく違わないなら、単なる要領の良し悪しなのか、求める完成度なのか、水準が全く違うってのも困るので、\nどっかでお互い擦り合わせるといいかもですね。\n\n新藤さん１２時間、安永さん４時間ってのが目安だそうです\nまぁ回にもよるんだと思いますが、４時間で済むならそれでいいよねという。\nとはいえ、このペースが変わらないようなら、１：３ぐらいに振り分けも変えちゃいましょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

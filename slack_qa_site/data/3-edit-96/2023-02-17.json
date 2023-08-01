@@ -1,0 +1,75 @@
+[
+    {
+        "client_msg_id": "80c4e7e8-50e6-468c-b8cc-0ba7e543d22c",
+        "type": "message",
+        "text": "<@U03P0T4KQMV>\nep3で\n魔笛・氷艶をトリキリで使うようにちょっと追加しました。\n追加ってコメントしてる所です",
+        "user": "U03CXUXB5PF",
+        "ts": "1676701099.087589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KXa6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nep3で\n魔笛・氷艶をトリキリで使うようにちょっと追加しました。\n追加ってコメントしてる所です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676701099.087589",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1676747237.874699",
+        "reply_users": [
+            "U03P0T4KQMV",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1676744212.141279"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1676747237.874699"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1676747237.874699",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03P0T4KQMV",
+                    "U03CXUXB5PF"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,292 @@
+[
+    {
+        "client_msg_id": "95b6a5ae-4af2-4e92-abf4-d0b900e5f885",
+        "type": "message",
+        "text": "<@U03V84JSHNK> すみません。alarmyの画像は、どうやってシートに読み込むんでしたっけ？",
+        "user": "U04J38PLGM6",
+        "ts": "1682925899.337389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ylJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すみません。alarmyの画像は、どうやってシートに読み込むんでしたっけ？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682442377.740259",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "8875e1a9-3a42-4cb4-9a9e-b90eebe9931c",
+        "type": "message",
+        "text": "<@U04J38PLGM6> 画像を右クリックして「画像アドレスをコピー」で、URL欄に貼り付けて、それでメニューの「画像挿入」を押せば大丈夫です。",
+        "user": "U03V84JSHNK",
+        "ts": "1682934653.919619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YPo8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 画像を右クリックして「画像アドレスをコピー」で、URL欄に貼り付けて、それでメニューの「画像挿入」を押せば大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682442377.740259",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "BB34D03F-5AB5-4BBB-B4EA-E654C9B81C32",
+        "type": "message",
+        "text": "ありがとうございます！",
+        "user": "U04J38PLGM6",
+        "ts": "1682934694.681899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UCb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682442377.740259",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "&gt; 一点確認ですが、以下の画像（ep3_16分30秒）の出典はどちらになるでしょうか。\n&gt; <https:\/\/riken-share.box.com\/s\/jqyfe0t0n16rjbovvzuqz0k5dd4gic4s>\n&gt;  \n&gt; 恐れ入りますが、念のため確認させていただければと存じます。\n<@U04J38PLGM6> 104の松岡さんのやつ、この写真の出所聞いてきたけど、写真AC？",
+        "files": [
+            {
+                "id": "F055R7TEGE8",
+                "created": 1682937911,
+                "timestamp": 1682937911,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03CXUXB5PF",
+                "user_team": "T03CU6RQ154",
+                "editable": false,
+                "size": 908446,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F055R7TEGE8\/image.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F055R7TEGE8\/download\/image.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F055R7TEGE8-bee823b943\/image_64.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F055R7TEGE8-bee823b943\/image_80.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F055R7TEGE8-bee823b943\/image_360.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360_w": 360,
+                "thumb_360_h": 248,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F055R7TEGE8-bee823b943\/image_480.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_480_w": 480,
+                "thumb_480_h": 330,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F055R7TEGE8-bee823b943\/image_160.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F055R7TEGE8-bee823b943\/image_720.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720_w": 720,
+                "thumb_720_h": 495,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F055R7TEGE8-bee823b943\/image_800.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_800_w": 800,
+                "thumb_800_h": 550,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F055R7TEGE8-bee823b943\/image_960.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_960_w": 960,
+                "thumb_960_h": 661,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F055R7TEGE8-bee823b943\/image_1024.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 705,
+                "original_w": 1106,
+                "original_h": 761,
+                "thumb_tiny": "AwAhADC9NKYgCI2fPZah+1P\/AM+0v6VNM21QcZ5qMTL3X3p2C437U4\/5dpf0o+1v\/wA+0v6US3IUgKoP1pgvM\/8ALMfnT5WTzIf9rf8A59pf0p8NwZJNhidOM5NV3uW4wqgVNAd7o+MZU0rApXH3Jwg+tQAjjI4+nbFTXS7lUbGfnoKreVkcxSfgtK47DZSu\/n0qLI7VP5X\/AEwk\/AUeUP8AnjKPwpqRLiVsk1dsmJwp\/hBqIwjtDL+IqW1jZJc7GQYPUUXuNRsW6KKKRQUUUUAFFFFAH\/\/Z",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/U03CXUXB5PF\/F055R7TEGE8\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03CU6RQ154-F055R7TEGE8-bb8de96ebe",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1682937979.217689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T0hml",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一点確認ですが、以下の画像（ep3_16分30秒）の出典はどちらになるでしょうか。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/riken-share.box.com\/s\/jqyfe0t0n16rjbovvzuqz0k5dd4gic4s"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n \n恐れ入りますが、念のため確認させていただければと存じます。"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 104の松岡さんのやつ、この写真の出所聞いてきたけど、写真AC？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "509f6017-da54-4bce-a87f-8701018160d1"
+    },
+    {
+        "client_msg_id": "2de13653-29de-4942-98b4-57f71a9af92c",
+        "type": "message",
+        "text": "ACです\n<https:\/\/www.photo-ac.com\/main\/search?q=%E7%90%86%E5%8C%96%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80&amp;sl=ja&amp;pp=70&amp;qid=&amp;creator=&amp;ngcreator=&amp;nq=&amp;srt=dlrank&amp;orientation=all&amp;sizesec=all&amp;color=all&amp;model_count=-1&amp;age=all&amp;mdlrlrsec=all&amp;prprlrsec=all|https:\/\/www.photo-ac.com\/main\/search?q=%E7%90%86%E5%8C%96%E5%AD%A6%E7%A0%94%E7%A9%B6%[…]color=all&amp;model_count=-1&amp;age=all&amp;mdlrlrsec=all&amp;prprlrsec=all>",
+        "user": "U04J38PLGM6",
+        "ts": "1682938651.989599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6MQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ACです\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.photo-ac.com\/main\/search?q=%E7%90%86%E5%8C%96%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80&sl=ja&pp=70&qid=&creator=&ngcreator=&nq=&srt=dlrank&orientation=all&sizesec=all&color=all&model_count=-1&age=all&mdlrlrsec=all&prprlrsec=all",
+                                "text": "https:\/\/www.photo-ac.com\/main\/search?q=%E7%90%86%E5%8C%96%E5%AD%A6%E7%A0%94%E7%A9%B6%[…]color=all&model_count=-1&age=all&mdlrlrsec=all&prprlrsec=all"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.photo-ac.com\/main\/search?q=%E7%90%86%E5%8C%96%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80&sl=ja&pp=70&qid=&creator=&ngcreator=&nq=&srt=dlrank&orientation=all&sizesec=all&color=all&model_count=-1&age=all&mdlrlrsec=all&prprlrsec=all",
+                "image_url": "https:\/\/jp.static.photo-ac.com\/assets\/img\/open_grap.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 45887,
+                "service_icon": "https:\/\/jp.static.photo-ac.com\/assets\/img\/shortcut.jpg?v=20220809",
+                "id": 1,
+                "original_url": "https:\/\/www.photo-ac.com\/main\/search?q=%E7%90%86%E5%8C%96%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80&amp;sl=ja&amp;pp=70&amp;qid=&amp;creator=&amp;ngcreator=&amp;nq=&amp;srt=dlrank&amp;orientation=all&amp;sizesec=all&amp;color=all&amp;model_count=-1&amp;age=all&amp;mdlrlrsec=all&amp;prprlrsec=all",
+                "fallback": "写真AC: 理化学研究所の写真素材｜写真素材なら「写真AC」無料（フリー）ダウンロードOK",
+                "text": "「理化学研究所」の無料写真素材を提供する「写真AC」のフリー写真素材は、個人、商用を問わず無料でお使いいただけます。クレジット表記やリンクは一切不要です。Web、DTP、動画などの写真素材としてお使いください。",
+                "title": "理化学研究所の写真素材｜写真素材なら「写真AC」無料（フリー）ダウンロードOK",
+                "title_link": "https:\/\/www.photo-ac.com\/main\/search?q=%E7%90%86%E5%8C%96%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80&sl=ja&pp=70&qid=&creator=&ngcreator=&nq=&srt=dlrank&orientation=all&sizesec=all&color=all&model_count=-1&age=all&mdlrlrsec=all&prprlrsec=all",
+                "service_name": "写真AC"
+            }
+        ]
+    }
+]

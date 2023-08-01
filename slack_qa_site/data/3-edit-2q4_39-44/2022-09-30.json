@@ -1,0 +1,178 @@
+[
+    {
+        "client_msg_id": "2a4acc3b-4d9d-4222-8e04-ad42e784644c",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U040YCC00V6>\n42_松本、テロップ修正など終えてます",
+        "user": "U03QQ3J656Z",
+        "ts": "1664572510.910149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gJf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n42_松本、テロップ修正など終えてます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "75b05e92-bda2-496c-a1c7-5372120ab43f",
+        "type": "message",
+        "text": "<@U03QQ3J656Z> 一回目の手元試写ですね、書き出します。",
+        "user": "U03CXUXB5PF",
+        "ts": "1664573017.704799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5a2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 一回目の手元試写ですね、書き出します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "書き出しました\n制作に引き継ぐ箇所にはpremiereでマーカーを、\nMAに引き継ぐ箇所にはtwをお願いします\n終わったらクライアントに内容試写に回します",
+        "files": [
+            {
+                "id": "F044PUVA41H",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1664574336.734529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vwilg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "書き出しました\n制作に引き継ぐ箇所にはpremiereでマーカーを、\nMAに引き継ぐ箇所にはtwをお願いします\n終わったらクライアントに内容試写に回します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4e65543c-3def-4ca3-9b88-8eb48716ed90"
+    },
+    {
+        "client_msg_id": "5628415f-62e4-4a90-a20e-1b717dc0e9fe",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n＃43平岡編集1完了しています。\n\n①取り切りでイメージ指示のない箇所、またイメージがDropboxにない箇所は台本上に「待ち」と記載しています\n②雑音がかなりひどく、パックンの処理を参考に音声絞れるところは絞ってみましたが\n    数秒間ずっと音がなっている箇所は台本上にコメント、またシーケンス上にマーカー引いています\n\n9月30日過ぎてしまって申し訳ないです。よろしくお願いします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1664605343.533239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=5gBI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n＃43平岡編集1完了しています。\n\n①取り切りでイメージ指示のない箇所、またイメージがDropboxにない箇所は台本上に「待ち」と記載しています\n②雑音がかなりひどく、パックンの処理を参考に音声絞れるところは絞ってみましたが\n    数秒間ずっと音がなっている箇所は台本上にコメント、またシーケンス上にマーカー引いています\n\n9月30日過ぎてしまって申し訳ないです。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03NZ0E09JN",
+                    "U03CXUXB5PF"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

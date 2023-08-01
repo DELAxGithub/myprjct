@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "0b321845-ae15-4287-ae62-7fbe126167ef",
+        "type": "message",
+        "text": "<@U03G0LAPT3N>\n68多湖のMA用QT&amp;OMFをアップいたしました。\nよろしくお願いいたします。",
+        "user": "U03Q17LBJP3",
+        "ts": "1674483415.465779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xPseU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n68多湖のMA用QT&OMFをアップいたしました。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674483415.465779",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1674484157.412489",
+        "reply_users": [
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1674484157.412489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8DD989A4-5AF1-49A7-A19D-4D08D91B95A0",
+        "type": "message",
+        "text": "確認させていただきます。",
+        "user": "U03G0LAPT3N",
+        "ts": "1674484157.412489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pKk49",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "確認させていただきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674483415.465779",
+        "parent_user_id": "U03Q17LBJP3"
+    }
+]

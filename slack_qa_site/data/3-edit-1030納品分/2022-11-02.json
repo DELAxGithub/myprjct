@@ -1,0 +1,287 @@
+[
+    {
+        "client_msg_id": "19CADB8E-3172-4F77-A7A1-6510A8254FE8",
+        "type": "message",
+        "text": "最初のはフォローいらないですね。内容同じですし。二つ目は注釈入れるタイミングもっとべつのところにあるとおもいました。星新一が主題なので。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667374443.990189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GJRSo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "最初のはフォローいらないですね。内容同じですし。二つ目は注釈入れるタイミングもっとべつのところにあるとおもいました。星新一が主題なので。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "429ce402-a43f-4db0-8af1-b09a27ecfba0",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> #30和泉 Replay試写2アップしました。\nご確認をよろしくお願いいたします。",
+        "user": "U03Q17LBJP3",
+        "ts": "1667382156.749289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CZV8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #30和泉 Replay試写2アップしました。\nご確認をよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03QQ3J656Z>\noutputに上がってる、2.0ってやつ\n→MA直後の修正を反映した2.1っていうことで大丈夫ですか？\n一応確認でした。\n\nMA反映＝2.0 　：これはクライアントが通し試写\n一回め直し＝2.1：2.0の修正箇所のみ試写・このバージョンを出演者へ\n２回め直し=2.2 ：2.1の再修正のみ試写\n最終：納品画質で書き出しし、クライアント通し試写\n\nっていう感じです。",
+        "files": [
+            {
+                "id": "F049V1N96L8",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1667393070.553659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B=NS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\noutputに上がってる、2.0ってやつ\n→MA直後の修正を反映した2.1っていうことで大丈夫ですか？\n一応確認でした。\n\nMA反映＝2.0 　：これはクライアントが通し試写\n一回め直し＝2.1：2.0の修正箇所のみ試写・このバージョンを出演者へ\n２回め直し=2.2 ：2.1の再修正のみ試写\n最終：納品画質で書き出しし、クライアント通し試写\n\nっていう感じです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "633a244b-2ba7-4bf8-b8cc-80d6287050f5",
+        "thread_ts": "1667393070.553659",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1667442888.596039",
+        "reply_users": [
+            "U03QQ3J656Z"
+        ],
+        "replies": [
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1667442888.596039"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1667442888.596039"
+    },
+    {
+        "client_msg_id": "835CC0C9-9E1D-4890-ABC2-6153E369F320",
+        "type": "message",
+        "text": "その通りです",
+        "user": "U03QQ3J656Z",
+        "ts": "1667442888.596039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gP0Rh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "その通りです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667393070.553659",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1aead35b-c537-4e82-8371-52d563cf8e5f",
+        "type": "message",
+        "text": "<@U03Q17LBJP3>\n```浅羽さんep1　5分6秒以降、固まってしまい視聴することができませんので\n環境の問題かとも思いましたので、5回ほど試しましたが、5分6秒以前は見ることができます。```\nだそうです・確認再アップをお願いしますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1667449296.451159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eIYw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "浅羽さんep1　5分6秒以降、固まってしまい視聴することができませんので\n環境の問題かとも思いましたので、5回ほど試しましたが、5分6秒以前は見ることができます。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "だそうです・確認再アップをお願いしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667449296.451159",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1667533499.731729",
+        "reply_users": [
+            "U03Q17LBJP3",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1667466051.870999"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1667477716.312809"
+            },
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1667533499.731729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1667533499.731729",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

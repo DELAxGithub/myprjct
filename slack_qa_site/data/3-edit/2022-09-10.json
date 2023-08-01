@@ -1,0 +1,1132 @@
+[
+    {
+        "client_msg_id": "9C408028-92F3-4DCD-BB04-C9A93BEF4089",
+        "type": "message",
+        "text": "どれ直すかはまだきめきれてないので、週明けに指示をまとめます！ありがとうございます",
+        "user": "U03CXUXB5PF",
+        "ts": "1662796102.418959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cRIX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どれ直すかはまだきめきれてないので、週明けに指示をまとめます！ありがとうございます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662763660.095599",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 39_matsunagaのテロップ、ファイル名も変更をお願いしますーオフラインになってしまうようです",
+        "files": [
+            {
+                "id": "F0427QLVBCZ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1662798257.451079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sOr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 39_matsunagaのテロップ、ファイル名も変更をお願いしますーオフラインになってしまうようです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "16007f88-d39e-4868-b84d-2fd0b1a32db6",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "765bc08c-71cc-4ead-b04b-4b53003535a3",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n43_平岡作業開始しました。\n素材ダウンロードに時間がかかってしまい現在テキストのみで音は拾わずとりあえず台本通りにカット中です。\nダウンロードでき次第、音を拾って正式に粗編入ります。\n\nひとつご質問です。\nプロキシ「FX6B_2577_Proxy」がシーケンスに入っているのですが、そちら12秒しかなくおそらく正しいのが「FX6B_2577_1_Proxy.mov」のようです。\nこの場合、こちらで差し替えなどしても問題ないのでしょうか？\n\nご確認よろしくお願いします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1662799173.802339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HDXm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n43_平岡作業開始しました。\n素材ダウンロードに時間がかかってしまい現在テキストのみで音は拾わずとりあえず台本通りにカット中です。\nダウンロードでき次第、音を拾って正式に粗編入ります。\n\nひとつご質問です。\nプロキシ「FX6B_2577_Proxy」がシーケンスに入っているのですが、そちら12秒しかなくおそらく正しいのが「FX6B_2577_1_Proxy.mov」のようです。\nこの場合、こちらで差し替えなどしても問題ないのでしょうか？\n\nご確認よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662763660.095599",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "95dec34e-c4e3-451d-b62e-415bf0a9944f",
+        "type": "message",
+        "text": "<@U03P0T4KQMV> お手数をおかけします。さすがに二度手間になるので、一旦ダウンロードお待ちいただいた方がいいかも。あと、正しいのに差し替え、多分問題ない、と思います。一旦差し替えたらこちらでも再現してみますので、ご連絡ください。\n差し替えって、元データと名前揃えるっていうことで、古い12秒のをドロップボックスから削除、ちゃんとした_1のを改名、っていう感じですかね。",
+        "user": "U03CXUXB5PF",
+        "ts": "1662799364.094719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JCNyz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お手数をおかけします。さすがに二度手間になるので、一旦ダウンロードお待ちいただいた方がいいかも。あと、正しいのに差し替え、多分問題ない、と思います。一旦差し替えたらこちらでも再現してみますので、ご連絡ください。\n差し替えって、元データと名前揃えるっていうことで、古い12秒のをドロップボックスから削除、ちゃんとした_1のを改名、っていう感じですかね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662763660.095599",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "be20aaae-aaaf-4ec7-a9e1-c4dc3c290d4a",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nありがとうございます、ダウンロード進んでいたのですがこちらで設定を変えてしまったせいで再び時間がかかってしまっている、、、という状況です:disappointed_relieved:\n\n差し替えについてはそうですね、古いデータ削除した方がフォルダ的にもわかりやすくよいかと思いますので、そうさせていただきます。\n\n諸々ダウンロードでき次第そちらの反映を行い、再度ご連絡させていただきます:woman-bowing:",
+        "user": "U03P0T4KQMV",
+        "ts": "1662799554.177759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ePfl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nありがとうございます、ダウンロード進んでいたのですがこちらで設定を変えてしまったせいで再び時間がかかってしまっている、、、という状況です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed_relieved",
+                                "unicode": "1f625"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n差し替えについてはそうですね、古いデータ削除した方がフォルダ的にもわかりやすくよいかと思いますので、そうさせていただきます。\n\n諸々ダウンロードでき次第そちらの反映を行い、再度ご連絡させていただきます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662763660.095599",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "04084391-b798-4c49-98a9-cb2aba411b16",
+        "type": "message",
+        "text": "<@U03NJATSEBH> パックン、って本番MAの音源で作業してないかも。。\nKDDI2022\/8_MA\/本編\/29_Pakkun_MIX WAV_220906\nDropboxに本番MAの音源が上にきてるはずなので、それをpremiereに読み込んでカンパケですが、シーケンスにも見当たらないので、多分やってないかも。\nって、ことで今入れました。。惜しいのは、編集がガッツリ入った３のMAがやり直しになってしまうこと。。\nってことで、やっぱり本番MAを引き直して、編集やり直した方がいいかも。試写も二度手間になるので。。今の編集はリネームで残しつつ、修正編集やる前のシーケンスを復活とかですかね。難しかったらお知らせください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1662800265.638979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a06",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " パックン、って本番MAの音源で作業してないかも。。\nKDDI2022\/8_MA\/本編\/29_Pakkun_MIX WAV_220906\nDropboxに本番MAの音源が上にきてるはずなので、それをpremiereに読み込んでカンパケですが、シーケンスにも見当たらないので、多分やってないかも。\nって、ことで今入れました。。惜しいのは、編集がガッツリ入った３のMAがやり直しになってしまうこと。。\nってことで、やっぱり本番MAを引き直して、編集やり直した方がいいかも。試写も二度手間になるので。。今の編集はリネームで残しつつ、修正編集やる前のシーケンスを復活とかですかね。難しかったらお知らせください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1662806999.000000"
+        },
+        "thread_ts": "1662763660.095599",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "作業マニュアルのお願い（提案）\n*本番MAとslackについて*\n本番MA後のファイルのインポート（お願い）\n本番MA後は、MAフォルダに、これさえあればあとミュートでOKっていうミックスwavと整音ずみとかBGM・SEとかがある  STEMが納品されます。\n従来はめ替えとお伝えしてたんですが、*これら全てを音声トラックに乗せてください。元々のA1ピン・A2ガンマイクも生かしです。*\n試写回数を当初予定より減らしており尺の変更がある修正が発生しやすい状況です。修正は編集するわけですが、その時にオールミックスだけじゃなくSTEMを持ってこないと最悪MAやり直しになります。なんとなく僕もまぁミックスだけあればいいかと思ってましたが。。\n\nSlackについて（提案）\n*お願い→みたよ→やったよ*　をいちいちコメントするのも時間差ある中で申し訳ないので、\nみたよ、やったよ、はリアクションでも大丈夫です　\nコメントしないと殺伐としますが、あれやりました？っていうコメントが飛び交うのはもっと殺伐としそうで。。\nこれは一応提案ですので、やってみて上手くいかないなら、また変えます。\nお願い一つに自体が複数あったり、二人以上にお願いしてると、どっちのみたよ やったよかわからないので、それはコメントしてもらった方がいいかも、とか。\nまぁ、なんにせよ、ちょっと意識してもらえれば。。\nリアクションもメンション扱いなんで検索できて助かります。\n\nということでお願いします",
+        "files": [
+            {
+                "id": "F041SB43B3P",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1662806890.296889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zmR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "作業マニュアルのお願い（提案）\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "本番MAとslackについて",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n本番MA後のファイルのインポート（お願い）\n本番MA後は、MAフォルダに、これさえあればあとミュートでOKっていうミックスwavと整音ずみとかBGM・SEとかがある  STEMが納品されます。\n従来はめ替えとお伝えしてたんですが、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "これら全てを音声トラックに乗せてください。元々のA1ピン・A2ガンマイクも生かしです。",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n試写回数を当初予定より減らしており尺の変更がある修正が発生しやすい状況です。修正は編集するわけですが、その時にオールミックスだけじゃなくSTEMを持ってこないと最悪MAやり直しになります。なんとなく僕もまぁミックスだけあればいいかと思ってましたが。。\n\nSlackについて（提案）\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願い→みたよ→やったよ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "　をいちいちコメントするのも時間差ある中で申し訳ないので、\nみたよ、やったよ、はリアクションでも大丈夫です　\nコメントしないと殺伐としますが、あれやりました？っていうコメントが飛び交うのはもっと殺伐としそうで。。\nこれは一応提案ですので、やってみて上手くいかないなら、また変えます。\nお願い一つに自体が複数あったり、二人以上にお願いしてると、どっちのみたよ やったよかわからないので、それはコメントしてもらった方がいいかも、とか。\nまぁ、なんにせよ、ちょっと意識してもらえれば。。\nリアクションもメンション扱いなんで検索できて助かります。\n\nということでお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "19aae1f3-05fb-44fc-b780-a1ae790d60ea"
+    },
+    {
+        "client_msg_id": "64da1ead-18d5-42eb-9581-c0a22af81f85",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nパックンMAの件、承知致しました。\n現状別区動画との作業の平行、仕様固めの段階であったりと\n作業が複雑化しつつあること\n私自身もプロジェクトの流れが掴み切れていないこともあり\n今回の事態に陥ったかと考えております。\n\nつきましては、お手数ですがこういった場合は\nファイル名、場所など具体的なご指示を\nいただいてから対応させていただきます。\n作業ロスは双方避けたい事案かと思いますので…\n\n今夜と明日は作業が難しくなってしまったため\n申し訳ございませんが修正対応は月曜とさせていただきます。\n何卒よろしくお願い致します。",
+        "user": "U03NJATSEBH",
+        "ts": "1662817691.043969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WM4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nパックンMAの件、承知致しました。\n現状別区動画との作業の平行、仕様固めの段階であったりと\n作業が複雑化しつつあること\n私自身もプロジェクトの流れが掴み切れていないこともあり\n今回の事態に陥ったかと考えております。\n\nつきましては、お手数ですがこういった場合は\nファイル名、場所など具体的なご指示を\nいただいてから対応させていただきます。\n作業ロスは双方避けたい事案かと思いますので…\n\n今夜と明日は作業が難しくなってしまったため\n申し訳ございませんが修正対応は月曜とさせていただきます。\n何卒よろしくお願い致します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662763660.095599",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a55ad052-cd8d-4519-8b52-5bb4ec710748",
+        "type": "message",
+        "text": "<@U03QQ3J656Z> 42_松本も粗編用の台本になりました　かなり切り貼りしてるので複雑、かつ、切りすぎて不自然に聞こえそうだったらどうするかとかあります。編集どうすんの？これレベルってなってたらお知らせください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1662843626.622169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rd6=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 42_松本も粗編用の台本になりました　かなり切り貼りしてるので複雑、かつ、切りすぎて不自然に聞こえそうだったらどうするかとかあります。編集どうすんの？これレベルってなってたらお知らせください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03QQ3J656Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "790EC2F3-205F-4027-8B58-0E04746EE42A",
+        "type": "message",
+        "text": "\nクライアントから来た文字校正の提案。\nこれ覚えておくのも大変ですね。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1662853000.771149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V\/b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "クライアントから来た文字校正の提案。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "これ覚えておくのも大変ですね。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1662858938.000000"
+        },
+        "thread_ts": "1662853000.771149",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1662857262.348929",
+        "reply_users": [
+            "U03NZ0E09JN",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1662856893.292359"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1662857245.685039"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1662857262.348929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1662857262.348929"
+    },
+    {
+        "client_msg_id": "AB248018-D774-4601-937F-6717CFFE555D",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> アクセス権がないと開けないようです。",
+        "user": "U03NZ0E09JN",
+        "ts": "1662856893.292359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dYX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " アクセス権がないと開けないようです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662853000.771149",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "リベラル・アーツ プログラム for business 文字表記\t\t\n\t\t\n○「…」（真ん中に中黒）\t\t×「...」（下に中黒）\n\t\t\n○「・」（全角）\t\t×「･」（半角）\n\t\t\n○自分たち \t\t×自分達\n\t\t\n○だいたい \t\t×大体\n\t\t\n○いま \t\t×今\n○いまや\t\t×今や\n\t\t\n○ください \t\t×下さい\n\t\t\n○つくる\t\t×作る、創る、造る　\n\t\t\n○あつかう\t\t×扱う",
+        "user": "U03CXUXB5PF",
+        "ts": "1662857245.685039",
+        "thread_ts": "1662853000.771149",
+        "root": {
+            "client_msg_id": "790EC2F3-205F-4027-8B58-0E04746EE42A",
+            "type": "message",
+            "text": "\nクライアントから来た文字校正の提案。\nこれ覚えておくのも大変ですね。。",
+            "user": "U03CXUXB5PF",
+            "ts": "1662853000.771149",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "V\/b",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "クライアントから来た文字校正の提案。"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "これ覚えておくのも大変ですね。。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "edited": {
+                "user": "U03CXUXB5PF",
+                "ts": "1662858938.000000"
+            },
+            "thread_ts": "1662853000.771149",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1662857262.348929",
+            "reply_users": [
+                "U03NZ0E09JN",
+                "U03CXUXB5PF"
+            ],
+            "replies": [
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1662856893.292359"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1662857245.685039"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1662857262.348929"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1662857262.348929"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gxl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リベラル・アーツ プログラム for business 文字表記\t\t"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\t\t"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "○「…」（真ん中に中黒）\t\t×「...」（下に中黒）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\t\t"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "○「・」（全角）\t\t×「･」（半角）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\t\t"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "○自分たち \t\t×自分達"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\t\t"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "○だいたい \t\t×大体"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\t\t"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "○いま \t\t×今"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "○いまや\t\t×今や"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\t\t"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "○ください \t\t×下さい"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\t\t"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "○つくる\t\t×作る、創る、造る　"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\t\t"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "○あつかう\t\t×扱う"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "14DF029D-2116-4DDC-9CE4-F4924AA69773",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BC109296-3CCB-4AB6-B789-ADA78E0634E7",
+        "type": "message",
+        "text": "増えそうです",
+        "user": "U03CXUXB5PF",
+        "ts": "1662857262.348929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hkI7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "増えそうです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662853000.771149",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nごめんなさい。\n２Q4をオフライン保存しようと思ったところ\n「チームプロジェクトをプロジェクトに変換」をやってしまいました。\n変換されたプロジェクトデータをお送りします。\nお手数ですが、「プロジェクトをチームプロジェクトに変換」していただけますでしょうか？",
+        "files": [
+            {
+                "id": "F041PH7S3EJ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03QQ3J656Z",
+        "display_as_bot": false,
+        "ts": "1662858489.426989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UkHmP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nごめんなさい。\n２Q4をオフライン保存しようと思ったところ\n「チームプロジェクトをプロジェクトに変換」をやってしまいました。\n変換されたプロジェクトデータをお送りします。\nお手数ですが、「プロジェクトをチームプロジェクトに変換」していただけますでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7ecbf71a-5397-4fcc-90b0-27e2431802ec"
+    },
+    {
+        "client_msg_id": "33A50CB9-B0C1-45A5-942D-B069B094E8C7",
+        "type": "message",
+        "text": "チームプロジェクトに戻ってみて、作業どこまで残ってるか見てもらえます？一手前まで保存されてるはず。",
+        "user": "U03CXUXB5PF",
+        "ts": "1662858595.255109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UBK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "チームプロジェクトに戻ってみて、作業どこまで残ってるか見てもらえます？一手前まで保存されてるはず。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662858595.255109",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1662859110.928089",
+        "reply_users": [
+            "U03QQ3J656Z",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1662858877.915879"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1662859084.470449"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1662859110.928089"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1662859110.928089"
+    },
+    {
+        "type": "message",
+        "text": "編集データは残っているのですが、\nあるはずのものが見当たりません",
+        "files": [
+            {
+                "id": "F0428QEAFED",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03QQ3J656Z",
+        "display_as_bot": false,
+        "ts": "1662858877.915879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VdA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "編集データは残っているのですが、\nあるはずのものが見当たりません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "986225df-6a41-4c9a-b242-c345832fd6bf",
+        "thread_ts": "1662858595.255109",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "f43c6afb-1773-47aa-8209-e3a09de5014d",
+        "type": "message",
+        "text": "ごめんなさい。\n復元できました。",
+        "user": "U03QQ3J656Z",
+        "ts": "1662859084.470449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dE2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんなさい。\n復元できました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662858595.255109",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "1387255C-BAE2-4904-9826-6AC71C051725",
+        "type": "message",
+        "text": "よかったですー",
+        "user": "U03CXUXB5PF",
+        "ts": "1662859110.928089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6BXsM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "よかったですー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662858595.255109",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "2e6470ee-17da-48ab-a0f6-d30103e31f6d",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n44_筒井　ep1本編のみの尺が26：10となります",
+        "user": "U03QQ3J656Z",
+        "ts": "1662869081.109439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g1KcV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n44_筒井　ep1本編のみの尺が26：10となります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

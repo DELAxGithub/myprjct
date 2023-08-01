@@ -1,0 +1,47 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3>\n98_市川さんの台本、プロフィール部分を変更しました。\n早稲田大学の学部だけなしでお願いします。",
+        "files": [
+            {
+                "id": "F04NJU5BLG7",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1675999410.269879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iy6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n98_市川さんの台本、プロフィール部分を変更しました。\n早稲田大学の学部だけなしでお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4c685fb4-5c9b-41ec-b92b-98def9a0777d",
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

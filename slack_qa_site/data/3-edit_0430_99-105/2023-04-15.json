@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "b36d6341-2dac-4254-b466-31f1f5b7d0cd",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> <@U03CXUXB5PF> 大変お待たせして申し訳ありません。101相馬雅代さんのイメージとテロップをアップしました。よろしくお願いいたします。",
+        "user": "U03V84JSHNK",
+        "ts": "1681621101.986489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7eIv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 大変お待たせして申し訳ありません。101相馬雅代さんのイメージとテロップをアップしました。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

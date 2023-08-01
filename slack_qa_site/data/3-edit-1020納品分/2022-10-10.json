@@ -1,0 +1,125 @@
+[
+    {
+        "client_msg_id": "ab76a1b6-3254-4c58-ab98-c12315c9af3b",
+        "type": "message",
+        "text": "<@U03P0T4KQMV> <@U03QQ3J656Z>\n33と36もtwチェックきました\nMAの音源反映する際にtwも反映をおねがいします\n<https:\/\/replay.dropbox.com\/share-folder\/UdlQ5q9IAmu21hev>\nReplayからXML書き出し→Premiereのシーケンスで読み込み\nってうまくいきました？",
+        "user": "U03CXUXB5PF",
+        "ts": "1665400423.066579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/7t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n33と36もtwチェックきました\nMAの音源反映する際にtwも反映をおねがいします\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/replay.dropbox.com\/share-folder\/UdlQ5q9IAmu21hev"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nReplayからXML書き出し→Premiereのシーケンスで読み込み\nってうまくいきました？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/replay.dropbox.com\/share-folder\/UdlQ5q9IAmu21hev",
+                "image_url": "https:\/\/cfl.dropboxstatic.com\/static\/metaserver\/static\/images\/reel\/unfurl-image-vflJ2sZZi.jpeg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 115485,
+                "id": 1,
+                "original_url": "https:\/\/replay.dropbox.com\/share-folder\/UdlQ5q9IAmu21hev",
+                "fallback": "Dropbox Replay",
+                "text": "Dropbox Replay allows creative teams to better create, collaborate on and deliver content. No Dropbox account is required to give feedback.",
+                "title": "Dropbox Replay",
+                "title_link": "https:\/\/replay.dropbox.com\/share-folder\/UdlQ5q9IAmu21hev",
+                "service_name": "dropbox.com"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1665451672.315119",
+        "user": "U03CXUXB5PF",
+        "text": "<@U03CXUXB5PF>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "07c04a46-ca1f-4cde-9572-38be842d8fe2",
+        "type": "message",
+        "text": "<@U03QQ3J656Z> 30_和泉をこちらにくりあげました\n・台本修正時に、復活した箇所や順番入れ替え箇所、いくつかあります（コメントしてあります）\n・ボイスが３回ありますが、MAフォルダにあります　合成音声は息継ぎが気まぐれなので、間が詰まってたら適宜調整をお願いします\n・クライアントのtw対策で、twチームが修正台本に現在追加箇所を準備しています。twはもう一回シーケンスでお渡しする予定ですが既にReplayである分はReplayのXML経由で作業をお願いします。\n・復活した箇所でイメージカットの追加がしたいなっていうのもあり、「待ち」を入れてますが、かなり汎用性の高いリクエストなので、多分Dropboxのフリーのところ眺めてたら使えそうなやつあると思います　適当に使ってください\n\nこちらを修正作業後にMAとなります。\n\n目標として10\/14にMA発注で、17に2試写、、だといいな。\nよろしくお願いいたします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665452136.927789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1y6T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 30_和泉をこちらにくりあげました\n・台本修正時に、復活した箇所や順番入れ替え箇所、いくつかあります（コメントしてあります）\n・ボイスが３回ありますが、MAフォルダにあります　合成音声は息継ぎが気まぐれなので、間が詰まってたら適宜調整をお願いします\n・クライアントのtw対策で、twチームが修正台本に現在追加箇所を準備しています。twはもう一回シーケンスでお渡しする予定ですが既にReplayである分はReplayのXML経由で作業をお願いします。\n・復活した箇所でイメージカットの追加がしたいなっていうのもあり、「待ち」を入れてますが、かなり汎用性の高いリクエストなので、多分Dropboxのフリーのところ眺めてたら使えそうなやつあると思います　適当に使ってください\n\nこちらを修正作業後にMAとなります。\n\n目標として10\/14にMA発注で、17に2試写、、だといいな。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

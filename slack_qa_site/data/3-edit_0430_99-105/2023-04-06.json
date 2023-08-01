@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "399b6cd1-3c7b-4e7f-97d5-cd4612df0cb7",
+        "type": "message",
+        "text": "<@U04KFCBLY9J> CG第２弾を入れました。\n郡ごとの民主党・共和党得票地図とゲリマンダー説明図です。\nよろしくお願いいたします。",
+        "user": "U04J38PLGM6",
+        "ts": "1680833448.521329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RU6kH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " CG第２弾を入れました。\n郡ごとの民主党・共和党得票地図とゲリマンダー説明図です。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680665312.886239",
+        "parent_user_id": "U04J38PLGM6"
+    },
+    {
+        "client_msg_id": "967D105A-8B6A-43DB-B5D0-453BC669DD6A",
+        "type": "message",
+        "text": "<@U04J38PLGM6> \n承知いたしました！ありがとうございます:blush:！",
+        "user": "U04KFCBLY9J",
+        "ts": "1680834425.554369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w20TC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n承知いたしました！ありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680665312.886239",
+        "parent_user_id": "U04J38PLGM6"
+    }
+]

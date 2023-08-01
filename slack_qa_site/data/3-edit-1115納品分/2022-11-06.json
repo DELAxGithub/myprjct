@@ -1,0 +1,221 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "リクエストも来てないのでなくてもいいですー",
+        "user": "U03CXUXB5PF",
+        "ts": "1667733574.857949",
+        "thread_ts": "1667627585.495289",
+        "root": {
+            "client_msg_id": "e0a7a639-967f-4082-9662-c6101b1b5567",
+            "type": "message",
+            "text": "<@U03CXUXB5PF>\n50森山MA発注しました。\n\n<@U03V84JSHNK> <@U040YCC00V6>\n50森山、1箇所「つげ義春」の画像が抜けておりましたのでご確認お願いいたします。",
+            "user": "U03P0T4KQMV",
+            "ts": "1667627585.495289",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "FBOZ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03CXUXB5PF"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n50森山MA発注しました。\n\n"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03V84JSHNK"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U040YCC00V6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n50森山、1箇所「つげ義春」の画像が抜けておりましたのでご確認お願いいたします。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1667627585.495289",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1667733574.857949",
+            "reply_users": [
+                "U03CXUXB5PF"
+            ],
+            "replies": [
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1667733574.857949"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1667733574.857949"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lU=uG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リクエストも来てないのでなくてもいいですー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "d50f3099-1266-4632-b382-83dade6678d5"
+    },
+    {
+        "client_msg_id": "75033a78-cb22-4e03-ad26-9693ecb88a63",
+        "type": "message",
+        "text": "24三宅,45フジガキのwavきましたー",
+        "user": "U03CXUXB5PF",
+        "ts": "1667739612.031899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "51NV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "24三宅,45フジガキのwavきましたー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "58d33778-f928-4773-93c5-c2a1d35ebdf9",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n49川上のReplay試写１クライアントチェックは済んでいるのでしょうか。in reviewのままですが、コメントは揃っているように見えたので確認でした。",
+        "user": "U03NZ0E09JN",
+        "ts": "1667791765.312079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Meq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n49川上のReplay試写１クライアントチェックは済んでいるのでしょうか。in reviewのままですが、コメントは揃っているように見えたので確認でした。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0b6a0f24-9608-4899-9532-6e6485ba3567",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> すんでますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1667791778.741069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1bc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すんでますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-raising-hand",
+                "users": [
+                    "U03NZ0E09JN",
+                    "U03Q17LBJP3"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

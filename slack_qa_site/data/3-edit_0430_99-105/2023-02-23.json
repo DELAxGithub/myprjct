@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "7691AB90-D737-43FA-9672-175C8E10FC0C",
+        "type": "message",
+        "text": "ありがとうございます:blush:！",
+        "user": "U04KFCBLY9J",
+        "ts": "1677141017.454749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k6w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677130741.157809",
+        "parent_user_id": "U04J38PLGM6"
+    }
+]

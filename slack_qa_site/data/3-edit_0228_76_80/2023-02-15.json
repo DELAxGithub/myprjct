@@ -1,0 +1,170 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U04J38PLGM6>\n77_中尾の引用voiceがまだ来ていないようでした。\nよろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F04PLM2GA0M",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03RA83HRN0",
+        "display_as_bot": false,
+        "ts": "1676452071.149719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XjA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n77_中尾の引用voiceがまだ来ていないようでした。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "975f5404-3b5d-4c9c-8306-ada01a44c5b3",
+        "thread_ts": "1676452071.149719",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1676453092.156989",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1676453092.156989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1676453092.156989"
+    },
+    {
+        "type": "message",
+        "text": "<@U03RA83HRN0> 77_中尾、\nボイス追加入れました。",
+        "files": [
+            {
+                "id": "F04PPMLNGQJ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1676453092.156989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n=Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 77_中尾、\nボイス追加入れました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "d29301fa-b679-4e3a-a7a5-abf59589bb96",
+        "thread_ts": "1676452071.149719",
+        "parent_user_id": "U03RA83HRN0",
+        "subtype": "thread_broadcast",
+        "root": {
+            "type": "message",
+            "text": "<@U03CXUXB5PF> <@U04J38PLGM6>\n77_中尾の引用voiceがまだ来ていないようでした。\nよろしくお願いいたします。",
+            "files": [
+                {
+                    "id": "F04PLM2GA0M",
+                    "mode": "hidden_by_limit"
+                }
+            ],
+            "upload": false,
+            "user": "U03RA83HRN0",
+            "display_as_bot": false,
+            "ts": "1676452071.149719",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "XjA",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03CXUXB5PF"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n77_中尾の引用voiceがまだ来ていないようでした。\nよろしくお願いいたします。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "client_msg_id": "975f5404-3b5d-4c9c-8306-ada01a44c5b3",
+            "thread_ts": "1676452071.149719",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1676453092.156989",
+            "reply_users": [
+                "U04J38PLGM6"
+            ],
+            "replies": [
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1676453092.156989"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1676453092.156989"
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

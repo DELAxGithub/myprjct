@@ -1,0 +1,142 @@
+[
+    {
+        "client_msg_id": "0188315E-4B31-4275-ABC5-2D5D01351ABF",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> \n93_梶谷さんもタイトルとサブタイトルの表記が台本から抜けていたのでご記入お願い致します",
+        "user": "U04JJB0MTB7",
+        "ts": "1680694828.322339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ocg3t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n93_梶谷さんもタイトルとサブタイトルの表記が台本から抜けていたのでご記入お願い致します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "deaf80b8-9e8e-4b09-abce-c749ff826289",
+        "type": "message",
+        "text": "<@U04JJB0MTB7> タイトルとか足しました。ep2の抜けてた取り切りも追加してます。\nなんかぱっと見でフォローとか文字が欠けてたりしてました。すいませんが、一応誤字脱字は試写１前に目で確認をお願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1680697888.887429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Vp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " タイトルとか足しました。ep2の抜けてた取り切りも追加してます。\nなんかぱっと見でフォローとか文字が欠けてたりしてました。すいませんが、一応誤字脱字は試写１前に目で確認をお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "20A131AB-3EA2-40E8-80C8-5643E53132DB",
+        "type": "message",
+        "text": "承知しました！",
+        "user": "U04JJB0MTB7",
+        "ts": "1680698542.123799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ydYt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

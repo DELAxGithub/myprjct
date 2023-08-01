@@ -1,0 +1,139 @@
+[
+    {
+        "type": "message",
+        "text": "試写2~最終までの書き出し運用\n\n現状、書き出し依頼に制作側でのencoderをやってますが、1020に関しては、最終納品版以外、一旦全部編集側で書き出しやるという体制を試してみたいと思います\n\n図にしてみました。\n\n普段やってるようにやってもらうってことですので、特に混乱もないと思いますが、Replayのアップロードだけちょっとだけ一手間です\nDropboxに書き出し後、Replayにてアップロードするのですが、一回やれば分かると思います。\n\nご不明な点ありましたらお問い合わせください",
+        "files": [
+            {
+                "id": "F046MEK6A1G",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04704LBNFK",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "ts": "1665784800.754239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XRAAO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "試写2~最終までの書き出し運用\n\n現状、書き出し依頼に制作側でのencoderをやってますが、1020に関しては、最終納品版以外、一旦全部編集側で書き出しやるという体制を試してみたいと思います\n\n図にしてみました。\n\n普段やってるようにやってもらうってことですので、特に混乱もないと思いますが、Replayのアップロードだけちょっとだけ一手間です\nDropboxに書き出し後、Replayにてアップロードするのですが、一回やれば分かると思います。\n\nご不明な点ありましたらお問い合わせください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "92dc7b52-bb31-44a8-86fe-d682e0340555",
+        "thread_ts": "1665784800.754239",
+        "reply_count": 10,
+        "reply_users_count": 2,
+        "latest_reply": "1665832051.395489",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U03RA83HRN0"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665800798.880049"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1665831169.314969"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665831252.413899"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1665831476.022509"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665831560.674619"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1665831674.345159"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665831734.194889"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1665831864.175529"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1665831891.006839"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665832051.395489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1665832051.395489",
+        "reactions": [
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e1894fa0-af13-4c79-a960-4040c774413f",
+        "type": "message",
+        "text": "書き出しのプリセットは、\n\nKDDI2022\/9_決まり\/encoderプリセット\n\nにあります",
+        "user": "U03CXUXB5PF",
+        "ts": "1665800798.880049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5ErQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "書き出しのプリセットは、\n\nKDDI2022\/9_決まり\/encoderプリセット\n\nにあります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665784800.754239",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

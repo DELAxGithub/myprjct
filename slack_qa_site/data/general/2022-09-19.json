@@ -1,0 +1,178 @@
+[
+    {
+        "client_msg_id": "f5f35eb9-cb3d-47c1-ab6d-9465a75c1ee4",
+        "type": "message",
+        "text": "dropboxのキャッシュ削除とMacの空き容量確保について\n\n45~57のProxyを一回作り直してます\nキャッシュだけでローカルのが爆発しそうな場合、\nOld_filesを消したら容量が確保できるかも\n\/Users\/delax\/kin production Dropbox\/.dropbox.cache\/old_files\n\nあと、僕は容量を減らすために\n<https:\/\/apps.apple.com\/us\/app\/grandperspective\/id1111570163?mt=12>\nこれで可視化してます。300円？2.99ドルなのですが、\n9.99ドルのDaisy diskも入れてますがとほとんど同じなので、こっちでいいかな、と。\nもしタダでいいの知ってたらぜひ。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663601918.841039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lHmR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dropboxのキャッシュ削除とMacの空き容量確保について\n\n45~57のProxyを一回作り直してます\nキャッシュだけでローカルのが爆発しそうな場合、\nOld_filesを消したら容量が確保できるかも\n\/Users\/delax\/kin production Dropbox\/.dropbox.cache\/old_files\n\nあと、僕は容量を減らすために\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/apps.apple.com\/us\/app\/grandperspective\/id1111570163?mt=12"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこれで可視化してます。300円？2.99ドルなのですが、\n9.99ドルのDaisy diskも入れてますがとほとんど同じなので、こっちでいいかな、と。\nもしタダでいいの知ってたらぜひ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/apps.apple.com\/us\/app\/grandperspective\/id1111570163?mt=12",
+                "image_url": "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Purple122\/v4\/f1\/47\/74\/f14774fd-4341-675b-bbfa-8423d635ee61\/GrandPerspective-85-220-4-2x.png\/1200x630bb.png",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 167106,
+                "service_icon": "https:\/\/apps.apple.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/apps.apple.com\/us\/app\/grandperspective\/id1111570163?mt=12",
+                "fallback": "Mac App Store: ‎GrandPerspective",
+                "text": "‎GrandPerspective is a small utility application that graphically shows the disk usage within a file system. It can help you to manage your disk, as you can easily spot which files and folders take up the most space. Disk usage is visualised using tree maps. Each file is shown as a rectangle with an…",
+                "title": "‎GrandPerspective",
+                "title_link": "https:\/\/apps.apple.com\/us\/app\/grandperspective\/id1111570163?mt=12",
+                "service_name": "Mac App Store"
+            }
+        ],
+        "thread_ts": "1663601918.841039",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1663603639.092109",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663603639.092109"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1663603639.092109"
+    },
+    {
+        "type": "message",
+        "text": "こんな感じでドロップボックスのキャッシュ＝赤いやつが占有してるのがわかります",
+        "files": [
+            {
+                "id": "F042ZGK5EF4",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1663603639.092109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H9W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こんな感じでドロップボックスのキャッシュ＝赤いやつが占有してるのがわかります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "af30b857-fc69-42d9-acc7-a5fc7e860b7f",
+        "thread_ts": "1663601918.841039",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "fd781615-81b2-4595-a0b6-ca02f2fa70d6",
+        "type": "message",
+        "text": "音楽の長さ調整はここの動画で解説してます\n10分あるけど、一生使える！（倍速で見ました）\nBGMの長さを一瞬でリミックス！PremierePro新機能！ - YouTube\n<https:\/\/www.youtube.com\/watch?v=gQE4-PLybPQ>",
+        "user": "U03CXUXB5PF",
+        "ts": "1663643081.046899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lprn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "音楽の長さ調整はここの動画で解説してます\n10分あるけど、一生使える！（倍速で見ました）\nBGMの長さを一瞬でリミックス！PremierePro新機能！ - YouTube\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=gQE4-PLybPQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=gQE4-PLybPQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/gQE4-PLybPQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/gQE4-PLybPQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"BGMの長さを一瞬でリミックス！PremierePro新機能！\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=gQE4-PLybPQ",
+                "fallback": "YouTube Video: BGMの長さを一瞬でリミックス！PremierePro新機能！",
+                "title": "BGMの長さを一瞬でリミックス！PremierePro新機能！",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=gQE4-PLybPQ",
+                "author_name": "すいらば \/ SWEETS LOVER CHANNEL",
+                "author_link": "https:\/\/www.youtube.com\/c\/すいらばSWEETSLOVERCHANNEL",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    }
+]

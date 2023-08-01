@@ -1,0 +1,109 @@
+[
+    {
+        "client_msg_id": "672c0952-bd57-4a9b-945e-10b29313b727",
+        "type": "message",
+        "text": "<@U040YCC00V6> 続きは<#C04BB328NAC|3-edit-1215> にて",
+        "user": "U03CXUXB5PF",
+        "ts": "1669329269.024959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7LD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 続きは"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04BB328NAC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にて"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669258990.428299",
+        "parent_user_id": "U03NZ0E09JN"
+    },
+    {
+        "type": "message",
+        "text": "[超重要]音声 左右バランスは確実に。（２回目です）\n\nこれ絶対クライアントからNG出るので、最終になる時に絶対にチェックしてください。\n\nややこしいのが、M Aで作ってもらったwavをシーケンスに乗せる時、モノラルになる場合とステレオになる場合があり、ステレオだったらほっといても左右バランスしてるんですが、モノラルの場合は全トラック-100＝左のみになるのです。\nどうであろうと、試写の段階から書き出しの際には常に左右バランスが取れてることを確認を。",
+        "files": [
+            {
+                "id": "F04CEME3M50",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1669338269.736649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WbYqg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[超重要]音声 左右バランスは確実に。（２回目です）\n\nこれ絶対クライアントからNG出るので、最終になる時に絶対にチェックしてください。\n\nややこしいのが、M Aで作ってもらったwavをシーケンスに乗せる時、モノラルになる場合とステレオになる場合があり、ステレオだったらほっといても左右バランスしてるんですが、モノラルの場合は全トラック-100＝左のみになるのです。\nどうであろうと、試写の段階から書き出しの際には常に左右バランスが取れてることを確認を。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "766eb9fe-272d-4c68-bb45-ee6d2bdda405",
+        "reactions": [
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bulb",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

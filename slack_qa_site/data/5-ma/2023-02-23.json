@@ -1,0 +1,332 @@
+[
+    {
+        "client_msg_id": "C5E635E0-2611-45AC-A376-046E2CA0C2C0",
+        "type": "message",
+        "text": "ありがとうございます！",
+        "user": "U04JJB0MTB7",
+        "ts": "1677145814.145779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xcksP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677121582.601289",
+        "parent_user_id": "U03G0LAPT3N"
+    },
+    {
+        "type": "message",
+        "text": "95フルイチさんのWAVをDropboxにアップしました。\n\nノイズ指摘箇所は確認して、軽減済みです。\n今回、全体的にかなりノイズが多かった為、全体的に強めにノイズ除去を施しております。\nご確認よろしくお願いします:bow:",
+        "files": [
+            {
+                "id": "F04QYTEQ83V",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1677164357.677279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WPeH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "95フルイチさんのWAVをDropboxにアップしました。\n\nノイズ指摘箇所は確認して、軽減済みです。\n今回、全体的にかなりノイズが多かった為、全体的に強めにノイズ除去を施しております。\nご確認よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "D0A6155E-FA3E-4A33-B200-D963F5416244",
+        "thread_ts": "1677164357.677279",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677170284.822599",
+        "reply_users": [
+            "U03RA83HRN0"
+        ],
+        "replies": [
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1677170284.822599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "75藤井さんのWAVをDropboxにアップしました。\nご確認よろしくお願いします:bow:",
+        "files": [
+            {
+                "id": "F04QZ7ED6MR",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1677166849.764589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "33+tp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "75藤井さんのWAVをDropboxにアップしました。\nご確認よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2C9D35C2-1E42-4342-B63A-6D92C374BFE4",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c89a4d47-4c86-403a-bf85-a8f31bfb22f8",
+        "type": "message",
+        "text": "<@U03G0LAPT3N>\nありがとうございます！",
+        "user": "U03RA83HRN0",
+        "ts": "1677170284.822599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z4x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677164357.677279",
+        "parent_user_id": "U03G0LAPT3N"
+    },
+    {
+        "type": "message",
+        "text": "96ミヤモトさんのWAVをDropboxにアップしました。\nご確認よろしくお願いします:bow:",
+        "files": [
+            {
+                "id": "F04R1UVBU2F",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1677192991.199179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+JTU\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "96ミヤモトさんのWAVをDropboxにアップしました。\nご確認よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "FBB6C9A0-C8E4-4405-AB9C-BBB72DD91E6B"
+    },
+    {
+        "client_msg_id": "c5f27c4b-2a89-4ad1-b56e-ddeb5589bd23",
+        "type": "message",
+        "text": "<@U03G0LAPT3N>\n98＿市川のQT&amp;OMFをアップいたしました。\nご確認よろしくお願いいたします。",
+        "user": "U03Q17LBJP3",
+        "ts": "1677216593.636639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EVz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n98＿市川のQT&OMFをアップいたしました。\nご確認よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03G0LAPT3N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84f0681d-bd41-4bd9-abb8-c28b93e902c2",
+        "type": "message",
+        "text": "<@U03G0LAPT3N>\n77_中尾のQT&amp;OMFをアップいたしました。\nep1はvoiceありです。\nよろしくお願いいたします。",
+        "user": "U03RA83HRN0",
+        "ts": "1677225018.839809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vhsv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n77_中尾のQT&OMFをアップいたしました。\nep1はvoiceありです。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03G0LAPT3N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

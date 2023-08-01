@@ -1,0 +1,166 @@
+[
+    {
+        "client_msg_id": "cf94c6c1-58df-4cda-a8f8-fde2dd3678cc",
+        "type": "message",
+        "text": "小寺さん、カメラマンの小島さんと話し、スタジオの申込書を先方に送らなければいけないのですが、スタジオの伊澤さんという方から申込書のメール来ていませんか？私には来ていないらしく。。。<mailto:mikeda@tvu.co.jp|mikeda@tvu.co.jp>まで転送いただけると幸いです:pray:",
+        "user": "U040YCC00V6",
+        "ts": "1665714545.569329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Aq7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "小寺さん、カメラマンの小島さんと話し、スタジオの申込書を先方に送らなければいけないのですが、スタジオの伊澤さんという方から申込書のメール来ていませんか？私には来ていないらしく。。。"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:mikeda@tvu.co.jp",
+                                "text": "mikeda@tvu.co.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "まで転送いただけると幸いです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e0ebfe42-3c66-4a8e-b794-61d00ac7943d",
+        "type": "message",
+        "text": "<@U040YCC00V6> 送りましたー",
+        "user": "U03CXUXB5PF",
+        "ts": "1665714847.628439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t8k8e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 送りましたー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665714847.628439",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1665714928.427179",
+        "reply_users": [
+            "U040YCC00V6"
+        ],
+        "replies": [
+            {
+                "user": "U040YCC00V6",
+                "ts": "1665714928.427179"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1665714928.427179"
+    },
+    {
+        "client_msg_id": "ae518c8e-6ad7-4d58-a661-5e09539520c8",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> ありがとうございます",
+        "user": "U040YCC00V6",
+        "ts": "1665714928.427179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ULIIZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665714847.628439",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

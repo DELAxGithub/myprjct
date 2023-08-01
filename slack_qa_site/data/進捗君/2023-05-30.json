@@ -1,0 +1,100 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#90秋元雄史で変更がありました\n変更前：undefined\n変更後：<https:\/\/www.dropbox.com\/t\/iYnOBZVEMqo4vMM8>\n担当者は濱地です",
+        "ts": "1685442863.388909",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k5M+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#90秋元雄史で変更がありました\n変更前：undefined\n変更後："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/t\/iYnOBZVEMqo4vMM8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n担当者は濱地です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#90秋元雄史で変更がありました\n変更前：編集アップ\n変更後：技術確認\n担当者は濱地です",
+        "ts": "1685442870.219169",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5J=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#90秋元雄史で変更がありました\n変更前：編集アップ\n変更後：技術確認\n担当者は濱地です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#105久野愛で変更がありました\n変更前：納品試写\n変更後：undefined\n担当者は中野です",
+        "ts": "1685494782.570969",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4BjP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#105久野愛で変更がありました\n変更前：納品試写\n変更後：undefined\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

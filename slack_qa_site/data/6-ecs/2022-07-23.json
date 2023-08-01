@@ -1,0 +1,126 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> フォロー調整しました。\n位置の真ん中というのは、下位置の中央という事ですか？それとも画面中央ですか？\n\nあと添付してくれた画像の「ボールド＝フォローテロップスタイル」というマーカーがシーケンス上に見当たらないのですが、、",
+        "files": [
+            {
+                "id": "F03RF21279N",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03L0UFJF70",
+        "display_as_bot": false,
+        "ts": "1658609502.319609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W\/2Cb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " フォロー調整しました。\n位置の真ん中というのは、下位置の中央という事ですか？それとも画面中央ですか？\n\nあと添付してくれた画像の「ボールド＝フォローテロップスタイル」というマーカーがシーケンス上に見当たらないのですが、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "25774a78-afe4-4d14-be07-6bd380a6f4cd",
+        "thread_ts": "1658416911.250849",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "FA0B28D9-F41A-4BD4-B14B-4F4A50C84A28",
+        "type": "message",
+        "text": "あと2時間くらいで返事します！",
+        "user": "U03CXUXB5PF",
+        "ts": "1658610401.267899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TYMlt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あと2時間くらいで返事します！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U03L0UFJF70"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "遅くなりました。なんかいつの間にかシーケンスごと消えてたみたい。 決まりスタイル0723ってやつでフォローのスタイルをお願いします。\n今のっかてるのが、生データ（テロップを自動作成したもの）\nなので、これにオンフォロースタイルを当てるだけで\n・位置は左揃えじゃなくて、真ん中揃え\n・高さは下揃え、\n・フォントはNoto Sansjp RegularかMedium\n（みやすさ次第）\n・エッジはなし（エッジつけちゃうと前回とちょっと印象が違いすぎる）\n。でも、背景が白くても、文字が溶けない\n\nっていうのが理想な感じ。と思ったけど、オンフォロー３っていうやつが視認性の条件満たしてるかも。作ってくれてた？位置をこっちで直したのでフォロー・決定ということで、一旦これで進めようかな。\n<@U03L0UFJF70>",
+        "files": [
+            {
+                "id": "F03QB0V27AT",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F03QB0WAFQX",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "ts": "1658631620.328969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r1fn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "遅くなりました。なんかいつの間にかシーケンスごと消えてたみたい。 決まりスタイル0723ってやつでフォローのスタイルをお願いします。\n今のっかてるのが、生データ（テロップを自動作成したもの）\nなので、これにオンフォロースタイルを当てるだけで\n・位置は左揃えじゃなくて、真ん中揃え\n・高さは下揃え、\n・フォントはNoto Sansjp RegularかMedium\n（みやすさ次第）\n・エッジはなし（エッジつけちゃうと前回とちょっと印象が違いすぎる）\n。でも、背景が白くても、文字が溶けない\n\nっていうのが理想な感じ。と思ったけど、オンフォロー３っていうやつが視認性の条件満たしてるかも。作ってくれてた？位置をこっちで直したのでフォロー・決定ということで、一旦これで進めようかな。\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03L0UFJF70"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6e391ccf-8fd4-470e-bd16-c155420b56fb"
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "client_msg_id": "b52b735e-d9e7-4780-a58d-89e147afd107",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n【＃29 パックン修正】\n■ep1カット部分→体育館も合うかと思いますし、例えば～太郎さんと花子さん 部分の切り替えが少し不自然なので、男女のケンカ風景なども良いかもしれません\n■ep3追加部分　→少々作業の勘違いをしていたようで…解決しましたので、ご確認は不要そうです。お騒がせしました:pray:",
+        "user": "U03NJATSEBH",
+        "ts": "1661154994.806069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vBF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【＃29 パックン修正】\n■ep1カット部分→体育館も合うかと思いますし、例えば～太郎さんと花子さん 部分の切り替えが少し不自然なので、男女のケンカ風景なども良いかもしれません\n■ep3追加部分　→少々作業の勘違いをしていたようで…解決しましたので、ご確認は不要そうです。お騒がせしました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03NJATSEBH",
+            "ts": "1661155008.000000"
+        },
+        "thread_ts": "1661073860.422609",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "8\/23\nあらすじ・まとめをやります\n→終わったらチェック入れます\n32-35を優先→終わったら試写用書き出し\nその後は26−31のうち修正少ないやつ→終わったらMA用書き出し\nでお願いします\n修正少ないのあ29パックン,28田中,31土井かな",
+        "files": [
+            {
+                "id": "F03V2RYC5A5",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1661226984.397049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E6cx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "8\/23\nあらすじ・まとめをやります\n→終わったらチェック入れます\n32-35を優先→終わったら試写用書き出し\nその後は26−31のうち修正少ないやつ→終わったらMA用書き出し\nでお願いします\n修正少ないのあ29パックン,28田中,31土井かな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "795bcaf0-6710-4e4a-83d6-ccf1812fac1d",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NZ0E09JN",
+                    "U03NJATSEBH",
+                    "U03P0T4KQMV"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

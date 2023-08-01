@@ -1,0 +1,759 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1669641305.151589",
+        "user": "U03RA83HRN0",
+        "text": "<@U03RA83HRN0>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03V84JSHNK>\n57_大塚で台本編集後の編集1を始めたところで、まず尺を出しているところですが（まだep1始めたくらいです）\n台本上で、しゃべり途中をカットしているところがあるのですが、かなりつなぎが厳しいところがいくつかありました。\n\nしゃべりに間がないところのカットは、台本上からではわからないと思います。\n言い間違えだったりのカットだったりもするので、その辺りはそのままにする場合もあります。\n一応は、前後の音を早めのF.I F.Oをするか、音をO.Lするなどしています（編集でできるものはやっちゃってます）\n\nあと、カットする言葉が続いたところは、間の使用している画像が短くなるので、そのままにしている箇所もあります。\n（スクリーンショット参照）\n\nなお、ep1の尺は途中ですが、20分を大きくオーバーしそうです。",
+        "files": [
+            {
+                "id": "F04DE1SQZ7S",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03RA83HRN0",
+        "display_as_bot": false,
+        "ts": "1669642245.991189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hOP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n57_大塚で台本編集後の編集1を始めたところで、まず尺を出しているところですが（まだep1始めたくらいです）\n台本上で、しゃべり途中をカットしているところがあるのですが、かなりつなぎが厳しいところがいくつかありました。\n\nしゃべりに間がないところのカットは、台本上からではわからないと思います。\n言い間違えだったりのカットだったりもするので、その辺りはそのままにする場合もあります。\n一応は、前後の音を早めのF.I F.Oをするか、音をO.Lするなどしています（編集でできるものはやっちゃってます）\n\nあと、カットする言葉が続いたところは、間の使用している画像が短くなるので、そのままにしている箇所もあります。\n（スクリーンショット参照）\n\nなお、ep1の尺は途中ですが、20分を大きくオーバーしそうです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8e79d33e-52e7-44da-910e-f06e20313268"
+    },
+    {
+        "client_msg_id": "21601cc2-9524-4c3e-85f4-9cc8a53722b3",
+        "type": "message",
+        "text": "<@U03RA83HRN0>\n音は編集でいじると、MAにOMFを渡すときに不具合出るので、調整不要です。\n\n不自然になりすぎるところは、無理に切らないで大丈夫です。\n\nただ、そのせいで台本で意味を通じさせようとしてるところが意味不明になってたら、台本にコメントしておいてください。\n\nep1が20分超えるは了解です。25分ぐらいまでは許容範囲です、",
+        "user": "U03CXUXB5PF",
+        "ts": "1669642403.027909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KJ+OX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n音は編集でいじると、MAにOMFを渡すときに不具合出るので、調整不要です。\n\n不自然になりすぎるところは、無理に切らないで大丈夫です。\n\nただ、そのせいで台本で意味を通じさせようとしてるところが意味不明になってたら、台本にコメントしておいてください。\n\nep1が20分超えるは了解です。25分ぐらいまでは許容範囲です、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1bf16eb2-9e0f-4b25-8d07-a8ab6a8f319a",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n57_大塚の尺になります。\nep1 : 26'11\"\nep2 : 20'39\"\nep3 : 21'10\"\nよろしくお願いいたします。",
+        "user": "U03RA83HRN0",
+        "ts": "1669654073.821429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "thjIn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n57_大塚の尺になります。\nep1 : 26'11\"\nep2 : 20'39\"\nep3 : 21'10\"\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a44111bc-5bfa-4e9a-9de5-19325cbe1eec",
+        "type": "message",
+        "text": "<@U03RA83HRN0> じゃこれで１試写ですかね。なんかノイズ問題で使いにくそうなところがあればカット方法は考えます。",
+        "user": "U03CXUXB5PF",
+        "ts": "1669654194.020769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MrLn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " じゃこれで１試写ですかね。なんかノイズ問題で使いにくそうなところがあればカット方法は考えます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b08b5a5c-56de-4cfe-8470-da5f54e9e14a",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nこれからスイッチングとインサートをいれて、一旦チェックをしてもらいます。\nノイズに関しては、気づいたところは消せました。\n言われた時は対処できるものは対処します。\n\nおそらく先に54_酒井の方が試写1に回ります。",
+        "user": "U03RA83HRN0",
+        "ts": "1669655992.544639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0OWH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこれからスイッチングとインサートをいれて、一旦チェックをしてもらいます。\nノイズに関しては、気づいたところは消せました。\n言われた時は対処できるものは対処します。\n\nおそらく先に54_酒井の方が試写1に回ります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03RA83HRN0",
+            "ts": "1669656096.000000"
+        },
+        "reactions": [
+            {
+                "name": "mechanical_arm",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "42b6fe27-e95e-4722-9c32-27d0a320b8e0",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n56詫摩、試写1をReplyにアップしました。\nよろしくお願いいたします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1669694984.518889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gnG\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n56詫摩、試写1をReplyにアップしました。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669694984.518889",
+        "reply_count": 9,
+        "reply_users_count": 3,
+        "latest_reply": "1669718292.457319",
+        "reply_users": [
+            "U03NZ0E09JN",
+            "U03CXUXB5PF",
+            "U03P0T4KQMV"
+        ],
+        "replies": [
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1669700392.213899"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1669700439.989529"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1669700840.947689"
+            },
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1669700922.759729"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1669704014.287089"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1669704111.736819"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1669704146.332079"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1669706081.739729"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1669718292.457319"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1669718292.457319",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "27cac32b-c1e7-4351-b4df-ccd98f0fdad2",
+        "type": "message",
+        "text": "いや、こっちでやればいいのか。",
+        "user": "U03CXUXB5PF",
+        "ts": "1669699755.202589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BqT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いや、こっちでやればいいのか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1669700115.239819",
+        "user": "U03NZ0E09JN",
+        "text": "<@U03NZ0E09JN>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "17650289-761c-4062-a458-569f72799534",
+        "type": "message",
+        "text": "<@U03P0T4KQMV>\nPRのみ音声が左だけになっていたので、モノラル書き出しでご対応いただければと思います。お手数ですが再アップをお願いいたします。",
+        "user": "U03NZ0E09JN",
+        "ts": "1669700392.213899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3ntI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPRのみ音声が左だけになっていたので、モノラル書き出しでご対応いただければと思います。お手数ですが再アップをお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669694984.518889",
+        "parent_user_id": "U03P0T4KQMV"
+    },
+    {
+        "client_msg_id": "ecf25438-9fa3-4eea-90f8-81855dc8a904",
+        "type": "message",
+        "text": "まぁ、別にいんですが、試写1はPRいらないですけどね。ep1と同じですし。",
+        "user": "U03CXUXB5PF",
+        "ts": "1669700439.989529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w2wd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まぁ、別にいんですが、試写1はPRいらないですけどね。ep1と同じですし。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669694984.518889",
+        "parent_user_id": "U03P0T4KQMV"
+    },
+    {
+        "client_msg_id": "68a7321f-ae6b-4ce1-bce9-1eedf8be2d4f",
+        "type": "message",
+        "text": "そうなんですね。承知いたしました。\nでは今後は試写１の際はPRはアップしないということで統一したいと思います。\nMAの際にアップということでよろしいでしょうか。\n\n試写１でep1に修正が出た場合にPRにも同じ修正を反映させる必要があり、見落としが発生しやすいポイントだったのでその方が効率が上がり助かります。",
+        "user": "U03NZ0E09JN",
+        "ts": "1669700840.947689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6+9Wj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうなんですね。承知いたしました。\nでは今後は試写１の際はPRはアップしないということで統一したいと思います。\nMAの際にアップということでよろしいでしょうか。\n\n試写１でep1に修正が出た場合にPRにも同じ修正を反映させる必要があり、見落としが発生しやすいポイントだったのでその方が効率が上がり助かります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669694984.518889",
+        "parent_user_id": "U03P0T4KQMV"
+    },
+    {
+        "client_msg_id": "ad5986e4-5b97-4be6-993d-134e62b5dd5a",
+        "type": "message",
+        "text": "ではReplyからPRを削除させていただきました。よろしくお願いします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1669700922.759729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z2J0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ではReplyからPRを削除させていただきました。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669694984.518889",
+        "parent_user_id": "U03P0T4KQMV",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1669701218.834999",
+        "user": "U03NJGXEPL7",
+        "text": "<@U03NJGXEPL7>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1669701218.897419",
+        "user": "U03QQ3J656Z",
+        "text": "<@U03QQ3J656Z>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1669701218.947789",
+        "user": "U03Q17LBJP3",
+        "text": "<@U03Q17LBJP3>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "client_msg_id": "4fff3925-d5eb-4b87-a9a7-f55f70b440f3",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nとはいえPRの修正も結構あったりするので、試写１で見てもらった方がいいという声もありました。",
+        "user": "U03NZ0E09JN",
+        "ts": "1669704014.287089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zzYw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nとはいえPRの修正も結構あったりするので、試写１で見てもらった方がいいという声もありました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669694984.518889",
+        "parent_user_id": "U03P0T4KQMV"
+    },
+    {
+        "client_msg_id": "B397A988-5A50-42D5-B6FD-92E3164D183C",
+        "type": "message",
+        "text": "ep1をコピぺしてつくってるので、1だけでいい気がしますが。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1669704111.736819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ojr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ep1をコピぺしてつくってるので、1だけでいい気がしますが。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669694984.518889",
+        "parent_user_id": "U03P0T4KQMV",
+        "reactions": [
+            {
+                "name": "woman-raising-hand",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16C238F9-C853-4ED8-961D-D7F06066DAC5",
+        "type": "message",
+        "text": "逆に2.1からでいいのでは？",
+        "user": "U03CXUXB5PF",
+        "ts": "1669704146.332079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xhy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "逆に2.1からでいいのでは？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669694984.518889",
+        "parent_user_id": "U03P0T4KQMV"
+    },
+    {
+        "client_msg_id": "777a848f-cb47-40aa-ac00-b1a70ad129d1",
+        "type": "message",
+        "text": "編集マン的にはMAの際には作成するので、作業的には同じかと思います。\n\n小寺さんの方で2.1までPRは見せたくないということであればそのようにいたします。\n\n2.1のタイミングを気にしてPRを作るというのは、修正もれやアップし忘れなど、少し気を使う必要があるかなと思います。",
+        "user": "U03NZ0E09JN",
+        "ts": "1669706081.739729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MHi\/B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "編集マン的にはMAの際には作成するので、作業的には同じかと思います。\n\n小寺さんの方で2.1までPRは見せたくないということであればそのようにいたします。\n\n2.1のタイミングを気にしてPRを作るというのは、修正もれやアップし忘れなど、少し気を使う必要があるかなと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669694984.518889",
+        "parent_user_id": "U03P0T4KQMV"
+    }
+]

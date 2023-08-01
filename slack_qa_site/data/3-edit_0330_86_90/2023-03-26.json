@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "cf7433b2-af21-4d3a-b2b1-04430f6f3c2a",
+        "type": "message",
+        "text": "<@U04QC17DUEP> 89成田聡子さんのイメージとテロップを入れました。CGイラストや先生もらい画像は、来次第格納します。よろしくお願いいたします。",
+        "user": "U03V84JSHNK",
+        "ts": "1679824901.404329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V3pc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04QC17DUEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 89成田聡子さんのイメージとテロップを入れました。CGイラストや先生もらい画像は、来次第格納します。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04QC17DUEP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

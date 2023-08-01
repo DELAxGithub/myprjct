@@ -1,0 +1,123 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1658833007.888399",
+        "user": "U03QQ3J656Z",
+        "text": "<@U03QQ3J656Z>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "7806c4d7-4751-4612-a16c-67b9f4ee99ae",
+        "type": "message",
+        "text": "小寺さん　音効さんの分も　DropBoxで共有設定をかけていただいてもよろしいでしょうか？\nよろしくお願いします。",
+        "user": "U03G0LAPT3N",
+        "ts": "1658887005.326689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z1\/U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "小寺さん　音効さんの分も　DropBoxで共有設定をかけていただいてもよろしいでしょうか？\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9ff0fd4e-f322-4b8c-9613-8fdb6e8c1b98",
+        "type": "message",
+        "text": "入れましたー\n２種類使い分けようと思っていて\nKDDI_MA→編集マンには関係ないやつ：ProresとOMF置き場\nKDDI2022&lt;8_MA→編集マンも使うやつ：BGMとSEとか整音のwavとか\nです\n両方とも共有しましたが、KDDI2022は8_MA以外は関係ないので同期しないで大丈夫です",
+        "user": "U03CXUXB5PF",
+        "ts": "1658887356.040729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FuQr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "入れましたー\n２種類使い分けようと思っていて\nKDDI_MA→編集マンには関係ないやつ：ProresとOMF置き場\nKDDI2022<8_MA→編集マンも使うやつ：BGMとSEとか整音のwavとか\nです\n両方とも共有しましたが、KDDI2022は8_MA以外は関係ないので同期しないで大丈夫です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "81EA90EF-0894-4978-B713-206B23977570",
+        "type": "message",
+        "text": "ありがとうございます！承知しました。",
+        "user": "U03G0LAPT3N",
+        "ts": "1658887417.537509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SgC2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！承知しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

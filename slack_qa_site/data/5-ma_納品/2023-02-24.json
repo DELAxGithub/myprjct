@@ -1,0 +1,84 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "80_Osawa_MIX WV_230224\n\n\/KDDI2022\/8_MA\/本編\/80_Osawa_MIX WV_230224\n\n_Sent via <https:\/\/zapier.com\/app\/editor\/169570285#slack|zapier.com\/app\/editor\/169570285#slack>_",
+        "ts": "1677242621.111829",
+        "username": "MA納品",
+        "bot_id": "B0457TSJ7N1",
+        "app_id": "A024R9PQM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5gr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "80_Osawa_MIX WV_230224\n\n\/KDDI2022\/8_MA\/本編\/80_Osawa_MIX WV_230224\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sent via ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zapier.com\/app\/editor\/169570285#slack",
+                                "text": "zapier.com\/app\/editor\/169570285#slack",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "72_Ishida_MIX WAV_230225\n\n\/KDDI2022\/8_MA\/本編\/72_Ishida_MIX WAV_230225\n\n_Sent via <https:\/\/zapier.com\/app\/editor\/169570285#slack|zapier.com\/app\/editor\/169570285#slack>_",
+        "ts": "1677311764.109819",
+        "username": "MA納品",
+        "bot_id": "B0457TSJ7N1",
+        "app_id": "A024R9PQM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Z1Xe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "72_Ishida_MIX WAV_230225\n\n\/KDDI2022\/8_MA\/本編\/72_Ishida_MIX WAV_230225\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sent via ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zapier.com\/app\/editor\/169570285#slack",
+                                "text": "zapier.com\/app\/editor\/169570285#slack",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

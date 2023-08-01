@@ -1,0 +1,150 @@
+[
+    {
+        "client_msg_id": "aa432520-a426-43da-866c-b1f824d84076",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\ndropboxの容量がいっぱいになっていました･･･\nご対応をよろしくお願いします。",
+        "user": "U03Q17LBJP3",
+        "ts": "1676106477.831279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xk6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ndropboxの容量がいっぱいになっていました･･･\nご対応をよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "MAデータの場所\n\nMA作業に入る前に、それぞれの編集フォルダに移植をお願いします。\nその際はコピーじゃなく、MAのフォルダに残さないように。。\nwavファイルが意外と大きいので、納品後はバックアップしたらDropboxから消すためです。\nよろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F04NZBV03QE",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1676108588.283509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z2it7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MAデータの場所\n\nMA作業に入る前に、それぞれの編集フォルダに移植をお願いします。\nその際はコピーじゃなく、MAのフォルダに残さないように。。\nwavファイルが意外と大きいので、納品後はバックアップしたらDropboxから消すためです。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "63f91a1b-8aa1-4d87-a10f-1509c9b42a6b",
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U04KFCBLY9J",
+                    "U03Q17LBJP3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0",
+                    "U04JJB0MTB7"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "MAフォルダにおいたままプロジェクトに読み込むのではなく、ナンバリングフォルダに移動してからプロジェクトへ。\n今66,63,68,87がMAフォルダにありますが、最終の前に移植してくださいね。",
+        "files": [
+            {
+                "id": "F04P5SGL6V9",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1676108998.999679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hrkSX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MAフォルダにおいたままプロジェクトに読み込むのではなく、ナンバリングフォルダに移動してからプロジェクトへ。\n今66,63,68,87がMAフォルダにありますが、最終の前に移植してくださいね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "613b8414-21aa-40d9-88b2-22edf5f6f8b0",
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U04KFCBLY9J",
+                    "U03P0T4KQMV"
+                ],
+                "count": 2
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

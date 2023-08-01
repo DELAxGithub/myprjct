@@ -1,0 +1,146 @@
+[
+    {
+        "client_msg_id": "c69fdae1-e03f-4f33-a1c8-ad5cfccceb9f",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\ntest1026に新たなシーケンス「テスト編集」を追加しました。\n\n作業内容としては以下の通りです。\n・全素材のオフライン許可\n・Dropbox内のプロジェクトを開いて新規シーケンスを作成\n・カット編集\n・テロップ\n・スイッチング\n・test1026プロジェクトを上書き保存\n\n\nそちらで開いて本番データで問題がなければ、\n新規編集、53,56あたりの粗編からスタートして見たいと思います。\n\nご確認の程、よろしくお願いいたします。",
+        "user": "U03NZ0E09JN",
+        "ts": "1667372804.974549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "88l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ntest1026に新たなシーケンス「テスト編集」を追加しました。\n\n作業内容としては以下の通りです。\n・全素材のオフライン許可\n・Dropbox内のプロジェクトを開いて新規シーケンスを作成\n・カット編集\n・テロップ\n・スイッチング\n・test1026プロジェクトを上書き保存\n\n\nそちらで開いて本番データで問題がなければ、\n新規編集、53,56あたりの粗編からスタートして見たいと思います。\n\nご確認の程、よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03NZ0E09JN",
+            "ts": "1667372822.000000"
+        }
+    },
+    {
+        "client_msg_id": "7670bd0e-9415-4ef4-b4ae-9a740f19d10e",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> 書き出しテストしてみました\n大丈夫そうですー\n3Q51-57（premiere2023）をローカル、54,56にして使ってみましょう。\nPrプロジェクトフォルダは0_prjにしようかと思いますが、人ごとの方がいいんですかね。これたくさんできそうですね。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667431115.120499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=CA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 書き出しテストしてみました\n大丈夫そうですー\n3Q51-57（premiere2023）をローカル、54,56にして使ってみましょう。\nPrプロジェクトフォルダは0_prjにしようかと思いますが、人ごとの方がいいんですかね。これたくさんできそうですね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667431115.120499",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1667451600.956339",
+        "reply_users": [
+            "U03QQ3J656Z"
+        ],
+        "replies": [
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1667451600.956339"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1667451600.956339"
+    },
+    {
+        "client_msg_id": "E92EA302-01CF-4EDC-92DA-8221F7C16D73",
+        "type": "message",
+        "text": "横からすみません。\nプロジェクトは人ごとの方がいいと思います。",
+        "user": "U03QQ3J656Z",
+        "ts": "1667451600.956339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C5J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "横からすみません。\nプロジェクトは人ごとの方がいいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667431115.120499",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

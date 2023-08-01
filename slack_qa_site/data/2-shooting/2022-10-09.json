@@ -1,0 +1,147 @@
+[
+    {
+        "client_msg_id": "fc0036f7-0edd-420a-9c6a-edcb9f703421",
+        "type": "message",
+        "text": "Storyblock？\nYou recently logged into Storyblocks on a device we don’t recognize. Enter this code to verify your device:\n60409aaa",
+        "user": "U03CXUXB5PF",
+        "ts": "1665329488.644099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eFJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Storyblock？\nYou recently logged into Storyblocks on a device we don’t recognize. Enter this code to verify your device:\n60409aaa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665329488.644099",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1665330075.541779",
+        "reply_users": [
+            "U03V84JSHNK"
+        ],
+        "replies": [
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1665330075.541779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1665330075.541779"
+    },
+    {
+        "client_msg_id": "8ee09b8c-6eff-4356-82fb-9a7d051834af",
+        "type": "message",
+        "text": "私です。ありがとうございます。",
+        "user": "U03V84JSHNK",
+        "ts": "1665330075.541779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y=cU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私です。ありがとうございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665329488.644099",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "c752a390-b94a-43de-a6b1-c868acc2f2d0",
+        "type": "message",
+        "text": "<@U040YCC00V6> 隙間時間に来週からのカンペ作成をお願いします\n太字だけでいいってのと、スライド一枚あたりこれぐらいいれといてっていうのを台本上もブロックにしています",
+        "user": "U03CXUXB5PF",
+        "ts": "1665363600.650159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=R1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 隙間時間に来週からのカンペ作成をお願いします\n太字だけでいいってのと、スライド一枚あたりこれぐらいいれといてっていうのを台本上もブロックにしています"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "clown_face",
+                "users": [
+                    "U040YCC00V6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

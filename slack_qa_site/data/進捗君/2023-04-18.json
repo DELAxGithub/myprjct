@@ -1,0 +1,78 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#106-3北川智子で変更がありました\n変更前：編集1\n変更後：試写1\n担当者は石橋です",
+        "ts": "1681873606.233979",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TZvn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#106-3北川智子で変更がありました\n変更前：編集1\n変更後：試写1\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03RA83HRN0> #88松原 正樹で変更がありました\n変更前：編集3\n変更後：本人編集\n担当者は石橋です",
+        "ts": "1681881074.124589",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "My37",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #88松原 正樹で変更がありました\n変更前：編集3\n変更後：本人編集\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#104松岡聡で変更がありました\n変更前：編集1\n変更後：試写1\n担当者は石橋です",
+        "ts": "1681886068.633699",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cd\/R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#104松岡聡で変更がありました\n変更前：編集1\n変更後：試写1\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

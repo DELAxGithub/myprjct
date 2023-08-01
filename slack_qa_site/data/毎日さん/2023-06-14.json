@@ -1,0 +1,58 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "在庫\n試写1:0 | MA:0 | 試写2:0 | 試写3:0\n————————————-\n<@U03RA83HRN0> : #106-1、 総集編 朝倉、 本人編集、: 06-12\n<@U03RA83HRN0> : #106-3、 総集編 北川、 本人編集、: 06-08\n<@U03RA83HRN0> : #106-4、 総集編 スゴ本、 本人編集、: 06-12\n<@U03RA83HRN0> : #106-5、 総集編 予告、 編集3、: 06-06\n",
+        "ts": "1686787898.141699",
+        "bot_id": "B0527SNLW83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BeD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "在庫\n試写1:0 | MA:0 | 試写2:0 | 試写3:0\n————————————-\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #106-1、 総集編 朝倉、 本人編集、: 06-12\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #106-3、 総集編 北川、 本人編集、: 06-08\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #106-4、 総集編 スゴ本、 本人編集、: 06-12\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #106-5、 総集編 予告、 編集3、: 06-06"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

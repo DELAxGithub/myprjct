@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "8f7d34cb-8a8c-4f0c-a826-527f144033d2",
+        "type": "message",
+        "text": "<@U03V84JSHNK> 1030も納品書き出し済みなので、権利の方をお願いします。あとは、57がイメージ探しも、一応始められるかな。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1668733925.133589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5uLe1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 1030も納品書き出し済みなので、権利の方をお願いします。あとは、57がイメージ探しも、一応始められるかな。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668733925.133589",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1668734122.240079",
+        "reply_users": [
+            "U03V84JSHNK"
+        ],
+        "replies": [
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1668734122.240079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1668734122.240079"
+    },
+    {
+        "client_msg_id": "1e12c8c5-4c42-4c93-a479-54c6bf4dc853",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 1030は権利出来ています。57イメージ探ししておきます。",
+        "user": "U03V84JSHNK",
+        "ts": "1668734122.240079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B=tD9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 1030は権利出来ています。57イメージ探ししておきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668733925.133589",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

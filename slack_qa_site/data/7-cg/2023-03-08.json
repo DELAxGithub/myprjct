@@ -1,0 +1,97 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03RA83HRN0> 一旦作成してみました。このような感じにして、文字をタイミングをずらして表示できるよう、レイヤー分けして保存したらよろしいでしょうか？",
+        "files": [
+            {
+                "id": "F04SR33NYLE",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U041XC6213P",
+        "display_as_bot": false,
+        "ts": "1678272504.815279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wgCMa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 一旦作成してみました。このような感じにして、文字をタイミングをずらして表示できるよう、レイヤー分けして保存したらよろしいでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "870ca068-d6f0-430c-95da-ee7c8b3a70f4",
+        "thread_ts": "1678229046.131949",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "F171D8E8-6D2A-49B5-9429-DCB025116B93",
+        "type": "message",
+        "text": "これで進めてくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1678339512.438259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e5W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これで進めてくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678229046.131949",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

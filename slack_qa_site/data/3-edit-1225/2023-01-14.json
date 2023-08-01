@@ -1,0 +1,188 @@
+[
+    {
+        "client_msg_id": "6bc1c2f4-e043-491a-9e81-1a32586171d4",
+        "type": "message",
+        "text": "<@U04J38PLGM6>\n58山本、プロジェクト・シーケンスともに最終版にしております。\nご確認よろしくお願いいたします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1673686639.278299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UZmQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n58山本、プロジェクト・シーケンスともに最終版にしております。\nご確認よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673627022.268969",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "feba8863-22ee-41df-b27e-f464e5a043d5",
+        "type": "message",
+        "text": "<@U03P0T4KQMV> ありがとうございます！",
+        "user": "U04J38PLGM6",
+        "ts": "1673686761.499849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oDH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673627022.268969",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03Q17LBJP3>\nKODERA Hiroshi\/KDDI2022\/3_freeIMG\/孤独なシルエットsamuel-austin-7LJ20fadcwQ-unsplash.jpg\n\n\nKDDI2022\/3_freeIMG\/孤独なシルエットgadiel-lazcano-ulPAVuxITEw-unsplash.jpg\n\n\nこの辺使ってください",
+        "user": "U03CXUXB5PF",
+        "ts": "1673758329.326249",
+        "thread_ts": "1673617888.550569",
+        "root": {
+            "type": "message",
+            "text": "<@U03V84JSHNK> <@U04J38PLGM6>　60阿部　1点イメージ修正をお願いします。\n\n<@U03CXUXB5PF> 「老人と海」の翻訳部分は来ていますか？voice修正になると思うので、こちらもMA回すかどうかご確認よろしくお願いします。",
+            "files": [
+                {
+                    "id": "F04JQKSVB61",
+                    "mode": "hidden_by_limit"
+                }
+            ],
+            "upload": false,
+            "user": "U03Q17LBJP3",
+            "display_as_bot": false,
+            "ts": "1673617888.550569",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "RCD",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03V84JSHNK"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "　60阿部　1点イメージ修正をお願いします。\n\n"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03CXUXB5PF"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 「老人と海」の翻訳部分は来ていますか？voice修正になると思うので、こちらもMA回すかどうかご確認よろしくお願いします。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "client_msg_id": "3a1aff7b-c2f4-464e-b20d-351a40a223e7",
+            "thread_ts": "1673617888.550569",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1673758329.326249",
+            "reply_users": [
+                "U03CXUXB5PF"
+            ],
+            "replies": [
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1673758329.326249"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1673758329.326249"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z+I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nKODERA Hiroshi\/KDDI2022\/3_freeIMG\/孤独なシルエットsamuel-austin-7LJ20fadcwQ-unsplash.jpg\n\n\nKDDI2022\/3_freeIMG\/孤独なシルエットgadiel-lazcano-ulPAVuxITEw-unsplash.jpg\n\n\nこの辺使ってください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1facc260-63f9-45bf-beb2-bbf43b41420a"
+    }
+]

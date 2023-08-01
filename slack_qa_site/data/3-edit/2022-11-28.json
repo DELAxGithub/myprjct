@@ -1,0 +1,118 @@
+[
+    {
+        "client_msg_id": "2f2a9425-0dc6-4f96-980c-251deb5b33ec",
+        "type": "message",
+        "text": "[Dropbox Replay]　ステータスの操作について\n\nApproval＝クライアントがチェックOKの時に使いたいそうです。\n\n編集サイドとしては、\nNeeds Review＝　Edits Request作業後の連絡\nだけにとどめましょう。\n\n\nというか、これもslackでやれるので、\nアップした後にin reviewにする以外で\nもうステータスいじるのやめましょう。",
+        "user": "U03CXUXB5PF",
+        "ts": "1669643136.371029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PHw0e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[Dropbox Replay]　ステータスの操作について\n\nApproval＝クライアントがチェックOKの時に使いたいそうです。\n\n編集サイドとしては、\nNeeds Review＝　Edits Request作業後の連絡\nだけにとどめましょう。\n\n\nというか、これもslackでやれるので、\nアップした後にin reviewにする以外で\nもうステータスいじるのやめましょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "[試写チェック]クレジットの位置\n\n著作権・クレジットの位置ですが、写真そのものに載せたいです。\n\nで、これはクリエイティブマターですが、縦長写真も解像度が足りてるなら、上下を気にするより、詰めちゃってください。\n\n（結構何回も書いてますが…）",
+        "files": [
+            {
+                "id": "F04CP38SULD",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04D4LU95UZ",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04CS2J69GA",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "ts": "1669658124.652829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HIrCc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[試写チェック]クレジットの位置\n\n著作権・クレジットの位置ですが、写真そのものに載せたいです。\n\nで、これはクリエイティブマターですが、縦長写真も解像度が足りてるなら、上下を気にするより、詰めちゃってください。\n\n（結構何回も書いてますが…）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "515b26e0-0569-4113-9804-36bbc481ebf1",
+        "reactions": [
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

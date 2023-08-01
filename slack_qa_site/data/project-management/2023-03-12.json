@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "e4cb3416-a616-4c1f-90be-20f81214dc9a",
+        "type": "message",
+        "text": "<@U04J38PLGM6> <@U03V84JSHNK>\n新・進捗の使い方お知らせしてませんでしたが、\n作業が進んだら進捗表のステータスを更新ください\nイメージ・テロップ作ったら、「リサーチ」→「編集１」にお願いします。\nちなみに台本が遅れまして、今日から８８・８９やります",
+        "user": "U03CXUXB5PF",
+        "ts": "1678625228.540039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G2R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n新・進捗の使い方お知らせしてませんでしたが、\n作業が進んだら進捗表のステータスを更新ください\nイメージ・テロップ作ったら、「リサーチ」→「編集１」にお願いします。\nちなみに台本が遅れまして、今日から８８・８９やります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "FF92B1C7-5813-47F6-B9F3-5725987D6ECC",
+        "type": "message",
+        "text": "それでいいですー",
+        "user": "U03CXUXB5PF",
+        "ts": "1680084365.120659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fo+l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それでいいですー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679824328.197999",
+        "parent_user_id": "U03V84JSHNK",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0cb216da-d459-42c6-bdc5-e6dc55d0df0b",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03V84JSHNK> ai、pngファイル格納いたしました。",
+        "user": "U041XC6213P",
+        "ts": "1680095016.248089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "caJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ai、pngファイル格納いたしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679824328.197999",
+        "parent_user_id": "U03V84JSHNK"
+    }
+]

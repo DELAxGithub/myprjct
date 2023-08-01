@@ -1,0 +1,602 @@
+[
+    {
+        "client_msg_id": "1628f1ba-2c91-45a4-870f-c18e5040da98",
+        "type": "message",
+        "text": "```94 :泉谷閑示さん　納品試写確認中です。\nep2　11：51前後　音が途切れているように感じますが\nこちらは許容範囲でしょうか？```\n<@U054HSHFAAH> こちらわかります？\nなんか放送レベルで事故ってるなら対応しますが、、",
+        "user": "U03CXUXB5PF",
+        "ts": "1685351245.282159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rVb2n",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "94 :泉谷閑示さん　納品試写確認中です。\nep2　11：51前後　音が途切れているように感じますが\nこちらは許容範囲でしょうか？"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U054HSHFAAH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こちらわかります？\nなんか放送レベルで事故ってるなら対応しますが、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685351245.282159",
+        "reply_count": 12,
+        "reply_users_count": 2,
+        "latest_reply": "1685454431.436299",
+        "reply_users": [
+            "U054HSHFAAH",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U054HSHFAAH",
+                "ts": "1685351366.250319"
+            },
+            {
+                "user": "U054HSHFAAH",
+                "ts": "1685354624.625479"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1685369301.771419"
+            },
+            {
+                "user": "U054HSHFAAH",
+                "ts": "1685375116.151369"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1685375268.026639"
+            },
+            {
+                "user": "U054HSHFAAH",
+                "ts": "1685375346.075909"
+            },
+            {
+                "user": "U054HSHFAAH",
+                "ts": "1685403981.423609"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1685404069.462629"
+            },
+            {
+                "user": "U054HSHFAAH",
+                "ts": "1685404295.320209"
+            },
+            {
+                "user": "U054HSHFAAH",
+                "ts": "1685405751.672969"
+            },
+            {
+                "user": "U054HSHFAAH",
+                "ts": "1685449523.083459"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1685454431.436299"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1685454431.436299"
+    },
+    {
+        "client_msg_id": "acc8602f-181e-49af-a9e8-98e6371476df",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> \nシーケンス確認しますので、お待ちください。",
+        "user": "U054HSHFAAH",
+        "ts": "1685351366.250319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/9g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nシーケンス確認しますので、お待ちください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "3c0472cbdd87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5181600335649_3c0472cbdd874f9a32ff_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Uramoto",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "kuramoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685351245.282159",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "「小児のように変身して」という言葉の間の編集点は音が完全にない状態でした。これが原因で途切れたように感じたのは間違いないと思いますが、、、事故というなら人為的なものかと。どう判断したものかは浦本にはなんとも言えませんが、適当に無音ノイズコピペして書き出し直せばいいということならMAしなおしとかはしなくていいレベルかと思いますが、どうでしょうか。",
+        "files": [
+            {
+                "id": "F059X22UF35",
+                "created": 1685354202,
+                "timestamp": 1685354202,
+                "name": "94ep2_1151付近.png",
+                "title": "94ep2_1151付近.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U054HSHFAAH",
+                "user_team": "T03CU6RQ154",
+                "editable": false,
+                "size": 265814,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F059X22UF35\/94ep2_1151______.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F059X22UF35\/download\/94ep2_1151______.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F059X22UF35-be4644a11a\/94ep2_1151_______64.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F059X22UF35-be4644a11a\/94ep2_1151_______80.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F059X22UF35-be4644a11a\/94ep2_1151_______360.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360_w": 360,
+                "thumb_360_h": 277,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F059X22UF35-be4644a11a\/94ep2_1151_______480.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_480_w": 480,
+                "thumb_480_h": 369,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F059X22UF35-be4644a11a\/94ep2_1151_______160.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F059X22UF35-be4644a11a\/94ep2_1151_______720.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720_w": 720,
+                "thumb_720_h": 553,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F059X22UF35-be4644a11a\/94ep2_1151_______800.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_800_w": 800,
+                "thumb_800_h": 614,
+                "original_w": 884,
+                "original_h": 679,
+                "thumb_tiny": "AwAkADCjk0qjcwGeabTkYq2R6UAW0t0NxsIOPrTbmGNJCsY6DmljlxIGJycd6hnud8jELjNIrQR0AhRwMEmo6XzS8axkfd5zSUyRcmjJPb9KB0p0Yy2B6dhmgBufYUhqdlwM8\/8AfNIq7vX8FoC5D9KM1Y2fX\/vmo5lwB1\/LFAXI88YpQccim0vagBd5o3mm0UAO3mkLE9aSigD\/2Q==",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/U054HSHFAAH\/F059X22UF35\/94ep2_1151______.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03CU6RQ154-F059X22UF35-13fe5a7e7d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U054HSHFAAH",
+        "display_as_bot": false,
+        "ts": "1685354624.625479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LGSy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「小児のように変身して」という言葉の間の編集点は音が完全にない状態でした。これが原因で途切れたように感じたのは間違いないと思いますが、、、事故というなら人為的なものかと。どう判断したものかは浦本にはなんとも言えませんが、適当に無音ノイズコピペして書き出し直せばいいということならMAしなおしとかはしなくていいレベルかと思いますが、どうでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "bf98a889-3e93-4fe3-8099-3df26f8bc079",
+        "thread_ts": "1685351245.282159",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "e1924897-f677-41b6-a58c-bfce4aa5a2b1",
+        "type": "message",
+        "text": "<@U054HSHFAAH> お手数ですけど、無音ノイズで。。\nこれ編集的になんか意図があったんですかね。<@U03Q17LBJP3>",
+        "user": "U03CXUXB5PF",
+        "ts": "1685369301.771419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HpM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U054HSHFAAH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お手数ですけど、無音ノイズで。。\nこれ編集的になんか意図があったんですかね。"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685351245.282159",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "6e96cd95-c24a-4401-9db6-ad98ca69d628",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>了解しました。間を作りたかったのは伝わってきました。単に前の音のばすとわりとすぐ次の言葉出てくるので。",
+        "user": "U054HSHFAAH",
+        "ts": "1685375116.151369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r3iRm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "了解しました。間を作りたかったのは伝わってきました。単に前の音のばすとわりとすぐ次の言葉出てくるので。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "3c0472cbdd87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5181600335649_3c0472cbdd874f9a32ff_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Uramoto",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "kuramoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685351245.282159",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "cee199a7-06cd-44fe-986b-dd2b63fcb339",
+        "type": "message",
+        "text": "だとするとMAの後に間をつけたのかな。MAは一本化されてくるしね。",
+        "user": "U03CXUXB5PF",
+        "ts": "1685375268.026639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yz2Bm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "だとするとMAの後に間をつけたのかな。MAは一本化されてくるしね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685351245.282159",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "384b264b-4f88-4d27-9fc6-b03a6c9b85de",
+        "type": "message",
+        "text": "だと思います。パッと見ですが、こうした無音は数ヶ所ありました",
+        "user": "U054HSHFAAH",
+        "ts": "1685375346.075909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AB0r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "だと思います。パッと見ですが、こうした無音は数ヶ所ありました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "3c0472cbdd87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5181600335649_3c0472cbdd874f9a32ff_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Uramoto",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "kuramoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685351245.282159",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "96cd9063-fb2e-4103-bf5f-569eb2adbe52",
+        "type": "message",
+        "text": "無音が数カ所あると書きましたが、当該の一カ所でした。適当なこと書いてすみません。いま修正して書き出していますが、再納品の前にチェックとかしますか？",
+        "user": "U054HSHFAAH",
+        "ts": "1685403981.423609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CqEq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "無音が数カ所あると書きましたが、当該の一カ所でした。適当なこと書いてすみません。いま修正して書き出していますが、再納品の前にチェックとかしますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "3c0472cbdd87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5181600335649_3c0472cbdd874f9a32ff_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Uramoto",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "kuramoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685351245.282159",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "b89cb67a-170c-4a41-8f10-b49d8aa64240",
+        "type": "message",
+        "text": "いや、そのまま納品しちゃってください。最終とか名前は変えなくていいです。",
+        "user": "U03CXUXB5PF",
+        "ts": "1685404069.462629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qlGQD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いや、そのまま納品しちゃってください。最終とか名前は変えなくていいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685351245.282159",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "75781a79-1e4e-423e-bb6b-f7ae60164d52",
+        "type": "message",
+        "text": "了解です。じゃいま入ってるやつは消して入れる感じですね。一応お伝えしておくと、無音ノイズだと途切れてる感が消えなかったので、「適当なブレス」で埋めました。",
+        "user": "U054HSHFAAH",
+        "ts": "1685404295.320209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IJh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です。じゃいま入ってるやつは消して入れる感じですね。一応お伝えしておくと、無音ノイズだと途切れてる感が消えなかったので、「適当なブレス」で埋めました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "3c0472cbdd87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5181600335649_3c0472cbdd874f9a32ff_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Uramoto",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "kuramoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685351245.282159",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "75a15ca6-deef-471f-8bd0-318e4e951d4d",
+        "type": "message",
+        "text": "アップしましたー",
+        "user": "U054HSHFAAH",
+        "ts": "1685405751.672969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DFbb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アップしましたー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "3c0472cbdd87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5181600335649_3c0472cbdd874f9a32ff_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Uramoto",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "kuramoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685351245.282159",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

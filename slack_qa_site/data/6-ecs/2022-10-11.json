@@ -1,0 +1,89 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n横からすいません。\n多分２段目は太字に設定されていると思います。\n\n先ほどこのチャンネルに招待されていることに気づきまして、２段目の件は私も気になっていたので。２区はまだ間に合いますかね。",
+        "files": [
+            {
+                "id": "F045YFX17H8",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1665471978.421579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X16y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n横からすいません。\n多分２段目は太字に設定されていると思います。\n\n先ほどこのチャンネルに招待されていることに気づきまして、２段目の件は私も気になっていたので。２区はまだ間に合いますかね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "afd44bc7-a991-4578-9c78-e346ff0f0355",
+        "thread_ts": "1664378975.088179",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "3dae3b8d-fc6b-41e6-9210-6a207ef51f7c",
+        "type": "message",
+        "text": "そうですね。３試写の際に直すようにします。\nこれフォントの設定的には一緒なんですよね　なのに見え方が違うという",
+        "user": "U03CXUXB5PF",
+        "ts": "1665486504.703479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KNX0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうですね。３試写の際に直すようにします。\nこれフォントの設定的には一緒なんですよね　なのに見え方が違うという"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664378975.088179",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

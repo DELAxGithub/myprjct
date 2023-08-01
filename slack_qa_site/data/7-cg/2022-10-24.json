@@ -1,0 +1,668 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> お待たせいたしました。CG_岡_ep3のCGを作成しました。何枚か途中経過も作成してパラパラ漫画のように、とのことでしたが、取り急ぎ図をもとに作成したものをお送りします。FBいただけますと幸いです。",
+        "files": [
+            {
+                "id": "F047V4QJ3C4",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U041XC6213P",
+        "display_as_bot": false,
+        "ts": "1666603490.068629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+H\/k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お待たせいたしました。CG_岡_ep3のCGを作成しました。何枚か途中経過も作成してパラパラ漫画のように、とのことでしたが、取り急ぎ図をもとに作成したものをお送りします。FBいただけますと幸いです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "cdd48b54-cfbd-4b4a-98f3-07cb01476fa8"
+    },
+    {
+        "client_msg_id": "2ef5bd3e-2dc9-40c5-836a-f76a1a2403fb",
+        "type": "message",
+        "text": "<@U041XC6213P> 両方ともイラストはOKなんですが、\nテキストのフォント・サイズとか編集で使ってるものと齟齬がないか確認を。\nフォントはNoto sansかShipporiMincho-otf\nサイズは最低100です\n\nボイドモデルは、１個ずつバラバラのも編集で使うかも。",
+        "user": "U03CXUXB5PF",
+        "ts": "1666655664.245419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3XJb7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 両方ともイラストはOKなんですが、\nテキストのフォント・サイズとか編集で使ってるものと齟齬がないか確認を。\nフォントはNoto sansかShipporiMincho-otf\nサイズは最低100です\n\nボイドモデルは、１個ずつバラバラのも編集で使うかも。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1666655682.000000"
+        },
+        "thread_ts": "1666655664.245419",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1666660245.851099",
+        "reply_users": [
+            "U041XC6213P",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U041XC6213P",
+                "ts": "1666659487.169199"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1666659569.987869"
+            },
+            {
+                "user": "U041XC6213P",
+                "ts": "1666659623.937489"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1666659714.731159"
+            },
+            {
+                "user": "U041XC6213P",
+                "ts": "1666659850.859129"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1666659941.692569"
+            },
+            {
+                "user": "U041XC6213P",
+                "ts": "1666660212.834809"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1666660245.851099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1666660245.851099",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9edf7ae3-f545-4ccf-ac1f-8669234bcb8a",
+        "type": "message",
+        "text": "フォントサイズについては、最低50ptとするのはいかがでしょうか。今回からデータサイズが、1920*1080pxになったためです。ちなみに、岡ep2の画像のフォントサイズが55ptです。",
+        "user": "U041XC6213P",
+        "ts": "1666659487.169199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uzfh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "フォントサイズについては、最低50ptとするのはいかがでしょうか。今回からデータサイズが、1920*1080pxになったためです。ちなみに、岡ep2の画像のフォントサイズが55ptです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U041XC6213P",
+            "ts": "1666659529.000000"
+        },
+        "thread_ts": "1666655664.245419",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "752d1da6-605a-4c17-8bb6-c8e3c83d4972",
+        "type": "message",
+        "text": "かきだしは2Kではあるんですが、\n編集シーケンスは4Kなので、4Kでつくったほういいのかなとおもってましたが、そうでもないんですか？",
+        "user": "U03CXUXB5PF",
+        "ts": "1666659569.987869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O4y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かきだしは2Kではあるんですが、\n編集シーケンスは4Kなので、4Kでつくったほういいのかなとおもってましたが、そうでもないんですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666655664.245419",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "06db60a1-cfb0-4af0-8c82-938821ce4c8c",
+        "type": "message",
+        "text": "私の方では、どちらでもOKです。福田さんから1920*1080でとのことでしたので、そうしました。",
+        "user": "U041XC6213P",
+        "ts": "1666659623.937489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HXwYT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私の方では、どちらでもOKです。福田さんから1920*1080でとのことでしたので、そうしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666655664.245419",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "468de974-99fe-4099-9f6b-76803d5a5913",
+        "type": "message",
+        "text": "あ、そうですか。サイズが大きいとpremiereでレンダリングがくそ重くなるって言う話と混じってるかな。\n\n解像度72にすれば4Kでもそんなにでかくないですよね？",
+        "user": "U03CXUXB5PF",
+        "ts": "1666659714.731159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=4S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あ、そうですか。サイズが大きいとpremiereでレンダリングがくそ重くなるって言う話と混じってるかな。\n\n解像度72にすれば4Kでもそんなにでかくないですよね？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666655664.245419",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "32ed6729-01b8-4ebf-bf80-2f1ebd530c69",
+        "type": "message",
+        "text": "pngデータで動画編集をしているのであれば、解像度を下げればデータは軽くなると思います。すいません、動画編集にはあまり詳しくなく。。",
+        "user": "U041XC6213P",
+        "ts": "1666659850.859129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Fz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pngデータで動画編集をしているのであれば、解像度を下げればデータは軽くなると思います。すいません、動画編集にはあまり詳しくなく。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666655664.245419",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "3cf51204-4893-41a3-9bc8-d8e49d9e37bf",
+        "type": "message",
+        "text": "了解です。解像度下げるのは編集の方でもいいんですが、動画だと72以上の解像度はあんまり意味ないらしいので、png書き出し時は72でお願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1666659941.692569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h7tuZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です。解像度下げるのは編集の方でもいいんですが、動画だと72以上の解像度はあんまり意味ないらしいので、png書き出し時は72でお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666655664.245419",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "8e73fb5f-64cc-4e4d-bebb-05a5b435baa3",
+        "type": "message",
+        "text": "本日発注はこちら49のものです\nCGで文書内検索いただければでてきます。もとのパワポデータもアップします。\n\n<https:\/\/docs.google.com\/document\/d\/1csdppBL0U13PRZvOyNXTiXVe_g5MC7PLqa-Sk8Q6oqE\/edit?usp=sharing>",
+        "user": "U03CXUXB5PF",
+        "ts": "1666660013.020029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G47x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本日発注はこちら49のものです\nCGで文書内検索いただければでてきます。もとのパワポデータもアップします。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1csdppBL0U13PRZvOyNXTiXVe_g5MC7PLqa-Sk8Q6oqE\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666660013.020029",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1666660739.641079",
+        "reply_users": [
+            "U041XC6213P",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U041XC6213P",
+                "ts": "1666660694.562549"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1666660739.641079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1666660739.641079",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "af2bd5ec-606f-42e4-b0dc-7e849ef718c2",
+        "type": "message",
+        "text": "承知しました。pngの書き出しの様式など指定ありましたら、ご教示いただけますでしょうか。前回はpngの書き出しは福田さんの方でしていただいていたので。",
+        "user": "U041XC6213P",
+        "ts": "1666660212.834809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LOI+E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました。pngの書き出しの様式など指定ありましたら、ご教示いただけますでしょうか。前回はpngの書き出しは福田さんの方でしていただいていたので。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666655664.245419",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "e79c3db3-7306-4f9a-abb8-b46f0f482540",
+        "type": "message",
+        "text": "解像度下げる以外は特にないですー",
+        "user": "U03CXUXB5PF",
+        "ts": "1666660245.851099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "27eb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "解像度下げる以外は特にないですー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666655664.245419",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3dde09e5-0da1-4383-99ba-cfda1ecd9523",
+        "type": "message",
+        "text": "作成する画像は4枚でよろしいでしょうか？\nあと、本日はzoomでのmtgはなしでしょうか？",
+        "user": "U041XC6213P",
+        "ts": "1666660694.562549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sora6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "作成する画像は4枚でよろしいでしょうか？\nあと、本日はzoomでのmtgはなしでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U041XC6213P",
+            "ts": "1666660712.000000"
+        },
+        "thread_ts": "1666660013.020029",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "57bd7eec-59b4-41d6-ac00-7d2fe3f99766",
+        "type": "message",
+        "text": "内容的にトレースだけなのでまぁ大丈夫ですかね　文字がやまほどあるのでそこはパワポデータを待った方がいいかもです",
+        "user": "U03CXUXB5PF",
+        "ts": "1666660739.641079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eol",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "内容的にトレースだけなのでまぁ大丈夫ですかね　文字がやまほどあるのでそこはパワポデータを待った方がいいかもです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666660013.020029",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "無罪放免はまずいので、６ヶ月でそろえてください",
+        "files": [
+            {
+                "id": "F047XME8ZTL",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1666675075.472509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z9a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "無罪放免はまずいので、６ヶ月でそろえてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8f180040-2db3-48ed-a442-88203ceb0a27"
+    }
+]

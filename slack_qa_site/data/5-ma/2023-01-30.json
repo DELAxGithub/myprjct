@@ -1,0 +1,264 @@
+[
+    {
+        "client_msg_id": "9002AFD4-C4F0-4E07-9EA6-A2FA217BFC15",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> さん\n66＿唐沢のQT&amp;OMFをアップしました。よろしくお願いいたします :blush: \nep2の07：30くらいから少しガサガサとノイズがあると指摘されました。BGMなどをつけていただければ幸いです。よろしくお願いいたします。",
+        "user": "U04KFCBLY9J",
+        "ts": "1675076108.460639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kDi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " さん\n66＿唐沢のQT&OMFをアップしました。よろしくお願いいたします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nep2の07：30くらいから少しガサガサとノイズがあると指摘されました。BGMなどをつけていただければ幸いです。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04KFCBLY9J",
+            "ts": "1675076845.000000"
+        },
+        "thread_ts": "1675076108.460639",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1675077048.259709",
+        "reply_users": [
+            "U04KFCBLY9J",
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U04KFCBLY9J",
+                "ts": "1675076803.295489"
+            },
+            {
+                "user": "U04KFCBLY9J",
+                "ts": "1675076889.049829"
+            },
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1675077048.259709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03G0LAPT3N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U04J38PLGM6>\n#66_ep2のノイズ部分のスクショになります。よろしくお願いいたします :blush: ",
+        "files": [
+            {
+                "id": "F04M62QG2QL",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04M0L1TBC5",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04KFCBLY9J",
+        "ts": "1675076803.295489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ohw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n#66_ep2のノイズ部分のスクショになります。よろしくお願いいたします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "CD2D4BFC-3193-4E8C-9293-3113769FE3ED",
+        "thread_ts": "1675076108.460639",
+        "parent_user_id": "U04KFCBLY9J"
+    },
+    {
+        "client_msg_id": "E733BD2B-50B1-47AD-83D3-C5949AF9AB67",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> さん宛です。 <@U04J38PLGM6> さん間違いメンションです :woman-bowing: すみません？",
+        "user": "U04KFCBLY9J",
+        "ts": "1675076889.049829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lf9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " さん宛です。 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " さん間違いメンションです "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すみません？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675076108.460639",
+        "parent_user_id": "U04KFCBLY9J"
+    },
+    {
+        "client_msg_id": "29C7DBE9-9101-4135-A1E7-B57B00DB061B",
+        "type": "message",
+        "text": "承知しました！",
+        "user": "U03G0LAPT3N",
+        "ts": "1675077048.259709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+SftB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675076108.460639",
+        "parent_user_id": "U04KFCBLY9J",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

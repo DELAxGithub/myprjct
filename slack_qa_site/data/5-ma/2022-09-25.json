@@ -1,0 +1,132 @@
+[
+    {
+        "client_msg_id": "2A9F04A1-6CE6-473C-8A7B-951C8455B4D5",
+        "type": "message",
+        "text": "全く同じではありますが、書き出しなおします",
+        "user": "U03CXUXB5PF",
+        "ts": "1664096370.367919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SQJR0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "全く同じではありますが、書き出しなおします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U03G0LAPT3N> と思ったんですが、せっかくなので少し修正したのを書き出しました、こちらでよろしくお願いしますー",
+        "files": [
+            {
+                "id": "F043T29EF5H",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1664099007.686309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BzKPx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " と思ったんですが、せっかくなので少し修正したのを書き出しました、こちらでよろしくお願いしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "96dc7da0-0232-42e5-a1f4-3d330c96d102",
+        "thread_ts": "1664099007.686309",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1664116310.837219",
+        "reply_users": [
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1664116310.837219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1664116310.837219"
+    },
+    {
+        "client_msg_id": "5CF34809-B6A7-456F-B5ED-CC088A05DA7A",
+        "type": "message",
+        "text": "こちらで仕込ませて頂きます。ありがとうございます。",
+        "user": "U03G0LAPT3N",
+        "ts": "1664116310.837219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qhTvx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こちらで仕込ませて頂きます。ありがとうございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664099007.686309",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

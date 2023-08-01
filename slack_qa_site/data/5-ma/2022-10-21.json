@@ -1,0 +1,123 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03G0LAPT3N>\n昨日まで収録だったんですが、そのうちの一つでテスト素材を書き出しました\n\nデジタイズ後、Proxy編集用に変換→何にもいじってない状態でMAようにQTとOMF書き出しました\n生かしてる音はメインカメラの１〜4chです\n１・２はピン　３・４はカメラマイク\n\nあと、現状の納品フォーマットをスクショでアップロードしてます。オーディオ設定でなんか変わったりします？\nAAC 320kbps 44kHz ステレオ",
+        "files": [
+            {
+                "id": "F0480JZ2TQ9",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1666386691.340029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0xR0n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n昨日まで収録だったんですが、そのうちの一つでテスト素材を書き出しました\n\nデジタイズ後、Proxy編集用に変換→何にもいじってない状態でMAようにQTとOMF書き出しました\n生かしてる音はメインカメラの１〜4chです\n１・２はピン　３・４はカメラマイク\n\nあと、現状の納品フォーマットをスクショでアップロードしてます。オーディオ設定でなんか変わったりします？\nAAC 320kbps 44kHz ステレオ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ba5f6f83-4793-4dd5-b615-18f3e3a2da9f",
+        "thread_ts": "1666386691.340029",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1666442058.762879",
+        "reply_users": [
+            "U03G0LAPT3N",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1666396212.750229"
+            },
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1666441674.284459"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1666441758.982279"
+            },
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1666441801.436089"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1666441843.985189"
+            },
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1666441992.996269"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1666442033.211549"
+            },
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1666442058.762879"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1666442058.762879"
+    },
+    {
+        "client_msg_id": "FB391D0A-8DC1-4E9D-A8AE-FF57190A82A4",
+        "type": "message",
+        "text": "検証させていただきます。",
+        "user": "U03G0LAPT3N",
+        "ts": "1666396212.750229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7qL4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "検証させていただきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666386691.340029",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

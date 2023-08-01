@@ -1,0 +1,292 @@
+[
+    {
+        "client_msg_id": "6d95d64e-df1e-4497-af01-fb5bfa1e9045",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n59_岡本　試写2.1入れました",
+        "user": "U03QQ3J656Z",
+        "ts": "1672918083.086209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eppk0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n59_岡本　試写2.1入れました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3> あまり変わっていないかもしれませんが、voice修正しました。",
+        "files": [
+            {
+                "id": "F04HJ61710V",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03V84JSHNK",
+        "display_as_bot": false,
+        "ts": "1672921074.329039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ESh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " あまり変わっていないかもしれませんが、voice修正しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "c7cd3cc1-fd28-4916-8a19-e7f311a980d0",
+        "thread_ts": "1672826803.262239",
+        "parent_user_id": "U03Q17LBJP3",
+        "subtype": "thread_broadcast",
+        "root": {
+            "type": "message",
+            "text": "<@U03V84JSHNK> <@U04J38PLGM6>\n60阿部　1点voice修正をお願いします。",
+            "files": [
+                {
+                    "id": "F04H033G3U7",
+                    "mode": "hidden_by_limit"
+                }
+            ],
+            "upload": false,
+            "user": "U03Q17LBJP3",
+            "display_as_bot": false,
+            "ts": "1672826803.262239",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "4ye",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03V84JSHNK"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n60阿部　1点voice修正をお願いします。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "client_msg_id": "e6d5b7fa-235e-48ca-ae74-ecb6714d3a2c",
+            "thread_ts": "1672826803.262239",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1672921074.329039",
+            "reply_users": [
+                "U03V84JSHNK"
+            ],
+            "replies": [
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1672921074.329039"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a17f495c-1fc3-4dae-b910-4181da3fc6a5",
+        "type": "message",
+        "text": "&gt; ```ご連絡ありがとうございます。\n&gt; 編集いただきました動画、確認いたしました。\n&gt; 修正が必要な箇所はとくには見当たりませんでした。\n&gt; このまま、お進めいただいて結構です。\n&gt; お手数おかけしますが、よろしくお願いいたします。\n&gt; とり急ぎ、お返事申し上げます。\n&gt;  \n&gt; 岡本裕一朗```\n<@U03QQ3J656Z>\n```岡本さん2,1確認完了しました```\n59岡本は本人、クライアントからチェックありました\n最終に進めてくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1672973767.760649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rInTF",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ご連絡ありがとうございます。\n編集いただきました動画、確認いたしました。\n修正が必要な箇所はとくには見当たりませんでした。\nこのまま、お進めいただいて結構です。\nお手数おかけしますが、よろしくお願いいたします。\nとり急ぎ、お返事申し上げます。\n \n岡本裕一朗"
+                            }
+                        ],
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "岡本さん2,1確認完了しました"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "59岡本は本人、クライアントからチェックありました\n最終に進めてくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "31a2e712-2a4c-409d-bf5f-0503380bcb50",
+        "type": "message",
+        "text": "<@U03P0T4KQMV>\n```詫摩さん2.1視聴完了しました。```\nクライアントからは特にないので本人チェックをお待ちください",
+        "user": "U03CXUXB5PF",
+        "ts": "1672973802.648359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h3g1J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "詫摩さん2.1視聴完了しました。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "クライアントからは特にないので本人チェックをお待ちください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "client_msg_id": "de9c9afb-db7a-4adb-bf59-f472ca93f1bb",
+        "type": "message",
+        "text": "<@U03V84JSHNK> 27浅羽の修正はこっちで終わってます。ひとまず浅羽に関しては特に何もないので、それ以外進めてくださいー。",
+        "user": "U03CXUXB5PF",
+        "ts": "1669685391.408719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F2\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 27浅羽の修正はこっちで終わってます。ひとまず浅羽に関しては特に何もないので、それ以外進めてくださいー。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ed11da76-c3eb-4e28-92c7-f73959b59720",
+        "type": "message",
+        "text": "<@U03QQ3J656Z>\nこれもう一回確認いただけますか？\nMAデータにハサミが入ってると、パンが変わるのかも。。\n```岡さん、確認しましたがまだ右側の音声が小さいようです。\nご確認ください。\n\nep1　4:15～ 右側の音声(岡さんの声のみ)が急に小さくなりました。\n　　   5:50　 右側の音がBGMも含めて小さくなりました\nep2　0：39～　右側の音声が小さくなる\nep3　8：31～　右側の音声が小さくなる\nPR　  問題なし```\n",
+        "user": "U03CXUXB5PF",
+        "ts": "1669692996.785709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5z9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこれもう一回確認いただけますか？\nMAデータにハサミが入ってると、パンが変わるのかも。。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "岡さん、確認しましたがまだ右側の音声が小さいようです。\nご確認ください。\n\nep1　4:15～ 右側の音声(岡さんの声のみ)が急に小さくなりました。\n　　   5:50　 右側の音がBGMも含めて小さくなりました\nep2　0：39～　右側の音声が小さくなる\nep3　8：31～　右側の音声が小さくなる\nPR　  問題なし"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669692996.785709",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1669720912.962249",
+        "reply_users": [
+            "U03QQ3J656Z",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1669719329.283349"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1669719788.027899"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1669720670.990179"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1669720912.962249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1669720912.962249",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

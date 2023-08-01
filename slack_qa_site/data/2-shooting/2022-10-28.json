@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "F0881A1F-F19E-4A5C-BA6E-7E10707B565A",
+        "type": "message",
+        "text": "STORYブロックです\n\n630C3301\n\n<@U040YCC00V6> <@U03V84JSHNK> ",
+        "user": "U03CXUXB5PF",
+        "ts": "1666958032.536839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+4k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "STORYブロックです\n\n630C3301\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

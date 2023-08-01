@@ -1,0 +1,154 @@
+[
+    {
+        "type": "message",
+        "text": "<!channel>\nシーケンスの命名規則\n\n書き出し周りで取り違えが結構あるので\nシーケンス名を変えることにしたいとおもいます\n\n現状の作業をシーケンスの後ろに書き足すイメージです\n*手元1→ 試写1→MA→試写2→試写2.1~3→手元2→試写3→納品*\n\n田中_ep1_試写2.2\nとか\n田中_ep1_最終\nとか\n前のバージョンはのこしておいたほうがいいので、複製してoldフォルダにのこしておいてください\n\n※今後<#C03DD5YH9D1|3-edit> はみたらリアクションをお願いします！",
+        "files": [
+            {
+                "id": "F046F92BUBT",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F045N3D7V7Z",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "ts": "1665532800.490559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OLc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nシーケンスの命名規則\n\n書き出し周りで取り違えが結構あるので\nシーケンス名を変えることにしたいとおもいます\n\n現状の作業をシーケンスの後ろに書き足すイメージです\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "手元1→ 試写1→MA→試写2→試写2.1~3→手元2→試写3→納品",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n田中_ep1_試写2.2\nとか\n田中_ep1_最終\nとか\n前のバージョンはのこしておいたほうがいいので、複製してoldフォルダにのこしておいてください\n\n※今後"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03DD5YH9D1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " はみたらリアクションをお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1c0a0b5b-789c-4230-8181-e2dcf6f35841",
+        "reactions": [
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN",
+                    "U03Q17LBJP3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bulb",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "MAを置くときに注意\n\nLRに偏ってることがあります\nオーディオ→\n奇数トラックはL -100 　偶数トラックはR 100　に\nふりわけになってることをご注意ください\n1トラックにLR両方はいってたら0でいいとおもいます",
+        "files": [
+            {
+                "id": "F04610PK4TX",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1665535891.918769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AaM0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MAを置くときに注意\n\nLRに偏ってることがあります\nオーディオ→\n奇数トラックはL -100 　偶数トラックはR 100　に\nふりわけになってることをご注意ください\n1トラックにLR両方はいってたら0でいいとおもいます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "e88ac068-58cd-4b52-9c84-2d7a81bc07b4",
+        "reactions": [
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN",
+                    "U03Q17LBJP3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bulb",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

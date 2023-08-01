@@ -1,0 +1,87 @@
+[
+    {
+        "client_msg_id": "5c3edacf-b0b9-4ff4-ab94-26b89d173d85",
+        "type": "message",
+        "text": "<@U03P0T4KQMV>\n本人チェックはもう大丈夫なので、\nタイトルを以下にして、編集3に進めてくださいー\n_渡部陽一が語る_\n_「戦場」と「日常」_",
+        "user": "U03CXUXB5PF",
+        "ts": "1677155692.736159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HN9bk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n本人チェックはもう大丈夫なので、\nタイトルを以下にして、編集3に進めてくださいー\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "渡部陽一が語る",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "「戦場」と「日常」",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677155692.736159",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677238683.947589",
+        "reply_users": [
+            "U03P0T4KQMV"
+        ],
+        "replies": [
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1677238683.947589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677238683.947589",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

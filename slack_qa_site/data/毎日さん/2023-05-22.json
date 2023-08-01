@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "在庫\n試写1:0 | MA:0 | 試写2:4 | 試写3:0\n————————————-\n<@U03Q17LBJP3> : #101、 相馬 雅代、 編集3、: 05-22\n<@U04QC17DUEP> : #100、 保坂 修司、 本人編集、: 05-22\n",
+        "ts": "1684800698.094169",
+        "bot_id": "B0527SNLW83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FcpS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "在庫\n試写1:0 | MA:0 | 試写2:4 | 試写3:0\n————————————-\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #101、 相馬 雅代、 編集3、: 05-22\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04QC17DUEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #100、 保坂 修司、 本人編集、: 05-22"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

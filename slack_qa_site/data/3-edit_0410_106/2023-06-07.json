@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "F61B7B1C-B56B-4131-AD2D-E92BD9A07E08",
+        "type": "message",
+        "text": "北川さんより\n\n\n２１分くらいにあります、「できないものの　反対側のものの」という部分ですが、\n\n \n\n意味的には、できないもの・反対側にあるもの、\n\nですので、\n\nできないものの反対にあるもの、\n\nではない\n\n \n\nことを加味すると、テロップは「*できないもの　反対側のもの*」あるいは、「できないものや　反対側のもの」のような修正になるのかと思いました。\n\n\n\nということなので、太字の方に修正お願いします\n\n\nこの人と朝倉さんので、2分版作ることになりました\n台本はのちほど。。\n\n",
+        "user": "U03CXUXB5PF",
+        "ts": "1686147207.647399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r2Qqq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "北川さんより\n\n\n２１分くらいにあります、「できないものの　反対側のものの」という部分ですが、\n\n \n\n意味的には、できないもの・反対側にあるもの、\n\nですので、\n\nできないものの反対にあるもの、\n\nではない\n\n \n\nことを加味すると、テロップは「"
+                            },
+                            {
+                                "type": "text",
+                                "text": "できないもの　反対側のもの",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "」あるいは、「できないものや　反対側のもの」のような修正になるのかと思いました。\n\n\n\nということなので、太字の方に修正お願いします\n\n\nこの人と朝倉さんので、2分版作ることになりました\n台本はのちほど。。\n\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

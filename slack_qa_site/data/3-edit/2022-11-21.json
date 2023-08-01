@@ -1,0 +1,453 @@
+[
+    {
+        "client_msg_id": "b94448cf-4209-463b-a3c5-b0ae5e6a6fba",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n今更にはなりますが、twのpsdの作成について、\n台本にフォーマットの指定がないものが存在しております。\n（引用、箇条書き、見出しなどの指定がない）\n\nそれぞれ編集マンの方で何かしら作成いただいてるようなんですが、ばらつきが見られますので、台本にご指定いただくか、指定がない場合はコレというような統一のデザインなど作成いただけないでしょうか。",
+        "user": "U03NZ0E09JN",
+        "ts": "1669018440.003359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Wo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今更にはなりますが、twのpsdの作成について、\n台本にフォーマットの指定がないものが存在しております。\n（引用、箇条書き、見出しなどの指定がない）\n\nそれぞれ編集マンの方で何かしら作成いただいてるようなんですが、ばらつきが見られますので、台本にご指定いただくか、指定がない場合はコレというような統一のデザインなど作成いただけないでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669018440.003359",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1669083308.116619",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U03NZ0E09JN"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1669031217.302889"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1669083038.345349"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1669083118.026269"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1669083308.116619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1669083308.116619"
+    },
+    {
+        "client_msg_id": "50b0ef5a-241a-46c8-a1ae-c46026cc390d",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> 指定なし＝premiereで作って、スタイル当てるだけ、のやつで進めていただければと思います。",
+        "user": "U03CXUXB5PF",
+        "ts": "1669031217.302889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EmJz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 指定なし＝premiereで作って、スタイル当てるだけ、のやつで進めていただければと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669018440.003359",
+        "parent_user_id": "U03NZ0E09JN"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\ntwと記載はあるけれどフォーマットの指定がなければ、twは作らないということでよろしいでしょうか。",
+        "files": [
+            {
+                "id": "F04BY9RK1QB",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1669083038.345349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RtlQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ntwと記載はあるけれどフォーマットの指定がなければ、twは作らないということでよろしいでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "84fe5a98-066c-4e05-8270-a53b33f45956",
+        "thread_ts": "1669018440.003359",
+        "parent_user_id": "U03NZ0E09JN"
+    },
+    {
+        "client_msg_id": "948bced2-9807-4a49-98b3-6b3a4386c11f",
+        "type": "message",
+        "text": "twは作るんですが、psdじゃないってことですね",
+        "user": "U03CXUXB5PF",
+        "ts": "1669083118.026269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w=lyg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "twは作るんですが、psdじゃないってことですね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669018440.003359",
+        "parent_user_id": "U03NZ0E09JN"
+    },
+    {
+        "client_msg_id": "017e8509-16c0-4df2-b8cc-75903fdd223a",
+        "type": "message",
+        "text": "そうですねtwは作りますね。tw=psdの意味合いで使ってました。ややこしくしてすいません。\nフォーマット指定がなければ通常の取りきりのスタイルをあてるということで承知いたしました。",
+        "user": "U03NZ0E09JN",
+        "ts": "1669083308.116619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q2kL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうですねtwは作りますね。tw=psdの意味合いで使ってました。ややこしくしてすいません。\nフォーマット指定がなければ通常の取りきりのスタイルをあてるということで承知いたしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669018440.003359",
+        "parent_user_id": "U03NZ0E09JN",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n取りきりの\"箇条書き\"のタイトル部分が左揃えとセンターが混在してるのですが正しくはどちらになりますか？",
+        "files": [
+            {
+                "id": "F04BVKS3ML5",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04BJ28QLNT",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "ts": "1669087202.298979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0HX0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n取りきりの\"箇条書き\"のタイトル部分が左揃えとセンターが混在してるのですが正しくはどちらになりますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6b56a083-4eb0-4822-b68f-d6d9eb43e11c",
+        "thread_ts": "1669087202.298979",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1669087421.005009",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1669087421.005009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1669087421.005009"
+    },
+    {
+        "client_msg_id": "5364e23e-4bf0-402a-8fa6-818344463bb5",
+        "type": "message",
+        "text": "箇条書きに数字があって本当に箇条書きなら左寄せ\n\n数字がなければ＝見出し、ってことでセンターかな",
+        "user": "U03CXUXB5PF",
+        "ts": "1669087421.005009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f+eg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "箇条書きに数字があって本当に箇条書きなら左寄せ\n\n数字がなければ＝見出し、ってことでセンターかな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669087202.298979",
+        "parent_user_id": "U03NZ0E09JN",
+        "reactions": [
+            {
+                "name": "star-struck",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nこういった場合の「年」は残しておいた方がいいですか？",
+        "files": [
+            {
+                "id": "F04C1QY9K60",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1669103225.687059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z\/S\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこういった場合の「年」は残しておいた方がいいですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6c07ff2d-8415-4dee-83cd-5d7a0cf44396",
+        "thread_ts": "1667851477.931769",
+        "parent_user_id": "U03CXUXB5PF",
+        "subtype": "thread_broadcast",
+        "root": {
+            "type": "message",
+            "text": "[時々更新] 試写のポイント\nカッコとか年とか不要です 新しくクライアント試写に参加した人が結構ここ目ざとくいってきてますので改めてご確認ください。\n\n関係ないけど\nslackがなくなる前にこのチャンネルどっかに保存しないとな。。",
+            "files": [
+                {
+                    "id": "F049SE2FXRB",
+                    "mode": "hidden_by_limit"
+                }
+            ],
+            "upload": false,
+            "user": "U03CXUXB5PF",
+            "display_as_bot": false,
+            "ts": "1667851477.931769",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "IgjI=",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "[時々更新] 試写のポイント\nカッコとか年とか不要です 新しくクライアント試写に参加した人が結構ここ目ざとくいってきてますので改めてご確認ください。\n\n関係ないけど\nslackがなくなる前にこのチャンネルどっかに保存しないとな。。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "client_msg_id": "d56421ad-6443-41b8-b6b4-fdd68ce25493",
+            "thread_ts": "1667851477.931769",
+            "reply_count": 5,
+            "reply_users_count": 3,
+            "latest_reply": "1669259929.498479",
+            "reply_users": [
+                "U03NZ0E09JN",
+                "U03CXUXB5PF",
+                "U040YCC00V6"
+            ],
+            "replies": [
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1669103225.687059"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1669114417.128439"
+                },
+                {
+                    "user": "U040YCC00V6",
+                    "ts": "1669114691.479159"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1669259805.956569"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1669259929.498479"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1669259929.498479"
+        }
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "3A6881F3-2425-4747-AEEC-CDFBDA10868B",
+        "type": "message",
+        "text": "89成田が今日には上がると思います。\nよろしくお願いします。",
+        "user": "U03NZ0E09JN",
+        "ts": "1680323915.658239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9HDUS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "89成田が今日には上がると思います。\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,290 @@
+[
+    {
+        "client_msg_id": "d6cf8bf4-4d86-4eef-966f-4b2890605da1",
+        "type": "message",
+        "text": "<@U03NJATSEBH> 明日でいいですが、21_田中さんのYouTube入れました。本人からの修正を反映も台本にあるので反映をお願いします 新作の前にこちらを。さらにその前にパックンの書き出しをチェックですが。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663840910.164669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/UoA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 明日でいいですが、21_田中さんのYouTube入れました。本人からの修正を反映も台本にあるので反映をお願いします 新作の前にこちらを。さらにその前にパックンの書き出しをチェックですが。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1663841020.000000"
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b692c3e7-9800-4c3c-a729-24bac519f7db",
+        "type": "message",
+        "text": "<@U03V84JSHNK> こちらです",
+        "user": "U03CXUXB5PF",
+        "ts": "1663843987.977699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v6RQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こちらです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663843990.654709",
+        "user": "U03V84JSHNK",
+        "text": "<@U03V84JSHNK>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "47c2b63f-05fd-4df2-836f-394876eefd0b",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03V84JSHNK> <@U040YCC00V6>\n中島さんの追加イメージがまだのようでした。\n・算数\n・楽器\n・数字＋抽象的な静止画\nご確認をお願いいたします。",
+        "user": "U03NZ0E09JN",
+        "ts": "1663852433.075489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pAWY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n中島さんの追加イメージがまだのようでした。\n・算数\n・楽器\n・数字＋抽象的な静止画\nご確認をお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663852433.075489",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1663908689.537719",
+        "reply_users": [
+            "U03V84JSHNK"
+        ],
+        "replies": [
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1663908689.537719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1663908689.537719",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03NZ0E09JN>\n遅くなってしまってすみません。入れましたのでご確認お願いします。",
+        "user": "U03V84JSHNK",
+        "ts": "1663908689.537719",
+        "thread_ts": "1663852433.075489",
+        "root": {
+            "client_msg_id": "47c2b63f-05fd-4df2-836f-394876eefd0b",
+            "type": "message",
+            "text": "<@U03CXUXB5PF> <@U03V84JSHNK> <@U040YCC00V6>\n中島さんの追加イメージがまだのようでした。\n・算数\n・楽器\n・数字＋抽象的な静止画\nご確認をお願いいたします。",
+            "user": "U03NZ0E09JN",
+            "ts": "1663852433.075489",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "pAWY",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03CXUXB5PF"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03V84JSHNK"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U040YCC00V6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n中島さんの追加イメージがまだのようでした。\n・算数\n・楽器\n・数字＋抽象的な静止画\nご確認をお願いいたします。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1663852433.075489",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1663908689.537719",
+            "reply_users": [
+                "U03V84JSHNK"
+            ],
+            "replies": [
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1663908689.537719"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1663908689.537719"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ey2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n遅くなってしまってすみません。入れましたのでご確認お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "651eb247-7558-41b8-80cb-aad03ca2b50a",
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

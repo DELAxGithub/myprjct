@@ -1,0 +1,113 @@
+[
+    {
+        "client_msg_id": "fb7fa352-7e40-4a9b-b9ad-ba3cf6e72fae",
+        "type": "message",
+        "text": "<@U03RA83HRN0>\n54,55粗編できますー　二人とも喋るの早いので、文字数が多くなってます。文字数あたりの尺の感じが知りたいだけなので、なんとなくどんな話してるのか確かめつつ、いったん尺を出してみてください。\nよろしくお願いいたしますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1664756774.116509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FAs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n54,55粗編できますー　二人とも喋るの早いので、文字数が多くなってます。文字数あたりの尺の感じが知りたいだけなので、なんとなくどんな話してるのか確かめつつ、いったん尺を出してみてください。\nよろしくお願いいたしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664756774.116509",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1664770416.012979",
+        "reply_users": [
+            "U03RA83HRN0"
+        ],
+        "replies": [
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1664770416.012979"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1664770416.012979",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc32d5d6-1d7d-405b-b42a-86067c1b3e3e",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n承知しました。\n別件作業もありますので、地道に今週中にやれたらと思います。\nよろしくお願い致します。",
+        "user": "U03RA83HRN0",
+        "ts": "1664770416.012979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sHXc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n承知しました。\n別件作業もありますので、地道に今週中にやれたらと思います。\nよろしくお願い致します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664756774.116509",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

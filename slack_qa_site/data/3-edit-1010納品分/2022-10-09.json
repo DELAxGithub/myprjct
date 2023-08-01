@@ -1,0 +1,891 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>　31土井ep手元試写終わりました。\ndropboxの書き出しは問題なかったのですが、今プロジェクト開いてたら音声が片方のチャンネルだけしかのってませんでした。\n書き出し依頼かけますがこちらにもアナウンスします。",
+        "files": [
+            {
+                "id": "F045JQ1ANR4",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03Q17LBJP3",
+        "display_as_bot": false,
+        "ts": "1665302151.754279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wR5aV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　31土井ep手元試写終わりました。\ndropboxの書き出しは問題なかったのですが、今プロジェクト開いてたら音声が片方のチャンネルだけしかのってませんでした。\n書き出し依頼かけますがこちらにもアナウンスします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "050eb06f-5a34-46cc-b1c1-62b27c5df12d"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 39松永 Replay反映しました。\n\n<@U040YCC00V6>\n同時進行だった権利表を確認しました。\nゴッホのひまわりのところだけ特記事項がありましたが、いかがでしょうか？\nそこの解決次第、書き出し依頼かけます",
+        "files": [
+            {
+                "id": "F04645DDA4R",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03Q17LBJP3",
+        "display_as_bot": false,
+        "ts": "1665309583.651609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T4F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 39松永 Replay反映しました。\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n同時進行だった権利表を確認しました。\nゴッホのひまわりのところだけ特記事項がありましたが、いかがでしょうか？\nそこの解決次第、書き出し依頼かけます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9c55a635-94ea-4d74-8dc9-f814806e26ca",
+        "thread_ts": "1665309583.651609",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1665317283.121059",
+        "reply_users": [
+            "U040YCC00V6",
+            "U03Q17LBJP3"
+        ],
+        "replies": [
+            {
+                "user": "U040YCC00V6",
+                "ts": "1665310115.347399"
+            },
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1665317283.121059"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1665317283.121059"
+    },
+    {
+        "client_msg_id": "9EDC1C6F-B843-4C38-831A-51CDBFFBDD18",
+        "type": "message",
+        "text": "ありがとうございます。\nこちら英語でも\tThe work of art depicted in this image and the reproduction thereof are in the public domain worldwide. The reproduction is part of a collection of reproductions compiled by The Yorck Project. The compilation copyright is held by Zenodot Verlagsgesellschaft mbH and licensed under the GNU Free Documentation License.\nとある通り、パブリックドメインの画像になります。\n今一度、クレジットが必要か否か確認しますが、大丈夫かと思います",
+        "user": "U040YCC00V6",
+        "ts": "1665310115.347399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FtK5Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます。\nこちら英語でも\tThe work of art depicted in this image and the reproduction thereof are in the public domain worldwide. The reproduction is part of a collection of reproductions compiled by The Yorck Project. The compilation copyright is held by Zenodot Verlagsgesellschaft mbH and licensed under the GNU Free Documentation License.\nとある通り、パブリックドメインの画像になります。\n今一度、クレジットが必要か否か確認しますが、大丈夫かと思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665309583.651609",
+        "parent_user_id": "U03Q17LBJP3"
+    },
+    {
+        "client_msg_id": "d0066792-0742-48d0-aede-37e0ff7403bc",
+        "type": "message",
+        "text": "ではのちほど書き出し依頼かけますー",
+        "user": "U03Q17LBJP3",
+        "ts": "1665317283.121059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GZa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ではのちほど書き出し依頼かけますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665309583.651609",
+        "parent_user_id": "U03Q17LBJP3"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 25中島 Replay反映しました。\nあとは作品名だけですね･･･\nご確認よろしくお願いします。",
+        "files": [
+            {
+                "id": "F045B39U7AB",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03Q17LBJP3",
+        "display_as_bot": false,
+        "ts": "1665317540.827669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3D67W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 25中島 Replay反映しました。\nあとは作品名だけですね･･･\nご確認よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "dacca932-5a22-4b3a-951a-95cd8f940fdc"
+    },
+    {
+        "client_msg_id": "8f90b2d8-7a55-457c-8b84-104c03fb731a",
+        "type": "message",
+        "text": "ようやく出演者と連絡取れてみてくれてるようです。作品名以外の直しも来るかもですが少々お待ちください\n<@U03Q17LBJP3>",
+        "user": "U03CXUXB5PF",
+        "ts": "1665317789.902619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I33",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ようやく出演者と連絡取れてみてくれてるようです。作品名以外の直しも来るかもですが少々お待ちください\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665317789.902619",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1665318059.045899",
+        "reply_users": [
+            "U03Q17LBJP3",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1665317854.172169"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665317963.739599"
+            },
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1665318059.045899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1665318059.045899"
+    },
+    {
+        "client_msg_id": "55174d69-e791-4a34-bc00-a72e88705773",
+        "type": "message",
+        "text": "了解です！\nちなみに39松永も出演者チェック来ますか？あと納品書き出しだけです",
+        "user": "U03Q17LBJP3",
+        "ts": "1665317854.172169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oqg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です！\nちなみに39松永も出演者チェック来ますか？あと納品書き出しだけです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665317789.902619",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "88fee862-4b9f-4a85-a896-b0510c090dad",
+        "type": "message",
+        "text": "39は出演者チェック終わってますー\n39松永は\n\n納品書きだし前に、\n修正反映後\n→2.1回目チェック（従来通り書き出し）\n→twのなおしはもうないね、\n\nってなってからの納品（重めの書き出し）\nとなります",
+        "user": "U03CXUXB5PF",
+        "ts": "1665317963.739599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IZz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "39は出演者チェック終わってますー\n39松永は\n\n納品書きだし前に、\n修正反映後\n→2.1回目チェック（従来通り書き出し）\n→twのなおしはもうないね、\n\nってなってからの納品（重めの書き出し）\nとなります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665317789.902619",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "4a8660d7-8bee-4856-96af-4e44d0027e93",
+        "type": "message",
+        "text": "では2.1回目チェックかけます",
+        "user": "U03Q17LBJP3",
+        "ts": "1665318059.045899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XDO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "では2.1回目チェックかけます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665317789.902619",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nこちらイメージの指定がないということのようです。",
+        "files": [
+            {
+                "id": "F045P7P2RQV",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1665349249.093409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nCaq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこちらイメージの指定がないということのようです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ac96bd06-d3cd-46dc-934a-a234c8edfd97",
+        "thread_ts": "1665278075.230829",
+        "parent_user_id": "U03QQ3J656Z",
+        "subtype": "thread_broadcast",
+        "root": {
+            "type": "message",
+            "text": "<@U03CXUXB5PF>\n26＿武田\ntw追加など終わりましたが、マーカー３箇所の対応お願いします。",
+            "files": [
+                {
+                    "id": "F045TG88ZAQ",
+                    "mode": "hidden_by_limit"
+                },
+                {
+                    "id": "F045AFVFQDV",
+                    "mode": "hidden_by_limit"
+                },
+                {
+                    "id": "F0463MMF1DX",
+                    "mode": "hidden_by_limit"
+                }
+            ],
+            "upload": false,
+            "user": "U03QQ3J656Z",
+            "ts": "1665278075.230829",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "\/z1",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03CXUXB5PF"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n26＿武田\ntw追加など終わりましたが、マーカー３箇所の対応お願いします。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "client_msg_id": "0fb95aae-77fc-4e4e-b7da-ce0b6ead83d3",
+            "thread_ts": "1665278075.230829",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1665349417.457439",
+            "reply_users": [
+                "U03NZ0E09JN",
+                "U03CXUXB5PF"
+            ],
+            "replies": [
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1665349249.093409"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1665349333.887809"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1665349417.457439"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1665349417.457439"
+        }
+    },
+    {
+        "client_msg_id": "8742adb5-99b3-4b91-b130-49344f6d6c0d",
+        "type": "message",
+        "text": "<@U03QQ3J656Z>\n<https:\/\/kdddipresidentnep2022.slack.com\/archives\/C0462AQUAU9\/p1665283545968939>",
+        "user": "U03NZ0E09JN",
+        "ts": "1665349333.887809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/ou5e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kdddipresidentnep2022.slack.com\/archives\/C0462AQUAU9\/p1665283545968939"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/kdddipresidentnep2022.slack.com\/archives\/C0462AQUAU9\/p1665283545968939",
+                "ts": "1665283545.968939",
+                "author_id": "U03CXUXB5PF",
+                "channel_id": "C0462AQUAU9",
+                "channel_team": "T03CU6RQ154",
+                "channel_name": "3-edit-制作todoスクショ置き場",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T03CU6RQ154",
+                        "channel": "C0462AQUAU9",
+                        "ts": "1665283545.968939",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "T0zM",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "イラスト＋テロップになってるのは、イラストを取り切らずにテロップ載るぐらいに縮小ではどうでしょう。21田中でよくやってます。イラスト内文字が小さくなるようならレイアウトし直しかも。\n\nイメージについては、 "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U040YCC00V6"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U03V84JSHNK"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "対応お願いします\n　\n\n"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/kdddipresidentnep2022.slack.com\/archives\/C0462AQUAU9\/p1665283545968939",
+                "fallback": "[October 8th, 2022 7:45 PM] h.kodera: イラスト＋テロップになってるのは、イラストを取り切らずにテロップ載るぐらいに縮小ではどうでしょう。21田中でよくやってます。イラスト内文字が小さくなるようならレイアウトし直しかも。\n\nイメージについては、 <@U040YCC00V6> <@U03V84JSHNK>対応お願いします\n　",
+                "text": "イラスト＋テロップになってるのは、イラストを取り切らずにテロップ載るぐらいに縮小ではどうでしょう。21田中でよくやってます。イラスト内文字が小さくなるようならレイアウトし直しかも。\n\nイメージについては、 <@U040YCC00V6> <@U03V84JSHNK>対応お願いします\n　",
+                "author_name": "h.kodera",
+                "author_link": "https:\/\/kdddipresidentnep2022.slack.com\/team\/U03CXUXB5PF",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_48.png",
+                "author_subname": "h.kodera",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "#3-edit-制作todoスクショ置き場 に投稿"
+            }
+        ],
+        "thread_ts": "1665278075.230829",
+        "parent_user_id": "U03QQ3J656Z"
+    },
+    {
+        "type": "message",
+        "text": "<@U03QQ3J656Z> ファインマンと自然現象を合成するとかでしょうか。引用のは背景なので、そんなに作り込む必要はないですが。",
+        "files": [
+            {
+                "id": "F045KHUBBM4",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1665349417.457439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LEb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ファインマンと自然現象を合成するとかでしょうか。引用のは背景なので、そんなに作り込む必要はないですが。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "d0a4ee7e-ecd4-4ea8-8dd1-8ebff0930c1e",
+        "thread_ts": "1665278075.230829",
+        "parent_user_id": "U03QQ3J656Z",
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN",
+                    "U03QQ3J656Z"
+                ],
+                "count": 2
+            },
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f5a5ca64-7083-4f2e-8b05-746867ab1c6c",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 中島も出演者待ちの箇所ありますが、2.1試写に行けますかね。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665364222.198159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SYA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 中島も出演者待ちの箇所ありますが、2.1試写に行けますかね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665364222.198159",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1665365157.216079",
+        "reply_users": [
+            "U03Q17LBJP3"
+        ],
+        "replies": [
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1665365157.216079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1665365157.216079"
+    },
+    {
+        "client_msg_id": "ebf873c3-88a0-479b-9c17-fb58da39ca39",
+        "type": "message",
+        "text": "25中島、修正が来るとわかっているのであまりプロジェクトを触りたくなく、修正反映を全部して試写したいのが本音です。。池田さんに何度も書き出しお願いするのも申し訳ないので、、、\n31土井のReplay修正もまだなので、先にそちらから手をつけて、その後にまだ出演者待ちであればこの状態で2.1試写入りたいです。",
+        "user": "U03Q17LBJP3",
+        "ts": "1665365157.216079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6\/6=b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "25中島、修正が来るとわかっているのであまりプロジェクトを触りたくなく、修正反映を全部して試写したいのが本音です。。池田さんに何度も書き出しお願いするのも申し訳ないので、、、\n31土井のReplay修正もまだなので、先にそちらから手をつけて、その後にまだ出演者待ちであればこの状態で2.1試写入りたいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665364222.198159",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nお待たせしております。\n21田中、Replayほぼ修正完了し、添付部分のみ残りです。\nご確認いただけますでしょうか。",
+        "files": [
+            {
+                "id": "F045BUEUST1",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F045PGW3V9T",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NJATSEBH",
+        "ts": "1665365388.238179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ump=e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお待たせしております。\n21田中、Replayほぼ修正完了し、添付部分のみ残りです。\nご確認いただけますでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "082b3b95-bde6-4449-b97f-2d9a3cb270c2"
+    },
+    {
+        "client_msg_id": "e9a5e7c0-f365-4c93-b775-91b2e1fea5b2",
+        "type": "message",
+        "text": "<@U03NJATSEBH>\nep1上から\n不要　サイト側で対応したほうがいい\n口パク、、音楽ごと詰めます？半秒ぐらいにするか\n提案するようなテロップでいいんじゃないでしょうか\n最後のもそのまま反映してあげていいんじゃないですかね\n\nep3は1で",
+        "user": "U03CXUXB5PF",
+        "ts": "1665365595.427799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mNpU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nep1上から\n不要　サイト側で対応したほうがいい\n口パク、、音楽ごと詰めます？半秒ぐらいにするか\n提案するようなテロップでいいんじゃないでしょうか\n最後のもそのまま反映してあげていいんじゃないですかね\n\nep3は1で"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1665365603.000000"
+        },
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

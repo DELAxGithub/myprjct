@@ -1,0 +1,312 @@
+[
+    {
+        "type": "message",
+        "text": " <@U03CXUXB5PF> \nお疲れ様です。#84山下さんのep2で気になるノイズの箇所が３箇所ありました。どれも大きめのノイズになります。カットなどあればご指示よろしくお願い致します :blush: :woman-bowing: ",
+        "files": [
+            {
+                "id": "F04S81VL57U",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04S7TGA2P5",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04RTFLF59D",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04KFCBLY9J",
+        "ts": "1677838650.522279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Hm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です。#84山下さんのep2で気になるノイズの箇所が３箇所ありました。どれも大きめのノイズになります。カットなどあればご指示よろしくお願い致します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9831187E-B16F-410E-B6B6-D89FF8C4720F",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8913f762-9348-4400-be95-2d7edd0be035",
+        "type": "message",
+        "text": "<@U04KFCBLY9J> カット箇所、コメントしました",
+        "user": "U03CXUXB5PF",
+        "ts": "1677840713.612979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lgVa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " カット箇所、コメントしました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677840713.612979",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677841560.141979",
+        "reply_users": [
+            "U04KFCBLY9J"
+        ],
+        "replies": [
+            {
+                "user": "U04KFCBLY9J",
+                "ts": "1677841560.141979"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677841560.141979",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F02FE5F0-E5B3-4FCA-BABB-E9A3F29E1C24",
+        "type": "message",
+        "text": "ありがとうございます:blush:！",
+        "user": "U04KFCBLY9J",
+        "ts": "1677841560.141979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+JRP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677840713.612979",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "719c7a02-f7fa-406c-88a7-b6f1156d5f50",
+        "type": "message",
+        "text": "<@U03V84JSHNK> 83のOP\/EDまでできました　テロップ作成してください\n<@U03RA83HRN0> 揃ったところで\n編集1をお願いします",
+        "user": "U03CXUXB5PF",
+        "ts": "1677846624.788259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=yw4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 83のOP\/EDまでできました　テロップ作成してください\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 揃ったところで\n編集1をお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677846624.788259",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677919994.567869",
+        "reply_users": [
+            "U03V84JSHNK"
+        ],
+        "replies": [
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1677919994.567869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677919994.567869",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03P0T4KQMV>\n遅くなり申し訳ありません。82_河田の素材とテロップ入れました。\nCGは現在作成してもらっていますので、揃い次第アップロードします。\nよろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F04SA29PG1K",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1677916214.229479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i1m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n遅くなり申し訳ありません。82_河田の素材とテロップ入れました。\nCGは現在作成してもらっていますので、揃い次第アップロードします。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9cfa827f-bfa1-415a-b41b-ce6d2e32e4f0",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

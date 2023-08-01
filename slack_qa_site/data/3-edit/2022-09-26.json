@@ -1,0 +1,208 @@
+[
+    {
+        "type": "message",
+        "text": "Replay試写の修正傾向\n\nテロップについて\n・分量…編集１の段階でもうちょっと増やします\n・文言…単語＝キーワードより、文章にしてもらいたいみたい\n\n\nボリュームに関して\n・ノイズ　\n1. 音を外す（単語ごとそこだけ下げとく。オリジナルのマルチの方でやっちゃった方がいいですが、どっちでも）\n2. 別の場所で使われてる同じ単語持ってくる　（テキスト→文字起こしから検索すると発見しやすい　単語レベルがなければもっと細かく切りはり。イントネーションなどの関係でなかなか無いですが、、）\n3. 差し替え\n※１、２いずれにしても整音前なら、MAでもっと馴染み良く調整するので、MA書き出し時にテロップでノイズありとかぱっと見でわかるようなダミーテロップを載せとく\n\n・ボリューム\n　本番MA後なら書き出しミスの可能性あり\n　手元試写１の時点で、ピンマイクの波形が出てない\n　　マルチでA1にピンマイクが入ってない？→直す\n　　入ってたら、オーディオゲインであげとく\n・BGM、SE\n本番MAの後で「ぶつ切り」「無音」になってたら、一応見てみるけど、\n多分音高さんで処理はしてあるはず→演出の狙い、ということで基本は無視しますが、どういうことかはReplay制作から説明する\n　\n\n・画質に関して　収録素材とイメージカットは対応分ける\n・収録素材について画質悪い　\n　Replay試写では収録素材についてはProxyで書き出してるのでアップに関して悪いというのは対応不要　\n　最終試写でも言ってきたら、マルチでアップの寄りサイズを下げますが、、やりたくないので、書き出しの画質を上げるとかかな。。\n\n・イメージカットについて\n　640しかないやつを最終がHDといっても4Kサイズにに広げるのはやっぱり厳しいので、せめてAIで倍にする＋背景追加で誤魔化す\n　動かすと余計に荒れるので、止めます\n　レンダリング＋スマホで見るとかで、各自でOKライン探ってみてください\n　ダメなら別映像に差し替えします。\n\n\n画質上げるAI\n<http:\/\/waifu2x.udp.jp\/index.ja.html>\n <https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F044863QMDF\/21_tanaka0926.jpg>",
+        "files": [
+            {
+                "id": "F043PD4AQG6",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F044863QMDF",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "x_files": [
+            "F044863QMDF"
+        ],
+        "ts": "1664191155.802889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P+6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Replay試写の修正傾向\n\nテロップについて\n・分量…編集１の段階でもうちょっと増やします\n・文言…単語＝キーワードより、文章にしてもらいたいみたい\n\n\nボリュームに関して\n・ノイズ　\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "音を外す（単語ごとそこだけ下げとく。オリジナルのマルチの方でやっちゃった方がいいですが、どっちでも）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "別の場所で使われてる同じ単語持ってくる　（テキスト→文字起こしから検索すると発見しやすい　単語レベルがなければもっと細かく切りはり。イントネーションなどの関係でなかなか無いですが、、）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "差し替え"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n※１、２いずれにしても整音前なら、MAでもっと馴染み良く調整するので、MA書き出し時にテロップでノイズありとかぱっと見でわかるようなダミーテロップを載せとく\n\n・ボリューム\n　本番MA後なら書き出しミスの可能性あり\n　手元試写１の時点で、ピンマイクの波形が出てない\n　　マルチでA1にピンマイクが入ってない？→直す\n　　入ってたら、オーディオゲインであげとく\n・BGM、SE\n本番MAの後で「ぶつ切り」「無音」になってたら、一応見てみるけど、\n多分音高さんで処理はしてあるはず→演出の狙い、ということで基本は無視しますが、どういうことかはReplay制作から説明する\n　\n\n・画質に関して　収録素材とイメージカットは対応分ける\n・収録素材について画質悪い　\n　Replay試写では収録素材についてはProxyで書き出してるのでアップに関して悪いというのは対応不要　\n　最終試写でも言ってきたら、マルチでアップの寄りサイズを下げますが、、やりたくないので、書き出しの画質を上げるとかかな。。\n\n・イメージカットについて\n　640しかないやつを最終がHDといっても4Kサイズにに広げるのはやっぱり厳しいので、せめてAIで倍にする＋背景追加で誤魔化す\n　動かすと余計に荒れるので、止めます\n　レンダリング＋スマホで見るとかで、各自でOKライン探ってみてください\n　ダメなら別映像に差し替えします。\n\n\n画質上げるAI\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/waifu2x.udp.jp\/index.ja.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F044863QMDF\/21_tanaka0926.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5e2ed187-89a0-4f1b-8beb-14fe0664b407",
+        "attachments": [
+            {
+                "from_url": "http:\/\/waifu2x.udp.jp\/index.ja.html",
+                "service_icon": "http:\/\/waifu2x.udp.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "http:\/\/waifu2x.udp.jp\/index.ja.html",
+                "fallback": "waifu2x",
+                "text": "深層畳み込みニューラルネットワークによる二次元画像のための超解像システム。 写真にも対応。",
+                "title": "waifu2x",
+                "title_link": "http:\/\/waifu2x.udp.jp\/index.ja.html",
+                "service_name": "waifu2x.udp.jp"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "マーカーの使い方\n\n名前は日付\n内容欄にやり取りにしましょう\n読めないので、、\n色の意味　赤　最重要　　白　解決済み\n以外は特に決めてないんで、\n編集マン　　　オレンジ　\nディレクター　緑\nとかにしましょうか",
+        "files": [
+            {
+                "id": "F043W9AJAAH",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1664226317.667439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "68H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "マーカーの使い方\n\n名前は日付\n内容欄にやり取りにしましょう\n読めないので、、\n色の意味　赤　最重要　　白　解決済み\n以外は特に決めてないんで、\n編集マン　　　オレンジ　\nディレクター　緑\nとかにしましょうか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "462ef53b-49ad-4d6c-9086-97731590571d"
+    },
+    {
+        "client_msg_id": "de021406-38f7-40cc-ac52-e6272f1bfed9",
+        "type": "message",
+        "text": "表記揺れの外部チームReplay\npremiereの拡張機能推奨と併せてお使いください\n<https:\/\/replay.dropbox.com\/share-folder\/UdlQ5q9IAmu21hev\/folder\/pid_rf:AAAAAPMV_nqHgskNxD8p9Iss2cOPJ16PzntG6zyB3rO2UcaT>",
+        "user": "U03CXUXB5PF",
+        "ts": "1664247380.830519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N6V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "表記揺れの外部チームReplay\npremiereの拡張機能推奨と併せてお使いください\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/replay.dropbox.com\/share-folder\/UdlQ5q9IAmu21hev\/folder\/pid_rf:AAAAAPMV_nqHgskNxD8p9Iss2cOPJ16PzntG6zyB3rO2UcaT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/replay.dropbox.com\/share-folder\/UdlQ5q9IAmu21hev\/folder\/pid_rf:AAAAAPMV_nqHgskNxD8p9Iss2cOPJ16PzntG6zyB3rO2UcaT",
+                "image_url": "https:\/\/cfl.dropboxstatic.com\/static\/metaserver\/static\/images\/reel\/unfurl-image-vflJ2sZZi.jpeg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 115485,
+                "id": 1,
+                "original_url": "https:\/\/replay.dropbox.com\/share-folder\/UdlQ5q9IAmu21hev\/folder\/pid_rf:AAAAAPMV_nqHgskNxD8p9Iss2cOPJ16PzntG6zyB3rO2UcaT",
+                "fallback": "Dropbox Replay",
+                "text": "Dropbox Replay allows creative teams to better create, collaborate on and deliver content. No Dropbox account is required to give feedback.",
+                "title": "Dropbox Replay",
+                "title_link": "https:\/\/replay.dropbox.com\/share-folder\/UdlQ5q9IAmu21hev\/folder\/pid_rf:AAAAAPMV_nqHgskNxD8p9Iss2cOPJ16PzntG6zyB3rO2UcaT",
+                "service_name": "dropbox.com"
+            }
+        ]
+    }
+]

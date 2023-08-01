@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "550AB37A-65DD-431D-AE32-171B26FEEAD7",
+        "type": "message",
+        "text": "28田中さんフォルダ入れました！",
+        "user": "U03G0LAPT3N",
+        "ts": "1661438040.609179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ld5gv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "28"
+                            },
+                            {
+                                "type": "text",
+                                "text": "田中さんフォルダ入れました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

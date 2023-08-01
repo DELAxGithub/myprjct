@@ -1,0 +1,761 @@
+[
+    {
+        "type": "message",
+        "text": "テロップ生成作業を３ついっぺんにやりつつ、さらに、コピペ作業をショートカット（自動でテロップ専用スプレッドシートに“縦”に出力）できるようになりました！\n\n半日かける意味があったかどうかわかりませんが、まぁ使ってください\n\n３ついっぺんにやる方法→Google Documentのスクリプトの命令にapplyTextFormattingっていうのがありますので、それを実行\n\nテロップ出力先のこちらのスプレッドシートに３種類全部出力されます\n<https:\/\/docs.google.com\/spreadsheets\/d\/1ZyjRpExXJ7xEVbW_Sb4dBCP8d_ycMPoVAyE-Ph66miQ\/edit?usp=sharing>\n太字→フォロー→A2以下\n下線→注釈→C2以下\n斜体→取り切り→E2以下\n\n注意\n３ついっぺんの実行なので前より重たいです。\nテロップ出力先は命令が終わってログが出てきてから立ち上げてください。\nなんか出てこないなってなったら、再読み込みしてみてください。\n\n\nこれAIでやったんだけど、よく考えたら、\n台本からダイレクトにXMLできるようにすりゃいいのかと思い、挑戦中。\nそこまで行けば編集マンでできるもんねぇ。",
+        "files": [
+            {
+                "id": "F04R6BD6MSR",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1677319011.576659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iXC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "テロップ生成作業を３ついっぺんにやりつつ、さらに、コピペ作業をショートカット（自動でテロップ専用スプレッドシートに“縦”に出力）できるようになりました！\n\n半日かける意味があったかどうかわかりませんが、まぁ使ってください\n\n３ついっぺんにやる方法→Google Documentのスクリプトの命令にapplyTextFormattingっていうのがありますので、それを実行\n\nテロップ出力先のこちらのスプレッドシートに３種類全部出力されます\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1ZyjRpExXJ7xEVbW_Sb4dBCP8d_ycMPoVAyE-Ph66miQ\/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n太字→フォロー→A2以下\n下線→注釈→C2以下\n斜体→取り切り→E2以下\n\n注意\n３ついっぺんの実行なので前より重たいです。\nテロップ出力先は命令が終わってログが出てきてから立ち上げてください。\nなんか出てこないなってなったら、再読み込みしてみてください。\n\n\nこれAIでやったんだけど、よく考えたら、\n台本からダイレクトにXMLできるようにすりゃいいのかと思い、挑戦中。\nそこまで行けば編集マンでできるもんねぇ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6c82ee63-59f5-4185-babc-ec169526caf4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03V84JSHNK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3ed11fb1-43e5-4a8f-a3e1-3c3121cdd9d7",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U04J38PLGM6> 83素材集め終わったので、次私は85ということでいいでしょうか？",
+        "user": "U03V84JSHNK",
+        "ts": "1677325659.887249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E5fQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 83素材集め終わったので、次私は85ということでいいでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677325659.887249",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1677335617.736329",
+        "reply_users": [
+            "U04J38PLGM6",
+            "U03V84JSHNK"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1677333167.013579"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1677335617.736329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677335617.736329"
+    },
+    {
+        "client_msg_id": "d3d6f13b-e409-45d8-a959-29749f9733e0",
+        "type": "message",
+        "text": "85はまだ台本途中だから、８４やったほうがいいかも。\n<@U04J38PLGM6> どうですか？",
+        "user": "U03CXUXB5PF",
+        "ts": "1677325703.251759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o8\/W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "85はまだ台本途中だから、８４やったほうがいいかも。\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " どうですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF> <@U03V84JSHNK> \n私が82 84できてなくてすみません。\n安永さん、84お願いします。\n私が82 85やります。",
+        "user": "U04J38PLGM6",
+        "ts": "1677333167.013579",
+        "thread_ts": "1677325659.887249",
+        "root": {
+            "client_msg_id": "3ed11fb1-43e5-4a8f-a3e1-3c3121cdd9d7",
+            "type": "message",
+            "text": "<@U03CXUXB5PF> <@U04J38PLGM6> 83素材集め終わったので、次私は85ということでいいでしょうか？",
+            "user": "U03V84JSHNK",
+            "ts": "1677325659.887249",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "E5fQ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03CXUXB5PF"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 83素材集め終わったので、次私は85ということでいいでしょうか？"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1677325659.887249",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1677335617.736329",
+            "reply_users": [
+                "U04J38PLGM6",
+                "U03V84JSHNK"
+            ],
+            "replies": [
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1677333167.013579"
+                },
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1677335617.736329"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1677335617.736329"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B6xbN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n私が82 84できてなくてすみません。\n安永さん、84お願いします。\n私が82 85やります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1E8B7ECF-BFC8-4A42-81C5-519818EFB520"
+    },
+    {
+        "client_msg_id": "db30b9cb-9f3d-431a-8e81-32966adffffb",
+        "type": "message",
+        "text": "<@U04J38PLGM6> 了解しました！では私は８４⇒８６の順で進めます！",
+        "user": "U03V84JSHNK",
+        "ts": "1677335617.736329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G75",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解しました！では私は８４⇒８６の順で進めます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677325659.887249",
+        "parent_user_id": "U03V84JSHNK",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FD498D63-A721-4A8B-9C96-13B97A5DE79E",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 84山下さんですが、宮沢賢治記念館的なとこに挨拶する必要あるんでしたっけ？丸山さん、渡辺さん、才也さんに見解聞いてみますか？",
+        "user": "U03V84JSHNK",
+        "ts": "1677368391.301419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J1a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 84山下さんですが、宮沢賢治記念館的なとこに挨拶する必要あるんでしたっけ？丸山さん、渡辺さん、才也さんに見解聞いてみますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e0cf3b36-c1de-45ca-b81f-7ec81428188f",
+        "type": "message",
+        "text": "<@U03V84JSHNK> なんかそんなような話してましたね。こちらで動いちゃっていいと思います。\nあとどうせ許可取るなら、宮沢賢治の写真に限らず、記念館とかにあるであろう、本の表紙とかもついでに提供＆許可もら得ないかな。",
+        "user": "U03CXUXB5PF",
+        "ts": "1677368558.931579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3sM0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " なんかそんなような話してましたね。こちらで動いちゃっていいと思います。\nあとどうせ許可取るなら、宮沢賢治の写真に限らず、記念館とかにあるであろう、本の表紙とかもついでに提供＆許可もら得ないかな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6E6BFF6A-B020-47A0-8105-81BE44250138",
+        "type": "message",
+        "text": "了解です。では、直接やり取りさせていただきます。先方からの値段高騰だったら相談させてください。",
+        "user": "U03V84JSHNK",
+        "ts": "1677368684.122279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HTjYP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です。では、直接やり取りさせていただきます。先方からの値段高騰だったら相談させてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "EC5D7140-B594-4805-945F-39CA385B14FF",
+        "type": "message",
+        "text": "あ、というよりか、山下先生通すか、先方の窓口とか聞いたほうがいいんですかね？連絡してみます？本人の預かり知らないところで連絡取り合うのもちょっと危険なきがしないでもないですが。",
+        "user": "U03V84JSHNK",
+        "ts": "1677368849.415419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xQB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あ、というよりか、山下先生通すか、先方の窓口とか聞いたほうがいいんですかね？連絡してみます？本人の預かり知らないところで連絡取り合うのもちょっと危険なきがしないでもないですが。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "66ab26eb-768c-4f53-89b7-a359820c3962",
+        "type": "message",
+        "text": "調達できそうなものをまとめたところで、山下先生に連絡→NEPマターだったら秦さんに振っちゃっていいかもね。\n新潮社とかそういうのもNEPに頼んでるし。",
+        "user": "U03CXUXB5PF",
+        "ts": "1677368891.868999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ne7F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "調達できそうなものをまとめたところで、山下先生に連絡→NEPマターだったら秦さんに振っちゃっていいかもね。\n新潮社とかそういうのもNEPに頼んでるし。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677368891.868999",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1677475299.951249",
+        "reply_users": [
+            "U03V84JSHNK",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1677474947.300409"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1677475051.269129"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1677475299.951249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677475299.951249"
+    },
+    {
+        "client_msg_id": "BB7BB19A-3D39-4BB7-B913-F01F73C30FC1",
+        "type": "message",
+        "text": "了解です。とりあえず、候補だけ集めておきますね。",
+        "user": "U03V84JSHNK",
+        "ts": "1677368943.744649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9SW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です。とりあえず、候補だけ集めておきますね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U04J38PLGM6> <@U03V84JSHNK> とりきりコメント考えながらだと台本が進まないので、インタビュー中にある権利関係ありそうなイメージの候補だけ、コメントしていきます。\n残りの分の権利票を出しちゃえばひとまず〆切っぽいのは終わりなので、、\n\nで、イメージの挿入方法だけど、webから拾ってくる場合の挿入方法で、早そうなのが、これ\n「画像アドレスをコピー」でコピーするといけると思います。81〜の権利表作るようで、一回試してみてください。",
+        "files": [
+            {
+                "id": "F04R7DFTAP7",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04RP0XQY0Z",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04RCRBUYNQ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "ts": "1677379897.253209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wzYu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " とりきりコメント考えながらだと台本が進まないので、インタビュー中にある権利関係ありそうなイメージの候補だけ、コメントしていきます。\n残りの分の権利票を出しちゃえばひとまず〆切っぽいのは終わりなので、、\n\nで、イメージの挿入方法だけど、webから拾ってくる場合の挿入方法で、早そうなのが、これ\n「画像アドレスをコピー」でコピーするといけると思います。81〜の権利表作るようで、一回試してみてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4a1396fa-8d4e-4f73-bc96-84ed542f8d8b"
+    },
+    {
+        "client_msg_id": "da9fb81c-a9c3-4713-b166-a03e2eee2336",
+        "type": "message",
+        "text": "81から先の権利は都度都度で報告まとめていきましょう。\nやり方を簡素化できるよう僕も考えます。\nalamyはまぁこれまで通り必要に応じてですが、\n有料iStockもこの年度末でまとめて買い足します。\nクレジットあるうちはまだ大丈夫ですし、いい感じのカット探しに疲れたら、まぁ静止画ぐらいだったら、もうちょっと財布の紐緩めても大丈夫です。",
+        "user": "U03CXUXB5PF",
+        "ts": "1677380685.466459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2iiU+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "81から先の権利は都度都度で報告まとめていきましょう。\nやり方を簡素化できるよう僕も考えます。\nalamyはまぁこれまで通り必要に応じてですが、\n有料iStockもこの年度末でまとめて買い足します。\nクレジットあるうちはまだ大丈夫ですし、いい感じのカット探しに疲れたら、まぁ静止画ぐらいだったら、もうちょっと財布の紐緩めても大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ca437d36-904c-41ee-bfea-c76758455337",
+        "type": "message",
+        "text": "85~88、映像があったとしても権利報告が必要そうなやつにコメントしてます。　読んでると眠くなってきたけど、できるところまでやりますね・・・\nあんまないな。",
+        "user": "U03CXUXB5PF",
+        "ts": "1677381611.126769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "shr4P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "85~88、映像があったとしても権利報告が必要そうなやつにコメントしてます。　読んでると眠くなってきたけど、できるところまでやりますね・・・\nあんまないな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f803b624-e106-4b37-bfbb-f1050b68c1e3",
+        "type": "message",
+        "text": "92まで権利系の画像リクエストしてみました",
+        "user": "U03CXUXB5PF",
+        "ts": "1677384119.193199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/pmqz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "92まで権利系の画像リクエストしてみました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03V84JSHNK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,584 @@
+[
+    {
+        "client_msg_id": "c4155d1c-b0ba-44c8-8b8d-7638ddefec02",
+        "type": "message",
+        "text": "<@U03QQ3J656Z> <@U040YCC00V6> 32小島の試写2が始まってますが、後半のほうってなんか編集バージョンと書き出しのバージョンが違ってる？ってぐらいの状態なんですが、これどういう状況ですかね…\n<https:\/\/replay.dropbox.com\/share\/Oy9E9jk8NOG8aMBH>",
+        "user": "U03CXUXB5PF",
+        "ts": "1665675121.901209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hqVyO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 32小島の試写2が始まってますが、後半のほうってなんか編集バージョンと書き出しのバージョンが違ってる？ってぐらいの状態なんですが、これどういう状況ですかね…\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/replay.dropbox.com\/share\/Oy9E9jk8NOG8aMBH"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/replay.dropbox.com\/share\/Oy9E9jk8NOG8aMBH",
+                "image_url": "https:\/\/uc0314a3209d7c50c715f5f0b844.previews.dropboxusercontent.com\/p\/pdf_img\/ABogiEsCnoHndohxafqTESeQ_iFfzwQrDl5Zzd6E9szSnni6Bkisfaq5P7TTSG2zL0PwSTOoafzkBlYfRvPiJwN2O3C56s3ROTfDOIRp3MDsiKw3H1LUrXXQOyt_GE61bATx-Hly7pFwiYOtXdmVS9nAMp7bGOQvv5hxBEiFoj7vZCwE7K-VSZG-iSx1J2D-FxV9-uS9djREKJ33bu2Q5bMu\/p.png",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 85433,
+                "id": 1,
+                "original_url": "https:\/\/replay.dropbox.com\/share\/Oy9E9jk8NOG8aMBH",
+                "fallback": "Dropbox Replay: 16:59 - 32_kojima_ep1_1",
+                "text": "Dropbox Replay allows creative teams to better create, collaborate on and deliver content. No Dropbox account is required to give feedback.",
+                "title": "16:59 - 32_kojima_ep1_1",
+                "title_link": "https:\/\/replay.dropbox.com\/share\/Oy9E9jk8NOG8aMBH",
+                "service_name": "Dropbox Replay"
+            }
+        ],
+        "thread_ts": "1665675121.901209",
+        "reply_count": 11,
+        "reply_users_count": 2,
+        "latest_reply": "1665713686.502809",
+        "reply_users": [
+            "U03QQ3J656Z",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1665695189.353119"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665696790.133989"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1665704026.917729"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1665704167.372529"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665705829.241289"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665705893.112869"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665705946.426629"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665706013.337499"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1665713449.703689"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1665713563.402289"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665713686.502809"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1665713686.502809"
+    },
+    {
+        "client_msg_id": "A0FF68E1-C25D-438B-9DD8-796BF4467AED",
+        "type": "message",
+        "text": "またですか？\nちょっとみますが、何分くらいから変です？",
+        "user": "U03QQ3J656Z",
+        "ts": "1665695189.353119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rdo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "またですか？\nちょっとみますが、何分くらいから変です？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665675121.901209",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "fb675126-dcb4-4202-beaf-e968bf6206ad",
+        "type": "message",
+        "text": "<@U03QQ3J656Z> replayの後ろの方の指摘がなんとなく見ればわかるっていうようなのが多くて。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665696790.133989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t3k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " replayの後ろの方の指摘がなんとなく見ればわかるっていうようなのが多くて。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665675121.901209",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "8814c211-51c5-45a1-b66c-c3216a46e0ac",
+        "type": "message",
+        "text": "コメントフォローの色とか\n「最適化」の書体（ボールド）とか\nこの辺は台本の指示に基づくものですが、\n指摘が入ったのであれば、通常のものに戻しましょうか？",
+        "user": "U03QQ3J656Z",
+        "ts": "1665704026.917729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G1YVk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コメントフォローの色とか\n「最適化」の書体（ボールド）とか\nこの辺は台本の指示に基づくものですが、\n指摘が入ったのであれば、通常のものに戻しましょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665675121.901209",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "ちなみに、これは俺もわかりません。\n\nこの表をどう解釈すればいいのか？\n囚人Bが黙秘して\n囚人Aが白状しているのに２０年ってどういうことなのか？？？",
+        "files": [
+            {
+                "id": "F046JSHHG4C",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F046V2J2R97",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03QQ3J656Z",
+        "ts": "1665704167.372529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ge\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちなみに、これは俺もわかりません。\n\nこの表をどう解釈すればいいのか？\n囚人Bが黙秘して\n囚人Aが白状しているのに２０年ってどういうことなのか？？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8afd6675-8c18-4f85-8d26-685083bafb1b",
+        "thread_ts": "1665675121.901209",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "a6215ef3-2377-4b20-ac68-fefc310bda7a",
+        "type": "message",
+        "text": "囚人のジレンマ\n　白状したらその取引で罪が軽くなる　共犯者に押し付けるので２０年　\n　逆に、自分は黙秘してるけど共犯者が白状したら全部自分に罪を被るので罪が重い\n　自分も共犯者も黙秘すれば決定的な証拠が出ないので５年\n　両方とも自白すれば普通に１０年。\n\n\nこれインタビューに合わせて、どこのこと説明してるかフォーカスするっていうCGにするってはずなんですが、CGはどこまで作るんっだっけな。プレミアでフォーカス用のオブジェクトの位置を動かすとかかな。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665705829.241289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tdw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "囚人のジレンマ\n　白状したらその取引で罪が軽くなる　共犯者に押し付けるので２０年　\n　逆に、自分は黙秘してるけど共犯者が白状したら全部自分に罪を被るので罪が重い\n　自分も共犯者も黙秘すれば決定的な証拠が出ないので５年\n　両方とも自白すれば普通に１０年。\n\n\nこれインタビューに合わせて、どこのこと説明してるかフォーカスするっていうCGにするってはずなんですが、CGはどこまで作るんっだっけな。プレミアでフォーカス用のオブジェクトの位置を動かすとかかな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665675121.901209",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "7804b88e-de06-475d-9b28-2aa11b21607f",
+        "type": "message",
+        "text": "フォントの色っていうかテロップのデザインそのものPSDかなんかで作ってもらった方がいいかも\n\nインタビューで喋ってるけど、整理しないとよくわからんっていうやつはテロップデザインで説明したいです",
+        "user": "U03CXUXB5PF",
+        "ts": "1665705893.112869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1nbqu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "フォントの色っていうかテロップのデザインそのものPSDかなんかで作ってもらった方がいいかも\n\nインタビューで喋ってるけど、整理しないとよくわからんっていうやつはテロップデザインで説明したいです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665675121.901209",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "b86295fc-512c-485b-919e-74d25cff2b06",
+        "type": "message",
+        "text": "ボールドも、フォント変えるだけじゃちょっと伝わらないので、PSDで独自デザインでしょうか。\nまぁテロップ関係は、フォーマット作って全体統一にした方がいいですね。これCG扱いで一個雛形頼んでみます。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665705946.426629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MHeS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ボールドも、フォント変えるだけじゃちょっと伝わらないので、PSDで独自デザインでしょうか。\nまぁテロップ関係は、フォーマット作って全体統一にした方がいいですね。これCG扱いで一個雛形頼んでみます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665675121.901209",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "4c58f2ee-180d-468b-b7c1-7541be2cbea0",
+        "type": "message",
+        "text": "そもそも囚人のジレンマのCGが二種類使われてる気がしますが、すいません、僕ちゃんと見てなかったんですけど、今CGってどういう状態なんだろう。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665706013.337499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uIb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そもそも囚人のジレンマのCGが二種類使われてる気がしますが、すいません、僕ちゃんと見てなかったんですけど、今CGってどういう状態なんだろう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665675121.901209",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "409a2862-f274-4c62-a6e8-1f445e75fad0",
+        "type": "message",
+        "text": "```囚人のジレンマ\n　白状したらその取引で罪が軽くなる　共犯者に押し付けるので２０年　\n　逆に、自分は黙秘してるけど共犯者が白状したら全部自分に罪を被るので罪が重い\n　自分も共犯者も黙秘すれば決定的な証拠が出ないので５年\n　両方とも自白すれば普通に１０年。\nこれインタビューに合わせて、どこのこと説明してるかフォーカスするっていうCGにするってはずなんですが、CGはどこまで作るんっだっけな。プレミアでフォーカス用のオブジェクトの位置を動かすとかかな。```\nあの表では伝わらない気がしますね。\n表ではなく別のCGで考えていただいた方がいいかもしれません。",
+        "user": "U03QQ3J656Z",
+        "ts": "1665713449.703689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+q0Nc",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "囚人のジレンマ\n　白状したらその取引で罪が軽くなる　共犯者に押し付けるので２０年　\n　逆に、自分は黙秘してるけど共犯者が白状したら全部自分に罪を被るので罪が重い\n　自分も共犯者も黙秘すれば決定的な証拠が出ないので５年\n　両方とも自白すれば普通に１０年。\nこれインタビューに合わせて、どこのこと説明してるかフォーカスするっていうCGにするってはずなんですが、CGはどこまで作るんっだっけな。プレミアでフォーカス用のオブジェクトの位置を動かすとかかな。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あの表では伝わらない気がしますね。\n表ではなく別のCGで考えていただいた方がいいかもしれません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665675121.901209",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "51f8c125-edf8-4a2c-aa0e-1662be37c568",
+        "type": "message",
+        "text": "テロップはPSDで作りますか？\nこれ試写が一通り終わってからの修正の時でいいですよね？",
+        "user": "U03QQ3J656Z",
+        "ts": "1665713563.402289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4A7A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "テロップはPSDで作りますか？\nこれ試写が一通り終わってからの修正の時でいいですよね？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665675121.901209",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "b7dcc3d7-72bf-4952-9393-4cca72e4fe4e",
+        "type": "message",
+        "text": "<@U03QQ3J656Z> 後からで大丈夫ですー",
+        "user": "U03CXUXB5PF",
+        "ts": "1665713686.502809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HgpU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 後からで大丈夫ですー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665675121.901209",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

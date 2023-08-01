@@ -1,0 +1,257 @@
+[
+    {
+        "client_msg_id": "a4629d36-d3b7-4766-b80f-60d9be394941",
+        "type": "message",
+        "text": "1本目の編集1が結構たくさんあるんですが、週末に何本か試写1に回せたらと。\nなんか手こずってたらお知らせくださいー\n<@U03NZ0E09JN>",
+        "user": "U03CXUXB5PF",
+        "ts": "1674087699.582889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xsb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1本目の編集1が結構たくさんあるんですが、週末に何本か試写1に回せたらと。\nなんか手こずってたらお知らせくださいー\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a76bc683-a040-4e05-8344-56c93c5ab246",
+        "type": "message",
+        "text": "今週末は63伊達 68多胡を試写1の予定で動いています。\n68多胡は小山チェックが昨日済んだところです。\n<@U03CXUXB5PF>",
+        "user": "U03NZ0E09JN",
+        "ts": "1674088666.091629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5fs91",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今週末は63伊達 68多胡を試写1の予定で動いています。\n68多胡は小山チェックが昨日済んだところです。\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9eb45e69-0e82-429b-8a75-5727deae763a",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n65石川さん担当の市川大騎さんです。\n\nDropbox &amp; Slack\n<mailto:d.ichi.1207@gmail.com|d.ichi.1207@gmail.com>\n\nよろしくお願いいたします。",
+        "user": "U03NZ0E09JN",
+        "ts": "1674106999.319419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VezW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n65石川さん担当の市川大騎さんです。\n\nDropbox & Slack\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:d.ichi.1207@gmail.com",
+                                "text": "d.ichi.1207@gmail.com",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674106999.319419",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1674107158.564489",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U03NZ0E09JN"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1674107124.616179"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1674107158.564489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1674107158.564489",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8D6BA9CF-B2B8-4065-9BB0-20AC56192663",
+        "type": "message",
+        "text": "招待しました！",
+        "user": "U03CXUXB5PF",
+        "ts": "1674107124.616179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wJ2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "招待しました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674106999.319419",
+        "parent_user_id": "U03NZ0E09JN"
+    },
+    {
+        "client_msg_id": "67540a19-ab15-42b9-b4f3-c40a029b224b",
+        "type": "message",
+        "text": "早速ありがとうございます！",
+        "user": "U03NZ0E09JN",
+        "ts": "1674107158.564489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mkm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "早速ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674106999.319419",
+        "parent_user_id": "U03NZ0E09JN"
+    }
+]

@@ -1,0 +1,171 @@
+[
+    {
+        "client_msg_id": "9ecae52c-2538-4269-ad25-d29106a04026",
+        "type": "message",
+        "text": "表記統一の工程\n試写1時点での完成後を上げるために、もう一段階前に表記統一の工程を入れます　\nざっくりいうと、1試写前の手元試写をするときにテロップ修正もやりましょう\n逆に編集で皆さんにテロップを注視してもらうというよりは、一旦入れ切って書き出し・外に出そうという感じです\n\n新作\n*編集1→tw入れ終わり→手元試写用書き出し→表記統一Replay（仮名）→テロップ修正→編集にて反映→試写1*\n\n1020.30の納品分についても同様で、\n*修正→tw入れ終わり→手元試写用書き出し→表記統一Replay→テロップ修正→編集にて反映→Replay試写*\n\n細かい作業のやり方、作業分担は全体会議で説明します",
+        "user": "U03CXUXB5PF",
+        "ts": "1664312666.292279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5WW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "表記統一の工程\n試写1時点での完成後を上げるために、もう一段階前に表記統一の工程を入れます　\nざっくりいうと、1試写前の手元試写をするときにテロップ修正もやりましょう\n逆に編集で皆さんにテロップを注視してもらうというよりは、一旦入れ切って書き出し・外に出そうという感じです\n\n新作\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "編集1→tw入れ終わり→手元試写用書き出し→表記統一Replay（仮名）→テロップ修正→編集にて反映→試写1",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n1020.30の納品分についても同様で、\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "修正→tw入れ終わり→手元試写用書き出し→表記統一Replay→テロップ修正→編集にて反映→Replay試写",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n細かい作業のやり方、作業分担は全体会議で説明します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NZ0E09JN",
+                    "U03NJATSEBH",
+                    "U03Q17LBJP3"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "20cd927f-622a-42c1-ad30-b333f76e5aaa",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n本日の会議ありがとうございました。\n\n・取り切りのテロップはディゾルブを付けるで統一\n・イン10フレ、アウトはカット\n\n修正は２区以降ということでよろしいでしょうか。",
+        "user": "U03NZ0E09JN",
+        "ts": "1664340930.207499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aPf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n本日の会議ありがとうございました。\n\n・取り切りのテロップはディゾルブを付けるで統一\n・イン10フレ、アウトはカット\n\n修正は２区以降ということでよろしいでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eb14abf0-0c7d-4dda-b1cb-166f641e88dc",
+        "type": "message",
+        "text": "半秒ってことで１２フレでしょうか",
+        "user": "U03CXUXB5PF",
+        "ts": "1664341147.859239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cLKKi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "半秒ってことで１２フレでしょうか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

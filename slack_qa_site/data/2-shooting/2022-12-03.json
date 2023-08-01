@@ -1,0 +1,146 @@
+[
+    {
+        "client_msg_id": "6b898c52-bd21-4ae6-a84c-c044c3c1ca13",
+        "type": "message",
+        "text": "<@U03V84JSHNK> 61のテロップもできました",
+        "user": "U03CXUXB5PF",
+        "ts": "1670102398.436789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eTs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 61のテロップもできました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0d1cf095-9679-4852-bb4d-7a73259b9f63",
+        "type": "message",
+        "text": "<@U040YCC00V6> 61あらすじがないね",
+        "user": "U03CXUXB5PF",
+        "ts": "1670102478.738109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5YZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 61あらすじがないね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670102478.738109",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1670102650.334779",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1670102650.334779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1670102650.334779"
+    },
+    {
+        "client_msg_id": "53110c63-775a-4a6a-8420-f478a7705fe8",
+        "type": "message",
+        "text": "<@U040YCC00V6> あと、ep1~3、それぞれ6000字しかないけど、足りるかな。\n一般的には7000字目標でお願いします",
+        "user": "U03CXUXB5PF",
+        "ts": "1670102650.334779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zeMs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " あと、ep1~3、それぞれ6000字しかないけど、足りるかな。\n一般的には7000字目標でお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1670102478.738109",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

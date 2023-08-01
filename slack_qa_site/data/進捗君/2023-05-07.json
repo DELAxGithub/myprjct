@@ -1,0 +1,119 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#94泉谷閑示で変更がありました\n変更前：編集2\n変更後：試写2\n担当者は岡野です",
+        "ts": "1683460767.305559",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RFJE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#94泉谷閑示で変更がありました\n変更前：編集2\n変更後：試写2\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#94泉谷閑示で変更がありました\n変更前：undefined\n変更後：<https:\/\/www.dropbox.com\/t\/YVYPqo6DvWAX1grW>\n担当者は岡野です",
+        "ts": "1683460767.831989",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yZI2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#94泉谷閑示で変更がありました\n変更前：undefined\n変更後："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/t\/YVYPqo6DvWAX1grW"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04KFCBLY9J> #105久野愛で変更がありました\n変更前：編集3\n変更後：本人編集\n担当者は中野です",
+        "ts": "1683470320.377059",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S9iD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #105久野愛で変更がありました\n変更前：編集3\n変更後：本人編集\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#105久野愛で変更がありました\n変更前：本人編集\n変更後：試写3\n担当者は中野です",
+        "ts": "1683523579.402719",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J+5ke",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#105久野愛で変更がありました\n変更前：本人編集\n変更後：試写3\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

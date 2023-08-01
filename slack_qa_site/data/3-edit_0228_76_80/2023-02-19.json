@@ -1,0 +1,273 @@
+[
+    {
+        "type": "message",
+        "text": "<@U04JJB0MTB7> コメントしました\n写真は不要です",
+        "files": [
+            {
+                "id": "F04QDNWH2F6",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1676859671.196569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A+ZQP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " コメントしました\n写真は不要です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9b39d5da-09e1-4b0d-aa44-6e4f21789abe",
+        "thread_ts": "1676859671.196569",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1676868725.878439",
+        "reply_users": [
+            "U04JJB0MTB7"
+        ],
+        "replies": [
+            {
+                "user": "U04JJB0MTB7",
+                "ts": "1676868725.878439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1676868725.878439",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "承知しました！",
+        "user": "U04JJB0MTB7",
+        "ts": "1676868725.878439",
+        "thread_ts": "1676859671.196569",
+        "root": {
+            "type": "message",
+            "text": "<@U04JJB0MTB7> コメントしました\n写真は不要です",
+            "files": [
+                {
+                    "id": "F04QDNWH2F6",
+                    "mode": "hidden_by_limit"
+                }
+            ],
+            "upload": false,
+            "user": "U03CXUXB5PF",
+            "display_as_bot": false,
+            "ts": "1676859671.196569",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "A+ZQP",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04JJB0MTB7"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " コメントしました\n写真は不要です"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "client_msg_id": "9b39d5da-09e1-4b0d-aa44-6e4f21789abe",
+            "thread_ts": "1676859671.196569",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1676868725.878439",
+            "reply_users": [
+                "U04JJB0MTB7"
+            ],
+            "replies": [
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1676868725.878439"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1676868725.878439"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xHj9E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9C640764-499B-45B4-84EF-81E2DCA0D3B4"
+    },
+    {
+        "client_msg_id": "9c3f33fc-dbb0-4850-8e76-28301f5b5548",
+        "type": "message",
+        "text": "<@U03RA83HRN0>\n77ってまだ試写1に進んでない？\noutputにはあったんですが、これはReplayにはまだ上がってない（確認中）？",
+        "user": "U03CXUXB5PF",
+        "ts": "1676879367.435089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wZh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n77ってまだ試写1に進んでない？\noutputにはあったんですが、これはReplayにはまだ上がってない（確認中）？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676879367.435089",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1676880418.712139",
+        "reply_users": [
+            "U03RA83HRN0"
+        ],
+        "replies": [
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1676880418.712139"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1676880418.712139"
+    },
+    {
+        "client_msg_id": "badf630d-8158-4de2-b20b-b005876b6aec",
+        "type": "message",
+        "text": "<@U04KCQL2MFV> 76岡本のMA発注\n<@U03Q17LBJP3> 78上峯のMA発注\n<@U04KFCBLY9J> 80大澤のMA発注をお願いします",
+        "user": "U03CXUXB5PF",
+        "ts": "1676879808.155109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0OBH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KCQL2MFV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 76岡本のMA発注\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 78上峯のMA発注\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 80大澤のMA発注をお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

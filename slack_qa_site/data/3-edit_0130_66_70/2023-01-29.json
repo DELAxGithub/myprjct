@@ -1,0 +1,575 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03RA83HRN0> <@U03Q17LBJP3> <@U04KFCBLY9J>\n唐沢 かおり\t松田浩道\t廣野美和\n→試写1が終わりました　Replay上に修正箇所ありますが、Replayのリンクはslackからあります。\n\nややこしいところあればお知らせください\n→MAへお願いします。映像の差し替えとかあれば、こちらにもお知らせください。",
+        "files": [
+            {
+                "id": "F04MR6VHS0G",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1675039095.434869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NOglP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n唐沢 かおり\t松田浩道\t廣野美和\n→試写1が終わりました　Replay上に修正箇所ありますが、Replayのリンクはslackからあります。\n\nややこしいところあればお知らせください\n→MAへお願いします。映像の差し替えとかあれば、こちらにもお知らせください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "0da8a781-f211-444e-bc86-13d51e4a3ce3",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> \n#66ep2でノイズがあると指摘されました。気が付かずすみません :woman-bowing: 7:40のところですが、7：30くらいから少しガサガサという音がするのでMAにお任せする感じでしょうか？カットなどご指示あればよろしくお願いいたします :blush: ",
+        "files": [
+            {
+                "id": "F04M45UV0JG",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04MRCEUX32",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04KFCBLY9J",
+        "ts": "1675044403.223899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w1Mqm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n#66ep2でノイズがあると指摘されました。気が付かずすみません "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 7:40のところですが、7：30くらいから少しガサガサという音がするのでMAにお任せする感じでしょうか？カットなどご指示あればよろしくお願いいたします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "958C098B-8336-4770-A7AD-F0DF786BBD6A",
+        "thread_ts": "1675044403.223899",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1675045050.787029",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U04KFCBLY9J"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1675044966.463699"
+            },
+            {
+                "user": "U04KFCBLY9J",
+                "ts": "1675045050.787029"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675045050.787029"
+    },
+    {
+        "client_msg_id": "ac98c3fd-e1e1-42bd-8c68-646aa4753ad5",
+        "type": "message",
+        "text": "どれくらい気になるか、っていうのも微妙なんだと思いますが、内容的にちょっと切りにくいのでBGMつけれるならつけてというふうにMAに伝えてください。その際、この台本スクショ、とタイムコードもお伝えくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1675044966.463699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5YrM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どれくらい気になるか、っていうのも微妙なんだと思いますが、内容的にちょっと切りにくいのでBGMつけれるならつけてというふうにMAに伝えてください。その際、この台本スクショ、とタイムコードもお伝えくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675044403.223899",
+        "parent_user_id": "U04KFCBLY9J"
+    },
+    {
+        "client_msg_id": "BDBBA497-BC77-41CB-B3AC-338AA2E5B6C3",
+        "type": "message",
+        "text": "了解です〜 :blush: ありがとうございます！",
+        "user": "U04KFCBLY9J",
+        "ts": "1675045050.787029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cYm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です〜 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675044403.223899",
+        "parent_user_id": "U04KFCBLY9J"
+    },
+    {
+        "client_msg_id": "6ECEC6C1-1B58-47FB-93A8-98481E3CB1B8",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U04J38PLGM6> \n#66 ep3 の　41_SNS_a-close-up-shot-of-dislikes-being-counted-on-a-social-network-page-perspective-SBV-306210251-preview こちらのファイルがダミーでした。試写1が終わりましたので、よろしくお願いいたします :blush: ",
+        "user": "U04KFCBLY9J",
+        "ts": "1675046044.695129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sLXCe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n#66 ep3 の　41_SNS_a-close-up-shot-of-dislikes-being-counted-on-a-social-network-page-perspective-SBV-306210251-preview こちらのファイルがダミーでした。試写1が終わりましたので、よろしくお願いいたします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675046044.695129",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1675065565.316959",
+        "reply_users": [
+            "U04J38PLGM6",
+            "U04KFCBLY9J"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1675050058.833789"
+            },
+            {
+                "user": "U04KFCBLY9J",
+                "ts": "1675051861.342309"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1675062606.550059"
+            },
+            {
+                "user": "U04KFCBLY9J",
+                "ts": "1675065565.316959"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675065565.316959"
+    },
+    {
+        "type": "message",
+        "text": "<@U04KFCBLY9J> <@U03CXUXB5PF>\n失礼しました。差し替えの動画入れました。",
+        "files": [
+            {
+                "id": "F04M1QA7U7M",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1675050058.833789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QFd8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n失礼しました。差し替えの動画入れました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "733b1ac9-7b9b-440b-84aa-de8e54ef4606",
+        "thread_ts": "1675046044.695129",
+        "parent_user_id": "U04KFCBLY9J"
+    },
+    {
+        "type": "message",
+        "text": "<@U04J38PLGM6> さん\nProxi ではなく、インサート用のこちらの動画の購入になります。よろしくお願いいたします :blush: ",
+        "files": [
+            {
+                "id": "F04M20AML74",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04KFCBLY9J",
+        "display_as_bot": false,
+        "ts": "1675051861.342309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1FXo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " さん\nProxi ではなく、インサート用のこちらの動画の購入になります。よろしくお願いいたします "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U04KFCBLY9J",
+            "ts": "1675061332.000000"
+        },
+        "client_msg_id": "BF23FFD0-4C19-41BC-B517-D0FE33AA898C",
+        "thread_ts": "1675046044.695129",
+        "parent_user_id": "U04KFCBLY9J"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U04J38PLGM6>\n69_廣野に関して指摘部分の質問です。\n＊先生が「先月ネパールに行った時」の先月の明示化。\n＊BRICS５カ国の国旗をフルサイズの形で。\n以下になります。\nBRICSに関しては５カ国それぞれの\n同じようなイメージの国旗があればこちらでレイアウトできます。\nよろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F04M2A73950",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04MS15GKK2",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03RA83HRN0",
+        "ts": "1675059888.137789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9IQL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n69_廣野に関して指摘部分の質問です。\n＊先生が「先月ネパールに行った時」の先月の明示化。\n＊BRICS５カ国の国旗をフルサイズの形で。\n以下になります。\nBRICSに関しては５カ国それぞれの\n同じようなイメージの国旗があればこちらでレイアウトできます。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a03ab402-9a26-4f80-9b0a-1a2243de388a",
+        "thread_ts": "1675059888.137789",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1675081438.841659",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1675081438.841659"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675081438.841659"
+    },
+    {
+        "type": "message",
+        "text": "<@U04KFCBLY9J>\n度々失礼しました。この差し替えというフォルダに入っています。",
+        "files": [
+            {
+                "id": "F04MF4CQ9K3",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1675062606.550059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OK9B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n度々失礼しました。この差し替えというフォルダに入っています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2da8e0b7-bb2d-4eaa-aa8f-0b9cbadc5423",
+        "thread_ts": "1675046044.695129",
+        "parent_user_id": "U04KFCBLY9J"
+    },
+    {
+        "client_msg_id": "4F89D711-5B17-4CEC-8FF6-FC21201E80C8",
+        "type": "message",
+        "text": "了解です〜！ありがとうございます:blush:",
+        "user": "U04KFCBLY9J",
+        "ts": "1675065565.316959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s4hXb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です〜！ありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675046044.695129",
+        "parent_user_id": "U04KFCBLY9J"
+    }
+]

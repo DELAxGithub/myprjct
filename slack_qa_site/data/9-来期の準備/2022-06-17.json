@@ -1,0 +1,149 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655486090.310239",
+        "user": "U03CXUXB5PF",
+        "text": "<@U03CXUXB5PF>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655486097.779989",
+        "user": "U03HJRZK295",
+        "text": "<@U03HJRZK295>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "16433f00-a5e7-41c5-968e-e15b09740d39",
+        "type": "message",
+        "text": "インタビュー – 集英社新書プラス\n<https:\/\/shinsho-plus.shueisha.co.jp\/interview>",
+        "user": "U03CXUXB5PF",
+        "ts": "1655486131.382519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N3G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "インタビュー – 集英社新書プラス\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/shinsho-plus.shueisha.co.jp\/interview"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/shinsho-plus.shueisha.co.jp\/interview",
+                "thumb_url": "https:\/\/shinsho-plus.shueisha.co.jp\/wp-content\/themes\/shinsho-plus\/images\/shinsho-plus-logo.png",
+                "thumb_width": 270,
+                "thumb_height": 156,
+                "id": 1,
+                "original_url": "https:\/\/shinsho-plus.shueisha.co.jp\/interview",
+                "fallback": "集英社新書プラス: インタビュー - 集英社新書プラス",
+                "text": "新書プラス インタビュー記事の一覧",
+                "title": "インタビュー - 集英社新書プラス",
+                "title_link": "https:\/\/shinsho-plus.shueisha.co.jp\/interview",
+                "service_name": "集英社新書プラス"
+            }
+        ],
+        "thread_ts": "1655486131.382519",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1655486290.818729",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1655486290.818729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1655486290.818729"
+    },
+    {
+        "client_msg_id": "b708024e-1077-41ac-994c-90c43990caf6",
+        "type": "message",
+        "text": "集英社新書プラス – 知の水先案内人\n<https:\/\/shinsho-plus.shueisha.co.jp\/>",
+        "user": "U03CXUXB5PF",
+        "ts": "1655486290.818729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K6J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "集英社新書プラス – 知の水先案内人\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/shinsho-plus.shueisha.co.jp\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/shinsho-plus.shueisha.co.jp\/",
+                "thumb_url": "https:\/\/shinsho-plus.shueisha.co.jp\/wp-content\/themes\/shinsho-plus\/images\/shinsho-plus-logo.png",
+                "thumb_width": 270,
+                "thumb_height": 156,
+                "id": 1,
+                "original_url": "https:\/\/shinsho-plus.shueisha.co.jp\/",
+                "fallback": "集英社新書プラス",
+                "text": "集英社新書プラスのウェブサイトです",
+                "title": "集英社新書プラス",
+                "title_link": "https:\/\/shinsho-plus.shueisha.co.jp\/",
+                "service_name": "shinsho-plus.shueisha.co.jp"
+            }
+        ],
+        "thread_ts": "1655486131.382519",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "4092a3cd-116a-4059-a109-799adaca4a66",
+        "type": "message",
+        "text": "チームプロジェクトの同期\n\nせっかく作業したのに、同期がずれてる、ほど悲惨なことはないのですが、\n手動で同期あるかどうかって確認する方法がいまいちわからない\n\n僕の場合\nどうでもいいシーケンスを開いてイン・アウトをつける、\nと作業をアップロードできるようになるので、アップロードすると、クラウドに溜まってる未同期部分を共有できるようになるので、それで同期取ってます\nみなさんどうどうしてますか？",
+        "user": "U03CXUXB5PF",
+        "ts": "1665665237.777809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7nwI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "チームプロジェクトの同期\n\nせっかく作業したのに、同期がずれてる、ほど悲惨なことはないのですが、\n手動で同期あるかどうかって確認する方法がいまいちわからない\n\n僕の場合\nどうでもいいシーケンスを開いてイン・アウトをつける、\nと作業をアップロードできるようになるので、アップロードすると、クラウドに溜まってる未同期部分を共有できるようになるので、それで同期取ってます\nみなさんどうどうしてますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

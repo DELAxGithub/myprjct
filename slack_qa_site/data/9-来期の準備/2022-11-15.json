@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "d92481b8-c091-45fb-bd14-47a8e61fc271",
+        "type": "message",
+        "text": "<@U040YCC00V6> <@U03V84JSHNK> さいやさんが来るタイミングでいいんですが、スタジオ候補とかちょっと追加できないか相談してみてください。こないだメールしたんですが、その後なんにも動きがないので。",
+        "user": "U03CXUXB5PF",
+        "ts": "1668502802.747359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zR3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " さいやさんが来るタイミングでいいんですが、スタジオ候補とかちょっと追加できないか相談してみてください。こないだメールしたんですが、その後なんにも動きがないので。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F20F9C42-91EE-49D8-8263-57737E19BCA8",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 小島さんと今週の撮影終わってから何個かロケハン行こうとしてます。才也さんにも伝えています。",
+        "user": "U040YCC00V6",
+        "ts": "1668502968.184699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yYL8a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 小島さんと今週の撮影終わってから何個かロケハン行こうとしてます。才也さんにも伝えています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

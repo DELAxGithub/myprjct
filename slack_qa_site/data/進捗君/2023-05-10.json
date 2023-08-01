@@ -1,0 +1,224 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03RA83HRN0> #104松岡聡で変更がありました\n変更前：編集3\n変更後：本人編集\n担当者は石橋です",
+        "ts": "1683702395.263999",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jqw7v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #104松岡聡で変更がありました\n変更前：編集3\n変更後：本人編集\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04JJB0MTB7> #90秋元雄史で変更がありました\n変更前：MA\n変更後：編集2\n担当者は濱地です",
+        "ts": "1683711370.259709",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0ki",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #90秋元雄史で変更がありました\n変更前：MA\n変更後：編集2\n担当者は濱地です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#90秋元雄史で変更がありました\n変更前：編集2\n変更後：試写2\n担当者は濱地です",
+        "ts": "1683735256.606079",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ivR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#90秋元雄史で変更がありました\n変更前：編集2\n変更後：試写2\n担当者は濱地です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#90秋元雄史で変更がありました\n変更前：undefined\n変更後：<https:\/\/www.dropbox.com\/t\/12M8uSrlXFdCYCHM>\n担当者は濱地です",
+        "ts": "1683735631.617959",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o0Du",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#90秋元雄史で変更がありました\n変更前：undefined\n変更後："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/t\/12M8uSrlXFdCYCHM"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n担当者は濱地です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#90秋元雄史で変更がありました\n変更前：<https:\/\/www.dropbox.com\/t\/12M8uSrlXFdCYCHM>\n変更後：<https:\/\/www.dropbox.com\/t\/12M8uSrlXFdCYCHM>\n担当者は濱地です",
+        "ts": "1683735632.009039",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TvF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#90秋元雄史で変更がありました\n変更前："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/t\/12M8uSrlXFdCYCHM"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n変更後："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/t\/12M8uSrlXFdCYCHM"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n担当者は濱地です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#88松原 正樹で変更がありました\n変更前：納品試写\n変更後：納品済み\n担当者は石橋です",
+        "ts": "1683786862.965509",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EX=Rs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#88松原 正樹で変更がありました\n変更前：納品試写\n変更後：納品済み\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03Q17LBJP3> #94泉谷閑示で変更がありました\n変更前：試写2\n変更後：編集3\n担当者は岡野です",
+        "ts": "1683786875.965499",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ahwf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #94泉谷閑示で変更がありました\n変更前：試写2\n変更後：編集3\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

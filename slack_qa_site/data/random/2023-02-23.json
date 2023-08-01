@@ -1,0 +1,51 @@
+[
+    {
+        "type": "message",
+        "text": "AIに進捗管理のスプレッドシートが変更されたらその内容をslackに自動通知させたくて聞いたら、すぐ答えたし、一発で通った。\nすごいな、、",
+        "files": [
+            {
+                "id": "F04QQGG5TLN",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1677142101.676309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f2h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AIに進捗管理のスプレッドシートが変更されたらその内容をslackに自動通知させたくて聞いたら、すぐ答えたし、一発で通った。\nすごいな、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "633f6a28-6088-4126-a82a-5bd4a05d5fb5",
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U04KFCBLY9J",
+                    "U03G0LAPT3N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

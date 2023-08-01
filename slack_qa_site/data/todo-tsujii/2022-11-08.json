@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "10c02107-3c8c-4a75-82b7-21dc609c2209",
+        "type": "message",
+        "text": "<@U03P0T4KQMV>\n森山のMA待ちになっていると思いますが、おそらくMAは土日に上がってくると思います。\nMAが来ましたら来週の前半にいただけると助かります。スケジュールはいかがでしょうか。",
+        "user": "U03NZ0E09JN",
+        "ts": "1667964302.614469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XIogI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n森山のMA待ちになっていると思いますが、おそらくMAは土日に上がってくると思います。\nMAが来ましたら来週の前半にいただけると助かります。スケジュールはいかがでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667964302.614469",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1667992408.552829",
+        "reply_users": [
+            "U03P0T4KQMV"
+        ],
+        "replies": [
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1667992408.552829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

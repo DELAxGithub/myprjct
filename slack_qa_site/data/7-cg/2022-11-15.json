@@ -1,0 +1,454 @@
+[
+    {
+        "client_msg_id": "bce0465c-0553-4c0e-bcf1-84af2527560f",
+        "type": "message",
+        "text": "<@U041XC6213P> お待たせしました。\nではこの後12時からお願いしますー。",
+        "user": "U03CXUXB5PF",
+        "ts": "1668566803.570109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0P5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お待たせしました。\nではこの後12時からお願いしますー。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bdd75213-b2f1-4774-bfee-6d84833642bd",
+        "type": "message",
+        "text": "<@U040YCC00V6> zoomを使っちゃってるので一旦slackで。",
+        "user": "U03CXUXB5PF",
+        "ts": "1668567612.923009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LcL=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " zoomを使っちゃってるので一旦slackで。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668567612.923009",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1668567671.662609",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U040YCC00V6"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1668567637.055969"
+            },
+            {
+                "user": "U040YCC00V6",
+                "ts": "1668567671.662609"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1668567671.662609"
+    },
+    {
+        "client_msg_id": "44a1fffc-949f-4822-a81e-31f2cdb7b6f5",
+        "type": "message",
+        "text": "あ、3人だと無理か。",
+        "user": "U03CXUXB5PF",
+        "ts": "1668567637.055969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L8V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あ、3人だと無理か。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668567612.923009",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "89421F46-D7A7-4A5B-9C9F-CF0E6131E9B7",
+        "type": "message",
+        "text": "あら",
+        "user": "U040YCC00V6",
+        "ts": "1668567671.662609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+qUY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あら"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668567612.923009",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "82ee3fc5-f7b3-4145-8948-1d437f0ed3c7",
+        "type": "message",
+        "text": "あ、zoomあいたね。\n<https:\/\/us02web.zoom.us\/j\/3423637728>\nで。",
+        "user": "U03CXUXB5PF",
+        "ts": "1668567717.089039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K=L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あ、zoomあいたね。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/3423637728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nで。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "47cdf0e8-1cf6-46fb-8cf8-df6923541f18",
+        "type": "message",
+        "text": "<@U041XC6213P> zoomお願いしますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1668567776.742259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m9x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " zoomお願いしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 54酒井のCGを共有いたします。ご確認ください。",
+        "files": [
+            {
+                "id": "F04BUKVE0SU",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04B20W5C2Z",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04B4RL4LEP",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04AQCPT4J3",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U041XC6213P",
+        "ts": "1668583386.901149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nh9OM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 54酒井のCGを共有いたします。ご確認ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8140877f-74b9-4a52-b1ed-ff67b78ed306"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 54酒井のCG、最後のパラパラ漫画の画像は、こちらのように切り分けようかと思います。",
+        "files": [
+            {
+                "id": "F04B7CWP04U",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04AQCT67B9",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04BUKZCDLY",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04B7CX7E20",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04B4RQ1RQT",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U041XC6213P",
+        "ts": "1668583446.320589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DNGH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 54酒井のCG、最後のパラパラ漫画の画像は、こちらのように切り分けようかと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "0327b5f8-0d77-4d8c-8ad0-fa1511bfaa13",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "794AA419-5BB6-4532-B293-064B93452633",
+        "type": "message",
+        "text": "じゃこれで納品くださーい",
+        "user": "U03CXUXB5PF",
+        "ts": "1668585342.034879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YcuQP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "じゃこれで納品くださーい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668585342.034879",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1668588458.336449",
+        "reply_users": [
+            "U041XC6213P"
+        ],
+        "replies": [
+            {
+                "user": "U041XC6213P",
+                "ts": "1668588458.336449"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1668588458.336449",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

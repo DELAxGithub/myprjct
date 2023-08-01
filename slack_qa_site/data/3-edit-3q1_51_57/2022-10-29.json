@@ -1,0 +1,62 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03RA83HRN0> 55長谷の素材調達、テロップ作成終わりました。よろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F048KQKHM61",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03V84JSHNK",
+        "display_as_bot": false,
+        "ts": "1667051451.617169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lye6A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 55長谷の素材調達、テロップ作成終わりました。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3fad3c9f-221a-45ec-ac12-8ff82b99259c",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

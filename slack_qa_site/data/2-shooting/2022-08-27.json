@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "486c8470-ed15-4dc2-a7ab-29645e7cdb66",
+        "type": "message",
+        "text": "<@U03HJRZK295> 浅羽さん第2章で2箇所、引用を追加したく、、コメントしてあります",
+        "user": "U03CXUXB5PF",
+        "ts": "1661624228.665359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0gH=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 浅羽さん第2章で2箇所、引用を追加したく、、コメントしてあります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03HJRZK295"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,255 @@
+[
+    {
+        "client_msg_id": "7a81252b-23b9-4ef7-9723-01e16f2986c6",
+        "type": "message",
+        "text": "<@U03HJRZK295> 28_田中.31_土井ももう書き出しましょうか。修正依頼来てるけど尺には関係なさそう。後出しすいません。",
+        "user": "U03CXUXB5PF",
+        "ts": "1661239230.903609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3J8q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 28_田中.31_土井ももう書き出しましょうか。修正依頼来てるけど尺には関係なさそう。後出しすいません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1661239230.903609",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1661243562.041019",
+        "reply_users": [
+            "U03HJRZK295"
+        ],
+        "replies": [
+            {
+                "user": "U03HJRZK295",
+                "ts": "1661243562.041019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1661243562.041019",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03HJRZK295"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "上記２つ書き出しました",
+        "user": "U03HJRZK295",
+        "ts": "1661243562.041019",
+        "thread_ts": "1661239230.903609",
+        "root": {
+            "client_msg_id": "7a81252b-23b9-4ef7-9723-01e16f2986c6",
+            "type": "message",
+            "text": "<@U03HJRZK295> 28_田中.31_土井ももう書き出しましょうか。修正依頼来てるけど尺には関係なさそう。後出しすいません。",
+            "user": "U03CXUXB5PF",
+            "ts": "1661239230.903609",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "3J8q",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03HJRZK295"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 28_田中.31_土井ももう書き出しましょうか。修正依頼来てるけど尺には関係なさそう。後出しすいません。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1661239230.903609",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1661243562.041019",
+            "reply_users": [
+                "U03HJRZK295"
+            ],
+            "replies": [
+                {
+                    "user": "U03HJRZK295",
+                    "ts": "1661243562.041019"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1661243562.041019"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wjs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "上記２つ書き出しました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "58acb732-599c-4f74-aca2-9241a23ca5c3",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03CXUXB5PF",
+                    "U03G0LAPT3N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03G0LAPT3N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "caf8153c-d795-4b14-b826-6b5c84671158",
+        "type": "message",
+        "text": "受け取りました。\n音効効果の作業に移ります。\n引き続きよろしくお願いします。",
+        "user": "U03G0LAPT3N",
+        "ts": "1661260737.052809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sKd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "受け取りました。\n音効効果の作業に移ります。\n引き続きよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dbb0b96b-16ae-474f-9bd8-dd8464a4f823",
+        "type": "message",
+        "text": "<@U03HJRZK295> 22_秋元のMA用書き出しをお願いしますー 仮BGMです",
+        "user": "U03CXUXB5PF",
+        "ts": "1661315769.825039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n1FVL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 22_秋元のMA用書き出しをお願いしますー 仮BGMです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03HJRZK295"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

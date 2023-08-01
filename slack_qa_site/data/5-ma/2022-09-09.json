@@ -1,0 +1,333 @@
+[
+    {
+        "client_msg_id": "c31d2ff5-232b-4e1a-aca4-77eb2695d7e1",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> パックンの修正が出まして。。\n最近ちょっと炎上してるのもあり、というわけではないんですが、ep3の使い所変更します。\nあと音声がちょっと変な箇所あるっていう指摘ありまして、どうしましょうかねぇ。\n1.たかなしさん にチェックしてもらう方法\n2.こっちでの修正でやることとデータの渡し方\n3.たかなしさんにお願い→戻し方（部分修正？全体書き出し）\nって流れと思いますが、それぞれの段取りどうしましょう",
+        "user": "U03CXUXB5PF",
+        "ts": "1662723955.737329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "THjZQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " パックンの修正が出まして。。\n最近ちょっと炎上してるのもあり、というわけではないんですが、ep3の使い所変更します。\nあと音声がちょっと変な箇所あるっていう指摘ありまして、どうしましょうかねぇ。\n1.たかなしさん にチェックしてもらう方法\n2.こっちでの修正でやることとデータの渡し方\n3.たかなしさんにお願い→戻し方（部分修正？全体書き出し）\nって流れと思いますが、それぞれの段取りどうしましょう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9A275875-AB90-4283-B7FD-353786BA21D4",
+        "type": "message",
+        "text": "修正承知しました。\n修正箇所のタイムコードとご指示があれば、こちらで確認します。",
+        "user": "U03G0LAPT3N",
+        "ts": "1662724244.887389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/kg71",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "修正承知しました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "修正箇所のタイムコードとご指示があれば、こちらで確認します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "031421CC-223B-400A-95ED-4B0D1011DB04",
+        "type": "message",
+        "text": "修正箇所が短い場合は、前後のミックスが活かせますので、先にお渡ししたSTEMデータを貼り付け、尺調した後、それを含むmov.omf.指示書があると作業可能です。",
+        "user": "U03G0LAPT3N",
+        "ts": "1662731006.902569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9V2KD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "修正箇所が短い場合は、前後のミックスが活かせますので、先にお渡ししたSTEMデータを貼り付け、尺調した後、それを含むmov.omf.指示書があると作業可能です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d6527d5e-846b-4a80-a3c8-d68c7bfb0761",
+        "type": "message",
+        "text": "31土井善晴さん、MA用に動画（QT）とOMF（72フレーム）で書き出し、MAフォルダに入れました。よろしくお願い致します。",
+        "user": "U040YCC00V6",
+        "ts": "1662786477.676569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cuX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "31土井善晴さん、MA用に動画（QT）とOMF（72フレーム）で書き出し、MAフォルダに入れました。よろしくお願い致します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662786477.676569",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1662864381.224229",
+        "reply_users": [
+            "U03G0LAPT3N",
+            "U03CXUXB5PF",
+            "U040YCC00V6"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1662791912.299749"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1662796467.992639"
+            },
+            {
+                "user": "U040YCC00V6",
+                "ts": "1662798934.121549"
+            },
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1662864381.224229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1662864381.224229"
+    },
+    {
+        "client_msg_id": "CF62434B-E42E-431A-B4C0-95CA70F1A6F1",
+        "type": "message",
+        "text": "読み込み確認しました。\n72フレームという事でしたが、プロツールスで開くと23.976で開きました。\n念のため72とはどのような設定でしたでしょうか？\n問題無いようでしたらこのまま仕込みを進めさせて頂きます。",
+        "user": "U03G0LAPT3N",
+        "ts": "1662791912.299749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8E7q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "読み込み確認しました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "72フレームという事でしたが、プロツールスで開くと23.976で開きました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "念のため72とはどのような設定でしたでしょうか？"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "問題無いようでしたらこのまま仕込みを進めさせて頂きます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03G0LAPT3N",
+            "ts": "1662792341.000000"
+        },
+        "thread_ts": "1662786477.676569",
+        "parent_user_id": "U040YCC00V6"
+    },
+    {
+        "client_msg_id": "46FB221B-E4C6-47D6-B70C-DEE6F40FB0E0",
+        "type": "message",
+        "text": "松永さんの仕込み中なのですが、映像中メディアオフラインの画面が時々出ます。\nナレーションが入るシーンです。\n選曲に関係する箇所ですので、書き出し直しをお願いします。",
+        "user": "U03G0LAPT3N",
+        "ts": "1662792509.861379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nkrN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "松永さんの仕込み中なのですが、映像中メディアオフラインの画面が時々出ます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ナレーションが入るシーンです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "選曲に関係する箇所ですので、書き出し直しをお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03G0LAPT3N",
+            "ts": "1662793348.000000"
+        },
+        "thread_ts": "1662598800.821959",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

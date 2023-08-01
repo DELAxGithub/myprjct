@@ -1,0 +1,742 @@
+[
+    {
+        "client_msg_id": "250D9CB0-9EE3-4866-BC00-61712ED0E876",
+        "type": "message",
+        "text": "<@U03NJATSEBH> あってますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1664439543.374509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QGxFX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " あってますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664422923.052959",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2d2cad52-7c9e-4c15-b29f-bb0abf81ffcf",
+        "type": "message",
+        "text": "<https:\/\/replay.dropbox.com\/share-folder\/UdlQ5q9IAmu21hev>\n\n<@U03Q17LBJP3> <@U03QQ3J656Z>\n26武田、31土井の\nテロップ修正案がきました\nややこしいのは残しといてください\nよろしくお願いいたします",
+        "user": "U03CXUXB5PF",
+        "ts": "1664443600.782779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yPjps",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/replay.dropbox.com\/share-folder\/UdlQ5q9IAmu21hev"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n26武田、31土井の\nテロップ修正案がきました\nややこしいのは残しといてください\nよろしくお願いいたします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/replay.dropbox.com\/share-folder\/UdlQ5q9IAmu21hev",
+                "image_url": "https:\/\/cfl.dropboxstatic.com\/static\/metaserver\/static\/images\/reel\/unfurl-image-vflJ2sZZi.jpeg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 115485,
+                "id": 1,
+                "original_url": "https:\/\/replay.dropbox.com\/share-folder\/UdlQ5q9IAmu21hev",
+                "fallback": "Dropbox Replay",
+                "text": "Dropbox Replay allows creative teams to better create, collaborate on and deliver content. No Dropbox account is required to give feedback.",
+                "title": "Dropbox Replay",
+                "title_link": "https:\/\/replay.dropbox.com\/share-folder\/UdlQ5q9IAmu21hev",
+                "service_name": "dropbox.com"
+            }
+        ],
+        "thread_ts": "1664443600.782779",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1664491639.405569",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U03QQ3J656Z"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1664443918.261479"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1664491099.412279"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1664491162.384349"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1664491639.405569"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1664491639.405569",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03QQ3J656Z",
+                    "U03Q17LBJP3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab23ab85-144d-49e1-bbb7-eccca9ce1ed4",
+        "type": "message",
+        "text": "replay上だと半角あけが見にくいかもなのでご注意くださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1664443918.261479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Se9\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "replay上だと半角あけが見にくいかもなのでご注意くださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664443600.782779",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3>\n中島ep3でマーカーいただいたところ一部編集しました（同期必要）。以下、直せるところは直していただければと思いますが、待ちはしょうがないのでとりあえず置いといてください。\n\nこの後はep1~3で手元試写して、諸々OKになったら、最終試写でしょうか。\n画質、ノイズ、など重箱がすごいので、最終試写前の手元試写は丁寧に。。\n\n準備できたら書き出します プロキシ書き出しで3分ぐらいで出せますので、<@U040YCC00V6> <@U03CXUXB5PF> までお知らせくださいー",
+        "files": [
+            {
+                "id": "F044H2YQQF6",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1664451094.978879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bH89S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n中島ep3でマーカーいただいたところ一部編集しました（同期必要）。以下、直せるところは直していただければと思いますが、待ちはしょうがないのでとりあえず置いといてください。\n\nこの後はep1~3で手元試写して、諸々OKになったら、最終試写でしょうか。\n画質、ノイズ、など重箱がすごいので、最終試写前の手元試写は丁寧に。。\n\n準備できたら書き出します プロキシ書き出しで3分ぐらいで出せますので、"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " までお知らせくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1dda5dda-f371-425b-8712-6d00512a3425",
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN",
+                    "U03Q17LBJP3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 松永ep2もマーカーありがとうございます\n\n権利については、<@U040YCC00V6> <@U03V84JSHNK> も含めて連絡ください　こんな感じでマーカーにコピペして貰えばどうするか考えます\n\nここの絵画シリーズですが、\n・日本画は、権利というのとは別に費用がかかる場合があり\n・海外のも、なんか知らんけど許可必要\nっていうのはNHK番組でやってると思うのですが、\nまぁこの案件についてもそういう感じで対応します\nなんでよほど必要性がない限りは、美術館内の風景とか作品そのもの取り切りとかはちょっと避けた方がいいかも",
+        "files": [
+            {
+                "id": "F044H46S1LL",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1664451634.863849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "46WQ0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 松永ep2もマーカーありがとうございます\n\n権利については、"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " も含めて連絡ください　こんな感じでマーカーにコピペして貰えばどうするか考えます\n\nここの絵画シリーズですが、\n・日本画は、権利というのとは別に費用がかかる場合があり\n・海外のも、なんか知らんけど許可必要\nっていうのはNHK番組でやってると思うのですが、\nまぁこの案件についてもそういう感じで対応します\nなんでよほど必要性がない限りは、美術館内の風景とか作品そのもの取り切りとかはちょっと避けた方がいいかも"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6b582bfb-7cd4-40c7-9ae5-b0830f1d901b",
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0F109687-3588-4CBF-8C28-6D44B4BE0231",
+        "type": "message",
+        "text": "26_武田のテロップ修正完了致しました。",
+        "user": "U03QQ3J656Z",
+        "ts": "1664491099.412279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rsk8D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "26_武田のテロップ修正完了致しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664443600.782779",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "5ca92d5c-f3f1-4f92-b53e-afaf3b5ac48e",
+        "type": "message",
+        "text": "<@U03QQ3J656Z> じゃ手元試写用にかきだします　しょうしょうおまちください",
+        "user": "U03CXUXB5PF",
+        "ts": "1664491162.384349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ih1Qm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " じゃ手元試写用にかきだします　しょうしょうおまちください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664443600.782779",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03QQ3J656Z> 書き出しましたが、すこしアップロード時間かかります　　今後手元試写についても書き出しの連絡は <@U040YCC00V6> にも。ちなみに手元で書き出すとep1だとどれくらいかかります？",
+        "user": "U03CXUXB5PF",
+        "ts": "1664491639.405569",
+        "thread_ts": "1664443600.782779",
+        "root": {
+            "client_msg_id": "2d2cad52-7c9e-4c15-b29f-bb0abf81ffcf",
+            "type": "message",
+            "text": "<https:\/\/replay.dropbox.com\/share-folder\/UdlQ5q9IAmu21hev>\n\n<@U03Q17LBJP3> <@U03QQ3J656Z>\n26武田、31土井の\nテロップ修正案がきました\nややこしいのは残しといてください\nよろしくお願いいたします",
+            "user": "U03CXUXB5PF",
+            "ts": "1664443600.782779",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "yPjps",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/replay.dropbox.com\/share-folder\/UdlQ5q9IAmu21hev"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03Q17LBJP3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03QQ3J656Z"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n26武田、31土井の\nテロップ修正案がきました\nややこしいのは残しといてください\nよろしくお願いいたします"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "attachments": [
+                {
+                    "from_url": "https:\/\/replay.dropbox.com\/share-folder\/UdlQ5q9IAmu21hev",
+                    "image_url": "https:\/\/cfl.dropboxstatic.com\/static\/metaserver\/static\/images\/reel\/unfurl-image-vflJ2sZZi.jpeg",
+                    "image_width": 375,
+                    "image_height": 250,
+                    "image_bytes": 115485,
+                    "id": 1,
+                    "original_url": "https:\/\/replay.dropbox.com\/share-folder\/UdlQ5q9IAmu21hev",
+                    "fallback": "Dropbox Replay",
+                    "text": "Dropbox Replay allows creative teams to better create, collaborate on and deliver content. No Dropbox account is required to give feedback.",
+                    "title": "Dropbox Replay",
+                    "title_link": "https:\/\/replay.dropbox.com\/share-folder\/UdlQ5q9IAmu21hev",
+                    "service_name": "dropbox.com"
+                }
+            ],
+            "thread_ts": "1664443600.782779",
+            "reply_count": 4,
+            "reply_users_count": 2,
+            "latest_reply": "1664491639.405569",
+            "reply_users": [
+                "U03CXUXB5PF",
+                "U03QQ3J656Z"
+            ],
+            "replies": [
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1664443918.261479"
+                },
+                {
+                    "user": "U03QQ3J656Z",
+                    "ts": "1664491099.412279"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1664491162.384349"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1664491639.405569"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1664491639.405569"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VCUBc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 書き出しましたが、すこしアップロード時間かかります　　今後手元試写についても書き出しの連絡は "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にも。ちなみに手元で書き出すとep1だとどれくらいかかります？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f6783e97-97c3-408c-b00b-232bc1ada7cc"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 21田中のReplay修正、ほぼ完了いたしました。\n手元にスクショ分だけ直しが残ったのですが\nこちらで直してしまってよろしいでしょうか?\n\n本日ノイズや画質、編集ミスなど直したうえで\n手元試写予定です。",
+        "files": [
+            {
+                "id": "F044JA5ASJF",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F044FE0RCNR",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NJATSEBH",
+        "ts": "1664491784.963209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gf86",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 21田中のReplay修正、ほぼ完了いたしました。\n手元にスクショ分だけ直しが残ったのですが\nこちらで直してしまってよろしいでしょうか?\n\n本日ノイズや画質、編集ミスなど直したうえで\n手元試写予定です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "344fe006-74fb-4d35-923e-045e19ddbe20",
+        "thread_ts": "1664422923.052959",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "6b47139c-5bde-4d21-9442-0cee85490b7d",
+        "type": "message",
+        "text": "ひらがなでおねがいします ep3\nない、もともと、もひらがな ep2\n直観的はそのままでー",
+        "user": "U03CXUXB5PF",
+        "ts": "1664491866.647319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WKz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ひらがなでおねがいします ep3\nない、もともと、もひらがな ep2\n直観的はそのままでー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664422923.052959",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5bedb8b4-8e9f-4044-8fa9-73b69d7b1a2d",
+        "type": "message",
+        "text": "<@U03QQ3J656Z>\nここにあっぷしています\nKDDI2022\/99_Pr\/編集チーム手元試写用",
+        "user": "U03CXUXB5PF",
+        "ts": "1664492621.772549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nS3V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nここにあっぷしています\nKDDI2022\/99_Pr\/編集チーム手元試写用"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03QQ3J656Z"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1f2a795b-542f-46b1-bbbe-3029ae5e8634",
+        "type": "message",
+        "text": "<@U03QQ3J656Z>\n武田のCG修正をアップいたしました。\nよろしくお願いいたします。\nKDDI2022\/7_CG\/CG_26_takeda\/CG_mov",
+        "user": "U03NZ0E09JN",
+        "ts": "1664494096.673309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "78Mu9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n武田のCG修正をアップいたしました。\nよろしくお願いいたします。\nKDDI2022\/7_CG\/CG_26_takeda\/CG_mov"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03QQ3J656Z"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

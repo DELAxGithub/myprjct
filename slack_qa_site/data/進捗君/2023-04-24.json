@@ -1,0 +1,93 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03G0LAPT3N> #104松岡聡で変更がありました\n変更前：MA編集\n変更後：MA\n担当者は石橋です",
+        "ts": "1682322813.989499",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tik",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #104松岡聡で変更がありました\n変更前：MA編集\n変更後：MA\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04QC17DUEP> #89成田聡子で変更がありました\n変更前：試写2\n変更後：編集3\n担当者は杉谷です",
+        "ts": "1682359961.389249",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XK79l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04QC17DUEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #89成田聡子で変更がありました\n変更前：試写2\n変更後：編集3\n担当者は杉谷です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1682398300.752499",
+        "user": "U054HSHFAAH",
+        "text": "<@U054HSHFAAH>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03G0LAPT3N> #105久野愛で変更がありました\n変更前：MA編集\n変更後：MA\n担当者は中野です",
+        "ts": "1682404750.114719",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6w5a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #105久野愛で変更がありました\n変更前：MA編集\n変更後：MA\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

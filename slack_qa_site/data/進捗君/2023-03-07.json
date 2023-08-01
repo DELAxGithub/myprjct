@@ -1,0 +1,300 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04KFCBLY9J> #84山下聖美で変更がありました\n変更前：編集1\n変更後：試写1\n担当者は中野です",
+        "ts": "1678244384.326449",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/IFp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #84山下聖美で変更がありました\n変更前：編集1\n変更後：試写1\n担当者は中野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1678244433.701669",
+        "user": "U03NZ0E09JN",
+        "text": "<@U03NZ0E09JN>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1678244433.786879",
+        "user": "U04KFCBLY9J",
+        "text": "<@U04KFCBLY9J>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1678244433.861689",
+        "user": "U03Q17LBJP3",
+        "text": "<@U03Q17LBJP3>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1678244433.937599",
+        "user": "U03P0T4KQMV",
+        "text": "<@U03P0T4KQMV>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1678244434.010349",
+        "user": "U04J38PLGM6",
+        "text": "<@U04J38PLGM6>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1678244434.084329",
+        "user": "U03V84JSHNK",
+        "text": "<@U03V84JSHNK>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "ここは「2022残り」のステータスが更新されると自動通知されるチャンネルです\n\nメンションが届いた時だけ見に来ればいいので、チャンネルのところから通知設定を「メンションのみ」にしといてください",
+        "files": [
+            {
+                "id": "F04TKMP3R96",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1678244545.360389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vTBw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ここは「2022残り」のステータスが更新されると自動通知されるチャンネルです\n\nメンションが届いた時だけ見に来ればいいので、チャンネルのところから通知設定を「メンションのみ」にしといてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b171e58d-7137-499e-8189-d1e7f91f71dc",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03Q17LBJP3> #85大場紀章で変更がありました\n変更前：台本作成\n変更後：リサーチ\n担当者は岡野です",
+        "ts": "1678258003.036429",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dkxBu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #85大場紀章で変更がありました\n変更前：台本作成\n変更後：リサーチ\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1678258003.036429",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1678258108.904229",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1678258108.904229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1678258108.904229"
+    },
+    {
+        "type": "message",
+        "text": "<@U04J38PLGM6> リサーチ＝素材探し、テロップ作成ということで台本できましたのでお願いします\n85です。\nリサーチ終わったら、進捗を、編集1に変更してください。",
+        "files": [
+            {
+                "id": "F04T98T3649",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1678258108.904229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KMUSF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " リサーチ＝素材探し、テロップ作成ということで台本できましたのでお願いします\n85です。\nリサーチ終わったら、進捗を、編集1に変更してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9e2df909-5ac0-46a5-bd70-41035323c2f3",
+        "thread_ts": "1678258003.036429",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03Q17LBJP3> #81早川英男で変更がありました\n変更前：編集1\n変更後：試写1\n担当者は岡野です",
+        "ts": "1678260475.568139",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pD+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #81早川英男で変更がありました\n変更前：編集1\n変更後：試写1\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03Q17LBJP3> #85大場紀章で変更がありました\n変更前：リサーチ\n変更後：台本作成\n担当者は岡野です",
+        "ts": "1678261341.559189",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SaaL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #85大場紀章で変更がありました\n変更前：リサーチ\n変更後：台本作成\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03Q17LBJP3> #85大場紀章で変更がありました\n変更前：undefined\n変更後：undefined\n担当者は岡野です",
+        "ts": "1678261343.055429",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PiQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #85大場紀章で変更がありました\n変更前：undefined\n変更後：undefined\n担当者は岡野です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

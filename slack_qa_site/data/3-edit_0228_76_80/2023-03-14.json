@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "02FC38E2-6A0A-49F9-9956-B195BF3B8DB8",
+        "type": "message",
+        "text": "76 岡本さん\n\nプロフィールのところで\n一点だけ\n博士課程と書かれていたのですが\n博士後期課程が正式名称です。\n\n\nこれ直したら最終にしてください\n<@U04KCQL2MFV> ",
+        "user": "U03CXUXB5PF",
+        "ts": "1678844753.760789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iDY7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "76 岡本さん\n\nプロフィールのところで\n一点だけ\n博士課程と書かれていたのですが\n博士後期課程が正式名称です。\n\n\nこれ直したら最終にしてください\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KCQL2MFV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

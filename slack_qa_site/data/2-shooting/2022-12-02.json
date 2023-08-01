@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "A63F309B-C58A-4E78-B92F-9D1E53CBD72B",
+        "type": "message",
+        "text": "<@U03V84JSHNK> 61横道さんの台本終わりました。何卒宜しくお願い致します:palms_up_together:",
+        "user": "U040YCC00V6",
+        "ts": "1670026359.346069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2LoXx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 61横道さんの台本終わりました。何卒宜しくお願い致します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "palms_up_together",
+                                "unicode": "1f932"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

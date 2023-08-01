@@ -1,0 +1,131 @@
+[
+    {
+        "client_msg_id": "a80284b4-849e-4cfa-a6b7-0b0c71d0c098",
+        "type": "message",
+        "text": "<@U03QQ3J656Z>\nこちらお待ちくださいませ。探します",
+        "user": "U040YCC00V6",
+        "ts": "1665733197.477449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZRO1a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこちらお待ちくださいませ。探します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665730103.063549",
+        "parent_user_id": "U03QQ3J656Z"
+    },
+    {
+        "client_msg_id": "5f185f7c-6857-4c61-9ff2-1167e02e7a42",
+        "type": "message",
+        "text": "アリストテレスの画像、パブリックドメインのものを3_freeIMG内にいれました。ご確認くださいませ",
+        "user": "U040YCC00V6",
+        "ts": "1665737483.190139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sV\/9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アリストテレスの画像、パブリックドメインのものを3_freeIMG内にいれました。ご確認くださいませ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665730103.063549",
+        "parent_user_id": "U03QQ3J656Z"
+    },
+    {
+        "client_msg_id": "ccb9f04b-37c4-4605-96db-3ad40ceaa587",
+        "type": "message",
+        "text": "こちら\n41平、４３平岡は１０２０へ\n４２松本、４４筒井は１０３０へ移動します\nのでこのチャンネルは一旦終了です",
+        "user": "U03CXUXB5PF",
+        "ts": "1665741346.825179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jkSO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こちら\n41平、４３平岡は１０２０へ\n４２松本、４４筒井は１０３０へ移動します\nのでこのチャンネルは一旦終了です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1665767953.666449",
+        "user": "U03CXUXB5PF",
+        "text": "チャンネルをアーカイブしました"
+    }
+]

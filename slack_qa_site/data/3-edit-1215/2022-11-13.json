@@ -1,0 +1,134 @@
+[
+    {
+        "client_msg_id": "32e33e1c-8b58-4924-a696-37ccfbcad0ad",
+        "type": "message",
+        "text": "片岡修正終わりましたー",
+        "user": "U03CXUXB5PF",
+        "ts": "1668358502.948489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PG4Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "片岡修正終わりましたー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c3efd11a-3ad4-4ed9-848f-bfe19846ccce",
+        "type": "message",
+        "text": "<@U03V84JSHNK>\n37と54のテロップ、改めて見直してます\n→終わったら生成をお願いします\n\n51,52,53\nこれテロップをもう一回見直しました。premiereにもう一回出し直ししてください。\n何度もすいません。\nあと、出した後に全部あるかpremiereで確認\n（もっというとエクセルの出力のところの一番したの行が、ちゃんと反映されてるかでわかります）",
+        "user": "U03CXUXB5PF",
+        "ts": "1668377745.940019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S8Hp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n37と54のテロップ、改めて見直してます\n→終わったら生成をお願いします\n\n51,52,53\nこれテロップをもう一回見直しました。premiereにもう一回出し直ししてください。\n何度もすいません。\nあと、出した後に全部あるかpremiereで確認\n（もっというとエクセルの出力のところの一番したの行が、ちゃんと反映されてるかでわかります）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1668377749.498269",
+        "user": "U03V84JSHNK",
+        "text": "<@U03V84JSHNK>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U03QQ3J656Z> 37片岡のテロップを入れました。よろしくおねがいします。",
+        "files": [
+            {
+                "id": "F04AJAFEFUN",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03V84JSHNK",
+        "display_as_bot": false,
+        "ts": "1668389365.361859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zu3bf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 37片岡のテロップを入れました。よろしくおねがいします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "0cd8eca4-9c83-4229-a854-cca4f5d8e6d6"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1668389376.443249",
+        "user": "U03QQ3J656Z",
+        "text": "<@U03QQ3J656Z>さんがチャンネルに参加しました",
+        "inviter": "U03V84JSHNK"
+    }
+]

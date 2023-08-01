@@ -1,0 +1,259 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1675731956.778829",
+        "user": "U03NJGXEPL7",
+        "text": "<@U03NJGXEPL7>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "client_msg_id": "659f2a91-9eed-410e-9ba2-389c6b8daa04",
+        "type": "message",
+        "text": "Replayへのアップロードはこちら\n<https:\/\/replay.dropbox.com\/folder\/pid_rf:AAAAABcI8tTCJuCwe6cb20LqhYtUw7jQ-h43FnaVufhkn-Ys>",
+        "user": "U03CXUXB5PF",
+        "ts": "1675733525.409599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WnN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Replayへのアップロードはこちら\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/replay.dropbox.com\/folder\/pid_rf:AAAAABcI8tTCJuCwe6cb20LqhYtUw7jQ-h43FnaVufhkn-Ys"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/replay.dropbox.com\/folder\/pid_rf:AAAAABcI8tTCJuCwe6cb20LqhYtUw7jQ-h43FnaVufhkn-Ys",
+                "image_url": "https:\/\/cfl.dropboxstatic.com\/static\/metaserver\/static\/images\/reel\/unfurl-image-vflJ2sZZi.jpeg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 115485,
+                "id": 1,
+                "original_url": "https:\/\/replay.dropbox.com\/folder\/pid_rf:AAAAABcI8tTCJuCwe6cb20LqhYtUw7jQ-h43FnaVufhkn-Ys",
+                "fallback": "Dropbox Replay",
+                "text": "Dropbox Replay allows creative teams to better create, collaborate on and deliver content. No Dropbox account is required to give feedback.",
+                "title": "Dropbox Replay",
+                "title_link": "https:\/\/replay.dropbox.com\/folder\/pid_rf:AAAAABcI8tTCJuCwe6cb20LqhYtUw7jQ-h43FnaVufhkn-Ys",
+                "service_name": "dropbox.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e7feacf6-7986-4fea-ab90-1af7c360701a",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n95_古市に関して現状の台本から尺を出しました。\nアヴァンとまとめを合わせて仮に2分くらいだとして、\nep1 : 19'45\"\nep2 : 17'07\"\nep3 : 17'00\"\n指示部分は台本に返答しておきました。\nなお、ep2で機械音みたいなのと遠目で救急車の音がする箇所がありましたので、\n合わせて台本に書きました。",
+        "user": "U03RA83HRN0",
+        "ts": "1675750359.358299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eP1Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n95_古市に関して現状の台本から尺を出しました。\nアヴァンとまとめを合わせて仮に2分くらいだとして、\nep1 : 19'45\"\nep2 : 17'07\"\nep3 : 17'00\"\n指示部分は台本に返答しておきました。\nなお、ep2で機械音みたいなのと遠目で救急車の音がする箇所がありましたので、\n合わせて台本に書きました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5520c185-dd58-49d3-acfb-8f2615640322",
+        "type": "message",
+        "text": "ありがとうございます。本日中にOP\/EDつけます。イメージカットとか素材ってまだいってないですよね。<@U03RA83HRN0>",
+        "user": "U03CXUXB5PF",
+        "ts": "1675750673.197659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dF2mB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます。本日中にOP\/EDつけます。イメージカットとか素材ってまだいってないですよね。"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4661a89a-1fc6-49c1-9b23-316242ac8a5f",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nまだ収録素材とプロジェクト以外はまだのようです。",
+        "user": "U03RA83HRN0",
+        "ts": "1675751690.723479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KTR5i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nまだ収録素材とプロジェクト以外はまだのようです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e04130ce-9f3f-4709-b521-850c3486526d",
+        "type": "message",
+        "text": "テロップもまだですよね、了解です。",
+        "user": "U03CXUXB5PF",
+        "ts": "1675752191.109419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Etv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "テロップもまだですよね、了解です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

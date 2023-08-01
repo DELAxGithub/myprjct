@@ -1,0 +1,86 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U054HSHFAAH> #90秋元雄史で変更がありました\n変更前：返事待ち\n変更後：編集アップ\n担当者は濱地です",
+        "ts": "1685347700.739289",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r3XE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U054HSHFAAH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #90秋元雄史で変更がありました\n変更前：返事待ち\n変更後：編集アップ\n担当者は濱地です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#100保坂 修司で変更がありました\n変更前：undefined\n変更後：<https:\/\/www.dropbox.com\/t\/l9NtBtP3hZVvDFjE>\n担当者は杉谷です",
+        "ts": "1685361763.041429",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=\/\/Fr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#100保坂 修司で変更がありました\n変更前：undefined\n変更後："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/t\/l9NtBtP3hZVvDFjE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n担当者は杉谷です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#100保坂 修司で変更がありました\n変更前：微修正\n変更後：技術確認\n担当者は杉谷です",
+        "ts": "1685361769.112879",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1DM\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#100保坂 修司で変更がありました\n変更前：微修正\n変更後：技術確認\n担当者は杉谷です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

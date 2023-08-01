@@ -1,0 +1,339 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03NZ0E09JN> Dropbox上のファイルがバッティングする問題、koyamaさんの挙動が原因かも。なんか思い当たる節あります？",
+        "files": [
+            {
+                "id": "F04MNRJHH5M",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1675641601.575459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NyTM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Dropbox上のファイルがバッティングする問題、koyamaさんの挙動が原因かも。なんか思い当たる節あります？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "69b5d050-c926-47f2-a1de-9717b8052843",
+        "thread_ts": "1675641601.575459",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1675662708.760009",
+        "reply_users": [
+            "U03NZ0E09JN",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1675651246.855799"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1675651774.966549"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1675653786.602289"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1675653874.355589"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1675661493.573969"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1675662708.760009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675662708.760009"
+    },
+    {
+        "client_msg_id": "3bab2aec-e3a0-420e-b82a-6ee00fdb69ec",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 小山のアカウントを使用しているのが私なので、私の挙動なのですが、なぜ私のコピーが出来てしまうのか分からないんです。\n何もさわっていないフォルダにもコピーが作成されてしまうような状態です。\n基本的にはオフライン設定にしているのですが、、、",
+        "user": "U03NZ0E09JN",
+        "ts": "1675651246.855799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KTBZm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 小山のアカウントを使用しているのが私なので、私の挙動なのですが、なぜ私のコピーが出来てしまうのか分からないんです。\n何もさわっていないフォルダにもコピーが作成されてしまうような状態です。\n基本的にはオフライン設定にしているのですが、、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675641601.575459",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "3214537b-ca24-4619-a1a9-1058c494065a",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> Dropboxを見た瞬間にできてるのかな。。にしてもできるやつとできないやつがあるのも不思議ですね。\nオフラインだけじゃなく、Dropboxのログアウトしちゃうとどうなります？\n作業ができない？でもそれで複製ファイルができないなら、その路線でやる？\nいずれにせよなんか検証は必要ですね。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1675651774.966549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FJHU+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Dropboxを見た瞬間にできてるのかな。。にしてもできるやつとできないやつがあるのも不思議ですね。\nオフラインだけじゃなく、Dropboxのログアウトしちゃうとどうなります？\n作業ができない？でもそれで複製ファイルができないなら、その路線でやる？\nいずれにせよなんか検証は必要ですね。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675641601.575459",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "635afdd2-4d91-41a5-947c-22c382b7d7ee",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 原因が不明なので、一度Dropboxのデスクトップアプリをログアウトしてみて、一旦ブラウザのみで作業してみたいと思います。",
+        "user": "U03NZ0E09JN",
+        "ts": "1675653786.602289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fph4N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 原因が不明なので、一度Dropboxのデスクトップアプリをログアウトしてみて、一旦ブラウザのみで作業してみたいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675641601.575459",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "e747fe95-7c91-4bd6-9f6b-6ea0215c3032",
+        "type": "message",
+        "text": "一旦作成されたコピーは削除します。",
+        "user": "U03NZ0E09JN",
+        "ts": "1675653874.355589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZMP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一旦作成されたコピーは削除します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675641601.575459",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "なんかまたこんなやつが出てきました\n\nおぉ、ノイローゼになりそうですが、大丈夫ですか？\n\nブラウザにアクセスするだけだとしたら、なんでしょうね。\n一回サポートに問い合わせたほうがいいかも。",
+        "files": [
+            {
+                "id": "F04MZ52M6DC",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1675661493.573969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iI6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なんかまたこんなやつが出てきました\n\nおぉ、ノイローゼになりそうですが、大丈夫ですか？\n\nブラウザにアクセスするだけだとしたら、なんでしょうね。\n一回サポートに問い合わせたほうがいいかも。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "55bb57ff-b59c-4457-9a5a-cac3744920d1",
+        "thread_ts": "1675641601.575459",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "dizzy_face",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f524b78f-6f66-42ea-8773-129ba9fea276",
+        "type": "message",
+        "text": "なぜこんなに:sob:\nしかも過去の競合コピーが復活？しているのですかね？\n一度サポートに問い合わせてみます。",
+        "user": "U03NZ0E09JN",
+        "ts": "1675662708.760009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7G5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なぜこんなに"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nしかも過去の競合コピーが復活？しているのですかね？\n一度サポートに問い合わせてみます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675641601.575459",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

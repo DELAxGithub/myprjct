@@ -1,0 +1,62 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1662992125.583849",
+        "user": "U041XC6213P",
+        "text": "<@U041XC6213P>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "d2315257-d576-4ac9-9cc2-0dcf904c7450",
+        "type": "message",
+        "text": "皆さま、はじめまして、本宮と申します。どうぞよろしくお願いいたします:pray:",
+        "user": "U041XC6213P",
+        "ts": "1662992731.066089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "enRk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "皆さま、はじめまして、本宮と申します。どうぞよろしくお願いいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "dart",
+                "users": [
+                    "U03CXUXB5PF",
+                    "U03G0LAPT3N"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

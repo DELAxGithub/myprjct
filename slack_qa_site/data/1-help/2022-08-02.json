@@ -1,0 +1,2080 @@
+[
+    {
+        "type": "message",
+        "text": "お世話になっております。\n対応が遅くなり大変申し訳ございません。\n\n157_0138_1_Proxy.movでproxy対応したのですが、やはり映像が小さいままです。。。\n（これは何故かDropboxローカルのままで繋げられたのでそのまま繋げました。試しにPC内に保存してからも繋げてみたのですが、結果変わらずです）\nダウンロードもきちんとできております。\n何故でしょうか。。。本当に何度も申し訳ございません。",
+        "files": [
+            {
+                "id": "F03RYHT5P8S",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03RDSN3ZMG",
+        "display_as_bot": false,
+        "ts": "1659430806.631149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wNvM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お世話になっております。\n対応が遅くなり大変申し訳ございません。\n\n157_0138_1_Proxy.movでproxy対応したのですが、やはり映像が小さいままです。。。\n（これは何故かDropboxローカルのままで繋げられたのでそのまま繋げました。試しにPC内に保存してからも繋げてみたのですが、結果変わらずです）\nダウンロードもきちんとできております。\n何故でしょうか。。。本当に何度も申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "285f822b-f44e-4c44-9758-ccffb0f583be",
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "2051D796-1204-45F5-9CBF-F79839DF6EA1",
+        "type": "message",
+        "text": "<@U03HJRZK295> <@U03NZ0E09JN> <@U03RDSN3ZMG> なんでしょうね、一回オンラインでやりますか。といいつつ、僕の方が対応できるのが3時間後とかになりそうです。",
+        "user": "U03CXUXB5PF",
+        "ts": "1659430983.304549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BRw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RDSN3ZMG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " なんでしょうね、一回オンラインでやりますか。といいつつ、僕の方が対応できるのが3時間後とかになりそうです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF> <@U03RDSN3ZMG> \n\nこちらはプロキシが外れてしまう問題の土井さん担当だった奥休場さんの検証結果です。\n村井さんの現象とは若干異なりますが、デスクトップにダウンロードしてみてはいかがでしょうか。\n\n↓↓↓↓↓↓↓\n\n今回の諸々の結論ですが、ファイルを完全にローカル（今回はデスクトップ）に保存することで、リンクが勝手に外れる現象がなくなりました。\n\n検証の経緯としては\n\n①21の田中さんで試す為、Dropboxの対象のプロキシをオフライン化\n（一応これでもローカルに保存）\n\n②プレミアでプロキシを追加しようとしてもPC上にファイルがないと認識される\n\n③プロキシをDropboxのフォルダからデスクトップにコピー\n\n④プロキシが追加できて外れない\n\n⑤試しに31の土井さんでやってみても外れない\n\nでした。\nちなみに土井さんのデータは更新をかけていないので、前のデータのままです。\n\n",
+        "user": "U03NZ0E09JN",
+        "ts": "1659431580.279789",
+        "thread_ts": "1659354902.764839",
+        "root": {
+            "client_msg_id": "f369978e-1ac6-4ce4-9dd8-bda107763a7e",
+            "type": "message",
+            "text": "お世話になっております。何度も申し訳ございません。\n\n• 不具合状況\n映像が小さくなる\n\n• こうありたい・こうしたい\n映像を元の大きさに戻したい\n\n• 試したこと\n上記のプロキシー切り替え、プロジェクトを立て直す\nフレームサイズの変更\nプロキシーの繋ぎかえ\n\n以上試したのですが映像が元に戻りません。\n大変申し訳ないのですがここからどのように対応すればいいのか\n自身では分かりかねます。\nご確認いただけないでしょうか？\n\n何卒よろしくお願いいたします。",
+            "user": "U03RDSN3ZMG",
+            "ts": "1659354902.764839",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "PfbO",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "お世話になっております。何度も申し訳ございません。\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "不具合状況"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "映像が小さくなる\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "こうありたい・こうしたい"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "映像を元の大きさに戻したい\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "試したこと"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "上記のプロキシー切り替え、プロジェクトを立て直す\nフレームサイズの変更\nプロキシーの繋ぎかえ\n\n以上試したのですが映像が元に戻りません。\n大変申し訳ないのですがここからどのように対応すればいいのか\n自身では分かりかねます。\nご確認いただけないでしょうか？\n\n何卒よろしくお願いいたします。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1659354902.764839",
+            "reply_count": 51,
+            "reply_users_count": 4,
+            "latest_reply": "1659519032.628499",
+            "reply_users": [
+                "U03CXUXB5PF",
+                "U03RDSN3ZMG",
+                "U03NZ0E09JN",
+                "U03HJRZK295"
+            ],
+            "replies": [
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659355345.489799"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659355628.573119"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659361387.651809"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659362272.887189"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659362313.492219"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659362490.920029"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659393189.611629"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659393411.449649"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659393513.091119"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659395218.217989"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659395491.988339"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659430806.631149"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659430983.304549"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659431580.279789"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659432289.416459"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659432368.334259"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659432753.355109"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659432824.201779"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659438782.619809"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659438905.363619"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659441972.695539"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659442026.576239"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659442328.678789"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659442332.451519"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659442420.634969"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659442448.669919"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659442549.451199"
+                },
+                {
+                    "user": "U03HJRZK295",
+                    "ts": "1659442611.872049"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659442626.603719"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659444197.594819"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659444462.468869"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659445320.487099"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659445492.057519"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659445608.366219"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659445643.347379"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659446451.400769"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659446860.219029"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659446895.395899"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659447710.354039"
+                },
+                {
+                    "user": "U03HJRZK295",
+                    "ts": "1659447749.861399"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659478828.278959"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659486792.098599"
+                },
+                {
+                    "user": "U03HJRZK295",
+                    "ts": "1659493220.744239"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659493597.849959"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659495092.475259"
+                },
+                {
+                    "user": "U03RDSN3ZMG",
+                    "ts": "1659517322.898699"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659517454.951199"
+                },
+                {
+                    "user": "U03HJRZK295",
+                    "ts": "1659518655.252839"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1659518740.980519"
+                },
+                {
+                    "user": "U03HJRZK295",
+                    "ts": "1659518878.559459"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1659519032.628499"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1659519032.628499"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZluI6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RDSN3ZMG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "こちらはプロキシが外れてしまう問題の土井さん担当だった奥休場さんの検証結果です。\n村井さんの現象とは若干異なりますが、デスクトップにダウンロードしてみてはいかがでしょうか。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "↓↓↓↓↓↓↓\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今回の諸々の結論ですが、ファイルを完全にローカル（今回はデスクトップ）に保存することで、リンクが勝手に外れる現象がなくなりました。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "検証の経緯としては\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "①21の田中さんで試す為、Dropboxの対象のプロキシをオフライン化\n（一応これでもローカルに保存）\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "②プレミアでプロキシを追加しようとしてもPC上にファイルがないと認識される\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "③プロキシをDropboxのフォルダからデスクトップにコピー\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "④プロキシが追加できて外れない\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "⑤試しに31の土井さんでやってみても外れない\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "でした。\nちなみに土井さんのデータは更新をかけていないので、前のデータのままです。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6056DA45-12CE-4643-AF49-5B4046F03ACD"
+    },
+    {
+        "client_msg_id": "d8fd574b-68a9-4039-8cc0-663d6d8200e1",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03RDSN3ZMG>\nオンライン対応可能です。\nよろしくお願いします。",
+        "user": "U03NZ0E09JN",
+        "ts": "1659432289.416459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DAKt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RDSN3ZMG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nオンライン対応可能です。\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "616228D8-9B93-4E21-9A82-21C9ABD6C2FA",
+        "type": "message",
+        "text": "<@U03RDSN3ZMG> ひとまず上記の方法で試してみてくださーい",
+        "user": "U03CXUXB5PF",
+        "ts": "1659432368.334259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GTA+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RDSN3ZMG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ひとまず上記の方法で試してみてくださーい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "6b25aadb-226e-4f54-8b70-9f211a4dfcc0",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03NZ0E09JN>\nすみません。。\nデクストップにダウンロードして繋げてみたんですけど、改善されません。。。\nオンライン希望なのですが、私も今すぐは難しく21:00頃希望です。\n何卒よろしくお願いいたします。",
+        "user": "U03RDSN3ZMG",
+        "ts": "1659432753.355109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eEXPS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nすみません。。\nデクストップにダウンロードして繋げてみたんですけど、改善されません。。。\nオンライン希望なのですが、私も今すぐは難しく21:00頃希望です。\n何卒よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ba4756d9ff45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-28\/3852142960871_ba4756d9ff450cdff3d5_72.png",
+            "first_name": "村井希",
+            "real_name": "村井希",
+            "display_name": "Murai Nozomi",
+            "team": "T03CU6RQ154",
+            "name": "fukuoka.nozomi620",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B3B78CEE-F6B6-444C-BE10-212BCEA1A77D",
+        "type": "message",
+        "text": "どれでやっても小さくなるのか中野さんだけか、どんな感じなんでしょう？",
+        "user": "U03CXUXB5PF",
+        "ts": "1659432824.201779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vCwD1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どれでやっても小さくなるのか中野さんだけか、どんな感じなんでしょう？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "715619e9-89bd-484d-931a-e7aca06f622f",
+        "type": "message",
+        "text": "今試しに吉永先生のproxyをダウンロードしています。確認してみます。",
+        "user": "U03RDSN3ZMG",
+        "ts": "1659438782.619809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sut",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今試しに吉永先生のproxyをダウンロードしています。確認してみます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ba4756d9ff45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-28\/3852142960871_ba4756d9ff450cdff3d5_72.png",
+            "first_name": "村井希",
+            "real_name": "村井希",
+            "display_name": "Murai Nozomi",
+            "team": "T03CU6RQ154",
+            "name": "fukuoka.nozomi620",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "4232976D-32FC-4D1A-8790-C0EC9BA27E89",
+        "type": "message",
+        "text": "<@U03RDSN3ZMG> \nもう進んで問題のないものから選んだほうがいいと思います。1区2区からならどれでもいいと思います。",
+        "user": "U03NZ0E09JN",
+        "ts": "1659438905.363619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZCYT7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RDSN3ZMG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nもう進んで問題のないものから選んだほうがいいと思います。1区2区からならどれでもいいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "c82b0cec-4847-4f11-872a-dfdb266526da",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n21:00になりましたがいかがでしょうか。",
+        "user": "U03NZ0E09JN",
+        "ts": "1659441972.695539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D6lh=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n21:00になりましたがいかがでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "3FBCB662-8977-4FD7-94B9-A8BD540D2EE1",
+        "type": "message",
+        "text": "すいません、まだ移動中でして。22時でも大丈夫ですか？",
+        "user": "U03CXUXB5PF",
+        "ts": "1659442026.576239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mfLYA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すいません、まだ移動中でして。22時でも大丈夫ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "189a582c-a6dd-45a2-85fb-c235c1ce5c10",
+        "type": "message",
+        "text": "<@U03RDSN3ZMG> <@U03CXUXB5PF>\n承知しました。\nお忙しいところすいません。\n私は大丈夫です。村井さんいかがでしょうか。",
+        "user": "U03NZ0E09JN",
+        "ts": "1659442328.678789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RrkO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RDSN3ZMG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n承知しました。\nお忙しいところすいません。\n私は大丈夫です。村井さんいかがでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "4071c90a-b1c4-4b36-987f-72e66f23df2b",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03NZ0E09JN>\n22時でも大丈夫でございます。\n\nもし中野先生をやめて別の先生を選ぶとするなら、1区2区はもう編集者が決まって編集を進めている状態でしょうか？でしたら３区の残り岡先生、もしくは４区から選ぶと認識して大丈夫ですか？",
+        "user": "U03RDSN3ZMG",
+        "ts": "1659442332.451519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aj8h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n22時でも大丈夫でございます。\n\nもし中野先生をやめて別の先生を選ぶとするなら、1区2区はもう編集者が決まって編集を進めている状態でしょうか？でしたら３区の残り岡先生、もしくは４区から選ぶと認識して大丈夫ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ba4756d9ff45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-28\/3852142960871_ba4756d9ff450cdff3d5_72.png",
+            "first_name": "村井希",
+            "real_name": "村井希",
+            "display_name": "Murai Nozomi",
+            "team": "T03CU6RQ154",
+            "name": "fukuoka.nozomi620",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "686dffff-4a91-4ccd-a7f7-fe5352238089",
+        "type": "message",
+        "text": "<@U03RDSN3ZMG>\nおっしゃる通りです。",
+        "user": "U03NZ0E09JN",
+        "ts": "1659442420.634969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rPi5w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RDSN3ZMG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおっしゃる通りです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "5F552692-BF73-4F0C-A35E-CBA1D55E320E",
+        "type": "message",
+        "text": "とにかく環境の確認ですね。中野さんのファイルがダメなのか、村井さんの環境か。",
+        "user": "U03CXUXB5PF",
+        "ts": "1659442448.669919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KNIv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "とにかく環境の確認ですね。中野さんのファイルがダメなのか、村井さんの環境か。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "0322428b-45cf-449a-aaab-4bfa1d8117ef",
+        "type": "message",
+        "text": "<@U03RDSN3ZMG>\n環境の確認のためにも検証は1区2区の中から選んだ方がいいと思います。",
+        "user": "U03NZ0E09JN",
+        "ts": "1659442549.451199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xcvmQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RDSN3ZMG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n環境の確認のためにも検証は1区2区の中から選んだ方がいいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "69f1b196-62a7-4a8b-9bca-1fa7964ee2e3",
+        "type": "message",
+        "text": "中野さんはもう一回一から作り直してみます",
+        "user": "U03HJRZK295",
+        "ts": "1659442611.872049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0MoKz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "中野さんはもう一回一から作り直してみます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3cf6a1f1-6fae-4726-b3c6-6f4b64280fd7",
+        "type": "message",
+        "text": "<@U03RDSN3ZMG>\n3区4区の中にはまた同じ症状のものがあるかどうかわからないので。",
+        "user": "U03NZ0E09JN",
+        "ts": "1659442626.603719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "453Yd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RDSN3ZMG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n3区4区の中にはまた同じ症状のものがあるかどうかわからないので。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "1E3767F3-85CE-4544-BA43-439796BCCC24",
+        "type": "message",
+        "text": "ちょっと22時もむずそうです。\n明日の午前中でも少し隙間あれば。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1659444197.594819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oT20Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちょっと22時もむずそうです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "明日の午前中でも少し隙間あれば。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "a2a692ee-cb0d-4a00-8a22-1b14f389b272",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03NZ0E09JN> 明日の午前中は申し訳ないです、仕事があって難しそうでございます。。\n\n因みに1区2区を先に検証ということなのですが、\n先に4区の吉永先生をランダムに選んでproxyに繋いだのですが、こちらは映像が小さくなることはなかったです。",
+        "user": "U03RDSN3ZMG",
+        "ts": "1659444462.468869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eNPpB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 明日の午前中は申し訳ないです、仕事があって難しそうでございます。。\n\n因みに1区2区を先に検証ということなのですが、\n先に4区の吉永先生をランダムに選んでproxyに繋いだのですが、こちらは映像が小さくなることはなかったです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ba4756d9ff45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-28\/3852142960871_ba4756d9ff450cdff3d5_72.png",
+            "first_name": "村井希",
+            "real_name": "村井希",
+            "display_name": "Murai Nozomi",
+            "team": "T03CU6RQ154",
+            "name": "fukuoka.nozomi620",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "5173ace7-64cb-4b2f-b957-3729208839ca",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n承知いたしました。\n\n<@U03RDSN3ZMG>\n吉永先生で問題なかったということ承知しました。\n小寺さんが参加できなかったんですが、可能でしたらこれから少しだけzoomしませんか。",
+        "user": "U03NZ0E09JN",
+        "ts": "1659445320.487099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tw0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n承知いたしました。\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RDSN3ZMG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n吉永先生で問題なかったということ承知しました。\n小寺さんが参加できなかったんですが、可能でしたらこれから少しだけzoomしませんか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "8D166F35-D4B1-48F9-8AB0-F0193395819C",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> \n可能でございます。\nご迷惑をおかけして大変申し訳ございません。\n何卒よろしくお願いいたします。",
+        "user": "U03RDSN3ZMG",
+        "ts": "1659445492.057519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VkT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "可能でございます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ご迷惑をおかけして大変申し訳ございません。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "何卒よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ba4756d9ff45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-28\/3852142960871_ba4756d9ff450cdff3d5_72.png",
+            "first_name": "村井希",
+            "real_name": "村井希",
+            "display_name": "Murai Nozomi",
+            "team": "T03CU6RQ154",
+            "name": "fukuoka.nozomi620",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "45222C93-2BA1-40DE-9F22-18C05B2A6A57",
+        "type": "message",
+        "text": "すいません、送れてませんでした。環境のせいじゃないので、書き出ししなおしてみてですね。会議出れなくてすいません。",
+        "user": "U03CXUXB5PF",
+        "ts": "1659445608.366219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7bolp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すいません、送れてませんでした。環境のせいじゃないので、書き出ししなおしてみてですね。会議出れなくてすいません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "0b3f698f-35c7-4a3e-bc10-f5e8337eb7ac",
+        "type": "message",
+        "text": "<@U03RDSN3ZMG>\n福田 啓子さんがあなたを予約されたZoomミーティングに招待しています。\n\nZoomミーティングに参加する\n<https:\/\/us04web.zoom.us\/j\/74730602705?pwd=ceLU5S2QyviPuYGIx9BCxaalPEtuHb.1>\n\nミーティングID: 747 3060 2705\nパスコード: pKy09V",
+        "user": "U03NZ0E09JN",
+        "ts": "1659445643.347379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ItL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RDSN3ZMG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n福田 啓子さんがあなたを予約されたZoomミーティングに招待しています。\n\nZoomミーティングに参加する\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us04web.zoom.us\/j\/74730602705?pwd=ceLU5S2QyviPuYGIx9BCxaalPEtuHb.1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nミーティングID: 747 3060 2705\nパスコード: pKy09V"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n問題点が出てきたので共有させていただきたいです。\nproxyにつなげる際ファイル名とクリップ名が違いました。これが原因で映像が小さくなっているのかもしれません。",
+        "files": [
+            {
+                "id": "F03RK5PQLUX",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03RDSN3ZMG",
+        "display_as_bot": false,
+        "ts": "1659446451.400769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L\/IKQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n問題点が出てきたので共有させていただきたいです。\nproxyにつなげる際ファイル名とクリップ名が違いました。これが原因で映像が小さくなっているのかもしれません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "986fda85-6fbc-41e7-b6ed-4a247215feed",
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "413be912-3a7a-4145-b4ea-430753a6e5bf",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n村井さんには現在問題なく開けている#36吉永さんを担当いただき、#33中野さんは他の方に担当してもらおうと思います。よろしくお願いいたします。",
+        "user": "U03NZ0E09JN",
+        "ts": "1659446860.219029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t8G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n村井さんには現在問題なく開けている#36吉永さんを担当いただき、#33中野さんは他の方に担当してもらおうと思います。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "028D0228-82FD-4E92-9B03-10CF32BA4CA9",
+        "type": "message",
+        "text": "なるほど。プロキシーつくるときに名前変わることはないので、そこの原因はあれですが、以降気をつけましょうか。\n\n吉永さんの台本急ぎます。",
+        "user": "U03CXUXB5PF",
+        "ts": "1659446895.395899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IRp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど。プロキシーつくるときに名前変わることはないので、そこの原因はあれですが、以降気をつけましょうか。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n吉永さんの台本急ぎます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "879b6363-cd89-4b2a-a45f-b5adf6909050",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>　<@U03NZ0E09JN>\n何が原因で変わってしまったのか不明なのですが、大変申し訳ございません。\n台本お待ちしております。",
+        "user": "U03RDSN3ZMG",
+        "ts": "1659447710.354039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iJCY9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n何が原因で変わってしまったのか不明なのですが、大変申し訳ございません。\n台本お待ちしております。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ba4756d9ff45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-28\/3852142960871_ba4756d9ff450cdff3d5_72.png",
+            "first_name": "村井希",
+            "real_name": "村井希",
+            "display_name": "Murai Nozomi",
+            "team": "T03CU6RQ154",
+            "name": "fukuoka.nozomi620",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "33_nakano_オリジナル2というので元データ入れ直して作り直しました。\nプロキシはこの赤３つです（名前変わってますが自動でこれが生成されました）\n明日にでもご確認お願いいたいします",
+        "files": [
+            {
+                "id": "F03RT7LJDQW",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F03SPHJ2EV6",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03HJRZK295",
+        "ts": "1659447749.861399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fxxe\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "33_nakano_オリジナル2というので元データ入れ直して作り直しました。\nプロキシはこの赤３つです（名前変わってますが自動でこれが生成されました）\n明日にでもご確認お願いいたいします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b9afdc7e-923b-4e7a-adce-3df8f944d05c",
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03HJRZK295>\n新しく作っていただきありがとうございます。\nなのですが、私からのプロジェクトには何故か反映されておりません。。。（何度かチームプロジェクトとプレミアプロ自体を落としているのですが）\nこれは私だけに起きている現象でしょうか。。。\nご迷惑をおかけし申し訳ございません。",
+        "files": [
+            {
+                "id": "F03RN7EKRCP",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03RDSN3ZMG",
+        "display_as_bot": false,
+        "ts": "1659478828.278959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8BTE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n新しく作っていただきありがとうございます。\nなのですが、私からのプロジェクトには何故か反映されておりません。。。（何度かチームプロジェクトとプレミアプロ自体を落としているのですが）\nこれは私だけに起きている現象でしょうか。。。\nご迷惑をおかけし申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b830fd52-23f7-4ac6-8635-630496ed1530",
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "502e13a6-3e50-4f0e-8dd6-a7fa6d34c438",
+        "type": "message",
+        "text": "<@U03HJRZK295> <@U03RDSN3ZMG> 作業後のプロジェクトの同期がコケてるかもしれません。もしまだうまくいってないようなら今一度ご確認いただけます？",
+        "user": "U03CXUXB5PF",
+        "ts": "1659486792.098599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GEYr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RDSN3ZMG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 作業後のプロジェクトの同期がコケてるかもしれません。もしまだうまくいってないようなら今一度ご確認いただけます？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "本当ですね、、再度共有してみました、いかがでしょうか？",
+        "files": [
+            {
+                "id": "F03S3AZV6H1",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03HJRZK295",
+        "display_as_bot": false,
+        "ts": "1659493220.744239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pgj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本当ですね、、再度共有してみました、いかがでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "55e3e0f9-cbfd-4f5c-8154-447d4d3b9fc1",
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG"
+    },
+    {
+        "client_msg_id": "33CEB34B-188C-4A91-AA21-2561441F82D8",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03HJRZK295> \nこちら対応いただきありがとうございます。\n今出先なので17:30頃確認してみます。\n何卒よろしくお願いいたします。",
+        "user": "U03RDSN3ZMG",
+        "ts": "1659493597.849959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uztM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "こちら対応いただきありがとうございます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今出先なので17:30頃確認してみます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "何卒よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ba4756d9ff45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-28\/3852142960871_ba4756d9ff450cdff3d5_72.png",
+            "first_name": "村井希",
+            "real_name": "村井希",
+            "display_name": "Murai Nozomi",
+            "team": "T03CU6RQ154",
+            "name": "fukuoka.nozomi620",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03HJRZK295"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d34900b-fa68-4009-83df-872b180a851e",
+        "type": "message",
+        "text": "私のPCでは問題なく開けています。",
+        "user": "U03NZ0E09JN",
+        "ts": "1659495092.475259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "myN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私のPCでは問題なく開けています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659354902.764839",
+        "parent_user_id": "U03RDSN3ZMG",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03HJRZK295"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

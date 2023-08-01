@@ -1,0 +1,593 @@
+[
+    {
+        "client_msg_id": "089D31EB-497B-4842-927F-9394C5F754E5",
+        "type": "message",
+        "text": "<@U04J38PLGM6> \n\nお世話になっております。KDDIの宍戸です。\n先日いただきました市川さんの動画（PR,１，２，３）に関しまして、依然として、それぞれのビットレートが50Mbpsを超えている状態でございます。\n何度も恐縮ですが、50Mbps以下に修正の上、納品いただきますようお願いいたします。\n\nだって。違うやつアップしたかな。URL、チャットワークに貼るのと、ファイル名に日付入れてください",
+        "user": "U03CXUXB5PF",
+        "ts": "1678759606.878599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y0Ej0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nお世話になっております。KDDIの宍戸です。\n先日いただきました市川さんの動画（PR,１，２，３）に関しまして、依然として、それぞれのビットレートが50Mbpsを超えている状態でございます。\n何度も恐縮ですが、50Mbps以下に修正の上、納品いただきますようお願いいたします。\n\nだって。違うやつアップしたかな。URL、チャットワークに貼るのと、ファイル名に日付入れてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "287EF966-99D8-42A6-B5F4-B8456503C9BE",
+        "type": "message",
+        "text": "<@U04J38PLGM6> 書き出し設定が変わってるってことはらないよね。メディアエンコーダーのパラメータとか一回スクショしてもらえる？",
+        "user": "U03CXUXB5PF",
+        "ts": "1678759943.783369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+vRt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 書き出し設定が変わってるってことはらないよね。メディアエンコーダーのパラメータとか一回スクショしてもらえる？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n今DROPBOXの納品フォルダに入っているものはこれと同じで書き出しました。\n50mbpsいってないです。",
+        "files": [
+            {
+                "id": "F04TBV41XJT",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1678760140.950839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7CrC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今DROPBOXの納品フォルダに入っているものはこれと同じで書き出しました。\n50mbpsいってないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a922f9ae-cf57-46fb-9069-7d97578e7b1f"
+    },
+    {
+        "client_msg_id": "FA3D8B1A-D3D0-4A9A-99FC-E332814DCC0E",
+        "type": "message",
+        "text": "じゃ、それをDropboxでコピー送信でまた共有してみてください。名前が最終のままだとわかりにくいんで変えよう。",
+        "user": "U03CXUXB5PF",
+        "ts": "1678760221.288439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dN1xU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "じゃ、それをDropboxでコピー送信でまた共有してみてください。名前が最終のままだとわかりにくいんで変えよう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678760221.288439",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1678760293.494249",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1678760293.494249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1678760293.494249"
+    },
+    {
+        "client_msg_id": "e07274e2-15a1-4072-8020-55995be5cb92",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> チャットワークスにリンクを貼りますか？",
+        "user": "U04J38PLGM6",
+        "ts": "1678760293.494249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "luDxL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " チャットワークスにリンクを貼りますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678760221.288439",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "25595972-AB5E-4373-A745-4E29D2E93589",
+        "type": "message",
+        "text": "はい。ファイル名も添えてください。同一名で上書きとかは間違いの元なので本当はなんかファイル名でわかるようにするのがいいんでしょうけども。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1678760362.466939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RrND",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい。ファイル名も添えてください。同一名で上書きとかは間違いの元なので本当はなんかファイル名でわかるようにするのがいいんでしょうけども。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C67960B5-0C2E-4265-AF04-2A382AAE7C73",
+        "type": "message",
+        "text": "<@U04J38PLGM6> できる？",
+        "user": "U03CXUXB5PF",
+        "ts": "1678761176.937199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ObDp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " できる？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678761176.937199",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1678761400.781469",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1678761400.781469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1678761400.781469"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF> dropboxのファイルを送るで大丈夫ですか？\n何か別な方法があるなら、小寺さんにまず送ります。",
+        "user": "U04J38PLGM6",
+        "ts": "1678761400.781469",
+        "thread_ts": "1678761176.937199",
+        "root": {
+            "client_msg_id": "C67960B5-0C2E-4265-AF04-2A382AAE7C73",
+            "type": "message",
+            "text": "<@U04J38PLGM6> できる？",
+            "user": "U03CXUXB5PF",
+            "ts": "1678761176.937199",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ObDp",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " できる？"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1678761176.937199",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1678761400.781469",
+            "reply_users": [
+                "U04J38PLGM6"
+            ],
+            "replies": [
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1678761400.781469"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1678761400.781469"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I+F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " dropboxのファイルを送るで大丈夫ですか？\n何か別な方法があるなら、小寺さんにまず送ります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "79ce745c-f002-4905-ac55-c9788716d557"
+    },
+    {
+        "client_msg_id": "E565C19F-F4EF-4911-B2B0-718513B550AB",
+        "type": "message",
+        "text": "いや、Dropboxのでいい。ファイル名とか絶対に紛れないように工夫してください",
+        "user": "U03CXUXB5PF",
+        "ts": "1678761976.536749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UC6UY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いや、Dropboxのでいい。ファイル名とか絶対に紛れないように工夫してください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A4B52465-3EB8-4DEB-9745-1DD823A19DAA",
+        "type": "message",
+        "text": "あと、ファイルのどこ見たらビットレートわかるかとかスクショもあわせたりとか、確実な方法を。",
+        "user": "U03CXUXB5PF",
+        "ts": "1678762064.793549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v9Qr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あと、ファイルのどこ見たらビットレートわかるかとかスクショもあわせたりとか、確実な方法を。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "43CDCAD1-C398-4F87-A1E8-EE57A3A44EC8",
+        "type": "message",
+        "text": "ファイルも添えて、スクショでもいいかも。あと、そもそもの納品プリセットが4Kでいいんだっけ？",
+        "user": "U03CXUXB5PF",
+        "ts": "1678763319.021819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "01+H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ファイルも添えて、スクショでもいいかも。あと、そもそもの納品プリセットが4Kでいいんだっけ？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678763319.021819",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1678763727.729649",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1678763727.729649"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1678763845.614719"
+    },
+    {
+        "client_msg_id": "682865F5-9F8E-41E2-A146-C3033457CC1E",
+        "type": "message",
+        "text": "ファイル名で届けたいものと受け取ったものが一致してるのか確認してもらいたいので。",
+        "user": "U03CXUXB5PF",
+        "ts": "1678763349.238199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JfE8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ファイル名で届けたいものと受け取ったものが一致してるのか確認してもらいたいので。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "プリセット２Kです。",
+        "files": [
+            {
+                "id": "F04TC4K71QX",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1678763727.729649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "si6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "プリセット２Kです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2b0ee70b-d7a6-40c9-b81b-a9d8095d6c1e",
+        "thread_ts": "1678763319.021819",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

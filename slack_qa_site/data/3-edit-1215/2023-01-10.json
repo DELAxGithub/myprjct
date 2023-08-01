@@ -1,0 +1,126 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n37片岡のMAデータが消されてしまっているようです。\nご確認の程よろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F04JCSB7DR9",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1673423812.040889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EPAf2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n37片岡のMAデータが消されてしまっているようです。\nご確認の程よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9f66b32e-0797-4707-8ef0-faae48f71950"
+    },
+    {
+        "client_msg_id": "524D3DFC-6942-4D7C-9695-16E8AF9DE6FF",
+        "type": "message",
+        "text": "37にありません？",
+        "user": "U03CXUXB5PF",
+        "ts": "1673423894.629099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cenGz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "37にありません？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673423894.629099",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1673423948.735279",
+        "reply_users": [
+            "U03NZ0E09JN"
+        ],
+        "replies": [
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1673423948.735279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1673423948.735279"
+    },
+    {
+        "type": "message",
+        "text": "個別フォルダにもないみたいなんです。",
+        "files": [
+            {
+                "id": "F04JCSLUDEF",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1673423948.735279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JWt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "個別フォルダにもないみたいなんです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "647603bd-ab1d-4e4f-b216-705bfe9c2937",
+        "thread_ts": "1673423894.629099",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

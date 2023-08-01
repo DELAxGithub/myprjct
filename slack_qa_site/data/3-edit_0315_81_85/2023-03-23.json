@@ -1,0 +1,661 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03P0T4KQMV> 試写２まで行ったらこれをお願いします\n• 2GB超えたらできないみたい\n• ep1-3をお願いします\nダメだったらその旨お知らせください",
+        "user": "U03CXUXB5PF",
+        "ts": "1679563725.509709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jVJc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 試写２まで行ったらこれをお願いします\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "2GB超えたらできないみたい"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ep1-3をお願いします"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ダメだったらその旨お知らせください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/kdddipresidentnep2022.slack.com\/archives\/C04MVV50TA5\/p1679060582466569?thread_ts=1679060582.466569&cid=C04MVV50TA5",
+                "ts": "1679060582.466569",
+                "author_id": "U03CXUXB5PF",
+                "channel_id": "C04MVV50TA5",
+                "channel_team": "T03CU6RQ154",
+                "channel_name": "3-edit_0315_81_85",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T03CU6RQ154",
+                        "channel": "C04MVV50TA5",
+                        "ts": "1679060582.466569",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "CBodz",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U03RA83HRN0"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " 試写2まで行きましたら、出演者用のURLの発行をお願いします\n進捗表の6行目に、URLを貼っていただきたいです\nワークフロー変更箇所にやり方貼ってますので、ご確認いただきお願いします\nやり方わからなかったら何なりとお知らせください！"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "files": [
+                    {
+                        "id": "F04UGJBPX7U",
+                        "created": 1679060438,
+                        "timestamp": 1679060438,
+                        "user": "U03CXUXB5PF",
+                        "is_hidden_by_limit": 1
+                    },
+                    {
+                        "id": "F04UDL3NKFX",
+                        "created": 1679060527,
+                        "timestamp": 1679060527,
+                        "user": "U03CXUXB5PF",
+                        "is_hidden_by_limit": 1
+                    }
+                ],
+                "color": "D0D0D0",
+                "is_share": true,
+                "fallback": "[March 17th, 2023 9:43 AM] h.kodera: <@U03RA83HRN0> 試写2まで行きましたら、出演者用のURLの発行をお願いします\n進捗表の6行目に、URLを貼っていただきたいです\nワークフロー変更箇所にやり方貼ってますので、ご確認いただきお願いします\nやり方わからなかったら何なりとお知らせください！",
+                "text": "<@U03RA83HRN0> 試写2まで行きましたら、出演者用のURLの発行をお願いします\n進捗表の6行目に、URLを貼っていただきたいです\nワークフロー変更箇所にやり方貼ってますので、ご確認いただきお願いします\nやり方わからなかったら何なりとお知らせください！",
+                "author_name": "h.kodera",
+                "author_link": "https:\/\/kdddipresidentnep2022.slack.com\/team\/U03CXUXB5PF",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_48.png",
+                "author_subname": "h.kodera",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "#3-edit_0315_81_85 のスレッド"
+            }
+        ],
+        "thread_ts": "1679563725.509709",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1679564473.256509",
+        "reply_users": [
+            "U03P0T4KQMV",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1679564431.679609"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1679564473.256509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1679564473.256509",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n83_小幡でクライアントからの指摘になります。\nep1の最初の文章が、あらすじ・まとめとも同じような感じなので\nまとめのほうを変更してくださいとのことです。\nよろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F04VB5RPK6E",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F0509PP30Q1",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04VB5S9XQA",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03RA83HRN0",
+        "ts": "1679564319.173769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B8ha",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n83_小幡でクライアントからの指摘になります。\nep1の最初の文章が、あらすじ・まとめとも同じような感じなので\nまとめのほうを変更してくださいとのことです。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5932da54-7667-4ba1-8c5b-31853ed5fcc3"
+    },
+    {
+        "client_msg_id": "2021aade-d097-4d93-a8c8-dde71d30586d",
+        "type": "message",
+        "text": "別に良くない？と思いますけど、、考えます",
+        "user": "U03CXUXB5PF",
+        "ts": "1679564374.205839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2iLzI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "別に良くない？と思いますけど、、考えます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nすみません、先程こちらのスレッドでも相談があったように2G超えてしまってるみたいで、、\n対応策があれば教えていただければ大変助かります。よろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F04V4HH2CKG",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03P0T4KQMV",
+        "display_as_bot": false,
+        "ts": "1679564431.679609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "31nG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nすみません、先程こちらのスレッドでも相談があったように2G超えてしまってるみたいで、、\n対応策があれば教えていただければ大変助かります。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1848fc4c-b900-432f-8f1a-398f8d121197",
+        "thread_ts": "1679563725.509709",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "980eceea-0d0b-48da-a4a4-74618945a476",
+        "type": "message",
+        "text": "はい、書き出しの設定を見直します。今回はこれで大丈夫ですー。",
+        "user": "U03CXUXB5PF",
+        "ts": "1679564473.256509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zEd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい、書き出しの設定を見直します。今回はこれで大丈夫ですー。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679563725.509709",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "953c760c-6b12-4c45-9430-565bb9e64522",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n自分も気にはなりませんが・・",
+        "user": "U03RA83HRN0",
+        "ts": "1679565077.335319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dyd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n自分も気にはなりませんが・・"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b6f61765-7dcb-43d4-9ff3-660fad81b44d",
+        "type": "message",
+        "text": "なんか一緒だから変えてっていうのがねぇ。",
+        "user": "U03CXUXB5PF",
+        "ts": "1679565113.021339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2jCE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なんか一緒だから変えてっていうのがねぇ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d9ca6ba4-466d-4f16-a35f-4eead587f1fa",
+        "type": "message",
+        "text": "ep１のまとめが一緒ってだけですから・・過去にもあったんじゃないでしょうかね？\n見つけた！って感じじゃないですかね",
+        "user": "U03RA83HRN0",
+        "ts": "1679565246.444769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2hz9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ep１のまとめが一緒ってだけですから・・過去にもあったんじゃないでしょうかね？\n見つけた！って感じじゃないですかね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "dart",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "confetti_ball",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "db48a3e9-3a10-4e6b-b3b4-e37eef0a5e15",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nあと質問です。\n試写2後の編集3に関して、試写2で先生側に送っていますが、\n編集3後の書き出し等は、先生方の返事待ちで行えばいいですか？",
+        "user": "U03RA83HRN0",
+        "ts": "1679565626.599199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RQG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nあと質問です。\n試写2後の編集3に関して、試写2で先生側に送っていますが、\n編集3後の書き出し等は、先生方の返事待ちで行えばいいですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03RA83HRN0",
+            "ts": "1679565664.000000"
+        }
+    },
+    {
+        "client_msg_id": "43b051a4-055e-4aed-93f8-5b64585aa43a",
+        "type": "message",
+        "text": "<@U03RA83HRN0> はい、先生の返事は届き次第、\n・台本\nに追記しますので、そこから修正をいただければ。\n\n\nこれを進捗上どう管理するかちょっと考え中\nワークフローとしては\n試写２と本人試写\nが２手に分かれて、\n編集３で合流するっていうイメージなんですが、、\nなんか進捗表でどう表現しようかなと。",
+        "user": "U03CXUXB5PF",
+        "ts": "1679565792.709259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i40sE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " はい、先生の返事は届き次第、\n・台本\nに追記しますので、そこから修正をいただければ。\n\n\nこれを進捗上どう管理するかちょっと考え中\nワークフローとしては\n試写２と本人試写\nが２手に分かれて、\n編集３で合流するっていうイメージなんですが、、\nなんか進捗表でどう表現しようかなと。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c206e681-b818-451e-9e32-ab3e634703bd",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n最終的には先生の判断が最終結論みたいなとこは認知されていると思いますので、\n「編集2」→「編集2 先生待ち」（修正終わりましたよ。先生待ちです）→「編集3」（先生の判断を含めた最終版ですよ）みたいな感じで分けるのでしょうかね？",
+        "user": "U03RA83HRN0",
+        "ts": "1679566006.495359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ICxk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n最終的には先生の判断が最終結論みたいなとこは認知されていると思いますので、\n「編集2」→「編集2 先生待ち」（修正終わりましたよ。先生待ちです）→「編集3」（先生の判断を含めた最終版ですよ）みたいな感じで分けるのでしょうかね？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03RA83HRN0",
+            "ts": "1679566165.000000"
+        }
+    },
+    {
+        "client_msg_id": "9163362b-75be-4bd5-a516-807b1796c368",
+        "type": "message",
+        "text": "昔、編集作業回数を減らすなら、試写２と著者修正依頼が合わさったところで一緒にやる、っていうことではあるんですが、\nそこはそんなに気にならないなら\n編集２→試写２→編集３→本人編集→試写３→編アップ\nって感じでしょうか\n\nちなみに最終っていうのがわかりにくいので、オフライン編アップで編アップにしようかと思っています",
+        "user": "U03CXUXB5PF",
+        "ts": "1679566612.089239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xLMBy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "昔、編集作業回数を減らすなら、試写２と著者修正依頼が合わさったところで一緒にやる、っていうことではあるんですが、\nそこはそんなに気にならないなら\n編集２→試写２→編集３→本人編集→試写３→編アップ\nって感じでしょうか\n\nちなみに最終っていうのがわかりにくいので、オフライン編アップで編アップにしようかと思っています"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

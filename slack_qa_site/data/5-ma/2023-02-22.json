@@ -1,0 +1,317 @@
+[
+    {
+        "type": "message",
+        "text": "73タナカさんのWAVをDropboxにアップしました。\nご確認よろしくお願いします:bow:",
+        "files": [
+            {
+                "id": "F04QSRDF5M2",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1677054785.985499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5OVd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "73タナカさんのWAVをDropboxにアップしました。\nご確認よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "08EB6ABA-6017-4509-ABCB-E26BC6B2A98E",
+        "thread_ts": "1677054785.985499",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677062150.717149",
+        "reply_users": [
+            "U04JJB0MTB7"
+        ],
+        "replies": [
+            {
+                "user": "U04JJB0MTB7",
+                "ts": "1677062150.717149"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "976EF165-33D7-4906-9F4A-F9CE32E4C14F",
+        "type": "message",
+        "text": "ありがとうございます！",
+        "user": "U04JJB0MTB7",
+        "ts": "1677062150.717149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lqX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677054785.985499",
+        "parent_user_id": "U03G0LAPT3N"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03G0LAPT3N> \nお疲れ様です\n97_ハリー、修正したQTとOMFをアップしました\nファイル名はそのままにしています\n宜しくお願い致します",
+        "user": "U04JJB0MTB7",
+        "ts": "1677071946.476549",
+        "thread_ts": "1676910135.598959",
+        "root": {
+            "client_msg_id": "6e312bb7-2481-44de-b0f5-4eacebe604a6",
+            "type": "message",
+            "text": "<@U03G0LAPT3N>\n97_ハリーのQT &amp;OMFをアップしました\n先方からの音ノイズに関する指摘は以下の通りです\n\nEP1\n04:13-バイクの音\n05:53-バイクの音\n06:57-カチャッという音\n12:04-椅子の音\n12:55-椅子の音\n17:09-バイクの音\n\nEP2\n02:42-椅子の音\n12:36-椅子の音\n\nEP3\n00:20-バイクの音\n07:04-バイクの音\n10:46-バイクの音\n12:33-パチッという音\n\n何卒宜しくお願い致します",
+            "user": "U04JJB0MTB7",
+            "ts": "1676910135.598959",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "1bfh",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03G0LAPT3N"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n97_ハリーのQT &OMFをアップしました\n先方からの音ノイズに関する指摘は以下の通りです\n\nEP1\n04:13-バイクの音\n05:53-バイクの音\n06:57-カチャッという音\n12:04-椅子の音\n12:55-椅子の音\n17:09-バイクの音\n\nEP2\n02:42-椅子の音\n12:36-椅子の音\n\nEP3\n00:20-バイクの音\n07:04-バイクの音\n10:46-バイクの音\n12:33-パチッという音\n\n何卒宜しくお願い致します"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1676910135.598959",
+            "reply_count": 5,
+            "reply_users_count": 3,
+            "latest_reply": "1677071946.476549",
+            "reply_users": [
+                "U03CXUXB5PF",
+                "U03G0LAPT3N",
+                "U04JJB0MTB7"
+            ],
+            "replies": [
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1676925210.301419"
+                },
+                {
+                    "user": "U03G0LAPT3N",
+                    "ts": "1676929850.588429"
+                },
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1676933943.212789"
+                },
+                {
+                    "user": "U03G0LAPT3N",
+                    "ts": "1676934687.473389"
+                },
+                {
+                    "user": "U04JJB0MTB7",
+                    "ts": "1677071946.476549"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1677071946.476549"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BsZu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です\n97_ハリー、修正したQTとOMFをアップしました\nファイル名はそのままにしています\n宜しくお願い致します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6D74E95C-310A-4C43-8DDE-65FB4FA7FAE8",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03G0LAPT3N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9284522d-7eee-45ca-afb0-af1b779b2671",
+        "type": "message",
+        "text": "<@U03G0LAPT3N>\n76_岡本、QTとOMFをアップしました。\nよろしくお願いいたします。",
+        "user": "U04KCQL2MFV",
+        "ts": "1677080883.433059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vrt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n76_岡本、QTとOMFをアップしました。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g2df2bb9a4e2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2df2bb9a4e22dfcb7c0d789c9b4ca996.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "tamaki",
+            "real_name": "tamaki",
+            "display_name": "tamaki",
+            "team": "T03CU6RQ154",
+            "name": "tamakitomoyuki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03G0LAPT3N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "79藤田さんのWAVをDropboxにアップしました。\nご確認よろしくお願いします:bow:",
+        "files": [
+            {
+                "id": "F04QYKQCZS8",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1677121582.601289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8MgZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "79藤田さんのWAVをDropboxにアップしました。\nご確認よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "A4C6E051-4462-4CF7-AE15-7245C3939B60",
+        "thread_ts": "1677121582.601289",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677145814.145779",
+        "reply_users": [
+            "U04JJB0MTB7"
+        ],
+        "replies": [
+            {
+                "user": "U04JJB0MTB7",
+                "ts": "1677145814.145779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

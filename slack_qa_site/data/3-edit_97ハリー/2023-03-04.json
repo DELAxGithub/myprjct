@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "EB4930BC-A7CC-4AEA-BDC0-72DC86C5C306",
+        "type": "message",
+        "text": "<@U04J38PLGM6> \nクレジット表記漏れがあったのプロジェクト同じ名前で入れ直しました\n宜しくお願い致します！",
+        "user": "U04JJB0MTB7",
+        "ts": "1677920088.900229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vuR7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nクレジット表記漏れがあったのプロジェクト同じ名前で入れ直しました\n宜しくお願い致します！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

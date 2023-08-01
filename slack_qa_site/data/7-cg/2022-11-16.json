@@ -1,0 +1,135 @@
+[
+    {
+        "client_msg_id": "966e01f2-cdf3-46b0-8934-ad232c05eb83",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 納品完了いたしました。ご確認ください。",
+        "user": "U041XC6213P",
+        "ts": "1668588458.336449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "06PT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 納品完了いたしました。ご確認ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668585342.034879",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "f660218e-398a-4679-880d-a8bf1a55b277",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> お疲れさまです。もしお忙しいようでしたら、発注はまた明日にしますか？\n私の方は対応可能ですので。",
+        "user": "U041XC6213P",
+        "ts": "1668657640.438719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lRtmG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れさまです。もしお忙しいようでしたら、発注はまた明日にしますか？\n私の方は対応可能ですので。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cfe6a061-38b0-4c9e-ad36-58033d9566c6",
+        "type": "message",
+        "text": "またすいません。。\n明日で。",
+        "user": "U03CXUXB5PF",
+        "ts": "1668657657.638809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "33qb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "またすいません。。\n明日で。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

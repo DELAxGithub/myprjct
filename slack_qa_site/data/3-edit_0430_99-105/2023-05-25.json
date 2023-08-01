@@ -1,0 +1,50 @@
+[
+    {
+        "client_msg_id": "9550df79-a91b-4e0b-9e76-69eda8629e1e",
+        "type": "message",
+        "text": "```#100.保坂さんの3.0視聴しました。\nEp2のみ2か所コメントいれております。```\n<@U04QC17DUEP>",
+        "user": "U03CXUXB5PF",
+        "ts": "1685071961.363909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=+NBm",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#100.保坂さんの3.0視聴しました。\nEp2のみ2か所コメントいれております。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04QC17DUEP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

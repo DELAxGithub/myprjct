@@ -1,0 +1,47 @@
+[
+    {
+        "type": "message",
+        "text": "<@U04JJB0MTB7>\n97_ハリーのプロジェクト、イメージ、テロップ準備できました。",
+        "files": [
+            {
+                "id": "F04NJS3KAQP",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1675997880.204669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=ml9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n97_ハリーのプロジェクト、イメージ、テロップ準備できました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "972fff15-8a8e-41d0-ab22-8619f7bc621b",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

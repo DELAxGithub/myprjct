@@ -1,0 +1,55 @@
+[
+    {
+        "type": "message",
+        "text": "34スガノさんのWAVデータをDropboxにアップしました！\nご確認よろしくお願いします:bow:",
+        "files": [
+            {
+                "id": "F04AEKM7FFY",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1668199997.720369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0OkA4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "34スガノさんのWAVデータをDropboxにアップしました！\nご確認よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "540E6657-4CC1-4934-93EE-1B3F5884503D",
+        "reactions": [
+            {
+                "name": "mechanical_arm",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#104松岡聡で変更がありました\n変更前：undefined\n変更後：<https:\/\/www.dropbox.com\/t\/F2GrIBRYs0mQTCOb>\n担当者は石橋です",
+        "ts": "1685049926.609739",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8\/E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#104松岡聡で変更がありました\n変更前：undefined\n変更後："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/t\/F2GrIBRYs0mQTCOb"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#104松岡聡で変更がありました\n変更前：編集アップ\n変更後：技術確認\n担当者は石橋です",
+        "ts": "1685049934.683789",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LOj6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#104松岡聡で変更がありました\n変更前：編集アップ\n変更後：技術確認\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03RA83HRN0> #106-5総集編 予告で変更がありました\n変更前：MA台本\n変更後：MA編集\n担当者は石橋です",
+        "ts": "1685059964.754939",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zcjn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #106-5総集編 予告で変更がありました\n変更前：MA台本\n変更後：MA編集\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U03G0LAPT3N> #106-5総集編 予告で変更がありました\n変更前：MA編集\n変更後：MA\n担当者は石橋です",
+        "ts": "1685071790.748079",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XLtHG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #106-5総集編 予告で変更がありました\n変更前：MA編集\n変更後：MA\n担当者は石橋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#100保坂 修司で変更がありました\n変更前：試写3\n変更後：微修正\n担当者は杉谷です",
+        "ts": "1685071952.841339",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xKt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#100保坂 修司で変更がありました\n変更前：試写3\n変更後：微修正\n担当者は杉谷です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

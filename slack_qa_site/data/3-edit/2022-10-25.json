@@ -1,0 +1,159 @@
+[
+    {
+        "client_msg_id": "d81b52f5-c122-4650-a86a-0143e3441b44",
+        "type": "message",
+        "text": "MA用OMFの書き出し方とエラー対策\n作成の際の設定スクショは後ほど貼ります\nエラーや異常に時間がかかる場合はプロジェクト強制再起動で。チームプロジェクトなんですぐリカバリーできます。OMFに５分以上かかったらなんかおかしいです",
+        "user": "U03CXUXB5PF",
+        "ts": "1666752070.270749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/GxG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MA用OMFの書き出し方とエラー対策\n作成の際の設定スクショは後ほど貼ります\nエラーや異常に時間がかかる場合はプロジェクト強制再起動で。チームプロジェクトなんですぐリカバリーできます。OMFに５分以上かかったらなんかおかしいです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "bookmark",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4661e973-20b6-4996-9acb-8bce96a7d48f",
+        "type": "message",
+        "text": "MA後試写の音についての直し\n\n・Replayできてるちょっとした物音についての直しは不要です\n聞いて明らかにノイズで、元素材から全く直ってない、ってのは修正漏れなので対応しますが、それ以外は無視。\n\n・尺が変わって、カットしても成立するようなら、premiereでできる範囲で手当てしてください。MAを何回もやる必要はないです。",
+        "user": "U03CXUXB5PF",
+        "ts": "1666752193.622929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HWorV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MA後試写の音についての直し\n\n・Replayできてるちょっとした物音についての直しは不要です\n聞いて明らかにノイズで、元素材から全く直ってない、ってのは修正漏れなので対応しますが、それ以外は無視。\n\n・尺が変わって、カットしても成立するようなら、premiereでできる範囲で手当てしてください。MAを何回もやる必要はないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "bookmark",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "OMFの書き出し設定です\nこれでお願いします",
+        "files": [
+            {
+                "id": "F0483MAD0LA",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1666752625.302079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EY2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OMFの書き出し設定です\nこれでお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f2531226-0701-47f5-9156-c7bc830049a9",
+        "reactions": [
+            {
+                "name": "bookmark",
+                "users": [
+                    "U03NZ0E09JN",
+                    "U03Q17LBJP3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,300 @@
+[
+    {
+        "client_msg_id": "ddb18869-5b93-4432-96a6-e36c77ea83b8",
+        "type": "message",
+        "text": "<@U03RA83HRN0> 古市もコメントしました、修正編集よろしくお願いします。追加の取り切り、なんか別の回からの使い回しでいいんですけど、思いつかなかったら発注して下さいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1676345073.749649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eDKt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 古市もコメントしました、修正編集よろしくお願いします。追加の取り切り、なんか別の回からの使い回しでいいんですけど、思いつかなかったら発注して下さいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1676345077.000000"
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nひとつ質問です。\nep1からep3のほうに移植する部分に関して、ep1のほうはカットしても大丈夫ですよね。\nその部分にコメントがなく二重線になっていなかったもので確認です。\n（添付、左がep3 右がep1）",
+        "files": [
+            {
+                "id": "F04PFJWTRT5",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04P16PN031",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03RA83HRN0",
+        "ts": "1676348941.629209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "smzY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nひとつ質問です。\nep1からep3のほうに移植する部分に関して、ep1のほうはカットしても大丈夫ですよね。\nその部分にコメントがなく二重線になっていなかったもので確認です。\n（添付、左がep3 右がep1）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03RA83HRN0",
+            "ts": "1676348972.000000"
+        },
+        "client_msg_id": "db908ed9-4cba-4a2e-81d2-2ada0c4b1704"
+    },
+    {
+        "client_msg_id": "893983db-473a-4814-8f82-e8fee68facdb",
+        "type": "message",
+        "text": "はい、ep1の方はカットしてください",
+        "user": "U03CXUXB5PF",
+        "ts": "1676351632.225839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6DU9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい、ep1の方はカットしてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03V84JSHNK>\n95_古市で追加のイメージ画像がありますので\nお探ししていただけたらと思います。\n「素振り」\nよろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F04P9FTF6P8",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03RA83HRN0",
+        "display_as_bot": false,
+        "ts": "1676356761.636609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tuz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n95_古市で追加のイメージ画像がありますので\nお探ししていただけたらと思います。\n「素振り」\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "644e7b0e-4781-4f57-9898-66cb830af26e",
+        "thread_ts": "1676356761.636609",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1676357846.517089",
+        "reply_users": [
+            "U03V84JSHNK",
+            "U03RA83HRN0"
+        ],
+        "replies": [
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1676356968.835409"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1676357846.517089"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c624b187-3bcc-468d-a7d0-09e9caf72997",
+        "type": "message",
+        "text": "<@U03RA83HRN0> 3枚入れました。よろしくお願いいたします。",
+        "user": "U03V84JSHNK",
+        "ts": "1676356968.835409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mDMr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 3枚入れました。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676356761.636609",
+        "parent_user_id": "U03RA83HRN0",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "adb02da4-77f7-467f-88f7-0231e96ded1b",
+        "type": "message",
+        "text": "<@U03V84JSHNK>\nありがとうございます！",
+        "user": "U03RA83HRN0",
+        "ts": "1676357846.517089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Khrj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676356761.636609",
+        "parent_user_id": "U03RA83HRN0"
+    }
+]

@@ -1,0 +1,341 @@
+[
+    {
+        "client_msg_id": "2B0853A8-4F14-4E44-BF56-A66EC0259B86",
+        "type": "message",
+        "text": "新しく契約しますので、お待ちください",
+        "user": "U03CXUXB5PF",
+        "ts": "1681466796.507879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W0AL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "新しく契約しますので、お待ちください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "U03V84JSHNK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "47B778B5-7F90-4A81-965B-75681A98DE71",
+        "type": "message",
+        "text": "<@U04J38PLGM6> そっちも上みたいになる？",
+        "user": "U03CXUXB5PF",
+        "ts": "1681468533.282429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kRro2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " そっちも上みたいになる？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681468533.282429",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1681475885.012809",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1681475885.012809"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1681475885.012809"
+    },
+    {
+        "client_msg_id": "b279e379-29e4-4fef-8d36-b6c109602de6",
+        "type": "message",
+        "text": "<@U03V84JSHNK> あと２、3本終わったらしばらくリサーチないので、できれば、年契約をせずに乗り切りたく。。\n・新藤さんの方でダウンロードが引き続きできるなら、指定だけしてダウンロードは任せる\n・過去素材でなんとかする\n・iStcok（クレジット３０→４０）にする\nとかにしていけたりしませんか？",
+        "user": "U03CXUXB5PF",
+        "ts": "1681472841.745489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+5I3R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " あと２、3本終わったらしばらくリサーチないので、できれば、年契約をせずに乗り切りたく。。\n・新藤さんの方でダウンロードが引き続きできるなら、指定だけしてダウンロードは任せる\n・過去素材でなんとかする\n・iStcok（クレジット３０→４０）にする\nとかにしていけたりしませんか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8b7cebd5-a1f5-4be3-a7f7-982193a241bf",
+        "type": "message",
+        "text": "同じ契約更新のお知らせが出ます",
+        "user": "U04J38PLGM6",
+        "ts": "1681475885.012809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iuMUw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "同じ契約更新のお知らせが出ます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681468533.282429",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "f710bb17-eaa3-4946-87e9-730bb5fffaf3",
+        "type": "message",
+        "text": "先週終わってれば、、と言ってもてもしょうがないので、更新します。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1681475892.572989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "barKS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "先週終わってれば、、と言ってもてもしょうがないので、更新します。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "244670fa-6217-4bcc-b07b-080ff22fd219",
+        "type": "message",
+        "text": "すいません。私がもっと早くやっていればよかったですね。。",
+        "user": "U03V84JSHNK",
+        "ts": "1681475966.227989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P9=cO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すいません。私がもっと早くやっていればよかったですね。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a6eaa009-933e-45fd-8eaf-0efd6abfb531",
+        "type": "message",
+        "text": "storyblocks使わずにいけたりしないかね。余程の新規のイメージあったっけ？",
+        "user": "U03CXUXB5PF",
+        "ts": "1681476107.300769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u2gN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "storyblocks使わずにいけたりしないかね。余程の新規のイメージあったっけ？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6ff77bcc-9523-4c2b-a507-3e78c384894c",
+        "type": "message",
+        "text": "これからやるので見てみますね",
+        "user": "U03V84JSHNK",
+        "ts": "1681478198.241289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yJz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これからやるので見てみますね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

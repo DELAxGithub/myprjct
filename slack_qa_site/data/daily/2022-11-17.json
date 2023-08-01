@@ -1,0 +1,133 @@
+[
+    {
+        "client_msg_id": "1c34e56d-8b9e-4825-8910-15d84297d790",
+        "type": "message",
+        "text": "11\/18 金曜\n*在庫 試写1（4)　 MA（1）試写2 (1)*\n金曜なので週の締め切りをお願いします\nそれぞれの納品区分に合わせたものですが。\n\n*<#C03D36KA10U|general> にて本日会議*\n\n<#C043UBH5VFC|3-edit-1030納品分>\n納品書き出し済み\n\n<#C048CGTB45A|3-edit-1115納品分>\nダミー差し替え必要なのを教らせください\n→修正2.1まで行きたい\n\n<#C04A8UH8L0Z|3-edit-1130>\n試写1中\n→待ち\n\n<#C04BB328NAC|3-edit-1215>\n新作編集中\nプロジェクトをローカルに移行します\n\n手順は<#C03D36KA10U|general> にて\n\n<#C04A6RFRAR5|3-edit-1225>\n台本準備中",
+        "user": "U03CXUXB5PF",
+        "ts": "1668726342.759569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Ah",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "11\/18 金曜\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "在庫 試写1（4)　 MA（1）試写2 (1)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n金曜なので週の締め切りをお願いします\nそれぞれの納品区分に合わせたものですが。\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03D36KA10U",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " にて本日会議",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C043UBH5VFC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n納品書き出し済み\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C048CGTB45A"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nダミー差し替え必要なのを教らせください\n→修正2.1まで行きたい\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04A8UH8L0Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n試写1中\n→待ち\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04BB328NAC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n新作編集中\nプロジェクトをローカルに移行します\n\n手順は"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03D36KA10U"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にて\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04A6RFRAR5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n台本準備中"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

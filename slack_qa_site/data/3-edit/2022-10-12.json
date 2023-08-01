@@ -1,0 +1,92 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03P0T4KQMV> <@U03RA83HRN0> <@U03QQ3J656Z> <@U03NJATSEBH> <@U03Q17LBJP3>\nep1とPRのあらすじのフォントについて\nみなさん共通して２段目だけ太字になっていることがわかりましたので、\n２段目は\"太字\"を外してください。\n\n1020納品分から適用をお願いいたします。\n1010の納品前の修正で間に合うものに関しても修正をお願いします。",
+        "files": [
+            {
+                "id": "F046DAHNS6Q",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1665639948.633189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CV7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nep1とPRのあらすじのフォントについて\nみなさん共通して２段目だけ太字になっていることがわかりましたので、\n２段目は\"太字\"を外してください。\n\n1020納品分から適用をお願いいたします。\n1010の納品前の修正で間に合うものに関しても修正をお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03NZ0E09JN",
+            "ts": "1665639970.000000"
+        },
+        "client_msg_id": "f9b25f94-0aca-427c-8e4e-769a87892e22",
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "U03P0T4KQMV",
+                    "U03Q17LBJP3",
+                    "U03NJATSEBH"
+                ],
+                "count": 3
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

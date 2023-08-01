@@ -1,0 +1,536 @@
+[
+    {
+        "client_msg_id": "903341A8-A9F6-4830-9D7A-6308C587F8F9",
+        "type": "message",
+        "text": "担当者交代のお知らせ　\n\n今週引き継ぎ期間です\n<@U04J38PLGM6> から <@U054HSHFAAH> に交代しています\n\nというわけでお二人一言お願いします\n\n当初は4月で終わる予定だったのですが、キレ悪くすいません、少し混乱もあるかもしれませんが、仕上げに絡むので丁寧目にコミュニケーション心掛けましょう！\n引き続きよろしくお願いします",
+        "user": "U03CXUXB5PF",
+        "ts": "1682507686.416639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mSNF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "担当者交代のお知らせ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今週引き継ぎ期間です"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " から "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U054HSHFAAH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " に交代しています"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "というわけでお二人"
+                            },
+                            {
+                                "type": "text",
+                                "text": "一言お願いします\n\n当初は4月で終わる予定だったのですが、キレ悪くすいません、少し混乱もあるかもしれませんが、仕上げに絡むので丁寧目にコミュニケーション心掛けましょう！\n引き続きよろしくお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682507686.416639",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1682511365.097139",
+        "reply_users": [
+            "U04J38PLGM6",
+            "U04KFCBLY9J",
+            "U03NZ0E09JN"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1682508229.797829"
+            },
+            {
+                "user": "U04KFCBLY9J",
+                "ts": "1682509115.114419"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1682511365.097139"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1682513187.957553",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7",
+                    "U03G0LAPT3N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "woman-raising-hand",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "皆さま\n別件との兼ね合いで今月いっぱいで後任の浦本さんに引き継ぐことになりました。\n短い間でしたが大変お世話になりました。\nまた機会がありましたらどうぞよろしくお願いいたします！\n",
+        "user": "U04J38PLGM6",
+        "ts": "1682508229.797829",
+        "thread_ts": "1682507686.416639",
+        "root": {
+            "client_msg_id": "903341A8-A9F6-4830-9D7A-6308C587F8F9",
+            "type": "message",
+            "text": "担当者交代のお知らせ　\n\n今週引き継ぎ期間です\n<@U04J38PLGM6> から <@U054HSHFAAH> に交代しています\n\nというわけでお二人一言お願いします\n\n当初は4月で終わる予定だったのですが、キレ悪くすいません、少し混乱もあるかもしれませんが、仕上げに絡むので丁寧目にコミュニケーション心掛けましょう！\n引き続きよろしくお願いします",
+            "user": "U03CXUXB5PF",
+            "ts": "1682507686.416639",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "mSNF",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "担当者交代のお知らせ"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "　\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "今週引き継ぎ期間です"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " から "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U054HSHFAAH"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " に交代しています"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "というわけでお二人"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "一言お願いします\n\n当初は4月で終わる予定だったのですが、キレ悪くすいません、少し混乱もあるかもしれませんが、仕上げに絡むので丁寧目にコミュニケーション心掛けましょう！\n引き続きよろしくお願いします"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1682507686.416639",
+            "reply_count": 3,
+            "reply_users_count": 3,
+            "latest_reply": "1682511365.097139",
+            "reply_users": [
+                "U04J38PLGM6",
+                "U04KFCBLY9J",
+                "U03NZ0E09JN"
+            ],
+            "replies": [
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1682508229.797829"
+                },
+                {
+                    "user": "U04KFCBLY9J",
+                    "ts": "1682509115.114419"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1682511365.097139"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1682513187.957553"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LjFRZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "皆さま\n別件との兼ね合いで今月いっぱいで後任の浦本さんに引き継ぐことになりました。\n短い間でしたが大変お世話になりました。\nまた機会がありましたらどうぞよろしくお願いいたします！\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "B0D8D4BC-4F89-4839-8605-0589711A8E9C"
+    },
+    {
+        "client_msg_id": "0a8948a5-4832-4e6a-a8ad-580c3abac277",
+        "type": "message",
+        "text": "小寺さんより紹介頂きました浦本康平と申します。\n4月末以降お世話になります。\nよろしくお願い致します。",
+        "user": "U054HSHFAAH",
+        "ts": "1682508279.425009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YSi5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "小寺さんより紹介頂きました浦本康平と申します。\n4月末以降お世話になります。\nよろしくお願い致します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "3c0472cbdd87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5181600335649_3c0472cbdd874f9a32ff_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Uramoto",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "kuramoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682508279.425009",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1682511469.978839",
+        "reply_users": [
+            "U03NZ0E09JN"
+        ],
+        "replies": [
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1682511469.978839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7",
+                    "U041XC6213P",
+                    "U03G0LAPT3N"
+                ],
+                "count": 3
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04KFCBLY9J",
+                    "U03G0LAPT3N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "woman-raising-hand",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1EA01312-2554-4B5B-B23A-D5F857A97779",
+        "type": "message",
+        "text": "プロフィール写真から伺い知れるようにミステリアスな雰囲気もありますが、まぁ６月下旬くらいから2023年度の制作が本格化したら、どんな人かだんだん明らかになるでしょう！\n\nでは残りの作業もよろしくお願いいたしますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1682508585.809579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DvxIF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "プロフィール写真から伺い知れるようにミステリアスな雰囲気もありますが、まぁ６月下旬くらいから2023年度の制作が本格化したら、どんな人かだんだん明らかになるでしょう！\n\nでは残りの作業もよろしくお願いいたしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U04KFCBLY9J",
+                    "U03G0LAPT3N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D189500C-6F65-43C9-9D29-DEF67DB6F087",
+        "type": "message",
+        "text": "<@U04J38PLGM6> お疲れ様でした :blush: :woman-bowing: ！",
+        "user": "U04KFCBLY9J",
+        "ts": "1682509115.114419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+kF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様でした "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "a420288e8076",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-19\/4666334672642_a420288e807657057333_72.png",
+            "first_name": "Noriko",
+            "real_name": "Noriko Nakano",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "norikonakanoaaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682507686.416639",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "77599613-51F6-48CF-B0A2-E449A9EA0FF1",
+        "type": "message",
+        "text": "<@U04J38PLGM6> おつかれさまでした:woman-bowing:",
+        "user": "U03NZ0E09JN",
+        "ts": "1682511365.097139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8YH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " おつかれさまでした"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682507686.416639",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "127A6422-0276-4086-A3BF-6C6A16DF3231",
+        "type": "message",
+        "text": "<@U054HSHFAAH> \nよろしくお願いいたします！",
+        "user": "U03NZ0E09JN",
+        "ts": "1682511469.978839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jWNf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U054HSHFAAH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nよろしくお願いいたします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682508279.425009",
+        "parent_user_id": "U054HSHFAAH"
+    }
+]

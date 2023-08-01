@@ -1,0 +1,92 @@
+[
+    {
+        "client_msg_id": "9055ab74-10aa-4aca-bc78-872489e2a9e2",
+        "type": "message",
+        "text": "[最終の際のリネームについて]\n納品時のフォーマットとして、以下のようにシーケンスの名前を変えてください\n*動画ファイル（#No.）_（漢字姓）_PR\/ep1\/2\/3*\n*例1）75_藤井_PR　例2）76_藤井_ep1*\n\n要は「最終」っていうのを外した無印版が、オフライン編集アップ＝書き出しするファイル\n\nということですね。\n最初から通しで、編集の段階が書いてあるので、まぁなくなるとこれはこれでスッキリするかもしれません。\nプロジェクトの方は「編アップ」っていうファイル名にしてもらって一向に構いません。\n\nでは引き続きよろしくお願いします",
+        "user": "U03CXUXB5PF",
+        "ts": "1682471582.273879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2QrS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[最終の際のリネームについて]\n納品時のフォーマットとして、以下のようにシーケンスの名前を変えてください\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "動画ファイル（#No.）_（漢字姓）_PR\/ep1\/2\/3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "例1）75_藤井_PR　例2）76_藤井_ep1",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n要は「最終」っていうのを外した無印版が、オフライン編集アップ＝書き出しするファイル\n\nということですね。\n最初から通しで、編集の段階が書いてあるので、まぁなくなるとこれはこれでスッキリするかもしれません。\nプロジェクトの方は「編アップ」っていうファイル名にしてもらって一向に構いません。\n\nでは引き続きよろしくお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,322 @@
+[
+    {
+        "client_msg_id": "e6b0a866-c846-4ab8-84f5-e4c6aa89d8df",
+        "type": "message",
+        "text": "*重要  [ダミーカット・権利カット]編集トラックわけ*\n\nインタビュー以外の素材は編集後半で本番に差し替えるダミーとか編集後に報告必要なものとか、微妙に作業が残ってるものが含まれています。\n書き出したあとやそれを探すのが大変なので、トラックわけを推奨します\n←覚えてるかもしれませんがこのプロジェクトの一番最初に説明したのはこれのことでした。改めて\n\n\n種類とトラック分けた方が後で作業が楽なやつ\n\n• インタビュー 本線\n• フリーのイメージカット　：報告不要\n    ◦ 動画storyblockとか、静止画unsplashとか本番もそのまま使うやつ\n• 有料のイメージカット：報告不要\n    ◦ iStockphotoとかウォーターマーク乗ってるやつダミーのため後で差し替え\n• 有料の権利カット：報告必要\n    ◦ alamyとかgettyとかウォーターマーク乗ってる。ダミーのため後で差し替え\n• 無料の権利カット：報告必要\n    ◦ wikiとか、サイズは十分なので本番でもそのまま使えるけど、報告必要\n• もらい：報告不要\n    ◦ サイズ十分ならそのまま使う\n• CG：報告不要\n    ◦ 編集１はダミーのカットで進めて本番きたらMA後とかに尺あけ\n\nでほぼ以上のはず。\nファイル名見れば、出元で大体見分けつくと思いますが、差し替えなど編集の有無、後処理の有無など編集・制作都合で色々ありますので、\nそれらに合わせてトラックを変えることが、後々ミスを減らしたり、差し替え箇所の連絡の時に楽できたりします。\n\nよろしくお願いいたします",
+        "user": "U03CXUXB5PF",
+        "ts": "1668484417.679999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ay7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "重要  [ダミーカット・権利カット]編集トラックわけ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nインタビュー以外の素材は編集後半で本番に差し替えるダミーとか編集後に報告必要なものとか、微妙に作業が残ってるものが含まれています。\n書き出したあとやそれを探すのが大変なので、トラックわけを推奨します\n←覚えてるかもしれませんがこのプロジェクトの一番最初に説明したのはこれのことでした。改めて\n\n\n種類とトラック分けた方が後で作業が楽なやつ\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "インタビュー 本線"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "フリーのイメージカット　：報告不要"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "動画storyblockとか、静止画unsplashとか本番もそのまま使うやつ"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "有料のイメージカット：報告不要"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "iStockphotoとかウォーターマーク乗ってるやつダミーのため後で差し替え"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "有料の権利カット：報告必要"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "alamyとかgettyとかウォーターマーク乗ってる。ダミーのため後で差し替え"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "無料の権利カット：報告必要"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "wikiとか、サイズは十分なので本番でもそのまま使えるけど、報告必要"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "もらい：報告不要"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "サイズ十分ならそのまま使う"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "CG：報告不要"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "編集１はダミーのカットで進めて本番きたらMA後とかに尺あけ"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nでほぼ以上のはず。\nファイル名見れば、出元で大体見分けつくと思いますが、差し替えなど編集の有無、後処理の有無など編集・制作都合で色々ありますので、\nそれらに合わせてトラックを変えることが、後々ミスを減らしたり、差し替え箇所の連絡の時に楽できたりします。\n\nよろしくお願いいたします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

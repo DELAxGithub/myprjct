@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "E0BA978E-8AC2-4233-B125-4997A14F3FE4",
+        "type": "message",
+        "text": "61横道、台本終わりました。\ntwも書き込みました。\n60阿部の引用部分ですが、明日本人にメールして聞きます",
+        "user": "U040YCC00V6",
+        "ts": "1670516462.484309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TlW\/I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "61横道、台本終わりました。\ntwも書き込みました。\n60阿部の引用部分ですが、明日本人にメールして聞きます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

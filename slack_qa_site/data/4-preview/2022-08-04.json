@@ -1,0 +1,109 @@
+[
+    {
+        "client_msg_id": "395fb03d-9deb-4450-8291-a1d8e7fe23e1",
+        "type": "message",
+        "text": "<@U03HJRZK295> 試写結果の反映方法ですが、\n1.映像追加とかテロップ修正とか\n2.インタ使い所やVTR（引用系）\nは、手分けでもいいですか？\nで、やったやつは上記ドキュメントにコメントとか進捗記入とかでどうでしょう。\n\n単純に、\n1は寺田くんがその場で修正していく\n2.は僕が台本に反映して、編集マンにお願いする\nっていう分け方かなぁ。\n細かいところは、どっちがやる？とかを都度で決めますが、大まかには。",
+        "user": "U03CXUXB5PF",
+        "ts": "1659670948.433839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/skAK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 試写結果の反映方法ですが、\n1.映像追加とかテロップ修正とか\n2.インタ使い所やVTR（引用系）\nは、手分けでもいいですか？\nで、やったやつは上記ドキュメントにコメントとか進捗記入とかでどうでしょう。\n\n単純に、\n1は寺田くんがその場で修正していく\n2.は僕が台本に反映して、編集マンにお願いする\nっていう分け方かなぁ。\n細かいところは、どっちがやる？とかを都度で決めますが、大まかには。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659670948.433839",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1659671121.045789",
+        "reply_users": [
+            "U03HJRZK295"
+        ],
+        "replies": [
+            {
+                "user": "U03HJRZK295",
+                "ts": "1659671121.045789"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1659671121.045789"
+    },
+    {
+        "client_msg_id": "96fc32dd-f211-4ea4-9203-11212c0b5c69",
+        "type": "message",
+        "text": "了解ですー",
+        "user": "U03HJRZK295",
+        "ts": "1659671121.045789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tlnaK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解ですー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659670948.433839",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

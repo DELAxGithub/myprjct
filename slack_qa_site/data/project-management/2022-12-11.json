@@ -1,0 +1,85 @@
+[
+    {
+        "type": "message",
+        "text": "12\/12(月)　本日の在庫確認",
+        "files": [
+            {
+                "id": "F04F34B5T4H",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "display_as_bot": false,
+        "ts": "1670810360.362489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "les",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "12\/12(月)　本日の在庫確認"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1885c438-c0ed-4518-9ecd-72d03da724db"
+    },
+    {
+        "client_msg_id": "9c647a64-b470-4595-a6d0-0fb21fcd189f",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> 週末に結構試写1が進んだみたいです。すいません、反映遅れました。\n各チャンネルにリアクション書いてまます。\n５３林だけ修正必要そうですが、MA終わってるのでBGMの尺調整で乗り切っていただけると。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1670810719.200529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iacs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 週末に結構試写1が進んだみたいです。すいません、反映遅れました。\n各チャンネルにリアクション書いてまます。\n５３林だけ修正必要そうですが、MA終わってるのでBGMの尺調整で乗り切っていただけると。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

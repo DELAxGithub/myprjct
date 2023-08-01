@@ -1,0 +1,333 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n12\/25までに#70までを試写２へ進めた場合のスケジュールを作成して見ました。\n台本が出来てからクライアント試写２までは大体３週間で行けると理想です。\n（クライアント試写、MA作業が土日に進んだ場合）\n\n台本と素材が揃えば編集チームとしては可能です。\n\nすでに6区の期日も迫ってきております。\n具体的には11\/19（水）には編集１がスタートできるように\n台本とイメージ・テロップの追加のご対応をいただく必要があります。\n46吉岡（台本執筆・イメージ・テロップ）\n37片岡（修正台本・イメージ・テロップの追加）\n38前野（修正台本・イメージ・テロップの追加）\n\n\nこのスケジュール通り行くとは思えませんが、\nすでにここは無理だなとかがあれば調整していきたいと思います。",
+        "files": [
+            {
+                "id": "F0499Q3HW86",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F049GD82VQB",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "ts": "1667548147.377349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vyrSr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n12\/25までに#70までを試写２へ進めた場合のスケジュールを作成して見ました。\n台本が出来てからクライアント試写２までは大体３週間で行けると理想です。\n（クライアント試写、MA作業が土日に進んだ場合）\n\n台本と素材が揃えば編集チームとしては可能です。\n\nすでに6区の期日も迫ってきております。\n具体的には11\/19（水）には編集１がスタートできるように\n台本とイメージ・テロップの追加のご対応をいただく必要があります。\n46吉岡（台本執筆・イメージ・テロップ）\n37片岡（修正台本・イメージ・テロップの追加）\n38前野（修正台本・イメージ・テロップの追加）\n\n\nこのスケジュール通り行くとは思えませんが、\nすでにここは無理だなとかがあれば調整していきたいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f4f07a8d-62fc-44a8-a709-e2f47e34d7dd",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "689c2aa1-e3f3-4870-af56-05f3e76a18b9",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n#50森山の修正は本日中に出来るようにお願いしております。\n修正台本が夜だった場合は明日MAにお渡しになります。",
+        "user": "U03NZ0E09JN",
+        "ts": "1667558232.561049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FC\/J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n#50森山の修正は本日中に出来るようにお願いしております。\n修正台本が夜だった場合は明日MAにお渡しになります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "最終を渡すのが1115,1130のイメージでして。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667561844.428829",
+        "thread_ts": "1667540217.301079",
+        "root": {
+            "client_msg_id": "7f64fd15-3663-4c7e-8f84-dc0892e609fd",
+            "type": "message",
+            "text": "<@U03CXUXB5PF>\nひとつ確認です。\n今納品1115、1130など納品目標にしていますが、\n現状、クライアントへ試写２へ渡すのが納品日の設定になっているような気がします。\n本来は最終のお渡しが納品だと思いますが、\nこちらは試写２へ渡すことの目標日という認識でよろしいでしょうか。",
+            "user": "U03NZ0E09JN",
+            "ts": "1667540217.301079",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "rvj9a",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03CXUXB5PF"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nひとつ確認です。\n今納品1115、1130など納品目標にしていますが、\n現状、クライアントへ試写２へ渡すのが納品日の設定になっているような気がします。\n本来は最終のお渡しが納品だと思いますが、\nこちらは試写２へ渡すことの目標日という認識でよろしいでしょうか。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1667540217.301079",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1667641194.534849",
+            "reply_users": [
+                "U03CXUXB5PF",
+                "U03NZ0E09JN"
+            ],
+            "replies": [
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1667561844.428829"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1667636954.851279"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1667641194.534849"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1667641194.534849"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ESI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "最終を渡すのが1115,1130のイメージでして。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8610c3e9-f6c9-455f-8e73-1bfcb85c0552"
+    },
+    {
+        "client_msg_id": "6c4e6826-bb0c-415d-aa59-e935b9b88593",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> 森山の修正終わりました。MAチームより催促あったんで、明日早めにいただけるとありがたいです。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667564225.557139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IMDJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 森山の修正終わりました。MAチームより催促あったんで、明日早めにいただけるとありがたいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03NZ0E09JN>\n6区、すでにイメージがきてる55長谷さんと台本がほぼできてる51湯沢さんと入れ替えてみました。\n湯澤さんの編集に取りかかれるかどうかは素材次第。。\n台本・素材が揃ったやつから前に持ってくる感じです。",
+        "files": [
+            {
+                "id": "F049EEYRK1U",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1667602866.812769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BdQs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n6区、すでにイメージがきてる55長谷さんと台本がほぼできてる51湯沢さんと入れ替えてみました。\n湯澤さんの編集に取りかかれるかどうかは素材次第。。\n台本・素材が揃ったやつから前に持ってくる感じです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "12c770a0-8161-4aee-9382-7dbef402ba2f",
+        "thread_ts": "1667602866.812769",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1667602914.723599",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1667602914.723599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1667602914.723599",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3edb0ac5-3441-44a8-ba07-c97d567cd210",
+        "type": "message",
+        "text": "38前野は6区に出せたら出しますが。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667602914.723599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n1R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "38前野は6区に出せたら出しますが。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667602866.812769",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

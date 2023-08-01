@@ -1,0 +1,85 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "user": "U03CXUXB5PF",
+        "ts": "1666479737.389569",
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/kdddipresidentnep2022.slack.com\/archives\/C04610P4H96\/p1666463263464979",
+                "ts": "1666463263.464979",
+                "msg_subtype": "bot_message",
+                "channel_id": "C04610P4H96",
+                "channel_team": "T03CU6RQ154",
+                "channel_name": "5-ma_納品",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T03CU6RQ154",
+                        "channel": "C04610P4H96",
+                        "ts": "1666463263.464979",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "p+OO",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "42_Matumoto_MIX WAV_221022\n\n\/KDDI2022\/8_MA\/本編\/42_Matumoto_MIX WAV_221022\n\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Sent via ",
+                                                    "style": {
+                                                        "italic": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/zapier.com\/app\/editor\/169570285#slack",
+                                                    "text": "zapier.com\/app\/editor\/169570285#slack",
+                                                    "style": {
+                                                        "italic": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "is_share": true,
+                "fallback": "[October 22nd, 2022 2:27 PM] MA納品: 42_Matumoto_MIX WAV_221022\n\n\/KDDI2022\/8_MA\/本編\/42_Matumoto_MIX WAV_221022\n\n_Sent via <https:\/\/zapier.com\/app\/editor\/169570285#slack|zapier.com\/app\/editor\/169570285#slack>_",
+                "text": "42_Matumoto_MIX WAV_221022\n\n\/KDDI2022\/8_MA\/本編\/42_Matumoto_MIX WAV_221022\n\n_Sent via <https:\/\/zapier.com\/app\/editor\/169570285#slack|zapier.com\/app\/editor\/169570285#slack>_",
+                "author_link": "https:\/\/kdddipresidentnep2022.slack.com\/services\/B0457TSJ7N1",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-07-06\/3765178711235_b6064482b1523d77ec63_48.png",
+                "author_subname": "MA納品",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "#5-ma_納品 に投稿"
+            }
+        ]
+    }
+]

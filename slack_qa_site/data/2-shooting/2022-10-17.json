@@ -1,0 +1,587 @@
+[
+    {
+        "client_msg_id": "fd2c314b-def0-4c39-8f64-e15836fdb809",
+        "type": "message",
+        "text": "<@U040YCC00V6> 収録お疲れ様でした。\nバックアップはやってもらうんですが、プロキシーはDropboxがいっぱいなので、ひとまずローカルで大丈夫です、ってのと、そもそも急ぎじゃないので、まだいらないです。\nおこし用のmp4だけお願いしたいので、\n・マルチくまずに1カメで起こしmp4をつくってくださいー　\nもしくは\n・マルチくまずに1カメだけプロキシーつくって、それだけDropbox経由でくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1666002533.739909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kwTN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 収録お疲れ様でした。\nバックアップはやってもらうんですが、プロキシーはDropboxがいっぱいなので、ひとまずローカルで大丈夫です、ってのと、そもそも急ぎじゃないので、まだいらないです。\nおこし用のmp4だけお願いしたいので、\n・マルチくまずに1カメで起こしmp4をつくってくださいー　\nもしくは\n・マルチくまずに1カメだけプロキシーつくって、それだけDropbox経由でくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "833a027c-74cb-461e-b1a2-b7e8779185c7",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> お疲れ様でした。もう少しで帰宅するのでそこからバックアップします。\n\n一点だけ、休憩中に丸山さん・渡邉さんと話していて、さすがにテロップ&amp;WFの修正が多すぎる問題の話になりました。\nまあしょうがないと僕は思ってますが、渡邉さんもできるだけ試写を減らしたいと（そりゃそうか）。\n\nので以下のことを提案しました。\n前提：WF流石に入れすぎ（丸山&amp;池田）\n\n①【編集前】：編集台本が完成した時に渡邉さんにみていただき、WFが必要だと渡邉さんが思うところをマーカーで引いてもらう。\n※ここでもうこのWFは必要なんだ！っていうのを渡邉さんが台本上で引く。\n\n②【編集中】：編集マンが台本見ながらWF反映。とはいえ、マーカーを引いた箇所に別映像を入れることもあるので、そこはディレクターの判断等でキーワード程度で入れたり引いたり。\n※渡邉さんもここは判断があったから削ったんだな&amp;映像的にダサいからだな、とある程度引く。\n\n③【編集後試写】：どうしても渡邉さん的に気になるところだけreplayでプラスする（ここでまたガッとくるかもしれませんが…）\n\nようは丸山さんが完パケの映像のWD直し（半角含む）が長すぎることを言ってくれたみたいで、意見を求められたのでこれを提案し、渡邉さんもこのルーティーンで僕ら及び渡邉さんの時間がスムーズになるならと賛成してくれました。小寺さん的にどう思われますか？",
+        "user": "U040YCC00V6",
+        "ts": "1666003748.538169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FgftD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様でした。もう少しで帰宅するのでそこからバックアップします。\n\n一点だけ、休憩中に丸山さん・渡邉さんと話していて、さすがにテロップ&WFの修正が多すぎる問題の話になりました。\nまあしょうがないと僕は思ってますが、渡邉さんもできるだけ試写を減らしたいと（そりゃそうか）。\n\nので以下のことを提案しました。\n前提：WF流石に入れすぎ（丸山&池田）\n\n①【編集前】：編集台本が完成した時に渡邉さんにみていただき、WFが必要だと渡邉さんが思うところをマーカーで引いてもらう。\n※ここでもうこのWFは必要なんだ！っていうのを渡邉さんが台本上で引く。\n\n②【編集中】：編集マンが台本見ながらWF反映。とはいえ、マーカーを引いた箇所に別映像を入れることもあるので、そこはディレクターの判断等でキーワード程度で入れたり引いたり。\n※渡邉さんもここは判断があったから削ったんだな&映像的にダサいからだな、とある程度引く。\n\n③【編集後試写】：どうしても渡邉さん的に気になるところだけreplayでプラスする（ここでまたガッとくるかもしれませんが…）\n\nようは丸山さんが完パケの映像のWD直し（半角含む）が長すぎることを言ってくれたみたいで、意見を求められたのでこれを提案し、渡邉さんもこのルーティーンで僕ら及び渡邉さんの時間がスムーズになるならと賛成してくれました。小寺さん的にどう思われますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ef5e0aac-28dc-4857-9afe-97664ffdc48c",
+        "type": "message",
+        "text": "台本見るってことね。了解です。マーカーじゃなくて太字にしてくれると、ほぼほぼテロップまで完結するので楽ですね。混ざると邪魔くさいかな。\nま、やってみましょう。",
+        "user": "U03CXUXB5PF",
+        "ts": "1666003888.341019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IkY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "台本見るってことね。了解です。マーカーじゃなくて太字にしてくれると、ほぼほぼテロップまで完結するので楽ですね。混ざると邪魔くさいかな。\nま、やってみましょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ca671b26-ebb7-4e83-bbfb-b966f55bfd92",
+        "type": "message",
+        "text": "あと、本当は単なるWFじゃなくてデザインして箇条書きにする方がわかりやすい、とかテロップワークもできなくはない（時間があればやりたい）けど、まぁそこはWFもらってから考えるか。",
+        "user": "U03CXUXB5PF",
+        "ts": "1666003967.129189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QUgKJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あと、本当は単なるWFじゃなくてデザインして箇条書きにする方がわかりやすい、とかテロップワークもできなくはない（時間があればやりたい）けど、まぁそこはWFもらってから考えるか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d079b644-f953-4220-b003-e813cbf2d5fb",
+        "type": "message",
+        "text": "じゃ、早速展開してみましょう。　仲介ありがとうございましたー",
+        "user": "U03CXUXB5PF",
+        "ts": "1666003994.257519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZMib",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "じゃ、早速展開してみましょう。　仲介ありがとうございましたー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8D1FBBAC-DA80-409C-8407-3E1DD7DA7D62",
+        "type": "message",
+        "text": "台本見られて逆にめんどくさくならないことを祈って…:palms_up_together:\n明日渡邉さんにもお伝えしておきます。\n\nバックアップ開始します",
+        "user": "U040YCC00V6",
+        "ts": "1666004216.904219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0wgh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "台本見られて逆にめんどくさくならないことを祈って…"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "palms_up_together",
+                                "unicode": "1f932"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n明日渡邉さんにもお伝えしておきます。\n\nバックアップ開始します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "11778262-5794-440b-9cae-f5c4a906b52b",
+        "type": "message",
+        "text": "<@U03V84JSHNK> というわけで、45以降のテロップ作成は、渡邊さんのチェック後になります。なんどもすいませんが、またできたところでお願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1666033318.958499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pdJs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " というわけで、45以降のテロップ作成は、渡邊さんのチェック後になります。なんどもすいませんが、またできたところでお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8dcfd1e6-010b-4db3-ab48-54db4b49b9bd",
+        "type": "message",
+        "text": "<@U040YCC00V6> 今日も遠隔操作しようと思ったんだけど、別のツールを試したいです　収録後と収録前とどっちかいいかね？まぁタイミング合えばでいいか。\nchromeのアクセスコードをお願いしますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1666041630.352309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e632",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今日も遠隔操作しようと思ったんだけど、別のツールを試したいです　収録後と収録前とどっちかいいかね？まぁタイミング合えばでいいか。\nchromeのアクセスコードをお願いしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666041630.352309",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1666052516.185749",
+        "reply_users": [
+            "U040YCC00V6"
+        ],
+        "replies": [
+            {
+                "user": "U040YCC00V6",
+                "ts": "1666052516.185749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1666052516.185749"
+    },
+    {
+        "client_msg_id": "0386a705-1c16-4794-893f-851693554143",
+        "type": "message",
+        "text": "<@U03V84JSHNK>\n<#C0438AU7LV8|3-edit-3q1_51_57> の素材集めをお願いします。\n荒編まえで文字数が8000文字超えるやつは6000半ばぐらいになるので、探しても無駄になる可能性ありますが、51~52あたりはたぶんほとんど残るので、そのあたりからお願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1666042315.391339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VgR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0438AU7LV8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " の素材集めをお願いします。\n荒編まえで文字数が8000文字超えるやつは6000半ばぐらいになるので、探しても無駄になる可能性ありますが、51~52あたりはたぶんほとんど残るので、そのあたりからお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666042315.391339",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1666046717.720109",
+        "reply_users": [
+            "U03V84JSHNK"
+        ],
+        "replies": [
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1666046717.720109"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1666046717.720109"
+    },
+    {
+        "client_msg_id": "3DCDF9A6-987D-44E8-9776-A1FDC44D996E",
+        "type": "message",
+        "text": "了解しました",
+        "user": "U03V84JSHNK",
+        "ts": "1666046717.720109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0b61",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解しました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666042315.391339",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "2855047F-6EB9-4D9A-B428-DD59BAA2F3B5",
+        "type": "message",
+        "text": "急いで出てしまい、失念してました。\nバックアップは終わらせてますので、明日:pray:\n申し訳ないです",
+        "user": "U040YCC00V6",
+        "ts": "1666052516.185749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kRFe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "急いで出てしまい、失念してました。\nバックアップは終わらせてますので、明日"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n申し訳ないです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666041630.352309",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "74A9720F-82F3-4DF7-B69A-27E2C5D3BB47",
+        "type": "message",
+        "text": "@dela\n今の横道先生が手を動かす音が少し入っちゃってるんですが、先生の話的にもしょうがないですよね？話しやすさもあるでしょうし",
+        "user": "U040YCC00V6",
+        "ts": "1666057226.810929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k8W1N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@dela\n今の横道先生が手を動かす音が少し入っちゃってるんですが、先生の話的にもしょうがないですよね？話しやすさもあるでしょうし"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5513EC97-3A93-408D-9ED6-0B52D8D12EED",
+        "type": "message",
+        "text": "次は15時55に戻ります",
+        "user": "U03CXUXB5PF",
+        "ts": "1666073123.128129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s2UHw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "次は15時55に戻ります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

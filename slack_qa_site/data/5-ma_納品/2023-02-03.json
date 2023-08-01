@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "69_Hirono_MIX WAV_230203\n\n\/KDDI2022\/8_MA\/本編\/69_Hirono_MIX WAV_230203\n\n_Sent via <https:\/\/zapier.com\/app\/editor\/169570285#slack|zapier.com\/app\/editor\/169570285#slack>_",
+        "ts": "1675443815.876199",
+        "username": "MA納品",
+        "bot_id": "B0457TSJ7N1",
+        "app_id": "A024R9PQM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vHMQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "69_Hirono_MIX WAV_230203\n\n\/KDDI2022\/8_MA\/本編\/69_Hirono_MIX WAV_230203\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sent via ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zapier.com\/app\/editor\/169570285#slack",
+                                "text": "zapier.com\/app\/editor\/169570285#slack",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

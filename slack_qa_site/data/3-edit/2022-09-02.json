@@ -1,0 +1,1274 @@
+[
+    {
+        "client_msg_id": "b8edaa72-8838-4cd4-9d98-d011de9b9e5c",
+        "type": "message",
+        "text": "<@U03P0T4KQMV> ep1~3,pr、終わったらお知らせくださいー。\n\n<@U040YCC00V6>\n終わったらMA用書き出しになります",
+        "user": "U03CXUXB5PF",
+        "ts": "1662108744.659349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YOkg8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ep1~3,pr、終わったらお知らせくださいー。\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n終わったらMA用書き出しになります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662084374.520929",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1662108840.245789",
+        "user": "U040YCC00V6",
+        "text": "<@U040YCC00V6>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U03P0T4KQMV> それから本人リクエストがあった、BGMですが、今取り寄せ中です。きたらこれも9ch・10chに貼り付けてもらえますか？\nDropboxではこの辺にアップロードされる予定です",
+        "files": [
+            {
+                "id": "F040TUNK18B",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1662109367.294649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8T2K1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " それから本人リクエストがあった、BGMですが、今取り寄せ中です。きたらこれも9ch・10chに貼り付けてもらえますか？\nDropboxではこの辺にアップロードされる予定です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "49091212-3b16-41c1-a889-f8a173f68f3f",
+        "thread_ts": "1662084374.520929",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa6768aa-9d57-497e-84cc-e5ed78961f8a",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 22_秋本\n<@U03RA83HRN0> 28_田中\n<@U03NJATSEBH> 29_パックン\n<@U03QQ3J656Z> 40_岡本\nの本番MA前の尺調整を今日明日でお願いします。。納期から考えてもMAをここでやらないとちょっとまずいなと。\nって、上３人は本人から戻ってきてないのですが、PRだけでも始めたく、PR終わったところでこちらでMAに回しますのでお願いします。\nで、PR作る時に音声トラックを\n*omfのトラック分の理想は以下です*\n*1chピンマイク*\n*2chガンマイク*\n*3ch音効仕込みM1-Lch*\n*4ch音効仕込みM1-Rch*\n*5ch音効仕込みM2-Lch*\n*6ch音効仕込みM2-Rch*\n*7ch音効仕込みSE-Lch*\n*8ch音効仕込みSE-Rch*\n*9chリクエストBGM-Lch*\n*10chリクエストBGM-Rch*\n*11chナレーション*\nでお願いします。\nご不明点、並びに作業が週明けじゃないと厳しいとかあればお知らせくださいー。すいません、余裕がなくて。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1662109432.150719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w11kl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 22_秋本\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 28_田中\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 29_パックン\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 40_岡本\nの本番MA前の尺調整を今日明日でお願いします。。納期から考えてもMAをここでやらないとちょっとまずいなと。\nって、上３人は本人から戻ってきてないのですが、PRだけでも始めたく、PR終わったところでこちらでMAに回しますのでお願いします。\nで、PR作る時に音声トラックを\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "omfのトラック分の理想は以下です",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1chピンマイク",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2chガンマイク",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "3ch音効仕込みM1-Lch",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "4ch音効仕込みM1-Rch",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "5ch音効仕込みM2-Lch",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "6ch音効仕込みM2-Rch",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7ch音効仕込みSE-Lch",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "8ch音効仕込みSE-Rch",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "9chリクエストBGM-Lch",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "10chリクエストBGM-Rch",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "11chナレーション",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nでお願いします。\nご不明点、並びに作業が週明けじゃないと厳しいとかあればお知らせくださいー。すいません、余裕がなくて。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662109432.150719",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1662112822.949759",
+        "reply_users": [
+            "U03QQ3J656Z",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1662111946.066279"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1662112437.640269"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1662112665.692529"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1662112765.626259"
+            },
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1662112822.949759"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1662112822.949759",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03RA83HRN0",
+                    "U03NJATSEBH",
+                    "U03Q17LBJP3"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c09d1e64-4508-4b64-868d-523ef18408ad",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n台本部分のみの修正であれば完了しています。\nすみません音声トラックについては未対応です、ピン・ガンマイクのデータがどれなのかがあまりよくわかっておらず、、すみません、、",
+        "user": "U03P0T4KQMV",
+        "ts": "1662110781.428379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SAHk2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n台本部分のみの修正であれば完了しています。\nすみません音声トラックについては未対応です、ピン・ガンマイクのデータがどれなのかがあまりよくわかっておらず、、すみません、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662084374.520929",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a68f26b-247b-465f-8673-5dfc491202a6",
+        "type": "message",
+        "text": "<@U040YCC00V6> <@U03HJRZK295>　\nBGMって、ダウンロードだけでもできたりする？\nのであれば、落として作業に入ってもらいましょうか。",
+        "user": "U03CXUXB5PF",
+        "ts": "1662110865.184129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iHs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　\nBGMって、ダウンロードだけでもできたりする？\nのであれば、落として作業に入ってもらいましょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662084374.520929",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "2b598c60-3c95-4358-9ed3-d164031b2255",
+        "type": "message",
+        "text": "ダウンロードだけしました、8_MA&gt;仮BGMに入れました",
+        "user": "U03HJRZK295",
+        "ts": "1662111263.006549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EbUQh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ダウンロードだけしました、8_MA>仮BGMに入れました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662084374.520929",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03P0T4KQMV> PRも編集をお願いしますー\nBGMをプレミアのここに入れましたので、ep2に引いてみてくださいー。",
+        "files": [
+            {
+                "id": "F041HT9H9L0",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1662111412.547599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nst",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " PRも編集をお願いしますー\nBGMをプレミアのここに入れましたので、ep2に引いてみてくださいー。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f6b25f76-30d4-4f3d-b1a1-5ad04d3fa830",
+        "thread_ts": "1662084374.520929",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U03HJRZK295> <@U040YCC00V6>\nオーディオトラックですが、多分僕の方で整えると無茶苦茶になりそう。（しょっちゅうプロキシが外れる現象をまだ解決してないため）\n・ピンとガンを1と2\nになってます？\nマルチ組んだあと文字起こし作る時にピンを1にしてるから、すでにそうなってるとは思いますが。\nと思ったけど、初期は僕がやってるからなってないかも。。一応OMF作る前はご確認ください。",
+        "files": [
+            {
+                "id": "F040MJQER2S",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1662111605.945229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E0N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nオーディオトラックですが、多分僕の方で整えると無茶苦茶になりそう。（しょっちゅうプロキシが外れる現象をまだ解決してないため）\n・ピンとガンを1と2\nになってます？\nマルチ組んだあと文字起こし作る時にピンを1にしてるから、すでにそうなってるとは思いますが。\nと思ったけど、初期は僕がやってるからなってないかも。。一応OMF作る前はご確認ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1662111645.000000"
+        },
+        "client_msg_id": "2ea0c9bb-0b5d-49ad-8f6e-441d3a6273dd",
+        "thread_ts": "1662084374.520929",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "cb86e384-4b47-4cd2-95de-0b1c423080c7",
+        "type": "message",
+        "text": "PRの音は何時ごろ入りますでしょうか？",
+        "user": "U03QQ3J656Z",
+        "ts": "1662111946.066279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oug",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PRの音は何時ごろ入りますでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662109432.150719",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "この後はこういう流れです\n\n（仮BGM戻り→乗っけて出演者用書き出し）→出演者チェック→戻ってきたら*尺に関するところ修正*→本番MA用書き出し→本番テロップ・静止画に差し替え→MA後戻り→音乗っけ納品（→修正）\n\n40岡本のみ左のカッコ内作業があります\n\nで、出演者チェックを待ってられないので、\nそれがなくても確実に発生するであろう尺に関する修正だけは先行して、本番MAに入りたいです。\n（出演者チェックは基本カットが多いので尺が縮む分にはMAし直しせずとも対応できる）\n\nって、ことでPRもひっくるめてこの流れですが、実はPRに関しては「尺に関する修正」が確実にあります。フォーマットが変わったので。従って（PRだけでも始めたく。。）というわけです。\n\n説明不足ですいません、ご不明な点があれば何なりとおしらせください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1662112437.640269",
+        "thread_ts": "1662109432.150719",
+        "root": {
+            "client_msg_id": "aa6768aa-9d57-497e-84cc-e5ed78961f8a",
+            "type": "message",
+            "text": "<@U03Q17LBJP3> 22_秋本\n<@U03RA83HRN0> 28_田中\n<@U03NJATSEBH> 29_パックン\n<@U03QQ3J656Z> 40_岡本\nの本番MA前の尺調整を今日明日でお願いします。。納期から考えてもMAをここでやらないとちょっとまずいなと。\nって、上３人は本人から戻ってきてないのですが、PRだけでも始めたく、PR終わったところでこちらでMAに回しますのでお願いします。\nで、PR作る時に音声トラックを\n*omfのトラック分の理想は以下です*\n*1chピンマイク*\n*2chガンマイク*\n*3ch音効仕込みM1-Lch*\n*4ch音効仕込みM1-Rch*\n*5ch音効仕込みM2-Lch*\n*6ch音効仕込みM2-Rch*\n*7ch音効仕込みSE-Lch*\n*8ch音効仕込みSE-Rch*\n*9chリクエストBGM-Lch*\n*10chリクエストBGM-Rch*\n*11chナレーション*\nでお願いします。\nご不明点、並びに作業が週明けじゃないと厳しいとかあればお知らせくださいー。すいません、余裕がなくて。。",
+            "user": "U03CXUXB5PF",
+            "ts": "1662109432.150719",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "w11kl",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03Q17LBJP3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 22_秋本\n"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03RA83HRN0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 28_田中\n"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03NJATSEBH"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 29_パックン\n"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03QQ3J656Z"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 40_岡本\nの本番MA前の尺調整を今日明日でお願いします。。納期から考えてもMAをここでやらないとちょっとまずいなと。\nって、上３人は本人から戻ってきてないのですが、PRだけでも始めたく、PR終わったところでこちらでMAに回しますのでお願いします。\nで、PR作る時に音声トラックを\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "omfのトラック分の理想は以下です",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "1chピンマイク",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "2chガンマイク",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "3ch音効仕込みM1-Lch",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "4ch音効仕込みM1-Rch",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "5ch音効仕込みM2-Lch",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "6ch音効仕込みM2-Rch",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "7ch音効仕込みSE-Lch",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "8ch音効仕込みSE-Rch",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "9chリクエストBGM-Lch",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "10chリクエストBGM-Rch",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "11chナレーション",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nでお願いします。\nご不明点、並びに作業が週明けじゃないと厳しいとかあればお知らせくださいー。すいません、余裕がなくて。。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1662109432.150719",
+            "reply_count": 5,
+            "reply_users_count": 2,
+            "latest_reply": "1662112822.949759",
+            "reply_users": [
+                "U03QQ3J656Z",
+                "U03CXUXB5PF"
+            ],
+            "replies": [
+                {
+                    "user": "U03QQ3J656Z",
+                    "ts": "1662111946.066279"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1662112437.640269"
+                },
+                {
+                    "user": "U03QQ3J656Z",
+                    "ts": "1662112665.692529"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1662112765.626259"
+                },
+                {
+                    "user": "U03QQ3J656Z",
+                    "ts": "1662112822.949759"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1662112822.949759"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LPB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "この後はこういう流れです\n\n（仮BGM戻り→乗っけて出演者用書き出し）→出演者チェック→戻ってきたら"
+                            },
+                            {
+                                "type": "text",
+                                "text": "尺に関するところ修正",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "→本番MA用書き出し→本番テロップ・静止画に差し替え→MA後戻り→音乗っけ納品（→修正）\n\n40岡本のみ左のカッコ内作業があります\n\nで、出演者チェックを待ってられないので、\nそれがなくても確実に発生するであろう尺に関する修正だけは先行して、本番MAに入りたいです。\n（出演者チェックは基本カットが多いので尺が縮む分にはMAし直しせずとも対応できる）\n\nって、ことでPRもひっくるめてこの流れですが、実はPRに関しては「尺に関する修正」が確実にあります。フォーマットが変わったので。従って（PRだけでも始めたく。。）というわけです。\n\n説明不足ですいません、ご不明な点があれば何なりとおしらせください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "62e8ae12-a3e0-46cf-b6cd-8118280b0364",
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1662112462.000000"
+        }
+    },
+    {
+        "client_msg_id": "df8d2df3-1a73-49fd-9cd5-929db39b098c",
+        "type": "message",
+        "text": "承知いたしました。\nPRのBGM等の音が現状Dropboxに何も入っておらずですが、これはこの後入るということですかね？\n\nそれとも、PRはBGMなど貼り付けず、\n尺調整だけすれば良いのでしょうか？",
+        "user": "U03QQ3J656Z",
+        "ts": "1662112665.692529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xYL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知いたしました。\nPRのBGM等の音が現状Dropboxに何も入っておらずですが、これはこの後入るということですかね？\n\nそれとも、PRはBGMなど貼り付けず、\n尺調整だけすれば良いのでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662109432.150719",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "c19b9849-d1ce-4a2f-b6dd-895d03b6befa",
+        "type": "message",
+        "text": "はい、PRは仮BGMの工程がないので作っておりません。PRの編集をお願いいたします！",
+        "user": "U03CXUXB5PF",
+        "ts": "1662112765.626259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FHq\/\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい、PRは仮BGMの工程がないので作っておりません。PRの編集をお願いいたします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662109432.150719",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "8862ce26-35b8-47fd-b19b-9199bee55bbd",
+        "type": "message",
+        "text": "理解しました。\nCh分けの話があったので、？でした。\n尺だけ固めておきます。",
+        "user": "U03QQ3J656Z",
+        "ts": "1662112822.949759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JhF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "理解しました。\nCh分けの話があったので、？でした。\n尺だけ固めておきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662109432.150719",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "94c0bf4f-b72d-4f05-ad29-f5f8a2d71f02",
+        "type": "message",
+        "text": "<@U03P0T4KQMV> ep2のBGM弾くのとPRって今日中にできますか？MA用の書き出しするので作業のタイミング知りたく。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1662119759.859529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GJYg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ep2のBGM弾くのとPRって今日中にできますか？MA用の書き出しするので作業のタイミング知りたく。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662084374.520929",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "5a5775c9-3a60-4d6c-a6ca-91df0ae4576e",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 今から対応いたします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1662120170.002619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lg6o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今から対応いたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662084374.520929",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9da7de8c-4acf-4fcf-b1b4-2a35371f8a9f",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nPR修正と、追加いただいた音源をep2のA9にとりあえず置くだけ置いております。（BGMへの対応間違えていたらすみません、、）\nよろしくお願いします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1662121336.627009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H=HA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPR修正と、追加いただいた音源をep2のA9にとりあえず置くだけ置いております。（BGMへの対応間違えていたらすみません、、）\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662084374.520929",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "688692a8-ede5-4c3f-8045-d9a438e0cfb9",
+        "type": "message",
+        "text": "また、明日はお休みいただくため次の作業は日曜日以降になる予定です！\n恐れ入りますがよろしくお願いいたします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1662121549.048979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nSv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "また、明日はお休みいただくため次の作業は日曜日以降になる予定です！\n恐れ入りますがよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662084374.520929",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "742409cb-38bf-4825-b993-7c830e818ef9",
+        "type": "message",
+        "text": "9\/3\n本人からこないので昨日お伝えした感じで、\nPRをまずはお願いします。\n名前→15秒、あらすじ→40秒など読み切れる長さにするのを忘れずに。。\n音は1ch→ピン　2ch→ガンがあればそれで大丈夫です。\n編集終わったら書き出すのでお知らせください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1662169252.070519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p2\/BD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "9\/3\n本人からこないので昨日お伝えした感じで、\nPRをまずはお願いします。\n名前→15秒、あらすじ→40秒など読み切れる長さにするのを忘れずに。。\n音は1ch→ピン　2ch→ガンがあればそれで大丈夫です。\n編集終わったら書き出すのでお知らせください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

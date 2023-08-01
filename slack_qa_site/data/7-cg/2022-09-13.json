@@ -1,0 +1,283 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663119941.140329",
+        "user": "U04234W243G",
+        "text": "<@U04234W243G>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "client_msg_id": "89694e4e-79a2-478d-a433-ef3b25c6d283",
+        "type": "message",
+        "text": "今日から参加させていただきました\nユウと申します。\n宜しくお願いいたします。",
+        "user": "U04234W243G",
+        "ts": "1663119985.295509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "siys",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日から参加させていただきました\nユウと申します。\n宜しくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "5944d1106473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4090405261985_5944d1106473e9373f24_72.jpg",
+            "first_name": "yu",
+            "real_name": "yu hyunsop",
+            "display_name": "yu hyunsup",
+            "team": "T03CU6RQ154",
+            "name": "valentine2yu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "star-struck",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "mechanical_arm",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n武田９、１０です。\nご確認をお願いいたします。",
+        "files": [
+            {
+                "id": "F042381K44E",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F042NF2UQKB",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F042381UU1L",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F042C9R21FE",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F041V9JD631",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F041V9JHTJB",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "ts": "1663121836.039189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/G29",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n武田９、１０です。\nご確認をお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b88a39e8-e47f-4874-9178-cdc6f7a0fb6f",
+        "thread_ts": "1663121836.039189",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1663126675.160989",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663126675.160989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1663126675.160989",
+        "reactions": [
+            {
+                "name": "mechanical_arm",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "86423807-7DA1-42B8-84F4-2EC896AE99F9",
+        "type": "message",
+        "text": "<@U03NZ0E09JN> OKです",
+        "user": "U03CXUXB5PF",
+        "ts": "1663126675.160989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q3tk\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " OKです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663121836.039189",
+        "parent_user_id": "U03NZ0E09JN",
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bfc8af8b-e525-48ea-87d6-dc784e3f12c4",
+        "type": "message",
+        "text": "<@U03NZ0E09JN>\nお疲れ様です。\n武田_06のベース＆アニメーションでございます。\nご確認の程宜しくお願いします。\n\n<https:\/\/21.gigafile.nu\/0921-l710adb92429b5c4cea7aac25109e28aa>",
+        "user": "U04234W243G",
+        "ts": "1663137773.715339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kpo\/0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\n武田_06のベース＆アニメーションでございます。\nご確認の程宜しくお願いします。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/21.gigafile.nu\/0921-l710adb92429b5c4cea7aac25109e28aa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "5944d1106473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4090405261985_5944d1106473e9373f24_72.jpg",
+            "first_name": "yu",
+            "real_name": "yu hyunsop",
+            "display_name": "yu hyunsup",
+            "team": "T03CU6RQ154",
+            "name": "valentine2yu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/21.gigafile.nu\/0921-l710adb92429b5c4cea7aac25109e28aa",
+                "thumb_url": "https:\/\/src.gigafile.nu\/images\/og_new_200_60.png",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/21.gigafile.nu\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/21.gigafile.nu\/0921-l710adb92429b5c4cea7aac25109e28aa",
+                "fallback": "GigaFile（ギガファイル）便",
+                "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「１週間～１００日」選べる５種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+                "title": "GigaFile（ギガファイル）便",
+                "title_link": "https:\/\/21.gigafile.nu\/0921-l710adb92429b5c4cea7aac25109e28aa",
+                "service_name": "21.gigafile.nu"
+            }
+        ],
+        "thread_ts": "1663137773.715339",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1663142067.189459",
+        "reply_users": [
+            "U04234W243G"
+        ],
+        "replies": [
+            {
+                "user": "U04234W243G",
+                "ts": "1663142067.189459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U040YCC00V6> <@U03Q17LBJP3>\n52志田の試写１で以下２箇所ノイズが目立った場所がありました。\n台本に印をつけましたのでご確認をお願いいたします。\n\nep1 04:58　スタッフの咳が聞こえる\nep3 11:00　物を落とすノイズ\n\nep1は台本では切りづらいような箇所にありました。\nep3については「もうあの人たちとは折り合いがつかないということで」を\nカットできそうです。\n\nご確認とご指示をいただければと思います。",
+        "files": [
+            {
+                "id": "F04CN2QEZ5Z",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04DBSFFJ9W",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NZ0E09JN",
+        "ts": "1669610573.358819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3o1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n52志田の試写１で以下２箇所ノイズが目立った場所がありました。\n台本に印をつけましたのでご確認をお願いいたします。\n\nep1 04:58　スタッフの咳が聞こえる\nep3 11:00　物を落とすノイズ\n\nep1は台本では切りづらいような箇所にありました。\nep3については「もうあの人たちとは折り合いがつかないということで」を\nカットできそうです。\n\nご確認とご指示をいただければと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4c64db56-81b4-46a3-a4ae-0cf12a57c847"
+    },
+    {
+        "type": "message",
+        "text": "ep1ですけど、ここカットしますかね。\n<@U040YCC00V6> いい？",
+        "files": [
+            {
+                "id": "F04C7MY321M",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1669611845.893559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cw9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ep1ですけど、ここカットしますかね。\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " いい？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "77e7683e-796b-47c1-a7aa-36dbd14cfab1",
+        "thread_ts": "1669611845.893559",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1669636462.562069",
+        "reply_users": [
+            "U040YCC00V6",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U040YCC00V6",
+                "ts": "1669629161.854269"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1669636462.562069"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1669636462.562069",
+        "reactions": [
+            {
+                "name": "clown_face",
+                "users": [
+                    "U040YCC00V6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1e45c099-b9dd-49e0-91de-0fa358c83555",
+        "type": "message",
+        "text": "<@U03QQ3J656Z>\n37片岡のMAが届いてます。よろしくお願いします。",
+        "user": "U03NZ0E09JN",
+        "ts": "1669616155.408039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2BBqD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n37片岡のMAが届いてます。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03QQ3J656Z"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

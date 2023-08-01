@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "1aa0ad1f-6e37-4e9a-b74b-c6a76089c533",
+        "type": "message",
+        "text": "すみませんチャンネル間違えました！失礼しました:woman-bowing:",
+        "user": "U03P0T4KQMV",
+        "ts": "1659769218.244639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=CQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみませんチャンネル間違えました！失礼しました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659768083.714859",
+        "parent_user_id": "USLACKBOT"
+    }
+]

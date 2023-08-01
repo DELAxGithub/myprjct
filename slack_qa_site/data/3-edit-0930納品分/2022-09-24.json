@@ -1,0 +1,354 @@
+[
+    {
+        "client_msg_id": "4cbd375a-be39-4789-8b7c-f6c5f2111e67",
+        "type": "message",
+        "text": "こちら、wavが見つかりません・・・教えていただけますと・・・",
+        "user": "U040YCC00V6",
+        "ts": "1664004830.296759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BrF+e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こちら、wavが見つかりません・・・教えていただけますと・・・"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663941547.957139",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U03RA83HRN0> 28田中さんですが、赤マーカーってこちらで何か見た方がいいやつでしたっけ？可能なら不要なのは消すか、コメントいただけると助かります。",
+        "files": [
+            {
+                "id": "F043B66S3E3",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1664007738.297719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hE89",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 28田中さんですが、赤マーカーってこちらで何か見た方がいいやつでしたっけ？可能なら不要なのは消すか、コメントいただけると助かります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "c45000ed-76a5-4aa1-9c30-7ad98c35508e",
+        "thread_ts": "1664007738.297719",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1664021944.119719",
+        "reply_users": [
+            "U03RA83HRN0"
+        ],
+        "replies": [
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1664021944.119719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1664021944.119719",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0a049642-5638-4a0a-aa77-0f15cfde3e14",
+        "type": "message",
+        "text": "<@U040YCC00V6> 田中のep1,ep2も書き出しをお願いしますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1664013953.185209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8PN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 田中のep1,ep2も書き出しをお願いしますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1664013964.000000"
+        },
+        "reactions": [
+            {
+                "name": "clown_face",
+                "users": [
+                    "U040YCC00V6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "485de521-22b6-49bb-8409-91809f807c34",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n失礼いたしました。\nマーカーは全て削除いたしました。",
+        "user": "U03RA83HRN0",
+        "ts": "1664021944.119719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qRznK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n失礼いたしました。\nマーカーは全て削除いたしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664007738.297719",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03QQ3J656Z> なぜか40_岡本ep3のまとめが、、多分フォーマットの原稿のまま。。前の原稿に戻せますか？",
+        "files": [
+            {
+                "id": "F043C1RGGT1",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1664058130.145429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GuKB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " なぜか40_岡本ep3のまとめが、、多分フォーマットの原稿のまま。。前の原稿に戻せますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5581578c-9733-4428-90fd-8aa759735bfb",
+        "thread_ts": "1664058130.145429",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1664065835.639239",
+        "reply_users": [
+            "U03QQ3J656Z"
+        ],
+        "replies": [
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1664065835.639239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1664065835.639239"
+    },
+    {
+        "client_msg_id": "3dba211b-f4cf-4064-807c-87c4c9c4afc3",
+        "type": "message",
+        "text": "戻しました",
+        "user": "U03QQ3J656Z",
+        "ts": "1664065835.639239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tGH3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "戻しました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664058130.145429",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d7f321e2-cf00-45ff-b830-293cbaa93299",
+        "type": "message",
+        "text": "<@U03NJATSEBH> パックンを納品チェック中なのですが、Replayにもらってるコメント見る限り、まだ音についてきてるみたいです。これもしかして書き出し間違えてます？\n\nややこしいのは\n現場ピン、ガン　\nVTR\nMIX\nってあるんですが、これ全部にピンが含まれますね\n\nなので、不要なトラックは\nトラックのミュートじゃなくて\n無効化していただけるとありがたいです\n\nというわけで申し訳ないんですが、音修正をお願いしていいですか？",
+        "user": "U03CXUXB5PF",
+        "ts": "1664078267.580019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eDgK3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " パックンを納品チェック中なのですが、Replayにもらってるコメント見る限り、まだ音についてきてるみたいです。これもしかして書き出し間違えてます？\n\nややこしいのは\n現場ピン、ガン　\nVTR\nMIX\nってあるんですが、これ全部にピンが含まれますね\n\nなので、不要なトラックは\nトラックのミュートじゃなくて\n無効化していただけるとありがたいです\n\nというわけで申し訳ないんですが、音修正をお願いしていいですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

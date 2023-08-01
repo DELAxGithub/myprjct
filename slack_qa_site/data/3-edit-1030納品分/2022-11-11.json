@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "bdbdb79f-59d5-4cbb-bfd3-fdf09aa8e523",
+        "type": "message",
+        "text": "<@U03Q17LBJP3>\n浅羽修正です　準備中ですが、\n引用箇所に収録書籍名＋出版社名を追加\n＆ボイスカット\nをお願いします",
+        "user": "U03CXUXB5PF",
+        "ts": "1668200046.480259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WxG4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n浅羽修正です　準備中ですが、\n引用箇所に収録書籍名＋出版社名を追加\n＆ボイスカット\nをお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0a654484-1a8a-4c31-a4b9-960f63018270",
+        "type": "message",
+        "text": "技術チェック中です\n\n42 ep1 2:24秒あたりに音が抜けている部分があります。",
+        "user": "U03CXUXB5PF",
+        "ts": "1668221874.569009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YiIZR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "技術チェック中です\n\n42 ep1 2:24秒あたりに音が抜けている部分があります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "client_msg_id": "b6e26f0e-f899-4a87-9473-87d67566842c",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 72ってどういう状態でしたっけ？試写3（クライアントチェック＆本人修正反映済み）？",
+        "user": "U03CXUXB5PF",
+        "ts": "1678424683.126439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HJXHu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 72ってどういう状態でしたっけ？試写3（クライアントチェック＆本人修正反映済み）？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678424683.126439",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1678431768.508529",
+        "reply_users": [
+            "U03Q17LBJP3"
+        ],
+        "replies": [
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1678431768.508529"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1678431768.508529"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF>72石田　試写3をアップしました。",
+        "user": "U03Q17LBJP3",
+        "ts": "1678431768.508529",
+        "thread_ts": "1678424683.126439",
+        "root": {
+            "client_msg_id": "b6e26f0e-f899-4a87-9473-87d67566842c",
+            "type": "message",
+            "text": "<@U03Q17LBJP3> 72ってどういう状態でしたっけ？試写3（クライアントチェック＆本人修正反映済み）？",
+            "user": "U03CXUXB5PF",
+            "ts": "1678424683.126439",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "HJXHu",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03Q17LBJP3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 72ってどういう状態でしたっけ？試写3（クライアントチェック＆本人修正反映済み）？"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1678424683.126439",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1678431768.508529",
+            "reply_users": [
+                "U03Q17LBJP3"
+            ],
+            "replies": [
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1678431768.508529"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1678431768.508529"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BFf6\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "72石田　試写3をアップしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "253707c0-4f23-4761-8294-b2d9754835f4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

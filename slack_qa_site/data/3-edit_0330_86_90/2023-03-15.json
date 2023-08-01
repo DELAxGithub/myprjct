@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "e7831f88-eaa1-48dc-b342-59b74e788565",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nありがとうございます！作業進めます！",
+        "user": "U03RA83HRN0",
+        "ts": "1678863967.323059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pfDl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nありがとうございます！作業進めます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

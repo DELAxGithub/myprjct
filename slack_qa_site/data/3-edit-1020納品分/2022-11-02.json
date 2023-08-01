@@ -1,0 +1,96 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03P0T4KQMV>\nistockのダミーは僕の方で差し替えてます。\n\nダミーと本番イメージが同じトラックだと、見落とすので\nトラック分けていただけるとありがたいです",
+        "files": [
+            {
+                "id": "F049H83STCH",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1667383445.572509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+DF6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nistockのダミーは僕の方で差し替えてます。\n\nダミーと本番イメージが同じトラックだと、見落とすので\nトラック分けていただけるとありがたいです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7245e28d-ca75-481d-9469-a143aca28372"
+    },
+    {
+        "client_msg_id": "5ee3b092-99e5-459f-8b06-1f0bb794bb4d",
+        "type": "message",
+        "text": "<@U03QQ3J656Z> <@U03P0T4KQMV> <@U03RA83HRN0>\n\n納品フォルダに最終版書き出しました\n最後にもう一回修正済んでるかどうか確認していただけるとありがたいです\n・クライアントからの修正が反映されてるか\n・映像を無理くり引き伸ばしてる荒めのところがないかどうか\nになります。\n直ってないとしたらどっかでバージョンが食い違ってたりだと思うので、一個なおってりゃ全部なおってると思います。\nあと最終環境が皆さんのお手元じゃないわけで、素材が共有されてないとかも可能性としてはありえます。\nそういうぱっと見でわかるミスは、流石にここで確認したものを納品にしないと、チェック体制どうなってるみたいな話になるので、何卒よろしくお願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667392373.107899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CzFp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n納品フォルダに最終版書き出しました\n最後にもう一回修正済んでるかどうか確認していただけるとありがたいです\n・クライアントからの修正が反映されてるか\n・映像を無理くり引き伸ばしてる荒めのところがないかどうか\nになります。\n直ってないとしたらどっかでバージョンが食い違ってたりだと思うので、一個なおってりゃ全部なおってると思います。\nあと最終環境が皆さんのお手元じゃないわけで、素材が共有されてないとかも可能性としてはありえます。\nそういうぱっと見でわかるミスは、流石にここで確認したものを納品にしないと、チェック体制どうなってるみたいな話になるので、何卒よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

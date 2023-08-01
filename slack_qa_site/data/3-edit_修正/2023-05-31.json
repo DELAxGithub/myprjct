@@ -1,0 +1,371 @@
+[
+    {
+        "client_msg_id": "ec137547-98c1-4c57-b7e3-9ac67bc2e0a6",
+        "type": "message",
+        "text": "そうだね。\nじゃこっちで一覧表を用意しようと思いますが、どんな項目いるかな\n\n・製造順シャープ、名前、素材が入ってるHDDの名前、プロジェクトの名前、最終確認日。。\nっていう製造系列と\n・HDDの名前、入ってる素材一覧\nっていうHDD系列がとりあえずあればいいかな。\n他なんか思いつく？\n\nあとチームプロジェクトっていうのは、premierの同時編集ツールのことです\nGoogleドキュメントみたいに招待制になってるのですが、まぁこっちでローカルに変換してDropbox  にて渡します\n\n収録素材はHDDに全部あるけど、音声素材とかユニーク素材どうすっかなぁ。\nこれもほんとはプロジェクトファイル・収録素材と一緒にしておくといいんだろうけどねぇ。",
+        "user": "U03CXUXB5PF",
+        "ts": "1685530412.233949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2X2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうだね。\nじゃこっちで一覧表を用意しようと思いますが、どんな項目いるかな\n\n・製造順シャープ、名前、素材が入ってるHDDの名前、プロジェクトの名前、最終確認日。。\nっていう製造系列と\n・HDDの名前、入ってる素材一覧\nっていうHDD系列がとりあえずあればいいかな。\n他なんか思いつく？\n\nあとチームプロジェクトっていうのは、premierの同時編集ツールのことです\nGoogleドキュメントみたいに招待制になってるのですが、まぁこっちでローカルに変換してDropbox  にて渡します\n\n収録素材はHDDに全部あるけど、音声素材とかユニーク素材どうすっかなぁ。\nこれもほんとはプロジェクトファイル・収録素材と一緒にしておくといいんだろうけどねぇ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685495697.644709",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "ba3e49db-ca82-4de9-964c-a567681c8487",
+        "type": "message",
+        "text": "ひとつ確認が必要かと思ったのは、納品後の直しの有無かと思いました。\n例えば浦本が作業したぶんでもノイズのカットとブレスの差し込みがありましたが、それを作業したプロジェクトはデスクトップにコピーしたものです。つまり現在ドロップボックスにある編アッププロジェクトは最新でないものがあります。\n過去のワークフローはわかりませんが共有してるプロジェクトの更新もれの可能性もあるのかも？とか思ったりもします。\nそういう点でいうと完プロを直した方がいいような気もします。素材からやるのも完プロ直すのも、手間と時間に大差はないと思うので、素材からやる方針に反対なわけではないですが。",
+        "user": "U054HSHFAAH",
+        "ts": "1685531672.311599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bCP5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ひとつ確認が必要かと思ったのは、納品後の直しの有無かと思いました。\n例えば浦本が作業したぶんでもノイズのカットとブレスの差し込みがありましたが、それを作業したプロジェクトはデスクトップにコピーしたものです。つまり現在ドロップボックスにある編アッププロジェクトは最新でないものがあります。\n過去のワークフローはわかりませんが共有してるプロジェクトの更新もれの可能性もあるのかも？とか思ったりもします。\nそういう点でいうと完プロを直した方がいいような気もします。素材からやるのも完プロ直すのも、手間と時間に大差はないと思うので、素材からやる方針に反対なわけではないですが。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "3c0472cbdd87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5181600335649_3c0472cbdd874f9a32ff_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Uramoto",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "kuramoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685495697.644709",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "0247c91a-8f85-46b2-b5b1-74be09bc262e",
+        "type": "message",
+        "text": "浦本くんの作業したプロジェクトは、そもそもドロップボックスに置いといて欲しいわけですが、それは難しい？最新・最終版は常にドロップボックスにあるっていう状態になってないとややこしいなと。",
+        "user": "U03CXUXB5PF",
+        "ts": "1685532673.328939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LVjXs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "浦本くんの作業したプロジェクトは、そもそもドロップボックスに置いといて欲しいわけですが、それは難しい？最新・最終版は常にドロップボックスにあるっていう状態になってないとややこしいなと。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685495697.644709",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "c36f9e60-0846-4d63-b00a-4220e7bc89f3",
+        "type": "message",
+        "text": "全然できます、了解です。その場合はすでにアップしてある編アッププロジェクトは消しますか？",
+        "user": "U054HSHFAAH",
+        "ts": "1685538692.597829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7BT\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "全然できます、了解です。その場合はすでにアップしてある編アッププロジェクトは消しますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "3c0472cbdd87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5181600335649_3c0472cbdd874f9a32ff_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Uramoto",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "kuramoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685495697.644709",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "36575039-e6ae-424a-92a9-5ee42189af8e",
+        "type": "message",
+        "text": "そうですね、書き出し時に使ったプロジェクトが最終ってことでしたら変にあると混ざりそうですし消しちゃっていいんじゃないですかね。\n残す場合は、古いのを間違えて開かないようになんらかの目印つけといてください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1685538829.062799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wqO1S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうですね、書き出し時に使ったプロジェクトが最終ってことでしたら変にあると混ざりそうですし消しちゃっていいんじゃないですかね。\n残す場合は、古いのを間違えて開かないようになんらかの目印つけといてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685495697.644709",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "7d6ccee6-eb5c-4f1f-b6f7-bc031c0cd032",
+        "type": "message",
+        "text": "と、書きましたが「過去プロジェクト」フォルダ作ってそこに入れ方がいいかと思いました。その上で最新には「納品後」とでも名前つけるとか。あんまり名前つける決まりは増やさないほうがいいですか？",
+        "user": "U054HSHFAAH",
+        "ts": "1685539162.276199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q2Uul",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "と、書きましたが「過去プロジェクト」フォルダ作ってそこに入れ方がいいかと思いました。その上で最新には「納品後」とでも名前つけるとか。あんまり名前つける決まりは増やさないほうがいいですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "3c0472cbdd87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5181600335649_3c0472cbdd874f9a32ff_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Uramoto",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "kuramoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685495697.644709",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "e240c760-c2f2-494c-b15a-4a18b1744fdf",
+        "type": "message",
+        "text": "名前もルールがどっかにまとまってれば大丈夫と思います！\nとはいえ、\n最新＝納品後\nってことなら、全部の最新に名前つけなきゃいけなくなる？\n納品後が有り無しになるとちょっとややこしいかもね。",
+        "user": "U03CXUXB5PF",
+        "ts": "1685539390.790779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UqJk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "名前もルールがどっかにまとまってれば大丈夫と思います！\nとはいえ、\n最新＝納品後\nってことなら、全部の最新に名前つけなきゃいけなくなる？\n納品後が有り無しになるとちょっとややこしいかもね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685495697.644709",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "49cc54d5-8143-4114-95fd-bc6010e327d3",
+        "type": "message",
+        "text": "修正があったやつだけアップしなおそうと思うので、「0530修正後」とかつけるのだとどうですか？\n修正の有無はわかるようにしたほうがいいかと。\n他のはリリンク先のアドレスが変わるだけで何も変わってませんし。",
+        "user": "U054HSHFAAH",
+        "ts": "1685539818.414659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G\/e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "修正があったやつだけアップしなおそうと思うので、「0530修正後」とかつけるのだとどうですか？\n修正の有無はわかるようにしたほうがいいかと。\n他のはリリンク先のアドレスが変わるだけで何も変わってませんし。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "3c0472cbdd87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5181600335649_3c0472cbdd874f9a32ff_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Uramoto",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "kuramoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685495697.644709",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "338ba118-e67c-40d3-9f46-bc2576d7ae9a",
+        "type": "message",
+        "text": "いいと思いますー！",
+        "user": "U03CXUXB5PF",
+        "ts": "1685539845.379979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "klUFr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いいと思いますー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685495697.644709",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "v",
+                "users": [
+                    "U054HSHFAAH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

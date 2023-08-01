@@ -1,0 +1,127 @@
+[
+    {
+        "client_msg_id": "9084d9dd-bdbc-49e3-ae94-493f4a52deb2",
+        "type": "message",
+        "text": "前野さん本人チェック何も無しでした。\nクライアント2.2が何もなければ、最終にしてください\n音のバランスなど確認よろしくお願いします",
+        "user": "U03CXUXB5PF",
+        "ts": "1670205904.884819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rvu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "前野さん本人チェック何も無しでした。\nクライアント2.2が何もなければ、最終にしてください\n音のバランスなど確認よろしくお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84cb0eb4-67b2-4adc-b650-272ddce6c283",
+        "type": "message",
+        "text": "<@U03RA83HRN0> <@U03NJATSEBH> <@U03QQ3J656Z>\n47平藤\n55長谷（＊長谷さんPRは2.1でチェック）\n46吉岡\n\n2試写が完了しておりますので、2.1へ進めてください。",
+        "user": "U03NZ0E09JN",
+        "ts": "1670206451.858409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aWBL=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03QQ3J656Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n47平藤\n55長谷（＊長谷さんPRは2.1でチェック）\n46吉岡\n\n2試写が完了しておりますので、2.1へ進めてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03NZ0E09JN",
+            "ts": "1670206481.000000"
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

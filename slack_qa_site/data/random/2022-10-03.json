@@ -1,0 +1,66 @@
+[
+    {
+        "client_msg_id": "b8fd0329-0b86-4f1b-8f7a-9601ef7bea6f",
+        "type": "message",
+        "text": "Windowsのスクショってこれとかどうですか？ <@U03Q17LBJP3> <@U03NJATSEBH>\n領域指定＋クリップボード\n\n’画面の一部のスクリーンショットをクリップボードに保存する\nWindows　＋　Shift　＋　S",
+        "user": "U03CXUXB5PF",
+        "ts": "1664847304.483849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m9\/p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Windowsのスクショってこれとかどうですか？ "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n領域指定＋クリップボード\n\n’画面の一部のスクリーンショットをクリップボードに保存する\nWindows　＋　Shift　＋　S"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NJATSEBH",
+                    "U03Q17LBJP3"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

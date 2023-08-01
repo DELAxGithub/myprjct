@@ -1,0 +1,90 @@
+[
+    {
+        "client_msg_id": "72bc88ce-f1c2-4a14-85c7-51b6f11eaea8",
+        "type": "message",
+        "text": "<!channel> 2Q4が同期ミスで変な感じになってます。すいません、今作業してる人いたらお知らせください",
+        "user": "U03CXUXB5PF",
+        "ts": "1666789713.284839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d1OBx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 2Q4が同期ミスで変な感じになってます。すいません、今作業してる人いたらお知らせください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3af28b17-02c2-463b-9ced-9ef26a75dc83",
+        "type": "message",
+        "text": "Premiere2023にしたら治りました 続きは<#C03D36KA10U|general> で",
+        "user": "U03CXUXB5PF",
+        "ts": "1666793030.396259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ULg4h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Premiere2023にしたら治りました 続きは"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03D36KA10U"
+                            },
+                            {
+                                "type": "text",
+                                "text": " で"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "type": "message",
+        "text": "<!channel> 65石川直樹のイメージ素材をアップしました。本人提供素材は今問い合わせ中ですので、来次第アップします。よろしくお願いいたします。（編集ご担当の方が空欄だったので全体周知しています）",
+        "files": [
+            {
+                "id": "F04KBSWTBFT",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03V84JSHNK",
+        "display_as_bot": false,
+        "ts": "1673769970.246579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Djz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 65石川直樹のイメージ素材をアップしました。本人提供素材は今問い合わせ中ですので、来次第アップします。よろしくお願いいたします。（編集ご担当の方が空欄だったので全体周知しています）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "64c66a9c-8ac3-4bed-89f3-4308ee2fe076",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a035eb8e-f781-403c-9224-3cf292b7fb22",
+        "type": "message",
+        "text": "<!channel> 同じく68多湖淳も素材準備できました。",
+        "user": "U04J38PLGM6",
+        "ts": "1673771641.657449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dk3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 同じく68多湖淳も素材準備できました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

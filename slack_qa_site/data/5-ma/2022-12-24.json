@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "50568540-7dd7-494c-811f-347716f4da17",
+        "type": "message",
+        "text": "<@U03G0LAPT3N>\nご連絡が遅くなり失礼いたしました。\n山本PRですが、修正版のQTとomfをフォルダに入れ、ファイル名も「MA修正」としています。\n恐れ入りますが、ご確認のほどよろしくお願いいたします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1671869973.347329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dOns",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nご連絡が遅くなり失礼いたしました。\n山本PRですが、修正版のQTとomfをフォルダに入れ、ファイル名も「MA修正」としています。\n恐れ入りますが、ご確認のほどよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1671850754.689079",
+        "parent_user_id": "U03G0LAPT3N"
+    },
+    {
+        "client_msg_id": "2B6F4B57-DDA3-4AF8-9E70-F8BA6F53918D",
+        "type": "message",
+        "text": "ありがとうございます。",
+        "user": "U03G0LAPT3N",
+        "ts": "1671870088.374569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T8o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1671850754.689079",
+        "parent_user_id": "U03G0LAPT3N"
+    }
+]

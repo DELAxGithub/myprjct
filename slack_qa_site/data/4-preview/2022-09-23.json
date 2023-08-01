@@ -1,0 +1,131 @@
+[
+    {
+        "client_msg_id": "b7502b09-e643-4d5b-824b-f00cc8d9a38d",
+        "type": "message",
+        "text": "<@U040YCC00V6> 遠隔操作もいいけど、納品前に素材をDropbox経由で渡し切っちゃうっていいような気がしてきた。\nってことで、10\/10納品分をアップロードしてみるか。\n２１、２５は既に持ってるので、\n２６、３１、３９を必要なファイルだけください\nとりあえずHDDの中にある武田のマルチだけ送ってみて\n多分これ上げてる間、Dropbox経由の完パケのアップロードできなくなるので、先に28_田中の完パケ書き出し先にお願いします。\n<https:\/\/www.dropbox.com\/request\/txbKXCMOacxiVvfgE7Z6>",
+        "user": "U03CXUXB5PF",
+        "ts": "1663967998.787169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ljt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 遠隔操作もいいけど、納品前に素材をDropbox経由で渡し切っちゃうっていいような気がしてきた。\nってことで、10\/10納品分をアップロードしてみるか。\n２１、２５は既に持ってるので、\n２６、３１、３９を必要なファイルだけください\nとりあえずHDDの中にある武田のマルチだけ送ってみて\n多分これ上げてる間、Dropbox経由の完パケのアップロードできなくなるので、先に28_田中の完パケ書き出し先にお願いします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/request\/txbKXCMOacxiVvfgE7Z6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1663968068.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.dropbox.com\/request\/txbKXCMOacxiVvfgE7Z6",
+                "thumb_url": "https:\/\/cfl.dropboxstatic.com\/static\/metaserver\/static\/images\/logo_catalog\/dropbox_webclip_200_vis.png",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/www.dropbox.com\/request\/txbKXCMOacxiVvfgE7Z6",
+                "fallback": "Dropbox: Dropbox - Submit files",
+                "text": "Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily. Never email yourself a file again!",
+                "title": "Dropbox - Submit files",
+                "title_link": "https:\/\/www.dropbox.com\/request\/txbKXCMOacxiVvfgE7Z6",
+                "service_name": "Dropbox"
+            }
+        ],
+        "thread_ts": "1663967998.787169",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1664007343.570579",
+        "reply_users": [
+            "U040YCC00V6",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U040YCC00V6",
+                "ts": "1664000162.431979"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1664007343.570579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1664007343.570579",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U040YCC00V6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "武田さんの素材、アップしたら50GB以内にしてくれと出てアップすることができません...",
+        "files": [
+            {
+                "id": "F043B2QQWBZ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U040YCC00V6",
+        "display_as_bot": false,
+        "ts": "1664000162.431979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eu1A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "武田さんの素材、アップしたら50GB以内にしてくれと出てアップすることができません..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "60081ecf-c389-4071-abc8-2a8dba8e35bd",
+        "thread_ts": "1663967998.787169",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

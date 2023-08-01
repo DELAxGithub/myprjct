@@ -1,0 +1,156 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "在庫\n試写1:0 | MA:5 | 試写2:3 | 試写3:0\n————————————-\n<@U03P0T4KQMV> : #102、 千葉聡、 編集3、: 05-09\n<@U03P0T4KQMV> : #103、 清水晶子、 編集3、: 04-26\n<@U03RA83HRN0> : #104、 松岡聡、 本人編集、: 05-10\n<@U04KFCBLY9J> : #99、 パックン、 編集3、: 04-30\n<@U04QC17DUEP> : #89、 成田聡子、 編集3、: 04-25\n",
+        "ts": "1683763896.842819",
+        "bot_id": "B0527SNLW83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lZkow",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "在庫\n試写1:0 | MA:5 | 試写2:3 | 試写3:0\n————————————-\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #102、 千葉聡、 編集3、: 05-09\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #103、 清水晶子、 編集3、: 04-26\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #104、 松岡聡、 本人編集、: 05-10\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #99、 パックン、 編集3、: 04-30\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04QC17DUEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #89、 成田聡子、 編集3、: 04-25"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7fabd298-1e0f-4b1f-a736-8572cafc8911",
+        "type": "message",
+        "text": "試写２→編集３→本人編集→試写３の順番になってますが、\n試写２が終わったかどうかに関わらず、本人試写のリアクションがきたやつは、URLを赤文字にしました",
+        "user": "U03CXUXB5PF",
+        "ts": "1683788334.309919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hib",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "試写２→編集３→本人編集→試写３の順番になってますが、\n試写２が終わったかどうかに関わらず、本人試写のリアクションがきたやつは、URLを赤文字にしました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1683788334.309919",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1683793275.642079",
+        "reply_users": [
+            "U03NZ0E09JN",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1683790794.105229"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1683791075.038649"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1683792785.702229"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1683793275.642079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1683793275.642079",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

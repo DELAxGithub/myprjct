@@ -1,0 +1,147 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03CXUXB5PF> 45藤垣、46吉岡、47平藤、48坂井、50森山の素材集め終わりました。よろしくお願いいたします。",
+        "user": "U03V84JSHNK",
+        "ts": "1666173891.479019",
+        "thread_ts": "1666111838.446369",
+        "root": {
+            "client_msg_id": "9d87404e-c616-41e9-a6be-9d4034c4bb95",
+            "type": "message",
+            "text": "<@U03V84JSHNK> 50森山の台本最後まで行きました\n取り切り含め素材出しをお願いします\n\n生物の話なので、綺麗な写真があるのは嬉しいですが、\n似てるけど違う、ってのがあるので要注意です。\n\n例えば、魚がダンスする、\nとしかインタビューで言ってなくても、\n魚ならなんでもいいわけじゃなくて、\n論文を参照して種別を外さないように、とか。\n事実関係ってことですね。",
+            "user": "U03CXUXB5PF",
+            "ts": "1666111838.446369",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "vjBA",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03V84JSHNK"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 50森山の台本最後まで行きました\n取り切り含め素材出しをお願いします\n\n生物の話なので、綺麗な写真があるのは嬉しいですが、\n似てるけど違う、ってのがあるので要注意です。\n\n例えば、魚がダンスする、\nとしかインタビューで言ってなくても、\n魚ならなんでもいいわけじゃなくて、\n論文を参照して種別を外さないように、とか。\n事実関係ってことですね。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1666111838.446369",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1666173891.479019",
+            "reply_users": [
+                "U03V84JSHNK"
+            ],
+            "replies": [
+                {
+                    "user": "U03V84JSHNK",
+                    "ts": "1666173891.479019"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1666173891.479019"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Z5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 45藤垣、46吉岡、47平藤、48坂井、50森山の素材集め終わりました。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4dfc2f44-5bcb-409f-bf59-49b8ecdc995f",
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b51a45d6-018a-41c5-9439-d2708919915e",
+        "type": "message",
+        "text": "クライアントのテロップリクエストが常軌を逸した分量なので、ちょっと精査します。\nせっかく作ってもらってすいません。テロップ入れについては今しばらくお待ちください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1666199422.971709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X+T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "クライアントのテロップリクエストが常軌を逸した分量なので、ちょっと精査します。\nせっかく作ってもらってすいません。テロップ入れについては今しばらくお待ちください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

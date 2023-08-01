@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "1BC910DD-3E4A-4640-B0FF-28F5F69AA331",
+        "type": "message",
+        "text": "43.46.48の素材あつめます",
+        "user": "U040YCC00V6",
+        "ts": "1664847506.455149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gNJ9p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "43.46.48の素材あつめます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "91597ad9-dcdc-452f-a1f1-f54c08fbee83",
+        "type": "message",
+        "text": "<@U040YCC00V6>\n43って終わってるんじゃない？premiereで編集済みなので、足りないところあれば。\n\n46って中央アジアの山奥の話なので、イメージカットで白人とか出てくると若干冷めるかなと。使い方として口元とか手元とかだったら良かったりするんですが、編集マンにその旨指示をコメントに入れといてください。\n\n<@U03V84JSHNK> 45-50については遅くとも来週から編集始めたいので、手分けをお願いしますー。",
+        "user": "U03CXUXB5PF",
+        "ts": "1664847693.607149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zHcI5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n43って終わってるんじゃない？premiereで編集済みなので、足りないところあれば。\n\n46って中央アジアの山奥の話なので、イメージカットで白人とか出てくると若干冷めるかなと。使い方として口元とか手元とかだったら良かったりするんですが、編集マンにその旨指示をコメントに入れといてください。\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 45-50については遅くとも来週から編集始めたいので、手分けをお願いしますー。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

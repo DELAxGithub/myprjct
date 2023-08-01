@@ -1,0 +1,999 @@
+[
+    {
+        "client_msg_id": "53d4761d-0f26-48db-bc80-907c3224a13e",
+        "type": "message",
+        "text": "```伊達さん確認しました、ep01だけお願い致します```\n<@U04JJB0MTB7> これ治したら最終（納品書き出し）です\nややこしかったらお知らせください",
+        "user": "U03CXUXB5PF",
+        "ts": "1675675546.512579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T3A",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "伊達さん確認しました、ep01だけお願い致します"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " これ治したら最終（納品書き出し）です\nややこしかったらお知らせください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "901C4059-BED1-4019-BECB-B01CFB82C13E",
+        "type": "message",
+        "text": "承知しました！",
+        "user": "U04JJB0MTB7",
+        "ts": "1675676136.896309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9XM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "27A19A31-47F1-4576-B26B-E16A656B0986",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> \n63＿伊達さん\n最終プロジェクトをアップしました\nよろしくお願い致します",
+        "user": "U04JJB0MTB7",
+        "ts": "1675681172.195179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f4fW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n63＿伊達さん\n最終プロジェクトをアップしました\nよろしくお願い致します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d016653d-a753-4b4e-a6bd-3cb0bb424284",
+        "type": "message",
+        "text": "<@U04JJB0MTB7> 最終まで行った際には、納品用書き出しになります。\nReplayは不要ですが、Dropbox上のプロジェクト名を「最終」と変更した理、シーケンス名にも最終とした、最終バージョンを更新いただき、\n<@U04J38PLGM6> にお知らせください。\nそしたら、引き継ぎますのでー。",
+        "user": "U03CXUXB5PF",
+        "ts": "1675681296.299279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sd8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 最終まで行った際には、納品用書き出しになります。\nReplayは不要ですが、Dropbox上のプロジェクト名を「最終」と変更した理、シーケンス名にも最終とした、最終バージョンを更新いただき、\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にお知らせください。\nそしたら、引き継ぎますのでー。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7E087AFB-B9FE-4068-9593-8F3298C6EA0B",
+        "type": "message",
+        "text": "<@U04J38PLGM6> \n上記更新しております\n宜しくお願い致します",
+        "user": "U04JJB0MTB7",
+        "ts": "1675681375.105809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8z\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n上記更新しております\n宜しくお願い致します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675681375.105809",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1675681480.569039",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1675681480.569039"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U04JJB0MTB7>\nありがとうございます。",
+        "user": "U04J38PLGM6",
+        "ts": "1675681480.569039",
+        "thread_ts": "1675681375.105809",
+        "root": {
+            "client_msg_id": "7E087AFB-B9FE-4068-9593-8F3298C6EA0B",
+            "type": "message",
+            "text": "<@U04J38PLGM6> \n上記更新しております\n宜しくお願い致します",
+            "user": "U04JJB0MTB7",
+            "ts": "1675681375.105809",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "8z\/",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " \n上記更新しております\n宜しくお願い致します"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1675681375.105809",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1675681480.569039",
+            "reply_users": [
+                "U04J38PLGM6"
+            ],
+            "replies": [
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1675681480.569039"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DQMp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nありがとうございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a5c791ae-c081-49f7-b435-46533ca64679"
+    },
+    {
+        "client_msg_id": "93b3e793-1cf4-41d2-b250-c9ad567960f7",
+        "type": "message",
+        "text": "64くわきのさんからのリアクション、修正をお願いします　<@U03Q17LBJP3>\nややこしいところあればお知らせください→修正後3.0にしてReplayにお願いします\n&gt; 全体：各ep冒頭の講師略歴のところ、代表著作として、『ルネサンス庭園の精神史』をあげてくださっていますが、本コンテンツにより近い著作ということなら、『ルネサンス　情報革命の時代』になるかと思います。サントリー学芸賞受賞作を強調したいのでしたら、そのままで構いません。\n&gt; \n&gt; ep1\n&gt; ●1:31　キャプション\n&gt; 　「量は質へと転嫁する」\n&gt; 　→「転嫁」という言葉の使用法、これで合っていますでしょうか？「転化」？「変化」？「展開」？「転換」？\n&gt; \n&gt; \n&gt; ●2:43　キャプション」\n&gt; 　「情報という観念」\n&gt; 　→たしかに口頭では、「かんねん」と言っていますが、ここでは「観点」を意図していたと思います。「観点」のほうが、意味が分かりやすいです。あるいはキャプションを「観念／観点」としても、いいかもしれません。\n&gt; \n&gt; \n&gt; ●16:06　キャプション\n&gt; 　「アントニオ・ヴェサリウス」　→　「アンドレアス・ウェサリウス」\n&gt; \n&gt; \n&gt; ●23:17　キャプション\n&gt; 　「古代ギリシア」　→　「古代ギリシア・ローマ」\n&gt; \n&gt; \n&gt; ep3\n&gt; ●21:49　キャプション\n&gt; 　「コンテキスト」　→　「コンテクスト」\n&gt; \n&gt; \n&gt; \n&gt; \n&gt; なお、ep3の後半で、\n&gt; 幾何学的な都市計画…について語るところ、\n&gt; 今挿入されているイメージでもOKですが、\n&gt; たとえば、イタリアにある、Palmanovaの画像\n&gt; なんかをつかうと、もっと効果的かと思います。\n&gt; ご参考までに、画像を添付します。\n&gt; \n&gt; 以上、よろしくお願いいたします",
+        "user": "U03CXUXB5PF",
+        "ts": "1675745594.573029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2xe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "64くわきのさんからのリアクション、修正をお願いします　"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nややこしいところあればお知らせください→修正後3.0にしてReplayにお願いします\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "全体：各ep冒頭の講師略歴のところ、代表著作として、『ルネサンス庭園の精神史』をあげてくださっていますが、本コンテンツにより近い著作ということなら、『ルネサンス　情報革命の時代』になるかと思います。サントリー学芸賞受賞作を強調したいのでしたら、そのままで構いません。\n\nep1\n●1:31　キャプション\n　「量は質へと転嫁する」\n　→「転嫁」という言葉の使用法、これで合っていますでしょうか？「転化」？「変化」？「展開」？「転換」？\n\n\n●2:43　キャプション」\n　「情報という観念」\n　→たしかに口頭では、「かんねん」と言っていますが、ここでは「観点」を意図していたと思います。「観点」のほうが、意味が分かりやすいです。あるいはキャプションを「観念／観点」としても、いいかもしれません。\n\n\n●16:06　キャプション\n　「アントニオ・ヴェサリウス」　→　「アンドレアス・ウェサリウス」\n\n\n●23:17　キャプション\n　「古代ギリシア」　→　「古代ギリシア・ローマ」\n\n\nep3\n●21:49　キャプション\n　「コンテキスト」　→　「コンテクスト」\n\n\n\n\nなお、ep3の後半で、\n幾何学的な都市計画…について語るところ、\n今挿入されているイメージでもOKですが、\nたとえば、イタリアにある、Palmanovaの画像\nなんかをつかうと、もっと効果的かと思います。\nご参考までに、画像を添付します。\n\n以上、よろしくお願いいたします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675745594.573029",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1675754549.315439",
+        "reply_users": [
+            "U03Q17LBJP3",
+            "U03CXUXB5PF",
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1675748460.343139"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1675748504.507269"
+            },
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1675748589.768799"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1675753648.559989"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1675753724.014939"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1675754549.315439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675754549.315439"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n&gt; ep1\n&gt; ●1:31　キャプション\n&gt; 　「量は質へと転嫁する」\n&gt; 　→「転嫁」という言葉の使用法、これで合っていますでしょうか？「転化」？「変化」？「展開」？「転換」？\n「転化」でよろしいでしょうか？こちらご確認ください。",
+        "files": [
+            {
+                "id": "F04NCHTB1UJ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03Q17LBJP3",
+        "display_as_bot": false,
+        "ts": "1675748460.343139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aY10c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ep1\n●1:31　キャプション\n　「量は質へと転嫁する」\n　→「転嫁」という言葉の使用法、これで合っていますでしょうか？「転化」？「変化」？「展開」？「転換」？"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n「転化」でよろしいでしょうか？こちらご確認ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "410512d5-824b-443c-9b33-128a759e9523",
+        "thread_ts": "1675745594.573029",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "C0E4E031-CB15-4866-B15A-234357B4FC79",
+        "type": "message",
+        "text": "転化でおねがいします",
+        "user": "U03CXUXB5PF",
+        "ts": "1675748504.507269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x7WJA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "転化でおねがいします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675745594.573029",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U04J38PLGM6> こちら差し替えイメージをお願いします\n&gt; なお、ep3の後半で、\n&gt; 幾何学的な都市計画…について語るところ、\n&gt; 今挿入されているイメージでもOKですが、\n&gt; たとえば、イタリアにある、Palmanovaの画像\n&gt; なんかをつかうと、もっと効果的かと思います。\n&gt; ご参考までに、画像を添付します。\n<@U03CXUXB5PF> 参考でいただいた添付画像の共有をお願いします。",
+        "files": [
+            {
+                "id": "F04NR7CLCBB",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03Q17LBJP3",
+        "display_as_bot": false,
+        "ts": "1675748589.768799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VwVRz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こちら差し替えイメージをお願いします\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なお、ep3の後半で、\n幾何学的な都市計画…について語るところ、\n今挿入されているイメージでもOKですが、\nたとえば、イタリアにある、Palmanovaの画像\nなんかをつかうと、もっと効果的かと思います。\nご参考までに、画像を添付します。"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 参考でいただいた添付画像の共有をお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6d4d3eb7-fd74-4a82-bdf4-64e877dc15a6",
+        "thread_ts": "1675745594.573029",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3>\nこちらが参考になります。",
+        "files": [
+            {
+                "id": "F04NFAKS97E",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1675753648.559989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Lyz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこちらが参考になります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "d3984407-b38a-4741-b6b3-402530670d8f",
+        "thread_ts": "1675745594.573029",
+        "parent_user_id": "U03CXUXB5PF",
+        "subtype": "thread_broadcast",
+        "root": {
+            "client_msg_id": "93b3e793-1cf4-41d2-b250-c9ad567960f7",
+            "type": "message",
+            "text": "64くわきのさんからのリアクション、修正をお願いします　<@U03Q17LBJP3>\nややこしいところあればお知らせください→修正後3.0にしてReplayにお願いします\n&gt; 全体：各ep冒頭の講師略歴のところ、代表著作として、『ルネサンス庭園の精神史』をあげてくださっていますが、本コンテンツにより近い著作ということなら、『ルネサンス　情報革命の時代』になるかと思います。サントリー学芸賞受賞作を強調したいのでしたら、そのままで構いません。\n&gt; \n&gt; ep1\n&gt; ●1:31　キャプション\n&gt; 　「量は質へと転嫁する」\n&gt; 　→「転嫁」という言葉の使用法、これで合っていますでしょうか？「転化」？「変化」？「展開」？「転換」？\n&gt; \n&gt; \n&gt; ●2:43　キャプション」\n&gt; 　「情報という観念」\n&gt; 　→たしかに口頭では、「かんねん」と言っていますが、ここでは「観点」を意図していたと思います。「観点」のほうが、意味が分かりやすいです。あるいはキャプションを「観念／観点」としても、いいかもしれません。\n&gt; \n&gt; \n&gt; ●16:06　キャプション\n&gt; 　「アントニオ・ヴェサリウス」　→　「アンドレアス・ウェサリウス」\n&gt; \n&gt; \n&gt; ●23:17　キャプション\n&gt; 　「古代ギリシア」　→　「古代ギリシア・ローマ」\n&gt; \n&gt; \n&gt; ep3\n&gt; ●21:49　キャプション\n&gt; 　「コンテキスト」　→　「コンテクスト」\n&gt; \n&gt; \n&gt; \n&gt; \n&gt; なお、ep3の後半で、\n&gt; 幾何学的な都市計画…について語るところ、\n&gt; 今挿入されているイメージでもOKですが、\n&gt; たとえば、イタリアにある、Palmanovaの画像\n&gt; なんかをつかうと、もっと効果的かと思います。\n&gt; ご参考までに、画像を添付します。\n&gt; \n&gt; 以上、よろしくお願いいたします",
+            "user": "U03CXUXB5PF",
+            "ts": "1675745594.573029",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "2xe",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "64くわきのさんからのリアクション、修正をお願いします　"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03Q17LBJP3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nややこしいところあればお知らせください→修正後3.0にしてReplayにお願いします\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_quote",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "全体：各ep冒頭の講師略歴のところ、代表著作として、『ルネサンス庭園の精神史』をあげてくださっていますが、本コンテンツにより近い著作ということなら、『ルネサンス　情報革命の時代』になるかと思います。サントリー学芸賞受賞作を強調したいのでしたら、そのままで構いません。\n\nep1\n●1:31　キャプション\n　「量は質へと転嫁する」\n　→「転嫁」という言葉の使用法、これで合っていますでしょうか？「転化」？「変化」？「展開」？「転換」？\n\n\n●2:43　キャプション」\n　「情報という観念」\n　→たしかに口頭では、「かんねん」と言っていますが、ここでは「観点」を意図していたと思います。「観点」のほうが、意味が分かりやすいです。あるいはキャプションを「観念／観点」としても、いいかもしれません。\n\n\n●16:06　キャプション\n　「アントニオ・ヴェサリウス」　→　「アンドレアス・ウェサリウス」\n\n\n●23:17　キャプション\n　「古代ギリシア」　→　「古代ギリシア・ローマ」\n\n\nep3\n●21:49　キャプション\n　「コンテキスト」　→　「コンテクスト」\n\n\n\n\nなお、ep3の後半で、\n幾何学的な都市計画…について語るところ、\n今挿入されているイメージでもOKですが、\nたとえば、イタリアにある、Palmanovaの画像\nなんかをつかうと、もっと効果的かと思います。\nご参考までに、画像を添付します。\n\n以上、よろしくお願いいたします"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1675745594.573029",
+            "reply_count": 6,
+            "reply_users_count": 3,
+            "latest_reply": "1675754549.315439",
+            "reply_users": [
+                "U03Q17LBJP3",
+                "U03CXUXB5PF",
+                "U04J38PLGM6"
+            ],
+            "replies": [
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1675748460.343139"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1675748504.507269"
+                },
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1675748589.768799"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1675753648.559989"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1675753724.014939"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1675754549.315439"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1675754549.315439"
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3>\nもうちょっと左右あった方がいいと思ったので、以下の購入を検討していますが、大丈夫でしょうか？",
+        "files": [
+            {
+                "id": "F04NCS9UP1Q",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1675753724.014939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3AEXR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nもうちょっと左右あった方がいいと思ったので、以下の購入を検討していますが、大丈夫でしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a74fae6e-7093-4933-9ec9-4192516baff7",
+        "thread_ts": "1675745594.573029",
+        "parent_user_id": "U03CXUXB5PF",
+        "subtype": "thread_broadcast",
+        "root": {
+            "client_msg_id": "93b3e793-1cf4-41d2-b250-c9ad567960f7",
+            "type": "message",
+            "text": "64くわきのさんからのリアクション、修正をお願いします　<@U03Q17LBJP3>\nややこしいところあればお知らせください→修正後3.0にしてReplayにお願いします\n&gt; 全体：各ep冒頭の講師略歴のところ、代表著作として、『ルネサンス庭園の精神史』をあげてくださっていますが、本コンテンツにより近い著作ということなら、『ルネサンス　情報革命の時代』になるかと思います。サントリー学芸賞受賞作を強調したいのでしたら、そのままで構いません。\n&gt; \n&gt; ep1\n&gt; ●1:31　キャプション\n&gt; 　「量は質へと転嫁する」\n&gt; 　→「転嫁」という言葉の使用法、これで合っていますでしょうか？「転化」？「変化」？「展開」？「転換」？\n&gt; \n&gt; \n&gt; ●2:43　キャプション」\n&gt; 　「情報という観念」\n&gt; 　→たしかに口頭では、「かんねん」と言っていますが、ここでは「観点」を意図していたと思います。「観点」のほうが、意味が分かりやすいです。あるいはキャプションを「観念／観点」としても、いいかもしれません。\n&gt; \n&gt; \n&gt; ●16:06　キャプション\n&gt; 　「アントニオ・ヴェサリウス」　→　「アンドレアス・ウェサリウス」\n&gt; \n&gt; \n&gt; ●23:17　キャプション\n&gt; 　「古代ギリシア」　→　「古代ギリシア・ローマ」\n&gt; \n&gt; \n&gt; ep3\n&gt; ●21:49　キャプション\n&gt; 　「コンテキスト」　→　「コンテクスト」\n&gt; \n&gt; \n&gt; \n&gt; \n&gt; なお、ep3の後半で、\n&gt; 幾何学的な都市計画…について語るところ、\n&gt; 今挿入されているイメージでもOKですが、\n&gt; たとえば、イタリアにある、Palmanovaの画像\n&gt; なんかをつかうと、もっと効果的かと思います。\n&gt; ご参考までに、画像を添付します。\n&gt; \n&gt; 以上、よろしくお願いいたします",
+            "user": "U03CXUXB5PF",
+            "ts": "1675745594.573029",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "2xe",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "64くわきのさんからのリアクション、修正をお願いします　"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03Q17LBJP3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nややこしいところあればお知らせください→修正後3.0にしてReplayにお願いします\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_quote",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "全体：各ep冒頭の講師略歴のところ、代表著作として、『ルネサンス庭園の精神史』をあげてくださっていますが、本コンテンツにより近い著作ということなら、『ルネサンス　情報革命の時代』になるかと思います。サントリー学芸賞受賞作を強調したいのでしたら、そのままで構いません。\n\nep1\n●1:31　キャプション\n　「量は質へと転嫁する」\n　→「転嫁」という言葉の使用法、これで合っていますでしょうか？「転化」？「変化」？「展開」？「転換」？\n\n\n●2:43　キャプション」\n　「情報という観念」\n　→たしかに口頭では、「かんねん」と言っていますが、ここでは「観点」を意図していたと思います。「観点」のほうが、意味が分かりやすいです。あるいはキャプションを「観念／観点」としても、いいかもしれません。\n\n\n●16:06　キャプション\n　「アントニオ・ヴェサリウス」　→　「アンドレアス・ウェサリウス」\n\n\n●23:17　キャプション\n　「古代ギリシア」　→　「古代ギリシア・ローマ」\n\n\nep3\n●21:49　キャプション\n　「コンテキスト」　→　「コンテクスト」\n\n\n\n\nなお、ep3の後半で、\n幾何学的な都市計画…について語るところ、\n今挿入されているイメージでもOKですが、\nたとえば、イタリアにある、Palmanovaの画像\nなんかをつかうと、もっと効果的かと思います。\nご参考までに、画像を添付します。\n\n以上、よろしくお願いいたします"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1675745594.573029",
+            "reply_count": 6,
+            "reply_users_count": 3,
+            "latest_reply": "1675754549.315439",
+            "reply_users": [
+                "U03Q17LBJP3",
+                "U03CXUXB5PF",
+                "U04J38PLGM6"
+            ],
+            "replies": [
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1675748460.343139"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1675748504.507269"
+                },
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1675748589.768799"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1675753648.559989"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1675753724.014939"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1675754549.315439"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1675754549.315439"
+        }
+    },
+    {
+        "client_msg_id": "fa2e4035-3ce7-45b2-995a-836a03a67a7b",
+        "type": "message",
+        "text": "どうぞー　使う時はもうちょい詰めた方がいいと思いますけど",
+        "user": "U03CXUXB5PF",
+        "ts": "1675753799.243579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q7Q0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どうぞー　使う時はもうちょい詰めた方がいいと思いますけど"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3>\n画像をDROPBOXにアップロードしました。\n街の形が切れない程度にサイズを詰めてください。",
+        "files": [
+            {
+                "id": "F04N9VC6LVB",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1675754549.315439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rDA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n画像をDROPBOXにアップロードしました。\n街の形が切れない程度にサイズを詰めてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "31936b83-5f22-47aa-8110-b62048b7a8d8",
+        "thread_ts": "1675745594.573029",
+        "parent_user_id": "U03CXUXB5PF",
+        "subtype": "thread_broadcast",
+        "root": {
+            "client_msg_id": "93b3e793-1cf4-41d2-b250-c9ad567960f7",
+            "type": "message",
+            "text": "64くわきのさんからのリアクション、修正をお願いします　<@U03Q17LBJP3>\nややこしいところあればお知らせください→修正後3.0にしてReplayにお願いします\n&gt; 全体：各ep冒頭の講師略歴のところ、代表著作として、『ルネサンス庭園の精神史』をあげてくださっていますが、本コンテンツにより近い著作ということなら、『ルネサンス　情報革命の時代』になるかと思います。サントリー学芸賞受賞作を強調したいのでしたら、そのままで構いません。\n&gt; \n&gt; ep1\n&gt; ●1:31　キャプション\n&gt; 　「量は質へと転嫁する」\n&gt; 　→「転嫁」という言葉の使用法、これで合っていますでしょうか？「転化」？「変化」？「展開」？「転換」？\n&gt; \n&gt; \n&gt; ●2:43　キャプション」\n&gt; 　「情報という観念」\n&gt; 　→たしかに口頭では、「かんねん」と言っていますが、ここでは「観点」を意図していたと思います。「観点」のほうが、意味が分かりやすいです。あるいはキャプションを「観念／観点」としても、いいかもしれません。\n&gt; \n&gt; \n&gt; ●16:06　キャプション\n&gt; 　「アントニオ・ヴェサリウス」　→　「アンドレアス・ウェサリウス」\n&gt; \n&gt; \n&gt; ●23:17　キャプション\n&gt; 　「古代ギリシア」　→　「古代ギリシア・ローマ」\n&gt; \n&gt; \n&gt; ep3\n&gt; ●21:49　キャプション\n&gt; 　「コンテキスト」　→　「コンテクスト」\n&gt; \n&gt; \n&gt; \n&gt; \n&gt; なお、ep3の後半で、\n&gt; 幾何学的な都市計画…について語るところ、\n&gt; 今挿入されているイメージでもOKですが、\n&gt; たとえば、イタリアにある、Palmanovaの画像\n&gt; なんかをつかうと、もっと効果的かと思います。\n&gt; ご参考までに、画像を添付します。\n&gt; \n&gt; 以上、よろしくお願いいたします",
+            "user": "U03CXUXB5PF",
+            "ts": "1675745594.573029",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "2xe",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "64くわきのさんからのリアクション、修正をお願いします　"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03Q17LBJP3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nややこしいところあればお知らせください→修正後3.0にしてReplayにお願いします\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_quote",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "全体：各ep冒頭の講師略歴のところ、代表著作として、『ルネサンス庭園の精神史』をあげてくださっていますが、本コンテンツにより近い著作ということなら、『ルネサンス　情報革命の時代』になるかと思います。サントリー学芸賞受賞作を強調したいのでしたら、そのままで構いません。\n\nep1\n●1:31　キャプション\n　「量は質へと転嫁する」\n　→「転嫁」という言葉の使用法、これで合っていますでしょうか？「転化」？「変化」？「展開」？「転換」？\n\n\n●2:43　キャプション」\n　「情報という観念」\n　→たしかに口頭では、「かんねん」と言っていますが、ここでは「観点」を意図していたと思います。「観点」のほうが、意味が分かりやすいです。あるいはキャプションを「観念／観点」としても、いいかもしれません。\n\n\n●16:06　キャプション\n　「アントニオ・ヴェサリウス」　→　「アンドレアス・ウェサリウス」\n\n\n●23:17　キャプション\n　「古代ギリシア」　→　「古代ギリシア・ローマ」\n\n\nep3\n●21:49　キャプション\n　「コンテキスト」　→　「コンテクスト」\n\n\n\n\nなお、ep3の後半で、\n幾何学的な都市計画…について語るところ、\n今挿入されているイメージでもOKですが、\nたとえば、イタリアにある、Palmanovaの画像\nなんかをつかうと、もっと効果的かと思います。\nご参考までに、画像を添付します。\n\n以上、よろしくお願いいたします"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1675745594.573029",
+            "reply_count": 6,
+            "reply_users_count": 3,
+            "latest_reply": "1675754549.315439",
+            "reply_users": [
+                "U03Q17LBJP3",
+                "U03CXUXB5PF",
+                "U04J38PLGM6"
+            ],
+            "replies": [
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1675748460.343139"
+                },
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1675748504.507269"
+                },
+                {
+                    "user": "U03Q17LBJP3",
+                    "ts": "1675748589.768799"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1675753648.559989"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1675753724.014939"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1675754549.315439"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1675754549.315439"
+        },
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

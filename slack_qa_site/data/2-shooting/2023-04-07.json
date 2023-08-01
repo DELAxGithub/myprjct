@@ -1,0 +1,900 @@
+[
+    {
+        "client_msg_id": "067e1fe8-49a5-4d3c-a742-839b6192f3d1",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 103台本のアンダーバー抽出できなくなりました。台本ではアンダーバーあるのですが。",
+        "user": "U04J38PLGM6",
+        "ts": "1680854226.724769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GFa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 103台本のアンダーバー抽出できなくなりました。台本ではアンダーバーあるのですが。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3282773B-A29D-4979-8905-37DBA2288A0C",
+        "type": "message",
+        "text": "ちょっとお待ちを　メニューどうなってる？",
+        "user": "U03CXUXB5PF",
+        "ts": "1680861024.039879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iyr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちょっとお待ちを　メニューどうなってる？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "台本でアンダーバー選ぶとこうなります",
+        "files": [
+            {
+                "id": "F051UPHL8FR",
+                "created": 1680861530,
+                "timestamp": 1680861530,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04J38PLGM6",
+                "user_team": "T03CU6RQ154",
+                "editable": false,
+                "size": 77731,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F051UPHL8FR\/image.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F051UPHL8FR\/download\/image.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F051UPHL8FR-fc452108c9\/image_64.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F051UPHL8FR-fc452108c9\/image_80.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F051UPHL8FR-fc452108c9\/image_360.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360_w": 360,
+                "thumb_360_h": 121,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F051UPHL8FR-fc452108c9\/image_480.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_480_w": 480,
+                "thumb_480_h": 161,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F051UPHL8FR-fc452108c9\/image_160.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F051UPHL8FR-fc452108c9\/image_720.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720_w": 720,
+                "thumb_720_h": 242,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F051UPHL8FR-fc452108c9\/image_800.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_800_w": 800,
+                "thumb_800_h": 269,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F051UPHL8FR-fc452108c9\/image_960.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_960_w": 960,
+                "thumb_960_h": 323,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F051UPHL8FR-fc452108c9\/image_1024.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 344,
+                "original_w": 1522,
+                "original_h": 512,
+                "thumb_tiny": "AwAQADC1OlwWBikCrjnNR+Xef89R+f8A9arlJvX1FAFTy7z\/AJ6j8\/8A61IY7zHEo\/P\/AOtV0MpOAeaWgCj5d7\/z2X8\/\/rVJClwsmZZAy+matUUAf\/\/Z",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/U04J38PLGM6\/F051UPHL8FR\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03CU6RQ154-F051UPHL8FR-afe080074c",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1680861552.193009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=TU9X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "台本でアンダーバー選ぶとこうなります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7e9b078d-673f-46a7-a2dd-8f2e28fa741d"
+    },
+    {
+        "client_msg_id": "7e3f0ee8-4727-40eb-b9b9-6604d865e36f",
+        "type": "message",
+        "text": "了解、ちょっと直します",
+        "user": "U03CXUXB5PF",
+        "ts": "1680862102.169709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wWB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解、ちょっと直します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef00c099-639c-4b40-9a63-015ca4723c49",
+        "type": "message",
+        "text": "<@U04J38PLGM6> 直った！と思う。\nXMLまで作れた？どう？",
+        "user": "U03CXUXB5PF",
+        "ts": "1680863244.194259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1mDo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 直った！と思う。\nXMLまで作れた？どう？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> やはり同じメッセージが出ます。",
+        "files": [
+            {
+                "id": "F052Z45GNPJ",
+                "created": 1680864034,
+                "timestamp": 1680864034,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04J38PLGM6",
+                "user_team": "T03CU6RQ154",
+                "editable": false,
+                "size": 56891,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F052Z45GNPJ\/image.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F052Z45GNPJ\/download\/image.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052Z45GNPJ-fe829744e0\/image_64.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052Z45GNPJ-fe829744e0\/image_80.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052Z45GNPJ-fe829744e0\/image_360.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360_w": 360,
+                "thumb_360_h": 70,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052Z45GNPJ-fe829744e0\/image_480.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_480_w": 480,
+                "thumb_480_h": 94,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052Z45GNPJ-fe829744e0\/image_160.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052Z45GNPJ-fe829744e0\/image_720.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720_w": 720,
+                "thumb_720_h": 141,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052Z45GNPJ-fe829744e0\/image_800.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_800_w": 800,
+                "thumb_800_h": 156,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052Z45GNPJ-fe829744e0\/image_960.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_960_w": 960,
+                "thumb_960_h": 188,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052Z45GNPJ-fe829744e0\/image_1024.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 200,
+                "original_w": 1452,
+                "original_h": 284,
+                "thumb_tiny": "AwAJADCxJau0jMJiATnHPH6037HJ\/wA9z+v+NXaKAKX2OT\/nuf1\/xpDZyf8APdv1\/wAavUUAUfsUn\/Pdv1\/xp8Ns0codpCwHYg1booA\/\/9k=",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/U04J38PLGM6\/F052Z45GNPJ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03CU6RQ154-F052Z45GNPJ-585d3285b9",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1680864061.479969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rv\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " やはり同じメッセージが出ます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "cb5d6b72-eb5a-47fa-9459-61c70f4cb254"
+    },
+    {
+        "client_msg_id": "13194083-309e-4bde-9415-682bfcf26518",
+        "type": "message",
+        "text": "ごめんごめん、直した",
+        "user": "U03CXUXB5PF",
+        "ts": "1680864911.864369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Mbpx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんごめん、直した"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "234635bb-b184-4371-9e5f-85d9fc16b221",
+        "type": "message",
+        "text": "再読み込みしてみてください",
+        "user": "U03CXUXB5PF",
+        "ts": "1680864923.022299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JHp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "再読み込みしてみてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680864923.022299",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1680868973.161939",
+        "reply_users": [
+            "U04J38PLGM6",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1680865247.682599"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1680865698.274059"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1680865714.564529"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1680868440.862319"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1680868489.394259"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1680868667.317789"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1680868962.832699"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1680868973.161939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1680868973.161939"
+    },
+    {
+        "client_msg_id": "c85c5f82-2d0f-45e9-b973-766fef95c038",
+        "type": "message",
+        "text": "できました！",
+        "user": "U04J38PLGM6",
+        "ts": "1680865247.682599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v2Nv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "できました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680864923.022299",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "935C3CCD-2125-4178-815A-B34CCE76FA20",
+        "type": "message",
+        "text": "テロップまでいける？",
+        "user": "U03CXUXB5PF",
+        "ts": "1680865698.274059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qwx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "テロップまでいける？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680864923.022299",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "D823B9EF-FA36-44E8-BB47-218D35E4712B",
+        "type": "message",
+        "text": "一応プレミアで読み込んでみてください",
+        "user": "U03CXUXB5PF",
+        "ts": "1680865714.564529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SgN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一応プレミアで読み込んでみてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680864923.022299",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "文字を読み込むと大きくなるのですが、\n他の回と比較して大きくなります。",
+        "files": [
+            {
+                "id": "F052Z9H48Q0",
+                "created": 1680868394,
+                "timestamp": 1680868394,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04J38PLGM6",
+                "user_team": "T03CU6RQ154",
+                "editable": false,
+                "size": 124404,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F052Z9H48Q0\/image.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F052Z9H48Q0\/download\/image.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052Z9H48Q0-a77c27395e\/image_64.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052Z9H48Q0-a77c27395e\/image_80.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052Z9H48Q0-a77c27395e\/image_360.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360_w": 360,
+                "thumb_360_h": 137,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052Z9H48Q0-a77c27395e\/image_480.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_480_w": 480,
+                "thumb_480_h": 182,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052Z9H48Q0-a77c27395e\/image_160.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052Z9H48Q0-a77c27395e\/image_720.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720_w": 720,
+                "thumb_720_h": 274,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052Z9H48Q0-a77c27395e\/image_800.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_800_w": 800,
+                "thumb_800_h": 304,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052Z9H48Q0-a77c27395e\/image_960.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_960_w": 960,
+                "thumb_960_h": 365,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052Z9H48Q0-a77c27395e\/image_1024.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 389,
+                "original_w": 1232,
+                "original_h": 468,
+                "thumb_tiny": "AwASADDO4x940Hb2Y\/lTaKAHZH940ZH9402igBSTngmkyfWiigAooooAKKKKACiiigD\/2Q==",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/U04J38PLGM6\/F052Z9H48Q0\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03CU6RQ154-F052Z9H48Q0-321a373eee",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F052C3ACVTN",
+                "created": 1680868431,
+                "timestamp": 1680868431,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04J38PLGM6",
+                "user_team": "T03CU6RQ154",
+                "editable": false,
+                "size": 256052,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F052C3ACVTN\/image.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F052C3ACVTN\/download\/image.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052C3ACVTN-c64e34f725\/image_64.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052C3ACVTN-c64e34f725\/image_80.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052C3ACVTN-c64e34f725\/image_360.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360_w": 360,
+                "thumb_360_h": 234,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052C3ACVTN-c64e34f725\/image_480.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_480_w": 480,
+                "thumb_480_h": 312,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052C3ACVTN-c64e34f725\/image_160.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052C3ACVTN-c64e34f725\/image_720.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720_w": 720,
+                "thumb_720_h": 468,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052C3ACVTN-c64e34f725\/image_800.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_800_w": 800,
+                "thumb_800_h": 520,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052C3ACVTN-c64e34f725\/image_960.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_960_w": 960,
+                "thumb_960_h": 624,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F052C3ACVTN-c64e34f725\/image_1024.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 665,
+                "original_w": 1308,
+                "original_h": 850,
+                "thumb_tiny": "AwAfADDO3t60b29aaetFAC7zRvNJRQAu80oY5ptA6igAPWin7PcUoGBjCn8KAI6KkIyei\/lSjp91PyoAioHUVKeeNqD3Apvl45yKAP\/Z",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/U04J38PLGM6\/F052C3ACVTN\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03CU6RQ154-F052C3ACVTN-e27d95cb04",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "ts": "1680868440.862319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pKP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "文字を読み込むと大きくなるのですが、\n他の回と比較して大きくなります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b1231eac-71fd-477a-bc2a-a08dd8d1bd56",
+        "thread_ts": "1680864923.022299",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "bcdfc058-4a37-4f0b-a122-ad7fbce329e3",
+        "type": "message",
+        "text": "どうせスタイル当てるんでいいかなと思ったんですが、スタイル当てられる？",
+        "user": "U03CXUXB5PF",
+        "ts": "1680868489.394259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XzgMM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どうせスタイル当てるんでいいかなと思ったんですが、スタイル当てられる？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680864923.022299",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "c5111475-b1d7-47a7-853a-a3d22dc4247c",
+        "type": "message",
+        "text": "なるほど、そういうことなんですね。スタイルは当て方分からないです。",
+        "user": "U04J38PLGM6",
+        "ts": "1680868667.317789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wgO8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど、そういうことなんですね。スタイルは当て方分からないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680864923.022299",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "09f84c2f-399e-4058-a227-0d4a94c44821",
+        "type": "message",
+        "text": "そのプロジェクトに決まり一式入ってるならすぐやり方説明できるけど、ないならまた今後。",
+        "user": "U03CXUXB5PF",
+        "ts": "1680868962.832699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rEAK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そのプロジェクトに決まり一式入ってるならすぐやり方説明できるけど、ないならまた今後。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680864923.022299",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "ef8a31b6-c061-404f-bf73-13209779a148",
+        "type": "message",
+        "text": "まぁ編集マンの方でやるんでいいですけど。",
+        "user": "U03CXUXB5PF",
+        "ts": "1680868973.161939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "49f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まぁ編集マンの方でやるんでいいですけど。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680864923.022299",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

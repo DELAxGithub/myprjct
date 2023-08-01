@@ -1,0 +1,542 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03G0LAPT3N>\n仮BGM、たりてないかも？\nあとファイル命名がちょっと他と違う？\nご確認くださいー",
+        "files": [
+            {
+                "id": "F044GGURURE",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1664076316.458469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Dz9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n仮BGM、たりてないかも？\nあとファイル命名がちょっと他と違う？\nご確認くださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "09de27e5-f5d0-4ef9-84bc-02739529a0b3",
+        "thread_ts": "1664076316.458469",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1664076695.957589",
+        "reply_users": [
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1664076695.957589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1664076695.957589"
+    },
+    {
+        "client_msg_id": "2E946817-80F1-46DB-844E-8E20DF448A6C",
+        "type": "message",
+        "text": "失礼しました。確認します。",
+        "user": "U03G0LAPT3N",
+        "ts": "1664076695.957589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xDjw1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "失礼しました。確認します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664076316.458469",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DEA049C0-38A2-4DB5-8105-E9AAF599090C",
+        "type": "message",
+        "text": "確認したところ、サーバにはアップされていたものが、Dropboxの表示の問題で欠けて見えるようです。",
+        "user": "U03G0LAPT3N",
+        "ts": "1664077481.026519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QypR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "確認したところ、サーバにはアップされていたものが、Dropboxの表示の問題で欠けて見えるようです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "12797FA9-4ABD-49FA-9E7B-C5DF2FBE320F",
+        "type": "message",
+        "text": "データネームについても、過去の仮BGMと統一しています。\nご確認、よろしくお願いします。",
+        "user": "U03G0LAPT3N",
+        "ts": "1664077520.300739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "859JU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "データネームについても、過去の仮BGMと統一しています。\nご確認、よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "きましたー以下、ドロップボックスってこういうことあるので、もしこれが原因だったらご注意くださいー\n\n&gt; *デスクトップアプリで同期中にパソコンがスリープモードに入ってしまうと、同期が一時停止となります。*\n&gt; 1. *同期*の所要時間が長い場合は、コンピュータはログインされたままの状態で、電源がオンになっており、インターネットに接続されていることを確認してください。 ...\n&gt; 2. *スリープ*モードをオフに設定し、*同期*の完了を待ってください。\n&gt; ",
+        "files": [
+            {
+                "id": "F043V9SCGEQ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1664077671.912669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TOl3x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "きましたー以下、ドロップボックスってこういうことあるので、もしこれが原因だったらご注意くださいー\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "デスクトップアプリで同期中にパソコンがスリープモードに入ってしまうと、同期が一時停止となります。",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "同期",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "の所要時間が長い場合は、コンピュータはログインされたままの状態で、電源がオンになっており、インターネットに接続されていることを確認してください。 ..."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "スリープ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "モードをオフに設定し、"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "同期",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "の完了を待ってください。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "37e5da6e-6297-4b61-9058-8df7fcce4c76",
+        "thread_ts": "1664077671.912669",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1664077751.408809",
+        "reply_users": [
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1664077751.408809"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1664077751.408809"
+    },
+    {
+        "client_msg_id": "963FF8DE-99B7-4DE1-8998-7B9D6FD6538F",
+        "type": "message",
+        "text": "情報ありがとうございます。\n音チームで共有します。",
+        "user": "U03G0LAPT3N",
+        "ts": "1664077751.408809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1PRD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "情報ありがとうございます。\n音チームで共有します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664077671.912669",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A27E2AF2-9578-48A4-B21C-A1409F00EB13",
+        "type": "message",
+        "text": "25中島PR本番は仕込み始めます。",
+        "user": "U03G0LAPT3N",
+        "ts": "1664078231.847989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2g9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "25中島PR本番は仕込み始めます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C27DD1F2-40F7-469B-B0CA-3064BB05535E",
+        "type": "message",
+        "text": "25中島PRのomfが入っていないようでした！",
+        "user": "U03G0LAPT3N",
+        "ts": "1664082601.499529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PiB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "25中島PRのomfが入っていないようでした！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3c857738-48fe-404d-bc87-56240e88b7e2",
+        "type": "message",
+        "text": "アップしましたー",
+        "user": "U03CXUXB5PF",
+        "ts": "1664082843.092779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0sUEH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アップしましたー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F12B6164-7A1E-4CD8-A6BF-8B99A2959995",
+        "type": "message",
+        "text": "ありがとうございます",
+        "user": "U03G0LAPT3N",
+        "ts": "1664084888.789409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EeL4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C8C4A9CA-F67F-4183-A9D8-6A3EBF0DDB3F",
+        "type": "message",
+        "text": "中島PRですが、オープニングにCGがはまっていないようでしたが、SEに関係するので、CGがある状態ですと、助かります。",
+        "user": "U03G0LAPT3N",
+        "ts": "1664085357.337189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VMGAu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "中島PRですが、オープニングにCGがはまっていないようでしたが、SEに関係するので、CGがある状態ですと、助かります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

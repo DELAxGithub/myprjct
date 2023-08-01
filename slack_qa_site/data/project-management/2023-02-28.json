@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "64b812b8-021c-49b2-8a73-48ebfb3d6486",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> #106の担当を1名ではなく複数名にすることは可能でしょうか。\nその方が1人に対する比重が軽減されるかと思いました。",
+        "user": "U03NZ0E09JN",
+        "ts": "1677651481.435779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "duKRS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #106の担当を1名ではなく複数名にすることは可能でしょうか。\nその方が1人に対する比重が軽減されるかと思いました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8f1119fa-f204-4297-a4bd-36bc142dae57",
+        "type": "message",
+        "text": "おまかせします！",
+        "user": "U03CXUXB5PF",
+        "ts": "1677652046.389349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y7NV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おまかせします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

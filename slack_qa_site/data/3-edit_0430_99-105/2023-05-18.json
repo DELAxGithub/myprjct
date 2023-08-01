@@ -1,0 +1,201 @@
+[
+    {
+        "client_msg_id": "3c030387-f501-428f-a0dc-63e3d037c1e8",
+        "type": "message",
+        "text": "<@U03P0T4KQMV> 103清水さん、編アップの通知がきましたが、ドロップボックスにあるプロジェクトは「試写３」とシーケンス名にあり若干不安です。これで書き出し進めていいか確認したいのですがどうでしょうか。",
+        "user": "U054HSHFAAH",
+        "ts": "1684420325.478939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qul",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 103清水さん、編アップの通知がきましたが、ドロップボックスにあるプロジェクトは「試写３」とシーケンス名にあり若干不安です。これで書き出し進めていいか確認したいのですがどうでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "3c0472cbdd87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5181600335649_3c0472cbdd874f9a32ff_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Uramoto",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "kuramoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "06696e52-8c19-4527-b50d-e7920e3ab5dd",
+        "type": "message",
+        "text": "<@U054HSHFAAH>\n89成田 編集アップいたしましたので、ご確認よろしくお願いいたします。",
+        "user": "U04QC17DUEP",
+        "ts": "1684466457.827909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U9=c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U054HSHFAAH"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n89成田 編集アップいたしましたので、ご確認よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "941e1886d9d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-27\/4885567762688_941e1886d9d798cda104_72.jpg",
+            "first_name": "Shota",
+            "real_name": "Shota Sugitani",
+            "display_name": "Shota Sugitani",
+            "team": "T03CU6RQ154",
+            "name": "chrono.sugitani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1684466457.827909",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1684466865.799149",
+        "reply_users": [
+            "U054HSHFAAH"
+        ],
+        "replies": [
+            {
+                "user": "U054HSHFAAH",
+                "ts": "1684466865.799149"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "07fe4a47-5693-4d79-8118-f1f3ecefd521",
+        "type": "message",
+        "text": "ありがとうございます。89はもろもろ確認、書き出しをして技術試写の方に送っております。",
+        "user": "U054HSHFAAH",
+        "ts": "1684466865.799149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kzwf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます。89はもろもろ確認、書き出しをして技術試写の方に送っております。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "3c0472cbdd87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5181600335649_3c0472cbdd874f9a32ff_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Uramoto",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "kuramoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1684466457.827909",
+        "parent_user_id": "U04QC17DUEP",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04QC17DUEP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2a940e26-5cf1-48a2-9a28-6b8bfd25de88",
+        "type": "message",
+        "text": "<@U054HSHFAAH>\n94＿泉谷\n編集アップいたしましたので、ご確認よろしくお願いいたします。",
+        "user": "U03Q17LBJP3",
+        "ts": "1684469768.225629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "smI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U054HSHFAAH"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n94＿泉谷\n編集アップいたしましたので、ご確認よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U054HSHFAAH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

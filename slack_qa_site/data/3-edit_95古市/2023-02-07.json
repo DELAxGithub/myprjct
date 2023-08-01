@@ -1,0 +1,144 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03RA83HRN0> <@U03CXUXB5PF> お待たせしてすみません。95古市さんのイメージ素材とテロップをアップしました。よろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F04MZUGMFAB",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03V84JSHNK",
+        "display_as_bot": false,
+        "ts": "1675773751.121989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wc6y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お待たせしてすみません。95古市さんのイメージ素材とテロップをアップしました。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6c5d3422-3f24-471b-8928-75a11b694d74",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a2817028-62a2-41a4-928f-f3b0ef31e33e",
+        "type": "message",
+        "text": "ありがとうございます！",
+        "user": "U03RA83HRN0",
+        "ts": "1675774983.416659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3SQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ccbedfd5-64a0-45fa-bffa-e6fdcf986d3a",
+        "type": "message",
+        "text": "<@U03RA83HRN0> op\/edも決めました ダイジェストパートは本編からテロップごと持ってきちゃってください。まとめとかはお手元でコピペで作った方が早いかも。\nよろしくお願いいたします",
+        "user": "U03CXUXB5PF",
+        "ts": "1675820413.630329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KgW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " op\/edも決めました ダイジェストパートは本編からテロップごと持ってきちゃってください。まとめとかはお手元でコピペで作った方が早いかも。\nよろしくお願いいたします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

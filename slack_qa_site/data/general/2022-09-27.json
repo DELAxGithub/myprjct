@@ -1,0 +1,138 @@
+[
+    {
+        "client_msg_id": "4d7384b7-9d90-4e3a-b33d-b663bee0be82",
+        "type": "message",
+        "text": "福田、高山、小山参加いたします。\n石橋さんは別件で参加は控えますとのことです。\nよろしくお願いいたします。",
+        "user": "U03NZ0E09JN",
+        "ts": "1664279551.821849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e8l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "福田、高山、小山参加いたします。\n石橋さんは別件で参加は控えますとのことです。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664238153.407749",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "9a84fcdc-f673-4d78-abae-21050836fa47",
+        "type": "message",
+        "text": "<https:\/\/us02web.zoom.us\/j\/3423637728>\nです　議事録というか進捗表・マニュアルも使いながらになりますのでそちらも開いといてくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1664333802.921829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hhSm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/3423637728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nです　議事録というか進捗表・マニュアルも使いながらになりますのでそちらも開いといてくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c6287c36-12d1-4f05-a3ee-1aaa16bba7b0",
+        "type": "message",
+        "text": "会議の録画はこちら\nKDDI2022\/99_Pr\/編集マニュアル\/0929会議video1036171704.mp4",
+        "user": "U03CXUXB5PF",
+        "ts": "1664339645.521179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YbSzM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "会議の録画はこちら\nKDDI2022\/99_Pr\/編集マニュアル\/0929会議video1036171704.mp4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

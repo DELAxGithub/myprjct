@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "065af943-9236-4216-9914-893d5695744a",
+        "type": "message",
+        "text": "11\/16 水曜\n*在庫　試写1（３）　MA（０）　試写2（2）*\n\n引き続きMA待ちです\n現状〜５０までのがなんとなくゴールが見えてきました\n１２月から５１〜となりますが、これをシーズン２ということ\nやり方諸々の確認を改めてさせてください。\n\n<#C03D36KA10U|general> にて金曜の会議日程の相談をさせていただきたいです。",
+        "user": "U03CXUXB5PF",
+        "ts": "1668560400.197059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n5t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "11\/16 水曜\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "在庫　試写1（３）　MA（０）　試写2（2）",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n引き続きMA待ちです\n現状〜５０までのがなんとなくゴールが見えてきました\n１２月から５１〜となりますが、これをシーズン２ということ\nやり方諸々の確認を改めてさせてください。\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03D36KA10U"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にて金曜の会議日程の相談をさせていただきたいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

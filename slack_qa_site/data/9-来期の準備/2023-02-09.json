@@ -1,0 +1,114 @@
+[
+    {
+        "client_msg_id": "dceff123-9f69-4714-b4d2-ff6c07ef9362",
+        "type": "message",
+        "text": "講師探しメモ\nTOPページ | academist Journal\n<https:\/\/academist-cf.com\/journal\/>",
+        "user": "U03CXUXB5PF",
+        "ts": "1675980277.407639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FxP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "講師探しメモ\nTOPページ | academist Journal\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/academist-cf.com\/journal\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/academist-cf.com\/journal\/",
+                "ts": 1634669917,
+                "service_icon": "https:\/\/academist-cf.com\/journal\/wp-content\/uploads\/2018\/12\/cropped-aJ-1-180x180.jpg",
+                "id": 1,
+                "original_url": "https:\/\/academist-cf.com\/journal\/",
+                "fallback": "academist Journal",
+                "text": "Welcome to academist Journal - see blog posts",
+                "title": "academist Journal",
+                "title_link": "https:\/\/academist-cf.com\/journal\/",
+                "service_name": "academist-cf.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "074525ec-d2d0-4f5b-aa8a-8bc9db100246",
+        "type": "message",
+        "text": "メモ\n\n毎日出版文化賞 - Wikipedia\n<https:\/\/ja.wikipedia.org\/wiki\/%E6%AF%8E%E6%97%A5%E5%87%BA%E7%89%88%E6%96%87%E5%8C%96%E8%B3%9E>",
+        "user": "U03CXUXB5PF",
+        "ts": "1675986787.188769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MyU3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メモ\n\n毎日出版文化賞 - Wikipedia\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ja.wikipedia.org\/wiki\/%E6%AF%8E%E6%97%A5%E5%87%BA%E7%89%88%E6%96%87%E5%8C%96%E8%B3%9E"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ja.wikipedia.org\/wiki\/%E6%AF%8E%E6%97%A5%E5%87%BA%E7%89%88%E6%96%87%E5%8C%96%E8%B3%9E",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1,
+                "original_url": "https:\/\/ja.wikipedia.org\/wiki\/%E6%AF%8E%E6%97%A5%E5%87%BA%E7%89%88%E6%96%87%E5%8C%96%E8%B3%9E",
+                "fallback": "wikipedia: 毎日出版文化賞",
+                "text": "毎日出版文化賞（まいにちしゅっぱんぶんかしょう）は、毎日新聞社が主催（特別協力大日本印刷株式会社）する、優秀な出版物を対象とした文学・文化賞である。1947年に創設。毎年11月に受賞者が発表され、授賞式が東京で行われる。",
+                "title": "毎日出版文化賞",
+                "title_link": "https:\/\/ja.wikipedia.org\/wiki\/%E6%AF%8E%E6%97%A5%E5%87%BA%E7%89%88%E6%96%87%E5%8C%96%E8%B3%9E",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/ja.wikipedia.org\/"
+            }
+        ]
+    }
+]

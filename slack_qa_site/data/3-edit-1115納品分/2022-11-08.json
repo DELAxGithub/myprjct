@@ -1,0 +1,491 @@
+[
+    {
+        "client_msg_id": "6338DF66-F20F-467C-A44E-C2DAB7A74B06",
+        "type": "message",
+        "text": "音も使います\nあら、そうでしたか。。\nちょっと確認します。\n",
+        "user": "U03CXUXB5PF",
+        "ts": "1667907123.152299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F1N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "音も使います\nあら、そうでしたか。。\nちょっと確認します。\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667870644.101799",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n【45藤垣】wavを入れ、試写２前の手元試写を行いました。\n概ね問題ありませんでしたが、MA部分で迷った点があり、共有致します。\n\n【ep1】00:24 「みんな一流であった」文末の声がMA後に消えてしまっています※添付\n\nいかがでしょうか…問題無さそうであれば、Replayアップを行います。",
+        "files": [
+            {
+                "id": "F049ZH77XLK",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NJATSEBH",
+        "display_as_bot": false,
+        "ts": "1667917037.876649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UGbbo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n【45藤垣】wavを入れ、試写２前の手元試写を行いました。\n概ね問題ありませんでしたが、MA部分で迷った点があり、共有致します。\n\n【ep1】00:24 「みんな一流であった」文末の声がMA後に消えてしまっています※添付\n\nいかがでしょうか…問題無さそうであれば、Replayアップを行います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8d8db46d-552d-48cb-898f-304e37c8df83"
+    },
+    {
+        "client_msg_id": "309df434-6e73-4c91-a257-98a38aceee56",
+        "type": "message",
+        "text": "<@U03NJATSEBH> このちょっと後ってどうなってます？",
+        "user": "U03CXUXB5PF",
+        "ts": "1667917094.082869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZEA99",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " このちょっと後ってどうなってます？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667917094.082869",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1667921318.943999",
+        "reply_users": [
+            "U03NJATSEBH",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1667917264.223609"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1667917309.209919"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1667917338.955299"
+            },
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1667917525.876399"
+            },
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1667921318.943999"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1667921318.943999"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> こんな感じです",
+        "files": [
+            {
+                "id": "F04APC7SC3S",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NJATSEBH",
+        "display_as_bot": false,
+        "ts": "1667917264.223609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Ys",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こんな感じです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "e9321aa7-670c-4ee7-b1bb-1822b9ec5bf7",
+        "thread_ts": "1667917094.082869",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "07cbab0e-8d31-4e87-9505-0e78dff6257b",
+        "type": "message",
+        "text": "元素材だと、「あって」になってるってことか。\nまぁ綺麗にしたんじゃないですかね。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667917309.209919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "82DgB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "元素材だと、「あって」になってるってことか。\nまぁ綺麗にしたんじゃないですかね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667917094.082869",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "a8000627-ab80-4446-b0f8-2168589523dd",
+        "type": "message",
+        "text": "元素材と聞き比べてこっちの方が違和感なければ、これでいいかと思います。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667917338.955299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aFTT2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "元素材と聞き比べてこっちの方が違和感なければ、これでいいかと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667917094.082869",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6820b820-89ac-4b98-b587-4d50e193623c",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 承知いたしました。それでは、こちらでReplayアップを\n行ってまいります。",
+        "user": "U03NJATSEBH",
+        "ts": "1667917525.876399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v4J3i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 承知いたしました。それでは、こちらでReplayアップを\n行ってまいります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667917094.082869",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "a8d0d24a-8837-4328-b82b-35dcfa50da8b",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 45藤垣、試写2をReplayにアップいたしました。",
+        "user": "U03NJATSEBH",
+        "ts": "1667921318.943999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GKmGm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 45藤垣、試写2をReplayにアップいたしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667917094.082869",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03NJATSEBH> ありがとうございます　アップしたらIn reviewに変更をお願いします\nMAと2.0を統一した方がいいかもですね。試写2.0でしょうか。",
+        "files": [
+            {
+                "id": "F049L17CG0P",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1667924601.293239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "euBac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます　アップしたらIn reviewに変更をお願いします\nMAと2.0を統一した方がいいかもですね。試写2.0でしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6920ebf1-b128-4bf0-9961-b0819819130b",
+        "thread_ts": "1667924601.293239",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1667956034.557349",
+        "reply_users": [
+            "U03NJATSEBH"
+        ],
+        "replies": [
+            {
+                "user": "U03NJATSEBH",
+                "ts": "1667956034.557349"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1667956034.557349"
+    },
+    {
+        "client_msg_id": "23e89841-be2d-4cc4-ad40-4aec5ab2024d",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 失礼いたしました！試写2.0にリネームいたしました。",
+        "user": "U03NJATSEBH",
+        "ts": "1667956034.557349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jOLRx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 失礼いたしました！試写2.0にリネームいたしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667924601.293239",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

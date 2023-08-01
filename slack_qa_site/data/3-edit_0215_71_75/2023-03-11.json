@@ -1,0 +1,156 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03RA83HRN0>\npsdをdropboxに入れてください。",
+        "files": [
+            {
+                "id": "F04U78TSPNU",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1678569123.331889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y4cl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\npsdをdropboxに入れてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f1751a26-142b-46c5-9b88-0e60247cdfe7",
+        "thread_ts": "1678242205.980549",
+        "parent_user_id": "U03RA83HRN0",
+        "subtype": "thread_broadcast",
+        "root": {
+            "client_msg_id": "902c1efd-69e1-41b0-b58f-fedfbb87ac31",
+            "type": "message",
+            "text": "<@U04J38PLGM6> <@U03CXUXB5PF>\n71_石塚の最終版をフォルダに上げました。\n足りないものがありましたらご連絡ください。\nよろしくお願いいたします。",
+            "user": "U03RA83HRN0",
+            "ts": "1678242205.980549",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ZH6l1",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03CXUXB5PF"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n71_石塚の最終版をフォルダに上げました。\n足りないものがありましたらご連絡ください。\nよろしくお願いいたします。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "edited": {
+                "user": "U03RA83HRN0",
+                "ts": "1678242230.000000"
+            },
+            "thread_ts": "1678242205.980549",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1678591332.713689",
+            "reply_users": [
+                "U04J38PLGM6",
+                "U03RA83HRN0"
+            ],
+            "replies": [
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1678569123.331889"
+                },
+                {
+                    "user": "U03RA83HRN0",
+                    "ts": "1678591332.713689"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1678591332.713689"
+        }
+    },
+    {
+        "client_msg_id": "38a7b45c-826f-43bb-ad69-9e60bc7b7fdd",
+        "type": "message",
+        "text": "<@U04J38PLGM6>\n失礼いたしました。\ntwのアップいたしました。\nよろしくお願いいたします。",
+        "user": "U03RA83HRN0",
+        "ts": "1678591332.713689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3+N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n失礼いたしました。\ntwのアップいたしました。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678242205.980549",
+        "parent_user_id": "U03RA83HRN0",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

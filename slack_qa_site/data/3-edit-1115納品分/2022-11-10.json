@@ -1,0 +1,277 @@
+[
+    {
+        "client_msg_id": "6146bb1b-6b98-477a-9ad9-ada5788169e5",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 49川上\nとりいそぎep1のMA用QT・OMFアップしております",
+        "user": "U03Q17LBJP3",
+        "ts": "1668072157.143209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6\/jm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 49川上\nとりいそぎep1のMA用QT・OMFアップしております"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "61e88bcb-969f-46d7-ab58-fb7c1f30cf48",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n50森山試写2.0をReplyにアップしております。よろしくお願いします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1668074382.629119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lYLXE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n50森山試写2.0をReplyにアップしております。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668074382.629119",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1668076878.180489",
+        "reply_users": [
+            "U03P0T4KQMV"
+        ],
+        "replies": [
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1668076878.180489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1668076878.180489",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U040YCC00V6> <@U03V84JSHNK> \n50森山のあらすじのイメージカットですが、動画ではなく静止画の方がよいということでしたので\n手配していただければと思います。\nよろしくお願いします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1668076878.180489",
+        "thread_ts": "1668074382.629119",
+        "root": {
+            "client_msg_id": "61e88bcb-969f-46d7-ab58-fb7c1f30cf48",
+            "type": "message",
+            "text": "<@U03CXUXB5PF>\n50森山試写2.0をReplyにアップしております。よろしくお願いします。",
+            "user": "U03P0T4KQMV",
+            "ts": "1668074382.629119",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "lYLXE",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03CXUXB5PF"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n50森山試写2.0をReplyにアップしております。よろしくお願いします。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1668074382.629119",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1668076878.180489",
+            "reply_users": [
+                "U03P0T4KQMV"
+            ],
+            "replies": [
+                {
+                    "user": "U03P0T4KQMV",
+                    "ts": "1668076878.180489"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1668076878.180489"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f1Cxk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n50森山のあらすじのイメージカットですが、動画ではなく静止画の方がよいということでしたので\n手配していただければと思います。\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "FAB7EDE6-B0C2-4515-AB17-F832984CC0E4",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "176a866c-4ef3-45dd-828f-7256cb13aca8",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n49川上\nのこりののMA用QT・OMFアップしております",
+        "user": "U03Q17LBJP3",
+        "ts": "1668148306.628409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "htG5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n49川上\nのこりののMA用QT・OMFアップしております"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

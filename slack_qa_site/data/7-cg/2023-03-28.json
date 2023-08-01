@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "ce8ce7a7-0d52-46a3-bc4c-d81a0f83361d",
+        "type": "message",
+        "text": "<@U03V84JSHNK> <@U03CXUXB5PF> 上記画像でよろしければ、格納いたしますが、いかがでしょうか？",
+        "user": "U041XC6213P",
+        "ts": "1680069103.531779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ekh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 上記画像でよろしければ、格納いたしますが、いかがでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679824328.197999",
+        "parent_user_id": "U03V84JSHNK"
+    }
+]

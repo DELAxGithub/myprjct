@@ -1,0 +1,128 @@
+[
+    {
+        "client_msg_id": "99a8987e-7af2-4fd1-94ca-410a67f4eee4",
+        "type": "message",
+        "text": "まぁこうなるわな。\n<http:\/\/xn--ai-cq8dt11f.com|AI素材.com>\n<https:\/\/aisozai.com\/>\n\nイメージカットいいのなかったら、ここで勝手に作ってください。\n\n<@U03V84JSHNK> <@U04J38PLGM6> コツを習得するとかなり捗ると思うので、ぜひチャレンジを。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1673138487.227819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fgOh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まぁこうなるわな。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/xn--ai-cq8dt11f.com",
+                                "text": "AI素材.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/aisozai.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nイメージカットいいのなかったら、ここで勝手に作ってください。\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " コツを習得するとかなり捗ると思うので、ぜひチャレンジを。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1673138571.000000"
+        }
+    },
+    {
+        "client_msg_id": "DE93EDDC-FE26-4B6B-862F-ECF2965611F7",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> \nこれはすごいですね。使ってみます。",
+        "user": "U04J38PLGM6",
+        "ts": "1673138750.683709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SP7Q9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nこれはすごいですね。使ってみます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "mechanical_arm",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

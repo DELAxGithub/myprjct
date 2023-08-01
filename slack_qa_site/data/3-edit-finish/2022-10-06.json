@@ -1,0 +1,1596 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1665043865.053199",
+        "user": "U03NJGXEPL7",
+        "text": "<@U03NJGXEPL7>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "48dce18b-6ee9-413e-bfc3-b4c5803dbac2",
+        "type": "message",
+        "text": "<@U040YCC00V6> 書き出し依頼です。\n【39 松永】1010納品分\n試写2(enc.5)\n\nよろしくお願いします。",
+        "user": "U03Q17LBJP3",
+        "ts": "1665047027.890229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xOc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 書き出し依頼です。\n【39 松永】1010納品分\n試写2(enc.5)\n\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665047027.890229",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1665047670.736229",
+        "reply_users": [
+            "U040YCC00V6"
+        ],
+        "replies": [
+            {
+                "user": "U040YCC00V6",
+                "ts": "1665047670.736229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "enc5ってこれ",
+        "files": [
+            {
+                "id": "F044YHWKYTZ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1665047168.848149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kcc\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "enc5ってこれ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f6ab3424-4f7a-4068-a862-ab289db78a19"
+    },
+    {
+        "type": "message",
+        "text": "enc1~4",
+        "files": [
+            {
+                "id": "F045D56ASTU",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1665047257.244409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XRn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "enc1~4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f3291640-55e2-41a7-8f56-235ab40e6c95"
+    },
+    {
+        "client_msg_id": "2F2893EA-9FD2-4C9C-B79A-A1F16FF2C4BC",
+        "type": "message",
+        "text": "了解です",
+        "user": "U040YCC00V6",
+        "ts": "1665047670.736229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7H7U=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665047027.890229",
+        "parent_user_id": "U03Q17LBJP3"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U040YCC00V6>\nすいません、私の書き方が悪かったのですが、\n43平岡、44筒井はクライアントReplay試写１(enc.2)へお願いいたします。\n「KDDI_41-50_1試写」です。",
+        "user": "U03NZ0E09JN",
+        "ts": "1665053386.666919",
+        "thread_ts": "1665026424.723429",
+        "root": {
+            "client_msg_id": "f3100411-63c4-4f52-8433-d9d630c8b7a1",
+            "type": "message",
+            "text": "<@U040YCC00V6>\n\n書き出しをお願いいたします。\n33中野→MA発注(enc.4)\n43平岡→試写１(enc.2)\n44筒井→試写１(enc.2)\n\n39松永→今手元試写中なので少々お待ちください。終わり次第ご連絡いたします。",
+            "user": "U03NZ0E09JN",
+            "ts": "1665026424.723429",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "rJO",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U040YCC00V6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n書き出しをお願いいたします。\n33中野→MA発注(enc.4)\n43平岡→試写１(enc.2)\n44筒井→試写１(enc.2)\n\n39松永→今手元試写中なので少々お待ちください。終わり次第ご連絡いたします。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1665026424.723429",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1665053496.853449",
+            "reply_users": [
+                "U040YCC00V6",
+                "U03NZ0E09JN"
+            ],
+            "replies": [
+                {
+                    "user": "U040YCC00V6",
+                    "ts": "1665026478.079779"
+                },
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1665053386.666919"
+                },
+                {
+                    "user": "U040YCC00V6",
+                    "ts": "1665053496.853449"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bqs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nすいません、私の書き方が悪かったのですが、\n43平岡、44筒井はクライアントReplay試写１(enc.2)へお願いいたします。\n「KDDI_41-50_1試写」です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4368e65f-41d4-4afc-838b-5172055c1a8e"
+    },
+    {
+        "client_msg_id": "1D32A349-0AF7-42C8-8812-D03D5D85DF63",
+        "type": "message",
+        "text": "はい今その通りに書き出してます。\n終わり次第replayにあげますので",
+        "user": "U040YCC00V6",
+        "ts": "1665053496.853449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P8JW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい今その通りに書き出してます。\n終わり次第replayにあげますので"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665026424.723429",
+        "parent_user_id": "U03NZ0E09JN",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "75156b57-0d71-45e1-bba4-79aab7eeba2c",
+        "type": "message",
+        "text": "<@U040YCC00V6>　書き出し依頼です。\n【31土井】1010納品分　の　ep2、ep3、PR\n手元試写2\n\n双六でいうところのenc.5の左、黄色の台形のマスです\nよろしくお願いします。",
+        "user": "U03Q17LBJP3",
+        "ts": "1665064301.703049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R9=yJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　書き出し依頼です。\n【31土井】1010納品分　の　ep2、ep3、PR\n手元試写2\n\n双六でいうところのenc.5の左、黄色の台形のマスです\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665064301.703049",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1665081947.550719",
+        "reply_users": [
+            "U040YCC00V6"
+        ],
+        "replies": [
+            {
+                "user": "U040YCC00V6",
+                "ts": "1665081947.550719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b606444b-eaad-4653-9b33-23de2cc2527e",
+        "type": "message",
+        "text": "<@U040YCC00V6> 書き出し依頼です\n【31土井】1010納品分　ep1\n再MA（enc.4）\n音効Prores1001\nOMFとQT書き出しです\nよろしくお願いします。",
+        "user": "U03Q17LBJP3",
+        "ts": "1665064579.228929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AZby\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 書き出し依頼です\n【31土井】1010納品分　ep1\n再MA（enc.4）\n音効Prores1001\nOMFとQT書き出しです\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clown_face",
+                "users": [
+                    "U040YCC00V6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AD89D4E4-6298-4986-89EC-B1BC1ABC1C4A",
+        "type": "message",
+        "text": "31土井のep2,3,prを手元試写用に書き出しております。またep1はMA用に書き出し、MAにも伝えてあります",
+        "user": "U040YCC00V6",
+        "ts": "1665081947.550719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t0IFl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "31土井のep2,3,prを手元試写用に書き出しております。またep1はMA用に書き出し、MAにも伝えてあります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665064301.703049",
+        "parent_user_id": "U03Q17LBJP3",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F044V4ZH2HZ",
+                "created": 1664795647,
+                "timestamp": 1665727268,
+                "name": "____________Que",
+                "title": "書き出しQue",
+                "mimetype": "application\/vnd.slack-docs",
+                "filetype": "docs",
+                "pretty_type": "Arugula",
+                "user": "U03CXUXB5PF",
+                "user_team": "T03CU6RQ154",
+                "editable": true,
+                "size": 1859,
+                "mode": "docs",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F044V4ZH2HZ\/____________que?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F044V4ZH2HZ\/download\/____________que?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/T03CU6RQ154\/F044V4ZH2HZ",
+                "permalink_public": "https:\/\/slack-files.com\/T03CU6RQ154-F044V4ZH2HZ-1dc16cf1ea",
+                "preview": "<p><br><\/p><h1><strong>KDDI_1010納品(21,25,26,31,39)  10\/9~　<\/strong><\/h1><p><a href=\"https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2\"><strong>https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2<\/strong><\/a><br><\/p><h2>試写2~<\/h2><ul><li data-checked=\"false\">26武田 2.４試写<\/li><li data-checked=\"false\"><br><\/li><\/ul><p><br><\/p><h2>試写3~ シーケンスに最終って書いてるやつを納品＜1010納品へ書き出し<\/h2><ul><li data-checked=\"false\"><br><\/li><\/ul><p><\/p><hr><h1>1020納品(32小島33中野36吉永41平+1）<\/h1><p><br><\/p><h2>手元1<\/h2><ul><li data-checked=\"true\">吉永<\/li><li data-checked=\"true\">32小島<\/li><\/ul><p><br><\/p><h2>試写2<\/h2><ul><li data-checked=\"true\">吉永<\/li><li data-checked=\"true\">32小島<\/li><li data-checked=\"true\">33中野<\/li><\/ul><p><br>試写2.1<br><br>試写2.2<br><br><br><br><\/p><h1>1030以降<\/h1><p><br><\/p><ul><li data-checked=\"false\">35岡　修正完了<\/li><\/ul><p><br><br><\/p><hr><h1>KDDI_41-50_1試写 10\/9~　<\/h1><p>対応は尺に関するもののみ＋修正台本待ち<br><a href=\"https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3\">https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3<\/a><\/p><ul><li data-checked=\"false\"><br><\/li><\/ul><p><br>Done<\/p><ul><li data-checked=\"true\">39松永　Replay：KDDI_1015納品(21,25,26,31,39)へ<\/li><li data-checked=\"true\">43平岡　Replay：KDDI_41-50_1試写<\/li><li data-checked=\"true\">44筒井　Replay：KDDI_41-50_1試写<\/li><li data-checked=\"true\">21田中　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\">31土井 ep2,3,PR　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\">25中島　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\"> 44筒井　PR<\/li><li data-checked=\"true\">21田中　2.1試写<\/li><li data-checked=\"false\">42松本　MA<\/li><\/ul><p><br><br><br><br><\/p><h1>納品<\/h1><ul><li>静止画（現場iPhone＋足りなきゃ切り出し）<ul><li data-checked=\"true\">9月収録分<\/li><li data-checked=\"true\">10月収録分<\/li><\/ul><\/li><\/ul><p><br><\/p>",
+                "editor": null,
+                "last_editor": "U040YCC00V6",
+                "non_owner_editable": true,
+                "updated": 1665727268,
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1665087587.361599"
+    },
+    {
+        "client_msg_id": "d066f042-1dfb-45e6-8030-e700fc8f9d50",
+        "type": "message",
+        "text": "<@U040YCC00V6>　書き出し依頼です\n【25中島】1010納品分\n手元試写2\n31土井と同じフェーズです。\n\nよろしくお願いします。",
+        "user": "U03Q17LBJP3",
+        "ts": "1665103055.781729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f4dNy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　書き出し依頼です\n【25中島】1010納品分\n手元試写2\n31土井と同じフェーズです。\n\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03Q17LBJP3",
+            "ts": "1665103165.000000"
+        },
+        "thread_ts": "1665103055.781729",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1665119424.113729",
+        "reply_users": [
+            "U040YCC00V6"
+        ],
+        "replies": [
+            {
+                "user": "U040YCC00V6",
+                "ts": "1665116106.199599"
+            },
+            {
+                "user": "U040YCC00V6",
+                "ts": "1665119424.113729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "clown_face",
+                "users": [
+                    "U040YCC00V6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "77a1ebcf-a967-4f26-a2de-64f0d5d11525",
+        "type": "message",
+        "text": "<@U040YCC00V6> 書き出し依頼になります。\n【21田中】1010納品分\n既に手元試写は済んでいます。\n\nよろしくお願い致します。",
+        "user": "U03NJATSEBH",
+        "ts": "1665108274.728669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hPJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 書き出し依頼になります。\n【21田中】1010納品分\n既に手元試写は済んでいます。\n\nよろしくお願い致します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665108274.728669",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1665116115.583489",
+        "reply_users": [
+            "U040YCC00V6"
+        ],
+        "replies": [
+            {
+                "user": "U040YCC00V6",
+                "ts": "1665116115.583489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0a4f16b2-a7af-4c40-a265-5525a55b1cc2",
+        "type": "message",
+        "text": "<@U040YCC00V6> 書き出し依頼です。\n【31 土井】1010納品分　ep2,3,PR\n試写2(enc.5)\n\nよろしくお願いします。",
+        "user": "U03Q17LBJP3",
+        "ts": "1665110988.049389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bfJ7E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 書き出し依頼です。\n【31 土井】1010納品分　ep2,3,PR\n試写2(enc.5)\n\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665110988.049389",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1665116123.982129",
+        "reply_users": [
+            "U040YCC00V6"
+        ],
+        "replies": [
+            {
+                "user": "U040YCC00V6",
+                "ts": "1665116123.982129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "57E63474-B5B2-4940-818E-B5D53E1450AA",
+        "type": "message",
+        "text": "土井はリプレイ置き場は1015納品分ですね\n1010納品分になってるかも。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665114485.884659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D2y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "土井はリプレイ置き場は1015納品分ですね\n1010納品分になってるかも。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1665114521.000000"
+        },
+        "thread_ts": "1665114485.884659",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1665118617.623609",
+        "reply_users": [
+            "U040YCC00V6",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U040YCC00V6",
+                "ts": "1665118213.318999"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665118355.713069"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665118368.713249"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665118443.336689"
+            },
+            {
+                "user": "U040YCC00V6",
+                "ts": "1665118499.788049"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665118558.392099"
+            },
+            {
+                "user": "U040YCC00V6",
+                "ts": "1665118566.361409"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665118617.623609"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1665118617.623609"
+    },
+    {
+        "client_msg_id": "C7CCEFB3-B512-4DDC-8ED9-06FD0D2631A5",
+        "type": "message",
+        "text": "了解しました！",
+        "user": "U040YCC00V6",
+        "ts": "1665116106.199599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tba8c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解しました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665103055.781729",
+        "parent_user_id": "U03Q17LBJP3"
+    },
+    {
+        "client_msg_id": "4F47215F-991F-4C37-8231-A89F7DE0EB5C",
+        "type": "message",
+        "text": "了解です。",
+        "user": "U040YCC00V6",
+        "ts": "1665116115.583489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9AJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665108274.728669",
+        "parent_user_id": "U03NJATSEBH",
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "CA430A4A-CC45-4A8C-8662-F9899130B312",
+        "type": "message",
+        "text": "了解です。",
+        "user": "U040YCC00V6",
+        "ts": "1665116123.982129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aXa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665110988.049389",
+        "parent_user_id": "U03Q17LBJP3"
+    },
+    {
+        "type": "message",
+        "text": "<@U040YCC00V6> 作業後はチェックをおねがいします",
+        "files": [
+            {
+                "id": "F045BS1HNQN",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1665117425.910049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "owAS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 作業後はチェックをおねがいします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1d9876e9-5ec0-4642-81c5-9db7da33e509",
+        "reactions": [
+            {
+                "name": "clown_face",
+                "users": [
+                    "U040YCC00V6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F044V4ZH2HZ",
+                "created": 1664795647,
+                "timestamp": 1665727268,
+                "name": "____________Que",
+                "title": "書き出しQue",
+                "mimetype": "application\/vnd.slack-docs",
+                "filetype": "docs",
+                "pretty_type": "Arugula",
+                "user": "U03CXUXB5PF",
+                "user_team": "T03CU6RQ154",
+                "editable": true,
+                "size": 1859,
+                "mode": "docs",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F044V4ZH2HZ\/____________que?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F044V4ZH2HZ\/download\/____________que?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/T03CU6RQ154\/F044V4ZH2HZ",
+                "permalink_public": "https:\/\/slack-files.com\/T03CU6RQ154-F044V4ZH2HZ-1dc16cf1ea",
+                "preview": "<p><br><\/p><h1><strong>KDDI_1010納品(21,25,26,31,39)  10\/9~　<\/strong><\/h1><p><a href=\"https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2\"><strong>https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2<\/strong><\/a><br><\/p><h2>試写2~<\/h2><ul><li data-checked=\"false\">26武田 2.４試写<\/li><li data-checked=\"false\"><br><\/li><\/ul><p><br><\/p><h2>試写3~ シーケンスに最終って書いてるやつを納品＜1010納品へ書き出し<\/h2><ul><li data-checked=\"false\"><br><\/li><\/ul><p><\/p><hr><h1>1020納品(32小島33中野36吉永41平+1）<\/h1><p><br><\/p><h2>手元1<\/h2><ul><li data-checked=\"true\">吉永<\/li><li data-checked=\"true\">32小島<\/li><\/ul><p><br><\/p><h2>試写2<\/h2><ul><li data-checked=\"true\">吉永<\/li><li data-checked=\"true\">32小島<\/li><li data-checked=\"true\">33中野<\/li><\/ul><p><br>試写2.1<br><br>試写2.2<br><br><br><br><\/p><h1>1030以降<\/h1><p><br><\/p><ul><li data-checked=\"false\">35岡　修正完了<\/li><\/ul><p><br><br><\/p><hr><h1>KDDI_41-50_1試写 10\/9~　<\/h1><p>対応は尺に関するもののみ＋修正台本待ち<br><a href=\"https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3\">https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3<\/a><\/p><ul><li data-checked=\"false\"><br><\/li><\/ul><p><br>Done<\/p><ul><li data-checked=\"true\">39松永　Replay：KDDI_1015納品(21,25,26,31,39)へ<\/li><li data-checked=\"true\">43平岡　Replay：KDDI_41-50_1試写<\/li><li data-checked=\"true\">44筒井　Replay：KDDI_41-50_1試写<\/li><li data-checked=\"true\">21田中　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\">31土井 ep2,3,PR　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\">25中島　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\"> 44筒井　PR<\/li><li data-checked=\"true\">21田中　2.1試写<\/li><li data-checked=\"false\">42松本　MA<\/li><\/ul><p><br><br><br><br><\/p><h1>納品<\/h1><ul><li>静止画（現場iPhone＋足りなきゃ切り出し）<ul><li data-checked=\"true\">9月収録分<\/li><li data-checked=\"true\">10月収録分<\/li><\/ul><\/li><\/ul><p><br><\/p>",
+                "editor": null,
+                "last_editor": "U040YCC00V6",
+                "non_owner_editable": true,
+                "updated": 1665727268,
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1665117462.649749"
+    },
+    {
+        "client_msg_id": "e0700bc6-6708-4bac-b359-6a78d6c1b36d",
+        "type": "message",
+        "text": "1015置き場つくっちゃいますね",
+        "user": "U040YCC00V6",
+        "ts": "1665118213.318999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GZ2x9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1015置き場つくっちゃいますね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665114485.884659",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "4327bd61-1652-448f-be6d-252e037b1253",
+        "type": "message",
+        "text": "いやいや、すでにあるのでそれで。\n<@U040YCC00V6>",
+        "user": "U03CXUXB5PF",
+        "ts": "1665118355.713069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lcZV0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いやいや、すでにあるのでそれで。\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665114485.884659",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "7d384a93-6f1a-4d6b-a1ac-96c09dca840b",
+        "type": "message",
+        "text": "<https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2>",
+        "user": "U03CXUXB5PF",
+        "ts": "1665118368.713249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HmFcA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2",
+                "image_url": "https:\/\/cfl.dropboxstatic.com\/static\/metaserver\/static\/images\/reel\/unfurl-image-vflJ2sZZi.jpeg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 115485,
+                "id": 1,
+                "original_url": "https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2",
+                "fallback": "Dropbox Replay",
+                "text": "Dropbox Replay allows creative teams to better create, collaborate on and deliver content. No Dropbox account is required to give feedback.",
+                "title": "Dropbox Replay",
+                "title_link": "https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2",
+                "service_name": "dropbox.com"
+            }
+        ],
+        "thread_ts": "1665114485.884659",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "<@U040YCC00V6> すでにつかってるところにいれてください..",
+        "files": [
+            {
+                "id": "F04686WST1N",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1665118443.336689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u4s0\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すでにつかってるところにいれてください.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "17bf7b45-969a-4038-8e1c-fa60fbf47ce6",
+        "thread_ts": "1665114485.884659",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "69097cd0-fa74-4e97-87de-ab8f73befe42",
+        "type": "message",
+        "text": "？これこれ１０１０納品ですけど大丈夫ですか？\n小寺さん１０１５納品と先ほど言っていましたが納品スケジュールには１０１５納品はなく、、、混乱しました",
+        "user": "U040YCC00V6",
+        "ts": "1665118499.788049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R9alT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "？これこれ１０１０納品ですけど大丈夫ですか？\n小寺さん１０１５納品と先ほど言っていましたが納品スケジュールには１０１５納品はなく、、、混乱しました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665114485.884659",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "71f8dc93-437e-469a-87c2-ad03b8ef1eb7",
+        "type": "message",
+        "text": "いいです。1010です。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665118558.392099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vs4W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いいです。1010です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665114485.884659",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "1b081927-a782-4004-b752-a499948b574b",
+        "type": "message",
+        "text": "了解です",
+        "user": "U040YCC00V6",
+        "ts": "1665118566.361409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rwg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665114485.884659",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "29ffe64b-93a8-4fb9-8d06-c8fa2a8ec5d3",
+        "type": "message",
+        "text": "1010を目標でしたが、遅れているので1015にするかもとかって感じでした。今回はMAで手こずったかなぁ。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665118617.623609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yCML",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1010を目標でしたが、遅れているので1015にするかもとかって感じでした。今回はMAで手こずったかなぁ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665114485.884659",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U040YCC00V6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "978ae53f-4434-4736-9c4b-560c6cea0240",
+        "type": "message",
+        "text": "手元試写用、書き出しました。ご確認くださいませ",
+        "user": "U040YCC00V6",
+        "ts": "1665119424.113729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yu1Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "手元試写用、書き出しました。ご確認くださいませ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665103055.781729",
+        "parent_user_id": "U03Q17LBJP3"
+    },
+    {
+        "client_msg_id": "615a522c-c845-4412-abf4-518d2c913d2a",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 土井ですが、ep1だけまだ、みたいなやつはややこしくなるので、今後は4本まとめての書き出し依頼にさせてください\n<@U040YCC00V6> じつはep1だけもう一回MAなのですが、たぶん一緒に書き出し＆Replayにあがってるよね。。\n一回落としますので、あらためて書き出しをお願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665123615.883269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dnvNX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 土井ですが、ep1だけまだ、みたいなやつはややこしくなるので、今後は4本まとめての書き出し依頼にさせてください\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " じつはep1だけもう一回MAなのですが、たぶん一緒に書き出し＆Replayにあがってるよね。。\n一回落としますので、あらためて書き出しをお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665123615.883269",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1665125043.136679",
+        "reply_users": [
+            "U040YCC00V6",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U040YCC00V6",
+                "ts": "1665124989.658869"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1665125043.136679"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1665125043.136679",
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "U03Q17LBJP3",
+                    "U03P0T4KQMV"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c48cc294-16c5-4acd-bacb-210799cbb2a5",
+        "type": "message",
+        "text": "新しくmovとOMF書き出してます。ep1だけ",
+        "user": "U040YCC00V6",
+        "ts": "1665124989.658869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EMSM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "新しくmovとOMF書き出してます。ep1だけ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665123615.883269",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "942e681b-7720-4e1b-98c7-3ec259f5d6c0",
+        "type": "message",
+        "text": "<@U040YCC00V6> そう、それは渡ってるんですが、Replayにep1も試写できます、みたいな顔して掲載されてました。できません。",
+        "user": "U03CXUXB5PF",
+        "ts": "1665125043.136679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/f8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " そう、それは渡ってるんですが、Replayにep1も試写できます、みたいな顔して掲載されてました。できません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665123615.883269",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F044V4ZH2HZ",
+                "created": 1664795647,
+                "timestamp": 1665727268,
+                "name": "____________Que",
+                "title": "書き出しQue",
+                "mimetype": "application\/vnd.slack-docs",
+                "filetype": "docs",
+                "pretty_type": "Arugula",
+                "user": "U03CXUXB5PF",
+                "user_team": "T03CU6RQ154",
+                "editable": true,
+                "size": 1859,
+                "mode": "docs",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F044V4ZH2HZ\/____________que?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F044V4ZH2HZ\/download\/____________que?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/T03CU6RQ154\/F044V4ZH2HZ",
+                "permalink_public": "https:\/\/slack-files.com\/T03CU6RQ154-F044V4ZH2HZ-1dc16cf1ea",
+                "preview": "<p><br><\/p><h1><strong>KDDI_1010納品(21,25,26,31,39)  10\/9~　<\/strong><\/h1><p><a href=\"https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2\"><strong>https:\/\/replay.dropbox.com\/share-folder\/xMwcjBfBWSZLsNg2<\/strong><\/a><br><\/p><h2>試写2~<\/h2><ul><li data-checked=\"false\">26武田 2.４試写<\/li><li data-checked=\"false\"><br><\/li><\/ul><p><br><\/p><h2>試写3~ シーケンスに最終って書いてるやつを納品＜1010納品へ書き出し<\/h2><ul><li data-checked=\"false\"><br><\/li><\/ul><p><\/p><hr><h1>1020納品(32小島33中野36吉永41平+1）<\/h1><p><br><\/p><h2>手元1<\/h2><ul><li data-checked=\"true\">吉永<\/li><li data-checked=\"true\">32小島<\/li><\/ul><p><br><\/p><h2>試写2<\/h2><ul><li data-checked=\"true\">吉永<\/li><li data-checked=\"true\">32小島<\/li><li data-checked=\"true\">33中野<\/li><\/ul><p><br>試写2.1<br><br>試写2.2<br><br><br><br><\/p><h1>1030以降<\/h1><p><br><\/p><ul><li data-checked=\"false\">35岡　修正完了<\/li><\/ul><p><br><br><\/p><hr><h1>KDDI_41-50_1試写 10\/9~　<\/h1><p>対応は尺に関するもののみ＋修正台本待ち<br><a href=\"https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3\">https:\/\/replay.dropbox.com\/share-folder\/FeugO5L8jJh8w7R3<\/a><\/p><ul><li data-checked=\"false\"><br><\/li><\/ul><p><br>Done<\/p><ul><li data-checked=\"true\">39松永　Replay：KDDI_1015納品(21,25,26,31,39)へ<\/li><li data-checked=\"true\">43平岡　Replay：KDDI_41-50_1試写<\/li><li data-checked=\"true\">44筒井　Replay：KDDI_41-50_1試写<\/li><li data-checked=\"true\">21田中　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\">31土井 ep2,3,PR　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\">25中島　Replay：KDDI_1015納品(21,25,26,31,39)<\/li><li data-checked=\"true\"> 44筒井　PR<\/li><li data-checked=\"true\">21田中　2.1試写<\/li><li data-checked=\"false\">42松本　MA<\/li><\/ul><p><br><br><br><br><\/p><h1>納品<\/h1><ul><li>静止画（現場iPhone＋足りなきゃ切り出し）<ul><li data-checked=\"true\">9月収録分<\/li><li data-checked=\"true\">10月収録分<\/li><\/ul><\/li><\/ul><p><br><\/p>",
+                "editor": null,
+                "last_editor": "U040YCC00V6",
+                "non_owner_editable": true,
+                "updated": 1665727268,
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1665125102.432519"
+    }
+]

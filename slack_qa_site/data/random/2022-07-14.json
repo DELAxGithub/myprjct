@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "7898f2c0-5f11-4933-89e5-1cc7163e37e3",
+        "type": "message",
+        "text": "・メモ\nこれテロップ作る時に良さそう\nGoogleドキュメント簡易校正ツールV2「Heartlogic Proofreader for GDocs」。GASによる文書の一括置換や表記統一チェック - Heartlogic-2\n<https:\/\/heartlogic.jp\/heartlogic-proofreader-for-gdocs\/>",
+        "user": "U03CXUXB5PF",
+        "ts": "1657837991.952249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OHbe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "・メモ\nこれテロップ作る時に良さそう\nGoogleドキュメント簡易校正ツールV2「Heartlogic Proofreader for GDocs」。GASによる文書の一括置換や表記統一チェック - Heartlogic-2\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/heartlogic.jp\/heartlogic-proofreader-for-gdocs\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/heartlogic.jp\/heartlogic-proofreader-for-gdocs\/",
+                "ts": 1645972272,
+                "image_url": "https:\/\/heartlogic.jp\/wp-content\/uploads\/2022\/02\/220207_03.png",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 51592,
+                "service_icon": "https:\/\/heartlogic.jp\/wp-content\/themes\/cocoon-master\/images\/site-icon180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/heartlogic.jp\/heartlogic-proofreader-for-gdocs\/",
+                "fallback": "Heartlogic-2 -: Googleドキュメント簡易校正ツールV2「Heartlogic Proofreader for GDocs」。GASによる文書の一括置換や表記統一チェック - Heartlogic-2",
+                "text": "GAS（Google Apps Script）を使って、Googleドキュメント上の文章の表記統一（一括置換）",
+                "title": "Googleドキュメント簡易校正ツールV2「Heartlogic Proofreader for GDocs」。GASによる文書の一括置換や表記統一チェック - Heartlogic-2",
+                "title_link": "https:\/\/heartlogic.jp\/heartlogic-proofreader-for-gdocs\/",
+                "service_name": "Heartlogic-2 -"
+            }
+        ]
+    }
+]

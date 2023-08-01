@@ -1,0 +1,332 @@
+[
+    {
+        "type": "message",
+        "text": "このフォルダですよね？ <@U03Q17LBJP3> 映像そのももはありますか？",
+        "files": [
+            {
+                "id": "F04J8V2BDM2",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1673339483.905299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qCe7P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "このフォルダですよね？ "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 映像そのももはありますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1673339499.000000"
+        },
+        "client_msg_id": "5ea983ca-d11f-4c62-8a80-4510610fe220",
+        "thread_ts": "1673333197.998999",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "330c98e4-5561-4e17-8360-3aa35179c142",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> \n64のフォルダは確認できます！\nPrのフォルダからプロジェクトをローカルに落としたいんです。Pr内のプロジェクトの更新をお願いしたいです。",
+        "user": "U03Q17LBJP3",
+        "ts": "1673340731.653109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jPS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n64のフォルダは確認できます！\nPrのフォルダからプロジェクトをローカルに落としたいんです。Pr内のプロジェクトの更新をお願いしたいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673333197.998999",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "10a223ea-6f7f-42aa-bf26-9495327dd11f",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 収録素材のマルチトラックだけあれば大丈夫ですか？",
+        "user": "U03CXUXB5PF",
+        "ts": "1673340894.736429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C9nm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 収録素材のマルチトラックだけあれば大丈夫ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673333197.998999",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "channel": "C04EHGQ6DB8",
+        "room": {
+            "id": "R04HS5HFSBH",
+            "name": "",
+            "media_server": "",
+            "created_by": "U04J38PLGM6",
+            "date_start": 1673341977,
+            "date_end": 1673344695,
+            "participants": [],
+            "participant_history": [
+                "U04J38PLGM6",
+                "U03CXUXB5PF"
+            ],
+            "participants_camera_on": [],
+            "participants_camera_off": [],
+            "participants_screenshare_on": [],
+            "participants_screenshare_off": [],
+            "canvas_thread_ts": "1673341977.994819",
+            "thread_root_ts": "1673341977.994819",
+            "channels": [
+                "C04EHGQ6DB8"
+            ],
+            "is_dm_call": false,
+            "was_rejected": false,
+            "was_missed": false,
+            "was_accepted": false,
+            "has_ended": true,
+            "background_id": "A_WALK_IN_THE_FOREST",
+            "canvas_background": "A_WALK_IN_THE_FOREST",
+            "is_prewarmed": false,
+            "is_scheduled": false,
+            "attached_file_ids": [],
+            "media_backend_type": "free_willy",
+            "display_id": "",
+            "external_unique_id": "bc157831-0ff7-44f6-b333-91ff45770706",
+            "app_id": "A00",
+            "call_family": "huddle",
+            "pending_invitees": {}
+        },
+        "no_notifications": false,
+        "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/call\/R04HS5HFSBH",
+        "ts": "1673341977.994819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "upDVK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A huddle started"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "sv41d8cd98f0",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/slackbot_72.png",
+            "first_name": "slackbot",
+            "real_name": "Slackbot",
+            "display_name": "Slackbot",
+            "team": "T03CU6RQ154",
+            "name": "slackbot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fbc01d24-6330-4f63-9b6a-5ebde2646e89",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 64のフォルダにプロジェクト入れました　収録素材にプロキシ追加をやってみて編集スタートできるか確認くださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1673344732.258679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ePn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 64のフォルダにプロジェクト入れました　収録素材にプロキシ追加をやってみて編集スタートできるか確認くださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673333197.998999",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f85c6466-d110-4383-9886-a749ef27ac59",
+        "type": "message",
+        "text": "<@U03RA83HRN0> 62の１試写終わりました　\nReplayにあるやつ直しつつ、以下については、台本でちょっと見直します。\n```#62山口さん、拝見。「原理主義」と「普遍主義」、どちらの陥穽にもハマることなく自らの思考を…というメッセージに聞こえるよう、V2の強めの「サモアの思春期」「構造主義」批判はひと言ぐらい抜いても良いかもしれません。\n★最小限、間に入るスーパーは中立的、フラットにしました。山口さんに「乗っかって」、「人それぞれ批判」のお先棒を担いでいるようには見えない方が良いか、と。よろしくお願いいたします。\n\n「62山口さん」視聴いたしました。メッセージの打ち出し方が強い方ではありますね。以前の「30泉さん　悪口はなぜ良くないのか」に近い編集内容であるという印象を持ちました（もちろん中身は異なりますが）。中でも「サモアの思春期」の箇所はややトーンを弱めても成立するのではないかとも感じました。逆に「間違っているサモアの話」が、一世を風靡したという事実にも驚きました。この回、僕は撮影に立ち会っていませんでしたので今回初めて内容を理解しましたが、少しセンセーショナルな話題だけに丸山さんのご指摘のように「中立的な立場」でのまとめがいいかも知れません。よろしくお願いいたします。```\n",
+        "user": "U03CXUXB5PF",
+        "ts": "1673346413.433169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CCUL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 62の１試写終わりました　\nReplayにあるやつ直しつつ、以下については、台本でちょっと見直します。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#62山口さん、拝見。「原理主義」と「普遍主義」、どちらの陥穽にもハマることなく自らの思考を…というメッセージに聞こえるよう、V2の強めの「サモアの思春期」「構造主義」批判はひと言ぐらい抜いても良いかもしれません。\n★最小限、間に入るスーパーは中立的、フラットにしました。山口さんに「乗っかって」、「人それぞれ批判」のお先棒を担いでいるようには見えない方が良いか、と。よろしくお願いいたします。\n\n「62山口さん」視聴いたしました。メッセージの打ち出し方が強い方ではありますね。以前の「30泉さん　悪口はなぜ良くないのか」に近い編集内容であるという印象を持ちました（もちろん中身は異なりますが）。中でも「サモアの思春期」の箇所はややトーンを弱めても成立するのではないかとも感じました。逆に「間違っているサモアの話」が、一世を風靡したという事実にも驚きました。この回、僕は撮影に立ち会っていませんでしたので今回初めて内容を理解しましたが、少しセンセーショナルな話題だけに丸山さんのご指摘のように「中立的な立場」でのまとめがいいかも知れません。よろしくお願いいたします。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

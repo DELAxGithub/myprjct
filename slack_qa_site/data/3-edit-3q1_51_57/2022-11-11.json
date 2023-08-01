@@ -1,0 +1,507 @@
+[
+    {
+        "client_msg_id": "7f8ea713-8993-4df5-91dd-368952da1c77",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03NZ0E09JN> <@U03NJGXEPL7>\n55_長谷の編集1が終了しました。\nOutputにアップ済みです。\n確認事項はシーケンスに赤マーカーで記載しました。\nよろしくお願いいたします。",
+        "user": "U03RA83HRN0",
+        "ts": "1668156834.846399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0PF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NJGXEPL7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n55_長谷の編集1が終了しました。\nOutputにアップ済みです。\n確認事項はシーケンスに赤マーカーで記載しました。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03RA83HRN0",
+            "ts": "1668159194.000000"
+        },
+        "thread_ts": "1668156834.846399",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1668156959.001599",
+        "reply_users": [
+            "U03NZ0E09JN"
+        ],
+        "replies": [
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1668156959.001599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1668156959.001599"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03RA83HRN0> <@U03CXUXB5PF>\nありがとうございます！\n小山の方で一度チェックしますので、少々お待ちください。",
+        "user": "U03NZ0E09JN",
+        "ts": "1668156959.001599",
+        "thread_ts": "1668156834.846399",
+        "root": {
+            "client_msg_id": "7f8ea713-8993-4df5-91dd-368952da1c77",
+            "type": "message",
+            "text": "<@U03CXUXB5PF> <@U03NZ0E09JN> <@U03NJGXEPL7>\n55_長谷の編集1が終了しました。\nOutputにアップ済みです。\n確認事項はシーケンスに赤マーカーで記載しました。\nよろしくお願いいたします。",
+            "user": "U03RA83HRN0",
+            "ts": "1668156834.846399",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "0PF",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03CXUXB5PF"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03NZ0E09JN"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03NJGXEPL7"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n55_長谷の編集1が終了しました。\nOutputにアップ済みです。\n確認事項はシーケンスに赤マーカーで記載しました。\nよろしくお願いいたします。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "edited": {
+                "user": "U03RA83HRN0",
+                "ts": "1668159194.000000"
+            },
+            "thread_ts": "1668156834.846399",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1668156959.001599",
+            "reply_users": [
+                "U03NZ0E09JN"
+            ],
+            "replies": [
+                {
+                    "user": "U03NZ0E09JN",
+                    "ts": "1668156959.001599"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1668156959.001599"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pr4BD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nありがとうございます！\n小山の方で一度チェックしますので、少々お待ちください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "B013201D-D48D-4629-BD61-2ECFF7BCC430",
+        "edited": {
+            "user": "U03NZ0E09JN",
+            "ts": "1668156998.000000"
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6fa21b6b-a6bb-4857-beea-255b373349ae",
+        "type": "message",
+        "text": "<@U03RA83HRN0> ありがとうございます。もし可能なら、赤マーカー＝一覧にしてスクショをいただけると助かります。その場でお答えできるものあります。\n今回は大丈夫ですー。",
+        "user": "U03CXUXB5PF",
+        "ts": "1668166873.677899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JWUT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます。もし可能なら、赤マーカー＝一覧にしてスクショをいただけると助かります。その場でお答えできるものあります。\n今回は大丈夫ですー。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03NZ0E09JN>\n小山さんのチェックが完了したので、55_長谷を試写1としてReplayにアップしました。\n\n赤マーカー部分で、ご確認とご提案になります。\nep2 : 何本か使用しているYoutube動画のクレジット関係（作品名・提供先他の情報）を確認いていただけたらと思います。\n　　　分かり次第差し替えます。\nep3 : ビートルズが音の編集にハマったというとこのインサートがカセットテープになってますが、オープンリールのテープか昔のテレコの画像が良いかと。\n　　  １カ所、音のノイズのためしゃべりを差し替えましたが、気になるか気にならないかを確認いただけたらと思います。\n\nお手隙に時にお願いいたします。",
+        "files": [
+            {
+                "id": "F04ACDBLJDU",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04A4F2LJ87",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03RA83HRN0",
+        "ts": "1668172928.417539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OFGdf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NZ0E09JN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n小山さんのチェックが完了したので、55_長谷を試写1としてReplayにアップしました。\n\n赤マーカー部分で、ご確認とご提案になります。\nep2 : 何本か使用しているYoutube動画のクレジット関係（作品名・提供先他の情報）を確認いていただけたらと思います。\n　　　分かり次第差し替えます。\nep3 : ビートルズが音の編集にハマったというとこのインサートがカセットテープになってますが、オープンリールのテープか昔のテレコの画像が良いかと。\n　　  １カ所、音のノイズのためしゃべりを差し替えましたが、気になるか気にならないかを確認いただけたらと思います。\n\nお手隙に時にお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03RA83HRN0",
+            "ts": "1668173069.000000"
+        },
+        "client_msg_id": "b890e8db-211c-4f30-9908-aa0bc67eefa8",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "innocent",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03RA83HRN0>\nアップロードありがとうございます。試写を依頼するときはin Reviewでお願いします〜。",
+        "files": [
+            {
+                "id": "F04B9ATE796",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1668180084.533239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DQ1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nアップロードありがとうございます。試写を依頼するときはin Reviewでお願いします〜。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "cbce81f0-d2cd-4969-9f49-4bafbdd671cd",
+        "thread_ts": "1668180084.533239",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1668180215.634559",
+        "reply_users": [
+            "U03RA83HRN0"
+        ],
+        "replies": [
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1668180215.634559"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1668180215.634559",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "42542943-1c78-4bf8-8f36-c4f326b86e61",
+        "type": "message",
+        "text": "失礼しました",
+        "user": "U03RA83HRN0",
+        "ts": "1668180215.634559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3ydWW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "失礼しました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668180084.533239",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "d9076dcf-e53f-4eee-b347-34f22962b75c",
+        "type": "message",
+        "text": "51~54、テロップがちょっと異常に多かったので、台本で減らしてます\n作ってはありますが、太字のところだけ入れてください",
+        "user": "U03CXUXB5PF",
+        "ts": "1668220295.249129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zzW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "51~54、テロップがちょっと異常に多かったので、台本で減らしてます\n作ってはありますが、太字のところだけ入れてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "26ca7441-a1dd-4098-aeaa-3bbab665cf01",
+        "type": "message",
+        "text": "もう入れちゃってたら、別にそのままでいいです",
+        "user": "U03CXUXB5PF",
+        "ts": "1668220314.003689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QwP3z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もう入れちゃってたら、別にそのままでいいです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sob",
+                "users": [
+                    "U040YCC00V6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

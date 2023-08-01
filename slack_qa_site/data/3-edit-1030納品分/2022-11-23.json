@@ -1,0 +1,106 @@
+[
+    {
+        "client_msg_id": "53d1218c-0004-4acb-8310-e6af7fc606a6",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> <@U03CXUXB5PF> 27浅羽の星新一の引用TWに誤りがありましたので、申し訳ありませんが、訂正をお願いします。\n①改まって→改って　※日本語的にはおかしいですが、新潮社の文面に則っています。\n③無言で→無電で　※VOICEも直します。「無線電話」の略みたいです。",
+        "user": "U03V84JSHNK",
+        "ts": "1669270381.666149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J=1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 27浅羽の星新一の引用TWに誤りがありましたので、申し訳ありませんが、訂正をお願いします。\n①改まって→改って　※日本語的にはおかしいですが、新潮社の文面に則っています。\n③無言で→無電で　※VOICEも直します。「無線電話」の略みたいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669270381.666149",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1669270993.316169",
+        "reply_users": [
+            "U03V84JSHNK"
+        ],
+        "replies": [
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1669270993.316169"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1669270993.316169"
+    },
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3> voice入れ直しました。申し訳ありません。よろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F04C4C581TQ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03V84JSHNK",
+        "display_as_bot": false,
+        "ts": "1669270993.316169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CSsPM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " voice入れ直しました。申し訳ありません。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "da61cd88-3ad1-40f4-b5d0-c193959b3dd2",
+        "thread_ts": "1669270381.666149",
+        "parent_user_id": "U03V84JSHNK"
+    }
+]

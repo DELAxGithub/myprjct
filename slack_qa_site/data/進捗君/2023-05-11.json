@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U04QC17DUEP> #100保坂 修司で変更がありました\n変更前：試写2\n変更後：編集3\n担当者は杉谷です",
+        "ts": "1683813210.265959",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9D1fU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04QC17DUEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #100保坂 修司で変更がありました\n変更前：試写2\n変更後：編集3\n担当者は杉谷です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "#89成田聡子で変更がありました\n変更前：編集3\n変更後：試写3\n担当者は杉谷です",
+        "ts": "1683866396.493379",
+        "bot_id": "B04S685QY9Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lX76",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#89成田聡子で変更がありました\n変更前：編集3\n変更後：試写3\n担当者は杉谷です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

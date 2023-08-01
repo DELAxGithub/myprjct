@@ -1,0 +1,66 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "在庫\n試写1:7 | MA:1 | 試写2:3 | 試写3:2\n————————————-\n<@U03Q17LBJP3> : #101、 相馬 雅代、 編集1、: 04-16\n<@U03RA83HRN0> : #88、 松原 正樹、 本人編集、: 04-19\n<@U03RA83HRN0> : #104、 松岡聡、 MA編集、: 04-24\n<@U04KFCBLY9J> : #105、 久野愛、 MA編集、: 04-24\n<@U04QC17DUEP> : #100、 保坂 修司、 MA編集、: 04-22\n",
+        "ts": "1682295096.550999",
+        "bot_id": "B0527SNLW83",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3iN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "在庫\n試写1:7 | MA:1 | 試写2:3 | 試写3:2\n————————————-\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #101、 相馬 雅代、 編集1、: 04-16\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #88、 松原 正樹、 本人編集、: 04-19\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #104、 松岡聡、 MA編集、: 04-24\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #105、 久野愛、 MA編集、: 04-24\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04QC17DUEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : #100、 保坂 修司、 MA編集、: 04-22"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

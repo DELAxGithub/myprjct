@@ -1,0 +1,105 @@
+[
+    {
+        "client_msg_id": "e2820431-bc51-4afa-b1eb-879fe02a9a22",
+        "type": "message",
+        "text": "プロキシが作業のたびにはずれる問題ってその後誰も起きてないですか？今最終チェック用にプレミアで見てるんですが、もう２アクションごとに外れます。。\nどういうことだろう。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1661636150.495989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sYTH6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "プロキシが作業のたびにはずれる問題ってその後誰も起きてないですか？今最終チェック用にプレミアで見てるんですが、もう２アクションごとに外れます。。\nどういうことだろう。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1661636150.495989",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1661646892.204739",
+        "reply_users": [
+            "U03QQ3J656Z"
+        ],
+        "replies": [
+            {
+                "user": "U03QQ3J656Z",
+                "ts": "1661646892.204739"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1661646892.204739"
+    },
+    {
+        "client_msg_id": "a09dc342-98f8-4c3f-a6a8-cf8f53856393",
+        "type": "message",
+        "text": "premiereのバージョンを下げてからは起きていないですが、昨日、カメラ映像は来ているのに、イメージ画像のみが全てオフラインメディアになるという現象が起きております。\n原因は謎です。",
+        "user": "U03QQ3J656Z",
+        "ts": "1661646892.204739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1+Mas",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "premiereのバージョンを下げてからは起きていないですが、昨日、カメラ映像は来ているのに、イメージ画像のみが全てオフラインメディアになるという現象が起きております。\n原因は謎です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1661636150.495989",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

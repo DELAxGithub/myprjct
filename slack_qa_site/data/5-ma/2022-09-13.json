@@ -1,0 +1,168 @@
+[
+    {
+        "client_msg_id": "B23D2D7E-A33E-4D44-AFFF-F69BC3A6EADE",
+        "type": "message",
+        "text": "31.土井　MIX上がりました。\nよろしくお願いします。",
+        "user": "U03G0LAPT3N",
+        "ts": "1663075695.016309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BuM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "31.土井　MIX上がりました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "42814adc-6b72-4ab6-ad9f-416c79553c4f",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> 29.パックンep3の編集後のOMF・QTをKDDI_MA\/29_Pakkun_ep3_honに入れました。中盤が結構未使用部分入れてます。あと、音チェックについて、以下です。無音とか言ってるのは、このバージョンのQTを見てるから無視していいんですが、パチンとかノイズに関してはいちお高梨さんの方でも確認いただき、もし気になるところあれば、整音をお願いします。\n\n00:05:09\nここの前と音の大きさが異なる。川名\n\n05:58:17\nここから音が小さくなる。川名\n\n09:56:01\n無音でOKですか？川名\n\n\n11:44:07\nここも無音でOKですか？川名\n\n11:57:04\n音が二重、ここから音が大きさも変わっている。川名\n\n15:31:06\nハウリング？\n\n17:45:22\nこのちょっと前パチンと音がします。川名",
+        "user": "U03CXUXB5PF",
+        "ts": "1663081200.217009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kmD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 29.パックンep3の編集後のOMF・QTをKDDI_MA\/29_Pakkun_ep3_honに入れました。中盤が結構未使用部分入れてます。あと、音チェックについて、以下です。無音とか言ってるのは、このバージョンのQTを見てるから無視していいんですが、パチンとかノイズに関してはいちお高梨さんの方でも確認いただき、もし気になるところあれば、整音をお願いします。\n\n00:05:09\nここの前と音の大きさが異なる。川名\n\n05:58:17\nここから音が小さくなる。川名\n\n09:56:01\n無音でOKですか？川名\n\n\n11:44:07\nここも無音でOKですか？川名\n\n11:57:04\n音が二重、ここから音が大きさも変わっている。川名\n\n15:31:06\nハウリング？\n\n17:45:22\nこのちょっと前パチンと音がします。川名"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663081200.217009",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1663176991.701649",
+        "reply_users": [
+            "U03G0LAPT3N",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1663086119.994729"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663171514.126919"
+            },
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1663172202.713999"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1663176991.701649"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1663176991.701649"
+    },
+    {
+        "client_msg_id": "9FC632D7-B9B8-4C4B-A64F-BDE627CA47B1",
+        "type": "message",
+        "text": "確認させていただきます。",
+        "user": "U03G0LAPT3N",
+        "ts": "1663086119.994729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kfba",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "確認させていただきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663081200.217009",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

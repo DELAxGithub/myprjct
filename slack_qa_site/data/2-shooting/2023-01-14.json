@@ -1,0 +1,462 @@
+[
+    {
+        "client_msg_id": "b9c51655-6366-41df-8e4b-402762512ec9",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03V84JSHNK>\n68のイメージ、テロップ準備終わりました。進行表の編集担当者空欄ですが、編集チームの誰に伝えればいいですか？\nまた、65-70は全てプロジェクトを作ったので、イメージが揃えば編集開始できる状態です。",
+        "user": "U04J38PLGM6",
+        "ts": "1673746959.661199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+9kw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n68のイメージ、テロップ準備終わりました。進行表の編集担当者空欄ですが、編集チームの誰に伝えればいいですか？\nまた、65-70は全てプロジェクトを作ったので、イメージが揃えば編集開始できる状態です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A1899263-1D05-4D99-8103-A96E9060EBD6",
+        "type": "message",
+        "text": "<@U03V84JSHNK> どう？",
+        "user": "U03CXUXB5PF",
+        "ts": "1673746997.363189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tNWI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " どう？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6B4D40C2-C98B-4B66-9377-0C3F31BC3EA2",
+        "type": "message",
+        "text": "遅くなってすみません。\n今日ロケなので、夜にでもイメージ集めします。",
+        "user": "U03V84JSHNK",
+        "ts": "1673756664.906809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p9Cow",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "遅くなってすみません。\n今日ロケなので、夜にでもイメージ集めします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "mechanical_arm",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b1089050-ee74-49fb-9665-2e203ab7917c",
+        "type": "message",
+        "text": "<@U04J38PLGM6> 安永くんも忙しそうなのでイメージ分担しようか。。\n69とかはじますかね",
+        "user": "U03CXUXB5PF",
+        "ts": "1673756744.943399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o3OXC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 安永くんも忙しそうなのでイメージ分担しようか。。\n69とかはじますかね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "df359afb-fc1e-4cde-812e-2523e8a97ddc",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 今、66をやっています。終わった段階で69やります。始める時、お知らせします。",
+        "user": "U04J38PLGM6",
+        "ts": "1673756873.564079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sdF9S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今、66をやっています。終わった段階で69やります。始める時、お知らせします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673756873.564079",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1673756992.825469",
+        "reply_users": [
+            "U03V84JSHNK",
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1673756931.019319"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1673756992.825469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1673756992.825469",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e1322040-39f8-436d-9f7c-d91a5a5f26b5",
+        "type": "message",
+        "text": "今から66のOP・EDやります！1時間ぐらいでできると思います",
+        "user": "U03CXUXB5PF",
+        "ts": "1673756908.969819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o\/3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今から66のOP・EDやります！1時間ぐらいでできると思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A84ADB60-D990-409F-A6A5-0352139A0EFC",
+        "type": "message",
+        "text": "お手数おかけして申し訳ありません。\n67は私やります。",
+        "user": "U03V84JSHNK",
+        "ts": "1673756931.019319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "17v8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お手数おかけして申し訳ありません。\n67は私やります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673756873.564079",
+        "parent_user_id": "U04J38PLGM6"
+    },
+    {
+        "client_msg_id": "3ec469e2-4e3d-4603-80b4-2fe54da7e8dc",
+        "type": "message",
+        "text": "@了解です",
+        "user": "U04J38PLGM6",
+        "ts": "1673756992.825469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EkN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@了解です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673756873.564079",
+        "parent_user_id": "U04J38PLGM6"
+    },
+    {
+        "client_msg_id": "2e7aee66-616f-496d-b615-73290b1b06ef",
+        "type": "message",
+        "text": "66OP,ED作ったんでテロップまでいけます",
+        "user": "U03CXUXB5PF",
+        "ts": "1673761216.406909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=09e+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "66OP,ED作ったんでテロップまでいけます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "730f4d35-97b2-4286-be49-5d59ff547f44",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 了解です",
+        "user": "U04J38PLGM6",
+        "ts": "1673761262.634869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tZw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

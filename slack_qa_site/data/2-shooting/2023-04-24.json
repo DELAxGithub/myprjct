@@ -1,0 +1,297 @@
+[
+    {
+        "client_msg_id": "c1d3bcf4-8da9-40c4-a28d-458af6e42ed6",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 明日午後浦本さんに引き継ぎをします。slack、chatworkに招待して頂きたいですが、浦本さんのメアドが必要でしょうか？",
+        "user": "U04J38PLGM6",
+        "ts": "1682331028.563229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c70\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 明日午後浦本さんに引き継ぎをします。slack、chatworkに招待して頂きたいですが、浦本さんのメアドが必要でしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "606f4581-b105-4104-beb2-218a276eaeec",
+        "type": "message",
+        "text": "はい、くださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1682331907.856359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "czB9S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい、くださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682331907.856359",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1682332244.950349",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1682332244.950349"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1682332244.950349"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "こちらです。\n\n<mailto:kuramoto@tvu.co.jp|kuramoto@tvu.co.jp>",
+        "user": "U04J38PLGM6",
+        "ts": "1682332244.950349",
+        "thread_ts": "1682331907.856359",
+        "root": {
+            "client_msg_id": "606f4581-b105-4104-beb2-218a276eaeec",
+            "type": "message",
+            "text": "はい、くださいー",
+            "user": "U03CXUXB5PF",
+            "ts": "1682331907.856359",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "czB9S",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "はい、くださいー"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1682331907.856359",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1682332244.950349",
+            "reply_users": [
+                "U04J38PLGM6"
+            ],
+            "replies": [
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1682332244.950349"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1682332244.950349"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WYGI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こちらです。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:kuramoto@tvu.co.jp",
+                                "text": "kuramoto@tvu.co.jp",
+                                "unsafe": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "B066287E-4A15-48A5-B6B3-644B3BF60E19"
+    },
+    {
+        "client_msg_id": "97e4068a-7a1c-4af9-be76-09300b19c193",
+        "type": "message",
+        "text": "<@U054HSHFAAH>\nこのチャンネルにて、撮影周りのやりとりしています。\n次回撮影日程は実はまだ決まってないのですが、6月中旬以降で仕込み予定です。\n5月GW明けに小島さんと予定調整してロケハンしておきましょうかね。\nってことで、今週どこかでロケハン候補のスタジオに予約入れておいた方がいいかもしれません。\n\nで、ロケハンにはプレジデントも同行したいとついてきます。\n\nというわけで、この関係者同士の予定調整についても、先生方の予定の調整も含めた、一元化をしないとなと思っています。\n\nGoogleスプレッドシートにカレンダー作ってみんなで書き込む、とかかなとかぐらいですか、なんかいいやり方あったらアイデアぜひ。\nロケハンの仕込みぐらいから試験運用しましょう。",
+        "user": "U03CXUXB5PF",
+        "ts": "1682371047.710089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bdp5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U054HSHFAAH"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこのチャンネルにて、撮影周りのやりとりしています。\n次回撮影日程は実はまだ決まってないのですが、6月中旬以降で仕込み予定です。\n5月GW明けに小島さんと予定調整してロケハンしておきましょうかね。\nってことで、今週どこかでロケハン候補のスタジオに予約入れておいた方がいいかもしれません。\n\nで、ロケハンにはプレジデントも同行したいとついてきます。\n\nというわけで、この関係者同士の予定調整についても、先生方の予定の調整も含めた、一元化をしないとなと思っています。\n\nGoogleスプレッドシートにカレンダー作ってみんなで書き込む、とかかなとかぐらいですか、なんかいいやり方あったらアイデアぜひ。\nロケハンの仕込みぐらいから試験運用しましょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682371047.710089",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1682401125.045939",
+        "reply_users": [
+            "U054HSHFAAH"
+        ],
+        "replies": [
+            {
+                "user": "U054HSHFAAH",
+                "ts": "1682401125.045939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1682401125.045939"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1682395324.320469",
+        "user": "U054HSHFAAH",
+        "text": "<@U054HSHFAAH>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1682398307.893969",
+        "user": "U054HSHFAAH",
+        "text": "<@U054HSHFAAH>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "27418c09-11c9-4fe8-8a72-d08d09eebbcd",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 今新藤さんから引き継ぎを受けているところです。\n撮影もろもろ、今後よろしくお願いします。\n\nロケハンバミリ了解です。\nどこを何箇所くらいやるのがいいでしょうか？\n\n共有についてですが、Googleスプレッドシートを使うのはいいと思うのですが、それ以上のアイディアはちょっと思いつきません。如何せん知識不足です。。。",
+        "user": "U054HSHFAAH",
+        "ts": "1682401125.045939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3xU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今新藤さんから引き継ぎを受けているところです。\n撮影もろもろ、今後よろしくお願いします。\n\nロケハンバミリ了解です。\nどこを何箇所くらいやるのがいいでしょうか？\n\n共有についてですが、Googleスプレッドシートを使うのはいいと思うのですが、それ以上のアイディアはちょっと思いつきません。如何せん知識不足です。。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "3c0472cbdd87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-26\/5181600335649_3c0472cbdd874f9a32ff_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Uramoto",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "kuramoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682371047.710089",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

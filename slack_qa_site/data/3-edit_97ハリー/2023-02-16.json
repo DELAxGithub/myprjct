@@ -1,0 +1,517 @@
+[
+    {
+        "type": "message",
+        "text": "<@U04J38PLGM6> <@U03V84JSHNK> \nお疲れ様です\nスクショのようなリクエストがあるのですが\n計4校の画像を用意して頂くことは可能でしょうか？",
+        "files": [
+            {
+                "id": "F04QS3X6FB2",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04PMSPGUK1",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04JJB0MTB7",
+        "ts": "1676605767.567599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L2u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nお疲れ様です\nスクショのようなリクエストがあるのですが\n計4校の画像を用意して頂くことは可能でしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "33F79D3A-736E-49EB-8DF0-D910BE14613D"
+    },
+    {
+        "type": "message",
+        "text": "<@U04JJB0MTB7> <@U03CXUXB5PF>\n画像追加しました。ウェリントンの画像はクレジットをお願いします。\n「Flickr user RTPeat」\n\nチャーターハウスは既にフォルダに入れていますが使い回しできますか？\n（↓左の写真）",
+        "files": [
+            {
+                "id": "F04Q29SPCPM",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04PZJBT17X",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "ts": "1676608661.870829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yr\/r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n画像追加しました。ウェリントンの画像はクレジットをお願いします。\n「Flickr user RTPeat」\n\nチャーターハウスは既にフォルダに入れていますが使い回しできますか？\n（↓左の写真）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b2560334-75a4-4665-ace5-f2b24a690cea"
+    },
+    {
+        "client_msg_id": "C937AEA9-4A3F-4BEF-B417-83A3EF33FBD2",
+        "type": "message",
+        "text": "<@U04J38PLGM6> \nありがとうございます！\n使い回しで大丈夫です！",
+        "user": "U04JJB0MTB7",
+        "ts": "1676608760.655069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b4Cbf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nありがとうございます！\n使い回しで大丈夫です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04JJB0MTB7",
+            "ts": "1676608789.000000"
+        },
+        "thread_ts": "1676608760.655069",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1676608848.540399",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1676608848.540399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U04JJB0MTB7> そしてヒルトップの画像はありませんでした。",
+        "user": "U04J38PLGM6",
+        "ts": "1676608848.540399",
+        "thread_ts": "1676608760.655069",
+        "root": {
+            "client_msg_id": "C937AEA9-4A3F-4BEF-B417-83A3EF33FBD2",
+            "type": "message",
+            "text": "<@U04J38PLGM6> \nありがとうございます！\n使い回しで大丈夫です！",
+            "user": "U04JJB0MTB7",
+            "ts": "1676608760.655069",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "b4Cbf",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " \nありがとうございます！\n使い回しで大丈夫です！"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "edited": {
+                "user": "U04JJB0MTB7",
+                "ts": "1676608789.000000"
+            },
+            "thread_ts": "1676608760.655069",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1676608848.540399",
+            "reply_users": [
+                "U04J38PLGM6"
+            ],
+            "replies": [
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1676608848.540399"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nBh5=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " そしてヒルトップの画像はありませんでした。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4176834d-9af6-48e3-993b-6c2279a4c4ff",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F16F17F1-A630-4742-B3E3-3B5DA5B9BB39",
+        "type": "message",
+        "text": "<@U04J38PLGM6> \n承知しました",
+        "user": "U04JJB0MTB7",
+        "ts": "1676608907.555139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KFJeL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n承知しました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04JJB0MTB7",
+            "ts": "1676609034.000000"
+        }
+    },
+    {
+        "client_msg_id": "D48FEEFD-91A6-4AD0-A790-D25B82E58A03",
+        "type": "message",
+        "text": "ヒルハウスですよね？",
+        "user": "U04JJB0MTB7",
+        "ts": "1676608934.700799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xT=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ヒルハウスですよね？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04JJB0MTB7",
+            "ts": "1676608961.000000"
+        },
+        "thread_ts": "1676608934.700799",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1676794244.864439",
+        "reply_users": [
+            "U04J38PLGM6",
+            "U04JJB0MTB7"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1676609206.521959"
+            },
+            {
+                "user": "U04JJB0MTB7",
+                "ts": "1676754871.494949"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1676794244.864439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "40a4ab3d-8b02-451a-b02b-1c20a6d2fee1",
+        "type": "message",
+        "text": "ここ話に合わせて取り切ると1枚1枚が早すぎると思うので、４分割とかにした方いいかも",
+        "user": "U03CXUXB5PF",
+        "ts": "1676609094.901409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PzNZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ここ話に合わせて取り切ると1枚1枚が早すぎると思うので、４分割とかにした方いいかも"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676609094.901409",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1676609137.175979",
+        "reply_users": [
+            "U04JJB0MTB7"
+        ],
+        "replies": [
+            {
+                "user": "U04JJB0MTB7",
+                "ts": "1676609137.175979"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1676609137.175979",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F067EC72-560D-4463-AACE-1E8821E2ED6F",
+        "type": "message",
+        "text": "承知しました",
+        "user": "U04JJB0MTB7",
+        "ts": "1676609137.175979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qYT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676609094.901409",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "bc5441d1-3b6d-4cbf-abec-c905b12a480a",
+        "type": "message",
+        "text": "失礼しました。ヒルハウスです。\n書き間違いです。\nヒルハウスで検索しました。",
+        "user": "U04J38PLGM6",
+        "ts": "1676609206.521959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AdGk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "失礼しました。ヒルハウスです。\n書き間違いです。\nヒルハウスで検索しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676608934.700799",
+        "parent_user_id": "U04JJB0MTB7",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "40_Okamoto_EP3_MIX WAV_221016\n\n\/KDDI2022\/8_MA\/本編\/40_Okamoto_EP3_MIX WAV_221016\n\n_Sent via <https:\/\/zapier.com\/app\/editor\/169570285#slack|zapier.com\/app\/editor\/169570285#slack>_",
+        "ts": "1665911182.166699",
+        "username": "MA納品",
+        "bot_id": "B0457TSJ7N1",
+        "app_id": "A024R9PQM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AunB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "40_Okamoto_EP3_MIX WAV_221016\n\n\/KDDI2022\/8_MA\/本編\/40_Okamoto_EP3_MIX WAV_221016\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sent via ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zapier.com\/app\/editor\/169570285#slack",
+                                "text": "zapier.com\/app\/editor\/169570285#slack",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "28_Tanaka_EP1_EP3_MIX WAV_221016\n\n\/KDDI2022\/8_MA\/本編\/28_Tanaka_EP1_EP3_MIX WAV_221016\n\n_Sent via <https:\/\/zapier.com\/app\/editor\/169570285#slack|zapier.com\/app\/editor\/169570285#slack>_",
+        "ts": "1665913923.052699",
+        "username": "MA納品",
+        "bot_id": "B0457TSJ7N1",
+        "app_id": "A024R9PQM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xF56d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "28_Tanaka_EP1_EP3_MIX WAV_221016\n\n\/KDDI2022\/8_MA\/本編\/28_Tanaka_EP1_EP3_MIX WAV_221016\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sent via ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zapier.com\/app\/editor\/169570285#slack",
+                                "text": "zapier.com\/app\/editor\/169570285#slack",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

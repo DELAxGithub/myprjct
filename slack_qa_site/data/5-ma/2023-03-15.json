@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "6ae6c00d-f423-4055-b93b-44fcf69ae102",
+        "type": "message",
+        "text": "<@U03G0LAPT3N>\nお疲れ様です。\n82河田のQT&amp;OMFをアップしましたので、ご確認よろしくお願いいたします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1678874562.904779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r48",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\n82河田のQT&OMFをアップしましたので、ご確認よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03G0LAPT3N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

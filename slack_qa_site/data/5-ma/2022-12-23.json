@@ -1,0 +1,107 @@
+[
+    {
+        "type": "message",
+        "text": "スクショは、山本さんRRのインタビュー直後に本編タイトルが差し込まれてたのでご報告します。",
+        "files": [
+            {
+                "id": "F04G48RFG2K",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1671850754.689079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6NEsF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スクショは、山本さんRRのインタビュー直後に本編タイトルが差し込まれてたのでご報告します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "CF34AE0E-CBA9-473E-905A-833A6D4E8E69",
+        "thread_ts": "1671850754.689079",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1671870088.374569",
+        "reply_users": [
+            "U03G0LAPT3N",
+            "U03P0T4KQMV"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1671852634.354469"
+            },
+            {
+                "user": "U03P0T4KQMV",
+                "ts": "1671869973.347329"
+            },
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1671870088.374569"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1DC17A20-1843-49E0-A3CA-A23045D08802",
+        "type": "message",
+        "text": "あたりをつけて、音響効果の作業は進めておきます。これからMAの段取りに入りますがで、正確に書き出していただいたムービーがありますと、大変助かります。\nよろしくお願いします。",
+        "user": "U03G0LAPT3N",
+        "ts": "1671852634.354469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ynIF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あたりをつけて、音響効果の作業は進めておきます。これからMAの段取りに入りますがで、正確に書き出していただいたムービーがありますと、大変助かります。\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1671850754.689079",
+        "parent_user_id": "U03G0LAPT3N"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "5789161d-397d-489e-abbd-ba401d1329d4",
+        "type": "message",
+        "text": "うーむ。。\nなんか考えるか。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1680688405.396239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xkg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "うーむ。。\nなんか考えるか。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680628803.709999",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

@@ -1,0 +1,225 @@
+[
+    {
+        "client_msg_id": "B397B6AF-3C7E-4D1F-8284-C8491D6F41AE",
+        "type": "message",
+        "text": "和泉さん、浅羽さん共にノイズがあまりありませんでした。\nサンプルづくり、いかがしましょう。",
+        "user": "U03G0LAPT3N",
+        "ts": "1667001714.358249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+3z\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "和泉さん、浅羽さん共にノイズがあまりありませんでした。\nサンプルづくり、いかがしましょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "992724db-f3fd-4765-a368-e4d0c8299c7c",
+        "type": "message",
+        "text": "どうしますかねぇ。\n&gt; ・特に耳障りなノイズのない平たいトーク部分\n&gt; ・ハウススタジオ外の工事音\n&gt; ・ピンマイクを触った音\n&gt; ・スタッフ側で物を落とした音など、カメラに映っていない場所でのノイズ\nそれぞれ発見できたところで、サンプルをそれぞれで作っちゃうでいいのかなと思いますが。\n見つけたらストックしてそこだけ渡すとかで。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667013556.388699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZTZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どうしますかねぇ。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "・特に耳障りなノイズのない平たいトーク部分\n・ハウススタジオ外の工事音\n・ピンマイクを触った音\n・スタッフ側で物を落とした音など、カメラに映っていない場所でのノイズ"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それぞれ発見できたところで、サンプルをそれぞれで作っちゃうでいいのかなと思いますが。\n見つけたらストックしてそこだけ渡すとかで。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "12e76d22-ffcb-4e50-bfa9-281e150351e1",
+        "type": "message",
+        "text": "今ノイズが多かった42、44の試写中なんですが、そこでこんな感じのリアクションがありますので、元音と比較する感じにしますかね。\n\n42_ep1\n「ガタッ」と音が入ります。気になる音です。\t8:06:20\n「カタッ」という音が入ります。この音も取り除ける場合はお願いします。\t9:44:16\n「いろんなものが含まれている」の箇所の画が変わる変化が早く、音声も少し高音になるためレベル調整をお願いします。\t13:02:23\n\n42_ep2\nプチッという機械音（編集上のもの？）が入ります\t3:13:09\nガシャンという音がします。　大きいので改善頂ければと思います。\t5:06:15\n「カンカン」結構音が大きいので処理をお願いします\t7:49:03\nここの「カンカン」は音楽でしょうか？　結構大きな音として聞こえますのでチェックをお願いします。\t8:12:21\n「カン」という外部の大きな音。修正をお願いします。\t9:20:08\n「バシッ」という音が入ります。比較的大きいので処理頂ければと。\t10:25:08\n「カン」という音が聞こえます。「中程度」。修正可能であれば。\t12:56:00\n外部の音が聞こえますが、軽度なのでOKです。\t17:48:03\n「カンカンカンカン」、中程度なので、処理をお願いします\t18:25:08",
+        "user": "U03CXUXB5PF",
+        "ts": "1667014771.529039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Mph",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今ノイズが多かった42、44の試写中なんですが、そこでこんな感じのリアクションがありますので、元音と比較する感じにしますかね。\n\n42_ep1\n「ガタッ」と音が入ります。気になる音です。\t8:06:20\n「カタッ」という音が入ります。この音も取り除ける場合はお願いします。\t9:44:16\n「いろんなものが含まれている」の箇所の画が変わる変化が早く、音声も少し高音になるためレベル調整をお願いします。\t13:02:23\n\n42_ep2\nプチッという機械音（編集上のもの？）が入ります\t3:13:09\nガシャンという音がします。　大きいので改善頂ければと思います。\t5:06:15\n「カンカン」結構音が大きいので処理をお願いします\t7:49:03\nここの「カンカン」は音楽でしょうか？　結構大きな音として聞こえますのでチェックをお願いします。\t8:12:21\n「カン」という外部の大きな音。修正をお願いします。\t9:20:08\n「バシッ」という音が入ります。比較的大きいので処理頂ければと。\t10:25:08\n「カン」という音が聞こえます。「中程度」。修正可能であれば。\t12:56:00\n外部の音が聞こえますが、軽度なのでOKです。\t17:48:03\n「カンカンカンカン」、中程度なので、処理をお願いします\t18:25:08"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667014771.529039",
+        "reply_count": 10,
+        "reply_users_count": 2,
+        "latest_reply": "1667095209.656569",
+        "reply_users": [
+            "U03G0LAPT3N",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1667086214.094659"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1667088554.102509"
+            },
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1667094441.200369"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1667094518.019569"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1667094636.502479"
+            },
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1667094669.469099"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1667094781.534359"
+            },
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1667094917.942729"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1667095104.831209"
+            },
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1667095209.656569"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1667095209.656569"
+    },
+    {
+        "client_msg_id": "2ec836d0-266f-4027-9bc2-effb5eddfce9",
+        "type": "message",
+        "text": "軽度・中程度とありますが、彼らなりの合格基準ということでしょうか。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667014802.963759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7RhLd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "軽度・中程度とありますが、彼らなりの合格基準ということでしょうか。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

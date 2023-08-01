@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "fb9cb892-2ac2-4476-a415-998d475e3c15",
+        "type": "message",
+        "text": "ちょっと柔らかめですが\n\n著者インタビュー | BOOKSCAN(ブックスキャン) 本・蔵書電子書籍化サービス - 大和印刷\n<https:\/\/www.bookscan.co.jp\/interviewlist>",
+        "user": "U03CXUXB5PF",
+        "ts": "1658299489.918589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WOkyY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちょっと柔らかめですが\n\n著者インタビュー | BOOKSCAN(ブックスキャン) 本・蔵書電子書籍化サービス - 大和印刷\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.bookscan.co.jp\/interviewlist"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.bookscan.co.jp\/interviewlist",
+                "thumb_url": "https:\/\/www.bookscan.co.jp\/assets\/img\/idx\/idx_mainimage.jpg",
+                "thumb_width": 924,
+                "thumb_height": 820,
+                "service_icon": "https:\/\/www.bookscan.co.jp\/assets\/img\/books-brown.png",
+                "id": 1,
+                "original_url": "https:\/\/www.bookscan.co.jp\/interviewlist",
+                "fallback": "BOOKSCAN: 著者インタビュー | BOOKSCAN(ブックスキャン) 本・蔵書電子書籍化サービス - 大和印刷",
+                "text": "書籍・蔵書の電子書籍化サービス BOOKSCAN(ブックスキャン)。世界初 低価格で本をスキャン、オンライン上のマイ本棚で管理。ブックスキャンは「世界中の本好きのために」ファイル名変更、OCR(透明テキスト)、DVD-R納品などオプションサービスを提供しています。",
+                "title": "著者インタビュー | BOOKSCAN(ブックスキャン) 本・蔵書電子書籍化サービス - 大和印刷",
+                "title_link": "https:\/\/www.bookscan.co.jp\/interviewlist",
+                "service_name": "BOOKSCAN"
+            }
+        ]
+    }
+]

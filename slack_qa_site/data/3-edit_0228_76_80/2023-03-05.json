@@ -1,0 +1,103 @@
+[
+    {
+        "type": "message",
+        "text": "<@U04J38PLGM6> 78上峯\n1点イメージ修正が来ました。参考も貼っておきますのでご対応よろしくお願いします。",
+        "files": [
+            {
+                "id": "F04T60JF9FS",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04SJPJGTNY",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03Q17LBJP3",
+        "ts": "1678080688.119029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H+EJE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 78上峯\n1点イメージ修正が来ました。参考も貼っておきますのでご対応よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ac2b56ea-b0e3-476c-b07c-79e4f56c5c3f",
+        "thread_ts": "1678080688.119029",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1678082158.630939",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1678082158.630939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3>\nつけペンのイメージ追加しました。",
+        "files": [
+            {
+                "id": "F04T63SBUSC",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1678082158.630939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bwh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nつけペンのイメージ追加しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "d1878031-bce4-4148-bdc1-58d62ef0891c",
+        "thread_ts": "1678080688.119029",
+        "parent_user_id": "U03Q17LBJP3",
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

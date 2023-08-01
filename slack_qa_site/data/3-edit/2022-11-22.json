@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "FD3A8A95-4CFE-4D7A-B09C-41BA08C93EBC",
+        "type": "message",
+        "text": "ここほかの注釈の入れ方と全然違いますね\n\n<@U040YCC00V6> 作者名なんでしたっけ\n\nみみずのたはごと　1913\n作者の随筆集\n\nとかって感じになるでしょうか\n",
+        "user": "U03CXUXB5PF",
+        "ts": "1669114417.128439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "khh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ここほかの注釈の入れ方と全然違いますね\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 作者名なんでしたっけ\n\nみみずのたはごと　1913\n作者の随筆集\n\nとかって感じになるでしょうか\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667851477.931769",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "ACD3BA78-AA8D-490D-9309-AEB81FE5D663",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 徳冨蘆花です！\n　　　上記の通りで、大丈夫です:pray:",
+        "user": "U040YCC00V6",
+        "ts": "1669114691.479159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eRxF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 徳冨蘆花です！\n　　　上記の通りで、大丈夫です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667851477.931769",
+        "parent_user_id": "U03CXUXB5PF"
+    }
+]

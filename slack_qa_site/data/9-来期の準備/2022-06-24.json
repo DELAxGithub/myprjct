@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "512a4b2b-d3db-409a-8a7e-6ea8937ab386",
+        "type": "message",
+        "text": "科学道100冊「知りたい！」が未来をつくる\n<https:\/\/kagakudo100.jp\/>",
+        "user": "U03CXUXB5PF",
+        "ts": "1656074176.121839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UFIO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "科学道100冊「知りたい！」が未来をつくる\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kagakudo100.jp\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/kagakudo100.jp\/",
+                "image_url": "https:\/\/kagakudo100.jp\/wkgdp\/wp-content\/themes\/kadobeya\/img\/ogp\/kagakudoOGP.png",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 306319,
+                "service_icon": "https:\/\/kagakudo100.jp\/wkgdp\/wp-content\/themes\/kadobeya\/assets\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/kagakudo100.jp\/",
+                "fallback": "科学道100冊「知りたい！」が未来をつくる",
+                "text": "理化学研究所・編集工学研究所共同プロジェクト。科学者の考え方や姿勢を「科学道100冊」と題し、「はじまりは疑問」「果てしない収集」「導かれたルール」「めくるめく失敗」「まるで魔法」「未来のはじまり」という6 つのテーマを軸に100冊の本で表現します。",
+                "title": "科学道100冊「知りたい！」が未来をつくる",
+                "title_link": "https:\/\/kagakudo100.jp\/",
+                "service_name": "kagakudo100.jp"
+            }
+        ]
+    }
+]

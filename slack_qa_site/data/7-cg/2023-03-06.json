@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "text": "<@U04J38PLGM6> お待たせいたしました！このような感じでいかがでしょうか？",
+        "files": [
+            {
+                "id": "F04T8Q7LQAU",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04T8Q89WAU",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U041XC6213P",
+        "ts": "1678114920.647039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cgh=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お待たせいたしました！このような感じでいかがでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "94ec0cb0-6e25-46a8-b85f-aad339637907",
+        "thread_ts": "1677834542.696889",
+        "parent_user_id": "U04J38PLGM6"
+    }
+]

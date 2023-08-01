@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "2cc2a2b7-dbe5-4388-9cdb-a4f7ddfedf3a",
+        "type": "message",
+        "text": "<@U040YCC00V6> <@U03V84JSHNK>\n収録が１４日から始まるので、１３日までに、少なくとも１４日分をお願いします。１５〜18の分は、１４日にあっても大丈夫です。編集周りの素材、テロップを優先してください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667564292.887009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bfJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n収録が１４日から始まるので、１３日までに、少なくとも１４日分をお願いします。１５〜18の分は、１４日にあっても大丈夫です。編集周りの素材、テロップを優先してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "clown_face",
+                "users": [
+                    "U040YCC00V6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "583a3622-3558-499f-a9b3-ede2507459de",
+        "type": "message",
+        "text": "すみません、テロップ作成時のApps Scriptが押せない問題ってどうすれば解決するんでしたっけ？",
+        "user": "U040YCC00V6",
+        "ts": "1667631534.555859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uGY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません、テロップ作成時のApps Scriptが押せない問題ってどうすれば解決するんでしたっけ？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

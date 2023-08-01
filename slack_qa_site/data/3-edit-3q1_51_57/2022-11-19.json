@@ -1,0 +1,73 @@
+[
+    {
+        "client_msg_id": "aa145c77-aa3a-4114-9192-99dc61bf5d50",
+        "type": "message",
+        "text": "<@U040YCC00V6>\n54とかReplayで１試写行く前に、一回編集の意図通りに編集があがってるかどうか確認しといてください\nMac StudioのDropboxでもいいし、自前Macでダウンロードでもいいし。\n<https:\/\/www.dropbox.com\/t\/rc02zc1ouCnDoeie>",
+        "user": "U03CXUXB5PF",
+        "ts": "1668906350.735579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Ry",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n54とかReplayで１試写行く前に、一回編集の意図通りに編集があがってるかどうか確認しといてください\nMac StudioのDropboxでもいいし、自前Macでダウンロードでもいいし。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/t\/rc02zc1ouCnDoeie"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.dropbox.com\/t\/rc02zc1ouCnDoeie",
+                "image_url": "https:\/\/uc47ece144f1e7d03b593bd946d9.previews.dropboxusercontent.com\/p\/thumb\/ABvuq7t_bu84zQsJaqVOhUtyt93prj5-5xAnPp8YQ0vcpQKoB-3NFQstFJ2_dFmPHK8oyHXgVSmrs4M4dzeCt9NmDQWvJG_OS9Q4H4EdaaUtx98ElBsdb3f6VMD-mJ8-eFamacPNwCC104Dh0nAmlJK9jXPj2u-31CjTvoX12Gs5Zuqv2j2R-5QnWis5lpkYPJYJBx41u9RRrybAKWxCu90gLZtVMpwf11YjoPqSkU2nhiwvX5VwMgwEhP08VkYmI8sLtuA42zqf1NLuglphoyxMfJKjRHdehcTRHvfYfPHW46WU5Uh_urqFR0_CoJ0LKQw\/p.png",
+                "image_width": 392,
+                "image_height": 220,
+                "image_bytes": 95530,
+                "id": 1,
+                "original_url": "https:\/\/www.dropbox.com\/t\/rc02zc1ouCnDoeie",
+                "fallback": "Dropbox: KODERA Hiroshi sent you 3 items",
+                "text": "54_sakai_ep1_編集1.mp4 + 2 more items",
+                "title": "KODERA Hiroshi sent you 3 items",
+                "title_link": "https:\/\/www.dropbox.com\/t\/rc02zc1ouCnDoeie",
+                "service_name": "Dropbox"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clown_face",
+                "users": [
+                    "U040YCC00V6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

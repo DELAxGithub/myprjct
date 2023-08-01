@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "0e36ce1a-9d80-4b50-beaa-7445f94e7100",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> 106はMA始めてくださいー あと予告は来週中に編集します。。ずれちゃってすいません",
+        "user": "U03CXUXB5PF",
+        "ts": "1683919380.546379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2VLcR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 106はMA始めてくださいー あと予告は来週中に編集します。。ずれちゃってすいません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03G0LAPT3N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

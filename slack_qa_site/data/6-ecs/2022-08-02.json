@@ -1,0 +1,74 @@
+[
+    {
+        "client_msg_id": "962ffaaf-381d-4192-9dcd-8fca5569d070",
+        "type": "message",
+        "text": "<@U03L0UFJF70>21〜25の試写が終わり、ひとまず作り物のリストアップをこれから始めます。作業は8月6日前に始まることはなく、締め切り的には8月22日ぐらいかなって感じです。\n分量見えてきて、進め方など改めてご連絡しますー。",
+        "user": "U03CXUXB5PF",
+        "ts": "1659487742.054429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bcK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03L0UFJF70"
+                            },
+                            {
+                                "type": "text",
+                                "text": "21〜25の試写が終わり、ひとまず作り物のリストアップをこれから始めます。作業は8月6日前に始まることはなく、締め切り的には8月22日ぐらいかなって感じです。\n分量見えてきて、進め方など改めてご連絡しますー。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659487742.054429",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1661140442.087459",
+        "reply_users": [
+            "U03L0UFJF70",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03L0UFJF70",
+                "ts": "1661126251.263979"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1661140442.087459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1661140442.087459",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03L0UFJF70"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

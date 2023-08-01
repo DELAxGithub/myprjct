@@ -1,0 +1,160 @@
+[
+    {
+        "client_msg_id": "F9D30684-0F8B-4EF7-89BA-EC27E263253D",
+        "type": "message",
+        "text": "<@U040YCC00V6> わすれないうちにお伝えしますが、次の納品予定の5本で、アラミーで買うやつ、クレジット必要なやつを確認してください。9月22日経費処理必要でして今日明日にお願いします。\n次の納品予定の5本の権利処理ってことですね。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663570425.644719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6xgMb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " わすれないうちにお伝えしますが、次の納品予定の5本で、アラミーで買うやつ、クレジット必要なやつを確認してください。9月22日経費処理必要でして今日明日にお願いします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "次の納品予定の5本の権利処理ってことですね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E40CF4B2-CBEB-418A-AB3B-D5F065D68E46",
+        "type": "message",
+        "text": "納品スケジュールは進捗のシートにあります",
+        "user": "U03CXUXB5PF",
+        "ts": "1663570528.348279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dVe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "納品スケジュールは進捗のシートにあります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "権利表はここに進捗表の左上にリンクあり",
+        "files": [
+            {
+                "id": "F042U2UHGTX",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1663570631.052429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sUOG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "権利表はここに進捗表の左上にリンクあり"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "e978b037-cde9-475c-92f6-b81da07ecda2"
+    },
+    {
+        "client_msg_id": "0B493451-2F66-42A6-B8CA-27E2CBC5823F",
+        "type": "message",
+        "text": "了解です。リマインドありがとうございます",
+        "user": "U040YCC00V6",
+        "ts": "1663570632.938849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "41KlP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です。リマインドありがとうございます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

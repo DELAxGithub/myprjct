@@ -1,0 +1,73 @@
+[
+    {
+        "client_msg_id": "a6650980-e79d-4b82-9afe-6ec50e93fba6",
+        "type": "message",
+        "text": "11\/24 木曜\n\n<#C048CGTB45A|3-edit-1115納品分> 試写2.1 で出演者チェックへ　2.1になったらください\n<#C04A8UH8L0Z|3-edit-1130>  試写1終わりましたのでMA へ　\n<#C04BB328NAC|3-edit-1215> 51以降はpremiereプロジェクトがローカルに。専用素材はプロキシ含めて各フォルダにて、となってます。プロキシ編集になってますよね、なんかやり方に不安があればお知らせください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1669247756.853959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LuSj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "11\/24 木曜\n\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C048CGTB45A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 試写2.1 で出演者チェックへ　2.1になったらください\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04A8UH8L0Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  試写1終わりましたのでMA へ　\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04BB328NAC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 51以降はpremiereプロジェクトがローカルに。専用素材はプロキシ含めて各フォルダにて、となってます。プロキシ編集になってますよね、なんかやり方に不安があればお知らせください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "rabbit",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

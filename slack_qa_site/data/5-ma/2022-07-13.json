@@ -1,0 +1,107 @@
+[
+    {
+        "client_msg_id": "987b1612-ccd9-4986-9243-f86418371847",
+        "type": "message",
+        "text": "<@U03G0LAPT3N> <@U03HJRZK295>\nMA作業スタートがおそらく7月末ぐらいからになりそうです。Dropboxで素材共有しようと思うんですが、寺田くんって今結局どうやってるんでしたっけ？\n寺田くんが２TBのにProプランに加入してて、僕のと共有してるって感じなら、高梨さんのもそれにしようかなと。",
+        "user": "U03CXUXB5PF",
+        "ts": "1657761563.191359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uPgo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HJRZK295"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMA作業スタートがおそらく7月末ぐらいからになりそうです。Dropboxで素材共有しようと思うんですが、寺田くんって今結局どうやってるんでしたっけ？\n寺田くんが２TBのにProプランに加入してて、僕のと共有してるって感じなら、高梨さんのもそれにしようかなと。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657761569.604899",
+        "user": "U03HJRZK295",
+        "text": "<@U03HJRZK295>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "4D4A3AFF-C08C-4AF1-9453-03CC40F4BEDA",
+        "type": "message",
+        "text": "その形で共有できてます。プランはPlusですー",
+        "user": "U03HJRZK295",
+        "ts": "1657762798.541779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kjs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "その形で共有できてます。プランはPlusですー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "8bbdcc2b889a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-02\/3624146862801_8bbdcc2b889ab65acf34_72.jpg",
+            "first_name": "Kohei",
+            "real_name": "Kohei Terada",
+            "display_name": "Kohei Terada",
+            "team": "T03CU6RQ154",
+            "name": "koheiterada",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

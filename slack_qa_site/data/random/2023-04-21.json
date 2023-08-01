@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "2a46fcf0-7d0c-4de7-a823-16c117cb7f1c",
+        "type": "message",
+        "text": "スイッチングも自動になった。。\n\nAutoPod | Automatic Podcast Editing for Premiere Pro\n<https:\/\/www.autopod.fm\/>",
+        "user": "U03CXUXB5PF",
+        "ts": "1682122418.453579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qFU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スイッチングも自動になった。。\n\nAutoPod | Automatic Podcast Editing for Premiere Pro\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.autopod.fm\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/uploads-ssl.webflow.com\/6366be903a6ceae134a4c884\/6432d3f23030fdaff4d1b9c4_social%20graph%20image.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 38660,
+                "from_url": "https:\/\/www.autopod.fm\/",
+                "id": 1,
+                "original_url": "https:\/\/www.autopod.fm\/",
+                "fallback": "AutoPod | Automatic Podcast Editing for Premiere Pro",
+                "text": "AutoPod is a set of Adobe Premiere Pro plug-ins that are designed for video podcast and video show editors. Edit multi-camera videos automatically, create social clips, and create jump cuts during silent portions of videos.",
+                "title": "AutoPod | Automatic Podcast Editing for Premiere Pro",
+                "title_link": "https:\/\/www.autopod.fm\/",
+                "service_name": "autopod.fm"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "dizzy_face",
+                "users": [
+                    "U04KFCBLY9J",
+                    "U03NZ0E09JN",
+                    "U03V84JSHNK"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

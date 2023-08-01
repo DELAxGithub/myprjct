@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "text": "52シダさんのWAVをDropboxにアップしました。\nご確認よろしくお願いします！",
+        "files": [
+            {
+                "id": "F04FFNTP2NS",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03G0LAPT3N",
+        "display_as_bot": false,
+        "ts": "1671227180.212529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LIsB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "52シダさんのWAVをDropboxにアップしました。\nご確認よろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "F1ADAB08-0704-42C3-80FB-3A0E2EBEFEA0",
+        "reactions": [
+            {
+                "name": "mechanical_arm",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

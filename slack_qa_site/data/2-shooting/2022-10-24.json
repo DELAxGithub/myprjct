@@ -1,0 +1,109 @@
+[
+    {
+        "client_msg_id": "28EE1EEB-3A2A-414D-BABF-3F5F78681220",
+        "type": "message",
+        "text": "<@U040YCC00V6> 編集台本、どうですか？この上にあるスタジオ探しもあるので、区切りのいいところでスタジオの件、小島さんにメールして進めてください。",
+        "user": "U03CXUXB5PF",
+        "ts": "1666678912.866999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lFQhK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 編集台本、どうですか？この上にあるスタジオ探しもあるので、区切りのいいところでスタジオの件、小島さんにメールして進めてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666678912.866999",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1666679345.799399",
+        "reply_users": [
+            "U040YCC00V6"
+        ],
+        "replies": [
+            {
+                "user": "U040YCC00V6",
+                "ts": "1666679345.799399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1666679345.799399"
+    },
+    {
+        "client_msg_id": "0604D78C-2EF1-4A43-9B57-6BD2448029AD",
+        "type": "message",
+        "text": "進めてます。小島さんには昨日連絡しており、スタジオのリストを見てみるので待ってねと言われ待ってる段階です",
+        "user": "U040YCC00V6",
+        "ts": "1666679345.799399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1gBf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "進めてます。小島さんには昨日連絡しており、スタジオのリストを見てみるので待ってねと言われ待ってる段階です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "56de1fc3d2e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-08\/4053385064418_56de1fc3d2e0a4e96d7c_72.jpg",
+            "first_name": "Mitsuteru",
+            "real_name": "Mitsuteru Ikeda",
+            "display_name": "Mitsuteru Ikeda",
+            "team": "T03CU6RQ154",
+            "name": "mikeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1666678912.866999",
+        "parent_user_id": "U03CXUXB5PF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

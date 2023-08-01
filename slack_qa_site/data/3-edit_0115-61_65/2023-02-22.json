@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "a9af3ae8-5472-45fa-9b8f-c13f9b3c059b",
+        "type": "message",
+        "text": "```「65石川直樹さん」（2.0）→弊社、視聴完了しました。```\n<@U04KFCBLY9J> クライアントから来ました。本人チェックまちです。",
+        "user": "U03CXUXB5PF",
+        "ts": "1677056457.364479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J5mN",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「65石川直樹さん」（2.0）→弊社、視聴完了しました。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04KFCBLY9J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " クライアントから来ました。本人チェックまちです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "U04KFCBLY9J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

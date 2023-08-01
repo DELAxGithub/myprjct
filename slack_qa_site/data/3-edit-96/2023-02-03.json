@@ -1,0 +1,100 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1675491753.524629",
+        "user": "U03CXUXB5PF",
+        "text": "<@U03CXUXB5PF>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1675491763.469189",
+        "user": "U03NZ0E09JN",
+        "text": "<@U03NZ0E09JN>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1675491763.565079",
+        "user": "U04J38PLGM6",
+        "text": "<@U04J38PLGM6>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1675491763.640499",
+        "user": "U03V84JSHNK",
+        "text": "<@U03V84JSHNK>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "3cf1ef62-9056-4b09-aa71-f08cb6014cb4",
+        "type": "message",
+        "text": "<@U04J38PLGM6> <@U03V84JSHNK> 台本できました\n急ぎの回ってことで独立させます\nテロップチェック次第、編集スタートさせますが、\n本人演出の舞台については、素材提供依頼しましょうかね。\nそれ以外のイメージカットについては、台本の上の方に集めるときのアイデア少し書いときます。まぁ特別回はあんまりイメージ無理になきゃいいかなっていう気もしますが。",
+        "user": "U03CXUXB5PF",
+        "ts": "1675491857.654289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3OybX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 台本できました\n急ぎの回ってことで独立させます\nテロップチェック次第、編集スタートさせますが、\n本人演出の舞台については、素材提供依頼しましょうかね。\nそれ以外のイメージカットについては、台本の上の方に集めるときのアイデア少し書いときます。まぁ特別回はあんまりイメージ無理になきゃいいかなっていう気もしますが。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1675492661.662599",
+        "user": "U03P0T4KQMV",
+        "text": "<@U03P0T4KQMV>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    }
+]

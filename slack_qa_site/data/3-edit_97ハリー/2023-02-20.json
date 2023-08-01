@@ -1,0 +1,115 @@
+[
+    {
+        "client_msg_id": "9D3696C1-4289-409A-BBC3-5E921C32A66C",
+        "type": "message",
+        "text": "承知しました",
+        "user": "U04JJB0MTB7",
+        "ts": "1676880541.229469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8=V8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "g76174793242",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/761747932421d8b2f7aa5badda9ceb9e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "HAMAJI",
+            "real_name": "HAMAJI",
+            "display_name": "",
+            "team": "T03CU6RQ154",
+            "name": "hamagonist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "95d531a0-f926-4cfe-bda6-468ab1346187",
+        "type": "message",
+        "text": "<@U04JJB0MTB7> あと次のアップロードはこのslackの上の方にもあるこのリンクでお願いします、バラバラになるとちょっと手間になるので、、\n0127#87渡部#95古市#96宮本 - Replay\n<https:\/\/replay.dropbox.com\/folder\/pid_rf:AAAAABcI8tTCJuCwe6cb20LqhYtUw7jQ-h43FnaVufhkn-Ys>",
+        "user": "U03CXUXB5PF",
+        "ts": "1676950924.617019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b1F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04JJB0MTB7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " あと次のアップロードはこのslackの上の方にもあるこのリンクでお願いします、バラバラになるとちょっと手間になるので、、\n0127#87渡部#95古市#96宮本 - Replay\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/replay.dropbox.com\/folder\/pid_rf:AAAAABcI8tTCJuCwe6cb20LqhYtUw7jQ-h43FnaVufhkn-Ys"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CXUXB5PF",
+            "ts": "1676950937.000000"
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/cfl.dropboxstatic.com\/static\/metaserver\/static\/images\/reel\/unfurl-image-vflJ2sZZi.jpeg",
+                "image_width": 1440,
+                "image_height": 960,
+                "image_bytes": 115485,
+                "from_url": "https:\/\/replay.dropbox.com\/folder\/pid_rf:AAAAABcI8tTCJuCwe6cb20LqhYtUw7jQ-h43FnaVufhkn-Ys",
+                "id": 1,
+                "original_url": "https:\/\/replay.dropbox.com\/folder\/pid_rf:AAAAABcI8tTCJuCwe6cb20LqhYtUw7jQ-h43FnaVufhkn-Ys",
+                "fallback": "Dropbox Replay",
+                "text": "Dropbox Replay allows creative teams to better create, collaborate on and deliver content. No Dropbox account is required to give feedback.",
+                "title": "Dropbox Replay",
+                "title_link": "https:\/\/replay.dropbox.com\/folder\/pid_rf:AAAAABcI8tTCJuCwe6cb20LqhYtUw7jQ-h43FnaVufhkn-Ys",
+                "service_name": "dropbox.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04JJB0MTB7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

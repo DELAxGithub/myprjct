@@ -1,0 +1,139 @@
+[
+    {
+        "client_msg_id": "264C250A-6AEA-4F5A-BA6E-A5B76AD27C74",
+        "type": "message",
+        "text": "お疲れ様です。音声チームとしては、金土日のMAに向けて、音効仕込みをそろそろ始められると大変助かるのですが、進捗いかがでしょうか？",
+        "user": "U03G0LAPT3N",
+        "ts": "1673444037.914859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wFxZq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。音声チームとしては、金土日のMAに向けて、音効仕込みをそろそろ始められると大変助かるのですが、進捗いかがでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1672974436.668589",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "77bd4c45-1f44-4504-948b-228fc3589c88",
+        "type": "message",
+        "text": "<@U03G0LAPT3N>\n62_山口のMA用QT&amp;OMFをアップいたしました。\nよろしくお願いいたします。",
+        "user": "U03RA83HRN0",
+        "ts": "1673495931.705359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7MHfN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03G0LAPT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n62_山口のMA用QT&OMFをアップいたしました。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673495931.705359",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1673496094.731029",
+        "reply_users": [
+            "U03G0LAPT3N"
+        ],
+        "replies": [
+            {
+                "user": "U03G0LAPT3N",
+                "ts": "1673496094.731029"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6CDBFF21-E7E9-4D73-AFAE-C3678D7C8805",
+        "type": "message",
+        "text": "ありがとうございます！",
+        "user": "U03G0LAPT3N",
+        "ts": "1673496094.731029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xk2X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "67482164f078",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-22\/4118894442340_67482164f078d288db6a_72.png",
+            "first_name": "Takanashi",
+            "real_name": "Takanashi",
+            "display_name": "MA-Takanashi",
+            "team": "T03CU6RQ154",
+            "name": "takanashi3104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673495931.705359",
+        "parent_user_id": "U03RA83HRN0"
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "type": "message",
+        "text": "[試写チェック]注釈とフォローが両方指定されてた場合\n\n基本的に下位置以外で入ると不自然です。\n注釈文章中にフォローで言ってるようなことを含めてるので、フォローを捨ててください。",
+        "files": [
+            {
+                "id": "F04BE9G5EMN",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1668376556.679569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3V9Kn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[試写チェック]注釈とフォローが両方指定されてた場合\n\n基本的に下位置以外で入ると不自然です。\n注釈文章中にフォローで言ってるようなことを含めてるので、フォローを捨ててください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "35dbfc06-16a3-462a-bf93-ccd9c839166c",
+        "reactions": [
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "[試写チェック]句読点\n\n句読点、気づいたら外してください。\nテロップに混ざってたら勝手に外していいので、、、",
+        "files": [
+            {
+                "id": "F04AJ0PLZ3Q",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03CXUXB5PF",
+        "display_as_bot": false,
+        "ts": "1668376620.886419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eG6wJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[試写チェック]句読点\n\n句読点、気づいたら外してください。\nテロップに混ざってたら勝手に外していいので、、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "0488c8f2-e321-4dda-b71d-2af0cf5d761c",
+        "reactions": [
+            {
+                "name": "panda_face",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

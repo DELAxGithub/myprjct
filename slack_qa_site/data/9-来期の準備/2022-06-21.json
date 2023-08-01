@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "56872e96-abae-45d6-bf55-e0573959bc04",
+        "type": "message",
+        "text": "esse-sense\n<https:\/\/esse-sense.com\/>",
+        "user": "U03CXUXB5PF",
+        "ts": "1655816171.838549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sWrNU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "esse-sense\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/esse-sense.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/esse-sense.com\/",
+                "thumb_url": "https:\/\/esse-sense.com\/assets\/images\/ogp-image.png",
+                "thumb_width": 1259,
+                "thumb_height": 653,
+                "service_icon": "https:\/\/esse-sense.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/esse-sense.com\/",
+                "fallback": "esse-sense",
+                "text": "“未来は、知識と精神の出会いによって生まれる“。「esse-sense」は、分野の垣根を超えた研究者たちのインタビュー記事を通じて未知の視点に出会う、あなたの未来を拓くWEBメディアです。",
+                "title": "esse-sense",
+                "title_link": "https:\/\/esse-sense.com\/",
+                "service_name": "esse-sense.com"
+            }
+        ]
+    }
+]

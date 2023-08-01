@@ -1,0 +1,537 @@
+[
+    {
+        "client_msg_id": "2d734617-af39-4a02-9633-8178fa8eb1be",
+        "type": "message",
+        "text": "<@U04J38PLGM6> zoom、問題なさそう？",
+        "user": "U03CXUXB5PF",
+        "ts": "1676859754.935329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "39vdi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " zoom、問題なさそう？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676859754.935329",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1676860004.320789",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1676860004.320789"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1676860004.320789"
+    },
+    {
+        "client_msg_id": "A80994A7-ED48-45CD-91A8-71F96508A210",
+        "type": "message",
+        "text": "大丈夫そうです！",
+        "user": "U04J38PLGM6",
+        "ts": "1676859776.371229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BLdzB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大丈夫そうです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "今zoom繋いでテストできますか？",
+        "user": "U04J38PLGM6",
+        "ts": "1676860004.320789",
+        "thread_ts": "1676859754.935329",
+        "root": {
+            "client_msg_id": "2d734617-af39-4a02-9633-8178fa8eb1be",
+            "type": "message",
+            "text": "<@U04J38PLGM6> zoom、問題なさそう？",
+            "user": "U03CXUXB5PF",
+            "ts": "1676859754.935329",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "39vdi",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " zoom、問題なさそう？"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03CU6RQ154",
+            "thread_ts": "1676859754.935329",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1676860004.320789",
+            "reply_users": [
+                "U04J38PLGM6"
+            ],
+            "replies": [
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1676860004.320789"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1676860004.320789"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RiSVq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今zoom繋いでテストできますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "F3D9F557-252D-43B1-B300-40C10AA36191"
+    },
+    {
+        "client_msg_id": "45365845-e7e5-446a-9c59-60869f9b4959",
+        "type": "message",
+        "text": "いいよ",
+        "user": "U03CXUXB5PF",
+        "ts": "1676860012.497829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UEw+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いいよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "63b78f58-f6b5-4724-80a2-63cf987bb551",
+        "type": "message",
+        "text": "<https:\/\/us02web.zoom.us\/j\/3423637728>",
+        "user": "U03CXUXB5PF",
+        "ts": "1676860016.776099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OSB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/3423637728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "551e8402-044f-4777-8569-34a78b32c371",
+        "type": "message",
+        "text": "1240に再開でー。<@U04J38PLGM6>",
+        "user": "U03CXUXB5PF",
+        "ts": "1676862059.372179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CCN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1240に再開でー。"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676862059.372179",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1676862347.323389",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1676862347.323389"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1676862347.323389"
+    },
+    {
+        "client_msg_id": "7DCFE7E1-5FBE-4B26-92E5-1A2F77CED296",
+        "type": "message",
+        "text": ":+1: ",
+        "user": "U04J38PLGM6",
+        "ts": "1676862347.323389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wjYvI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676862059.372179",
+        "parent_user_id": "U03CXUXB5PF"
+    },
+    {
+        "client_msg_id": "8ed48d92-faa7-4af3-b756-4d287acaf537",
+        "type": "message",
+        "text": "<@U04J38PLGM6>\n28日、メイク１件ありということで発注をお願いします。場所とか時間とか。お手数をおかけします",
+        "user": "U03CXUXB5PF",
+        "ts": "1676876788.258819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BQZiP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n28日、メイク１件ありということで発注をお願いします。場所とか時間とか。お手数をおかけします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f9ed222a-6145-40c6-8f2c-2b461a1d4d66",
+        "type": "message",
+        "text": "二人やるのも一人やるのも一緒な料金かも。てことで午前からつけるか。",
+        "user": "U03CXUXB5PF",
+        "ts": "1676876817.455359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ciKcg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "二人やるのも一人やるのも一緒な料金かも。てことで午前からつけるか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9D08EE7A-848A-48AF-AA38-FA5FC88E3FD0",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 了解です！",
+        "user": "U04J38PLGM6",
+        "ts": "1676876937.187999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k+h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d926eb8a-2a69-4bb8-938a-5e4c596a0920",
+        "type": "message",
+        "text": "<@U04J38PLGM6> そういや、今回いつもと違う文字起こしやろうと思うんで、素材mp4の前に書き出し設定で音声（ピンマイクのみ生かし）でwavにしてアップロードをお願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1676878477.202989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T3\/V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " そういや、今回いつもと違う文字起こしやろうと思うんで、素材mp4の前に書き出し設定で音声（ピンマイクのみ生かし）でwavにしてアップロードをお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1676878477.202989",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1676935818.613539",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1676935818.613539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1676935818.613539",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

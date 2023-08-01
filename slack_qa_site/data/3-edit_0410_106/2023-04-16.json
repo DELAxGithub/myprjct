@@ -1,0 +1,378 @@
+[
+    {
+        "client_msg_id": "2f352b8a-dd98-491d-bbf5-c29cc18ccac6",
+        "type": "message",
+        "text": "<@U03RA83HRN0>\n申し訳ありません。プロジェクトミスっていたので作り直します。今しばらくお待ちください。",
+        "user": "U04J38PLGM6",
+        "ts": "1681628746.766709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tGiT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n申し訳ありません。プロジェクトミスっていたので作り直します。今しばらくお待ちください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681628227.325489",
+        "parent_user_id": "U04J38PLGM6"
+    },
+    {
+        "client_msg_id": "978ba0db-3ba5-4965-9cf5-dcc8a17ebefd",
+        "type": "message",
+        "text": "<@U03RA83HRN0>\nすみません。プロジェクト直しました。",
+        "user": "U04J38PLGM6",
+        "ts": "1681630038.101829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yMF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nすみません。プロジェクト直しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681628227.325489",
+        "parent_user_id": "U04J38PLGM6",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8ebe4975-7c7e-43cc-95e8-32e253a729e7",
+        "type": "message",
+        "text": "<@U04J38PLGM6>\n大丈夫です。ありがとうございます。",
+        "user": "U03RA83HRN0",
+        "ts": "1681636594.129169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7iJE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n大丈夫です。ありがとうございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681628227.325489",
+        "parent_user_id": "U04J38PLGM6"
+    },
+    {
+        "client_msg_id": "db362b08-1efd-475f-905c-7db6dfa70df1",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nダイジェスト部分にBGMが乗っている問題は\n確かMA済の音声のみのwavファイルを一緒に編集すると伺っていたのですが、\nこのまま進めてよろしいのでしょうか。一応念のための確認でした。",
+        "user": "U03NZ0E09JN",
+        "ts": "1681698542.655029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S0pu5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nダイジェスト部分にBGMが乗っている問題は\n確かMA済の音声のみのwavファイルを一緒に編集すると伺っていたのですが、\nこのまま進めてよろしいのでしょうか。一応念のための確認でした。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E2320541-177B-4DF6-AA5A-AC63EC7D3A44",
+        "type": "message",
+        "text": "BGMが乗っててきれない場合は、切らなくて大丈夫です",
+        "user": "U03CXUXB5PF",
+        "ts": "1681698602.082109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BAu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BGMが乗っててきれない場合は、切らなくて大丈夫です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6aceb644-8213-4dfa-83e4-072edd0295ae",
+        "type": "message",
+        "text": "BGMはそのまま使用するということですね。承知しました。",
+        "user": "U03NZ0E09JN",
+        "ts": "1681698693.378049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a+\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BGMはそのまま使用するということですね。承知しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U03RA83HRN0>\n106_北川さんのイメージとプロジェクトを入れました。テロップは柳川さんでお渡ししたものをお使いください。\n\nプロキシのリンクです。\n<https:\/\/20.gigafile.nu\/0424-ed6c4279c9bc1f8797d234f4c7025a01>",
+        "files": [
+            {
+                "id": "F053GHCJ7NW",
+                "created": 1681706746,
+                "timestamp": 1681706746,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04J38PLGM6",
+                "user_team": "T03CU6RQ154",
+                "editable": false,
+                "size": 96007,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F053GHCJ7NW\/image.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03CU6RQ154-F053GHCJ7NW\/download\/image.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F053GHCJ7NW-575b0999cd\/image_64.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F053GHCJ7NW-575b0999cd\/image_80.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F053GHCJ7NW-575b0999cd\/image_360.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_360_w": 360,
+                "thumb_360_h": 231,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F053GHCJ7NW-575b0999cd\/image_480.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_480_w": 480,
+                "thumb_480_h": 309,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F053GHCJ7NW-575b0999cd\/image_160.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F053GHCJ7NW-575b0999cd\/image_720.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_720_w": 720,
+                "thumb_720_h": 463,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03CU6RQ154-F053GHCJ7NW-575b0999cd\/image_800.png?t=xoxe-3436229817174-5500262048449-5500262224001-b121e2a5a84594a3b8db7542afc8fcc6",
+                "thumb_800_w": 800,
+                "thumb_800_h": 514,
+                "original_w": 941,
+                "original_h": 605,
+                "thumb_tiny": "AwAeADDQXng0rZAO0An3pE607uaAI8y4+4n5n\/CngHPSnUUAJilwKKKAGJ1p38X1pmB15pRgGgB9FJupN1ADqKbupc0Af\/\/Z",
+                "permalink": "https:\/\/kdddipresidentnep2022.slack.com\/files\/U04J38PLGM6\/F053GHCJ7NW\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03CU6RQ154-F053GHCJ7NW-e2ece6c40d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1681706764.233759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "um12",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n106_北川さんのイメージとプロジェクトを入れました。テロップは柳川さんでお渡ししたものをお使いください。\n\nプロキシのリンクです。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/20.gigafile.nu\/0424-ed6c4279c9bc1f8797d234f4c7025a01"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "0b44f3f4-526d-4e2c-b6c8-b90db0188415",
+        "attachments": [
+            {
+                "from_url": "https:\/\/20.gigafile.nu\/0424-ed6c4279c9bc1f8797d234f4c7025a01",
+                "service_icon": "https:\/\/20.gigafile.nu\/favicon.ico",
+                "thumb_url": "https:\/\/src.gigafile.nu\/images\/og_new_200_60.png",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "id": 1,
+                "original_url": "https:\/\/20.gigafile.nu\/0424-ed6c4279c9bc1f8797d234f4c7025a01",
+                "fallback": "GigaFile（ギガファイル）便",
+                "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+                "title": "GigaFile（ギガファイル）便",
+                "title_link": "https:\/\/20.gigafile.nu\/0424-ed6c4279c9bc1f8797d234f4c7025a01",
+                "service_name": "20.gigafile.nu"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

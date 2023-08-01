@@ -1,0 +1,260 @@
+[
+    {
+        "type": "message",
+        "text": "<@U04J38PLGM6> 現時点で作成できたものをアップいたします。ちなみに、2枚目・3枚目の表は、文字が規定の最小サイズ100ptを下回ってしまっても問題ありませんか？",
+        "files": [
+            {
+                "id": "F04S6H76U3G",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04S6H784K0",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U041XC6213P",
+        "ts": "1677926291.230779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3no",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 現時点で作成できたものをアップいたします。ちなみに、2枚目・3枚目の表は、文字が規定の最小サイズ100ptを下回ってしまっても問題ありませんか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "56e7a85b-4ded-454d-b9d6-3f63a4c940fc",
+        "thread_ts": "1677834542.696889",
+        "parent_user_id": "U04J38PLGM6"
+    },
+    {
+        "client_msg_id": "4c828330-6c1b-454e-bce1-79f897e02459",
+        "type": "message",
+        "text": "<@U04J38PLGM6> 格納いたしました。すみません、ファイル名の日付を間違えて「20230204」としてしまいました。ご確認ください:bow:",
+        "user": "U041XC6213P",
+        "ts": "1677927679.037929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6UK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 格納いたしました。すみません、ファイル名の日付を間違えて「20230204」としてしまいました。ご確認ください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "abe1d296cc6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-12\/4053815805431_abe1d296cc6b7bfc12b3_72.jpg",
+            "first_name": "本宮一慶",
+            "real_name": "本宮一慶",
+            "display_name": "Kazuyoshi MOTOMIYA",
+            "team": "T03CU6RQ154",
+            "name": "kazsala1226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677820549.602389",
+        "parent_user_id": "U04J38PLGM6",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U04J38PLGM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "06EA8E11-BEFE-4E35-B5E3-11731BB9EF46",
+        "type": "message",
+        "text": "なるほど、100を下回るのですね。\n検討して明日打ち返します :man-bowing: ",
+        "user": "U04J38PLGM6",
+        "ts": "1677927793.254049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cQY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど、100を下回るのですね。\n検討して明日打ち返します "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "ef706e5c062c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-03\/4585000888518_ef706e5c062c00f40850_72.png",
+            "first_name": "Tetsuya",
+            "real_name": "Tetsuya Shindo",
+            "display_name": "Tetsuya Shindo",
+            "team": "T03CU6RQ154",
+            "name": "tshindo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677834542.696889",
+        "parent_user_id": "U04J38PLGM6",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U041XC6213P>\nこの図の件です\n・英語を全部消しましょう\n・ホモアンテセッサーはデニソア人の下に\n　持って来ましょう\n・万年前の単位を省略しましょう\n\nその分文字を大きくしてください。",
+        "files": [
+            {
+                "id": "F04SGSWF5DJ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1677998664.915169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iPqWv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこの図の件です\n・英語を全部消しましょう\n・ホモアンテセッサーはデニソア人の下に\n　持って来ましょう\n・万年前の単位を省略しましょう\n\nその分文字を大きくしてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1db753f0-1136-4a82-a59c-fc8e3e1add57",
+        "thread_ts": "1677834542.696889",
+        "parent_user_id": "U04J38PLGM6",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U041XC6213P>\nこちらも万年の単位を省略してください。その上でできるだけ文字を大きくしてください。\n２枚とも右下の出典は大きくなくていいと思います。",
+        "files": [
+            {
+                "id": "F04ST2HU22D",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1677998791.765239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+PX\/9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U041XC6213P"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこちらも万年の単位を省略してください。その上でできるだけ文字を大きくしてください。\n２枚とも右下の出典は大きくなくていいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ca24168f-45d2-4869-9b95-615400255151",
+        "thread_ts": "1677834542.696889",
+        "parent_user_id": "U04J38PLGM6",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U041XC6213P"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

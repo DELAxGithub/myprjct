@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "79148e42-6eaf-4e06-ad2a-983150266f09",
+        "type": "message",
+        "text": "<@U040YCC00V6> 場所は準備チャンネルっていうのがあったんで、こっちで。\n<@U03V84JSHNK> 安永くんもし今お手隙なら場所探しをちょっとお手伝いお願いします。。",
+        "user": "U03CXUXB5PF",
+        "ts": "1663570717.560649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NnD0N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 場所は準備チャンネルっていうのがあったんで、こっちで。\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 安永くんもし今お手隙なら場所探しをちょっとお手伝いお願いします。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663570720.646369",
+        "user": "U040YCC00V6",
+        "text": "<@U040YCC00V6>さんがチャンネルに参加しました",
+        "inviter": "U03CXUXB5PF"
+    }
+]

@@ -1,0 +1,788 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U03V84JSHNK>\n五月雨式にすみません。こちらの音楽も探しております。\nまだでしたら無音で空けますがいかがでしょうか。",
+        "files": [
+            {
+                "id": "F049GD8R3KL",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03NJATSEBH",
+        "display_as_bot": false,
+        "ts": "1667545519.184189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L8=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n五月雨式にすみません。こちらの音楽も探しております。\nまだでしたら無音で空けますがいかがでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "57bb5abf-f4a6-4988-bd51-9a2078a7d94e",
+        "thread_ts": "1667543635.905339",
+        "parent_user_id": "U03NJATSEBH"
+    },
+    {
+        "client_msg_id": "8662755b-4fed-4926-9540-a0b90a9cbff1",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n24三宅のOMF入れました！",
+        "user": "U03QQ3J656Z",
+        "ts": "1667550362.723899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IkKR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n24三宅のOMF入れました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "642cf636808f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3836466464054_642cf636808fa758e85f_72.png",
+            "first_name": "Toshi",
+            "real_name": "Toshi Takayama",
+            "display_name": "Toshi Takayama　平日10から19時稼働",
+            "team": "T03CU6RQ154",
+            "name": "takayama.t0910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03NJATSEBH> voice入れました。",
+        "files": [
+            {
+                "id": "F049DT8Q545",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03V84JSHNK",
+        "display_as_bot": false,
+        "ts": "1667552285.878199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gDqvp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " voice入れました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "88b20ff0-4aa7-4c4d-a42b-ee1b5513ee54",
+        "thread_ts": "1667543635.905339",
+        "parent_user_id": "U03NJATSEBH"
+    },
+    {
+        "client_msg_id": "8c8d0b38-931e-4767-8411-0e60872291d8",
+        "type": "message",
+        "text": "<@U03V84JSHNK> ありがとうございます！",
+        "user": "U03NJATSEBH",
+        "ts": "1667552343.889089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7GUm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667543635.905339",
+        "parent_user_id": "U03NJATSEBH"
+    },
+    {
+        "client_msg_id": "4b6bdabc-da9f-427e-9bca-3e3464244fa7",
+        "type": "message",
+        "text": "ショパン音楽のところ開けといてくださいー　<@U03NJATSEBH>",
+        "user": "U03CXUXB5PF",
+        "ts": "1667561958.329399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vHp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ショパン音楽のところ開けといてくださいー　"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667543635.905339",
+        "parent_user_id": "U03NJATSEBH",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8bc96216-1182-4cca-a611-4ec96de2572d",
+        "type": "message",
+        "text": "```49川上さん拝見。楽しく見ましたが、V2　1755ですので、1830ぐらいまで届かせてもよいのかな、と。\nV2　便利／不便　利益／不利益　のあたりで、4象限のグラフで表現すると、不便で益があるフィールドがブルーオーシャンであることが視覚的に把握しやすいかも。便利を経済的効率、利益のみと同一視することで、自らの精神を摩耗させ、トータルで不利益を生んでいる愚を表現。\nたまたま、「教養」⇒「ダンゴムシ／石の論理」⇒「不便益」と続いて拝見したわけですが、三題噺で「教養とは？」という問いに答える「流れ」になっていますね。こうした、意識の「流れ」を生むことが、映像で教養を考えるという意味でも大事なわけでして、この映像の「流れ」、空間の「奥行き」がこのシリーズの肝と捉えましょう。ゆえに、そのあたりに気づいたユーザーが、自ずからパソコンによる休日の視聴を選択したとしても、それは「正しい」選択、基本にある理念の部分がある程度実現、成功していることを表わしていると思います。```\n川上v2のグラフを追加しますので、台本で箇所指示します",
+        "user": "U03CXUXB5PF",
+        "ts": "1667562134.581979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k1n",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "49川上さん拝見。楽しく見ましたが、V2　1755ですので、1830ぐらいまで届かせてもよいのかな、と。\nV2　便利／不便　利益／不利益　のあたりで、4象限のグラフで表現すると、不便で益があるフィールドがブルーオーシャンであることが視覚的に把握しやすいかも。便利を経済的効率、利益のみと同一視することで、自らの精神を摩耗させ、トータルで不利益を生んでいる愚を表現。\nたまたま、「教養」⇒「ダンゴムシ／石の論理」⇒「不便益」と続いて拝見したわけですが、三題噺で「教養とは？」という問いに答える「流れ」になっていますね。こうした、意識の「流れ」を生むことが、映像で教養を考えるという意味でも大事なわけでして、この映像の「流れ」、空間の「奥行き」がこのシリーズの肝と捉えましょう。ゆえに、そのあたりに気づいたユーザーが、自ずからパソコンによる休日の視聴を選択したとしても、それは「正しい」選択、基本にある理念の部分がある程度実現、成功していることを表わしていると思います。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "川上v2のグラフを追加しますので、台本で箇所指示します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4bf07650-2c71-46e2-8fa8-23a8ad01b664",
+        "type": "message",
+        "text": "<@U03P0T4KQMV> 50森山のノイズ箇所、確認中です。\nですが、どうしてもカットっていうのが\nこの二箇所なので、それ以外は修正してもらおうかと。\n\n```v1マストで処理すべきはそのうち「1548~41」の一か所のみとしか感じられませんでした。```\n```V3の0639のように明らかに物を落としたように聞こえる音はもちろん処理ないしカットですが、それ以外もさほど気にならず…```\n\/Users\/delax\/kin production Dropbox\/KODERA Hiroshi\/KDDI2022\/8_MA\/ノイズ検証サンプル\n一応、ここにあるAランクレベルのノイズはMA前に外せないかと思っていますが、森山のもAだけ特にコメントいただくこと可能でしょうか？",
+        "user": "U03CXUXB5PF",
+        "ts": "1667562757.833329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Im7Nm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 50森山のノイズ箇所、確認中です。\nですが、どうしてもカットっていうのが\nこの二箇所なので、それ以外は修正してもらおうかと。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "v1マストで処理すべきはそのうち「1548~41」の一か所のみとしか感じられませんでした。"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "V3の0639のように明らかに物を落としたように聞こえる音はもちろん処理ないしカットですが、それ以外もさほど気にならず…"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\/Users\/delax\/kin production Dropbox\/KODERA Hiroshi\/KDDI2022\/8_MA\/ノイズ検証サンプル\n一応、ここにあるAランクレベルのノイズはMA前に外せないかと思っていますが、森山のもAだけ特にコメントいただくこと可能でしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9bd43d4b-471d-4a36-bbd7-ff2417c906ee",
+        "type": "message",
+        "text": "<@U03P0T4KQMV> コメントいただいたノイズ箇所ですが、Replayにある渡辺さんノイズを全部カットではなく、上記のように、修正むずそうなAランクはマストで、カット。それ以外は無視していいです。\nReplayには期待せず、編集中に気になるな＝Aランクとしてコメントにその旨いただければ、削り方考えます。\nA＝大、かな　B＝中かな、は迷ったらその旨お知らせください。\n\nあと、v3「繰り返し」の周りもコメントしました。\nカットするところカットして、Replayの修正を反映したらMA用書き出しをお願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667563842.965189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WyXr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " コメントいただいたノイズ箇所ですが、Replayにある渡辺さんノイズを全部カットではなく、上記のように、修正むずそうなAランクはマストで、カット。それ以外は無視していいです。\nReplayには期待せず、編集中に気になるな＝Aランクとしてコメントにその旨いただければ、削り方考えます。\nA＝大、かな　B＝中かな、は迷ったらその旨お知らせください。\n\nあと、v3「繰り返し」の周りもコメントしました。\nカットするところカットして、Replayの修正を反映したらMA用書き出しをお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03NJATSEBH",
+                    "U03P0T4KQMV"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1B6BCB83-1D11-44A2-9036-C24DD00E6F87",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> \n【34菅野】\nご連絡が遅くなりましたが、菅野の台本にノイズについてコメントしております。何卒よろしくお願い致します。",
+        "user": "U03NJATSEBH",
+        "ts": "1667608076.723889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v+r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【"
+                            },
+                            {
+                                "type": "text",
+                                "text": "34"
+                            },
+                            {
+                                "type": "text",
+                                "text": "菅野】"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ご連絡が遅くなりましたが、菅野の台本にノイズについてコメントしております。何卒"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしくお願い"
+                            },
+                            {
+                                "type": "text",
+                                "text": "致します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "7670c4429b66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-10\/3766367935463_7670c4429b66ba4dff61_72.jpg",
+            "first_name": "yoko",
+            "real_name": "yoko ikenomoto",
+            "display_name": "yoko ikenomoto",
+            "team": "T03CU6RQ154",
+            "name": "mojimoji86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5a96d13c-1f7d-469c-b208-9de3844c8095",
+        "type": "message",
+        "text": "<@U03NJATSEBH> 菅野台本直したらMA行きたいところですが、素材まちがあるので、次の平藤進めていただければと思います",
+        "user": "U03CXUXB5PF",
+        "ts": "1667608273.776149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0iOX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 菅野台本直したらMA行きたいところですが、素材まちがあるので、次の平藤進めていただければと思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "645c9a4b-5f32-4c50-bf46-9a5f746ed712",
+        "type": "message",
+        "text": "<@U03NJATSEBH> 34菅野 ノイズのところ、カット指示しておりますー。ep1の冒頭で一箇所テロップ修正ありますー",
+        "user": "U03CXUXB5PF",
+        "ts": "1667619662.368909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cIU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03NJATSEBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 34菅野 ノイズのところ、カット指示しておりますー。ep1の冒頭で一箇所テロップ修正ありますー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U03NJATSEBH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3cde5012-fa7a-47e8-8dff-ecb495564c76",
+        "type": "message",
+        "text": "<@U03P0T4KQMV> 森山のMA用素材できたら、<#C03DFG6ERL4|5-ma> にてその旨お知らせくださいー",
+        "user": "U03CXUXB5PF",
+        "ts": "1667619749.421829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ONIoW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03P0T4KQMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 森山のMA用素材できたら、"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03DFG6ERL4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にてその旨お知らせくださいー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03P0T4KQMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce899496-2724-41e0-be9a-2e97790c5b76",
+        "type": "message",
+        "text": "川上も修正依頼来てた図の入れどころにイラスト入れました。とりあえずMAはダミーで。",
+        "user": "U03CXUXB5PF",
+        "ts": "1667621109.327659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lCSn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "川上も修正依頼来てた図の入れどころにイラスト入れました。とりあえずMAはダミーで。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e0a7a639-967f-4082-9662-c6101b1b5567",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n50森山MA発注しました。\n\n<@U03V84JSHNK> <@U040YCC00V6>\n50森山、1箇所「つげ義春」の画像が抜けておりましたのでご確認お願いいたします。",
+        "user": "U03P0T4KQMV",
+        "ts": "1667627585.495289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FBOZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n50森山MA発注しました。\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03V84JSHNK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040YCC00V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n50森山、1箇所「つげ義春」の画像が抜けておりましたのでご確認お願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "32a58f6934dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-13\/3790911850486_32a58f6934dde30b8e88_72.png",
+            "first_name": "ツジイヒトミ",
+            "real_name": "ツジイヒトミ",
+            "display_name": "Hitomi Tsujii",
+            "team": "T03CU6RQ154",
+            "name": "kib.gnk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667627585.495289",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1667733574.857949",
+        "reply_users": [
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1667733574.857949"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1667733574.857949",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CXUXB5PF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "2182e251-e16e-4147-9011-c120a6d43644",
+        "type": "message",
+        "text": "出演者チェックも反映したので、終わりでーす",
+        "user": "U03CXUXB5PF",
+        "ts": "1667569259.566349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G1DA1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "出演者チェックも反映したので、終わりでーす"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03NZ0E09JN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,230 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1674194212.682529",
+        "user": "U04KFCBLY9J",
+        "text": "<@U04KFCBLY9J>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1674194228.252289",
+        "user": "U04K58LPSEB",
+        "text": "<@U04K58LPSEB>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    },
+    {
+        "client_msg_id": "e1306143-489c-400d-b1f6-d3b5d32e20ac",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nプロジェクトに用意いただいている編集フォーマットのシーケンスなんですが、いくつか足りないところがあるので、お手隙の時に一度整理いただけないでしょうか。\n\n• あらすじのテキストの２行目のボールドが外れてないです。\n• あらすじのテキストの１段目と２段目の行間が均等ではない\n• カラコレはイメージ用とインタビュー用とあらすじ用と別になりますか？\n（あらすじには最初ぼかしがあったらしいのですがいつの間にか消えています）\n• まとめのテキストがセンタリングされていない\n• 本編のエンディングがない\n• 見本用に小野塚さんの素材を使用しているのですが、Dropboxにはもうないので、オフラインのままになっています。決まりフォルダの中でこちらのシーケンスが完結するようにしていただけると助かります。\n",
+        "user": "U03NZ0E09JN",
+        "ts": "1674194278.473599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wZZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nプロジェクトに用意いただいている編集フォーマットのシーケンスなんですが、いくつか足りないところがあるので、お手隙の時に一度整理いただけないでしょうか。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "あらすじのテキストの２行目のボールドが外れてないです。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "あらすじのテキストの１段目と２段目の行間が均等ではない"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "カラコレはイメージ用とインタビュー用とあらすじ用と別になりますか？"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "（あらすじには最初ぼかしがあったらしいのですがいつの間にか消えています）\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "まとめのテキストがセンタリングされていない"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "本編のエンディングがない"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "見本用に小野塚さんの素材を使用しているのですが、Dropboxにはもうないので、オフラインのままになっています。決まりフォルダの中でこちらのシーケンスが完結するようにしていただけると助かります。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "2fe0dad38334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-11\/3778178562789_2fe0dad383347dc38290_72.jpg",
+            "first_name": "FUKUDA",
+            "real_name": "FUKUDA Keiko",
+            "display_name": "FUKUDA Keiko",
+            "team": "T03CU6RQ154",
+            "name": "fukuda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "46147B89-D5F1-4076-893B-5C96049AC691",
+        "type": "message",
+        "text": "これ、うまくいってるのがどれかとかあります？\nそこから複製するのが確実かと思いますが、最新のやつがいいんでしょうか？",
+        "user": "U03CXUXB5PF",
+        "ts": "1674194351.853809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TDG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これ、うまくいってるのがどれかとかあります？\nそこから複製するのが確実かと思いますが、最新のやつがいいんでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674194351.853809",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1674215367.389109",
+        "reply_users": [
+            "U03NZ0E09JN",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1674212277.541789"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1674212619.230759"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1674213986.454559"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1674214274.985979"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1674214693.325409"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1674214941.173349"
+            },
+            {
+                "user": "U03NZ0E09JN",
+                "ts": "1674215367.389109"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1674215367.389109"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1674194900.980119",
+        "user": "U04KCQL2MFV",
+        "text": "<@U04KCQL2MFV>さんがチャンネルに参加しました",
+        "inviter": "U03NZ0E09JN"
+    }
+]

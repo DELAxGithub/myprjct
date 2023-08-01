@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "665df9f9-d5b5-4c48-a4f4-8744ae3ba2c5",
+        "type": "message",
+        "text": "<@U03Q17LBJP3> 94泉谷開示さんのテロップと素材を入れました。よろしくお願いいたします。",
+        "user": "U03V84JSHNK",
+        "ts": "1680971614.338719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zYaqq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 94泉谷開示さんのテロップと素材を入れました。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "df79dee44905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4004709043478_df79dee449054ec9db85_72.png",
+            "first_name": "Ryousuke",
+            "real_name": "Ryousuke Yasunaga",
+            "display_name": "Ryousuke Yasunaga",
+            "team": "T03CU6RQ154",
+            "name": "ya63su",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680971614.338719",
+        "reply_count": 9,
+        "reply_users_count": 3,
+        "latest_reply": "1681725884.555829",
+        "reply_users": [
+            "U03Q17LBJP3",
+            "U03V84JSHNK",
+            "U03CXUXB5PF"
+        ],
+        "replies": [
+            {
+                "user": "U03Q17LBJP3",
+                "ts": "1681347660.811229"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1681454576.243099"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1681625826.484229"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1681626419.100219"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1681626527.735169"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1681626683.569459"
+            },
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1681626705.421889"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1681626714.845749"
+            },
+            {
+                "user": "U03V84JSHNK",
+                "ts": "1681725884.555829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1681725884.555829",
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1662992125.539369",
+        "user": "U041XC6213P",
+        "text": "<@U041XC6213P>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "7d663473-18b6-4df5-93d9-785d4a19224e",
+        "type": "message",
+        "text": "Macでもローカルで作れるようになった。いよいよ実戦投入か。\n\n好みの画像を生成できるAI「Stable Diffusion」をmacOS環境で超簡単に実行できる「Diffusion Bee」が登場したので使ってみた - GIGAZINE\n<https:\/\/gigazine.net\/news\/20220912-stable-diffusion-macos\/>",
+        "user": "U03CXUXB5PF",
+        "ts": "1663001071.933079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WCzYu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Macでもローカルで作れるようになった。いよいよ実戦投入か。\n\n好みの画像を生成できるAI「Stable Diffusion」をmacOS環境で超簡単に実行できる「Diffusion Bee」が登場したので使ってみた - GIGAZINE\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gigazine.net\/news\/20220912-stable-diffusion-macos\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/gigazine.net\/news\/20220912-stable-diffusion-macos\/",
+                "image_url": "https:\/\/i.gzn.jp\/img\/2022\/09\/12\/stable-diffusion-macos\/00.png",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 936746,
+                "service_icon": "https:\/\/gigazine.net\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/gigazine.net\/news\/20220912-stable-diffusion-macos\/",
+                "fallback": "GIGAZINE: 好みの画像を生成できるAI「Stable Diffusion」をmacOS環境で超簡単に実行できる「Diffusion Bee」が登場したので使ってみた",
+                "text": "入力した文章に沿った画像を生成してくれるAI「Stable Diffusion」は、手軽に精細なイラストや写真を出力できることから大きな注目を集めてます。Stable DiffusionはNVIDIA製GPUを搭載したPC向けに開発されているのですが、Intel製CPU搭載マシンやApple Silicon搭載Macで動作させる方法が次々と編み出されています。新たに、MetaでAIやVRについて研究しているDivam Gupta氏がApple Silicon搭載Macで動作するUI付きのStable Diffusion実行環境「Diffusion Bee」を公開していたので、実際にM1チップ搭載iMacにインストールして使ってみました。",
+                "title": "好みの画像を生成できるAI「Stable Diffusion」をmacOS環境で超簡単に実行できる「Diffusion Bee」が登場したので使ってみた",
+                "title_link": "https:\/\/gigazine.net\/news\/20220912-stable-diffusion-macos\/",
+                "service_name": "GIGAZINE"
+            }
+        ]
+    }
+]

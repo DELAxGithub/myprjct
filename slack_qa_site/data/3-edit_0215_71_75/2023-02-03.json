@@ -1,0 +1,525 @@
+[
+    {
+        "client_msg_id": "289ebd43-dc7a-4eb4-8920-d07223f7917f",
+        "type": "message",
+        "text": "<@U03CXUXB5PF> 72石田\nep1 16:59\nep2 16:01\nep3 17:58\n1,2の尺調整のため台本修正をお願いします。\n「あー」「えー」が沢山あるので、気持ち多めに見積もっていただけると助かります。",
+        "user": "U03Q17LBJP3",
+        "ts": "1675414140.737669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OZcp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 72石田\nep1 16:59\nep2 16:01\nep3 17:58\n1,2の尺調整のため台本修正をお願いします。\n「あー」「えー」が沢山あるので、気持ち多めに見積もっていただけると助かります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "c5b3b9a97352",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-16\/3808369859395_c5b3b9a973529d55741c_72.png",
+            "first_name": "Yukiko",
+            "real_name": "Yukiko Okano",
+            "display_name": "Yukiko Okano",
+            "team": "T03CU6RQ154",
+            "name": "kanzaki.movie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "D4A89F37-D4D5-468B-A544-E716F0484323",
+        "type": "message",
+        "text": "まぁこの尺なら大丈夫です。編集終わってれば試写1にお願いします。",
+        "user": "U03CXUXB5PF",
+        "ts": "1675414701.869999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jHcGZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まぁこの尺なら大丈夫です。編集終わってれば試写1にお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "27fb9284d11c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3440019395589_27fb9284d11c008928ea_72.png",
+            "first_name": "h.kodera",
+            "real_name": "h.kodera",
+            "display_name": "dela",
+            "team": "T03CU6RQ154",
+            "name": "h.kodera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U03Q17LBJP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF> <@U04J38PLGM6> 72石田\nたびたび失礼します。\nケニア周辺の地図系のイメージは、ai等で作成予定ですか？\n現状、googleのキャプチャと小さいpng\/aiが入っているものがいくつかあります。\nこちらご指示ください。",
+        "files": [
+            {
+                "id": "F04MXJP8UQ3",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03Q17LBJP3",
+        "display_as_bot": false,
+        "ts": "1675422227.041459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fyciK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04J38PLGM6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 72石田\nたびたび失礼します。\nケニア周辺の地図系のイメージは、ai等で作成予定ですか？\n現状、googleのキャプチャと小さいpng\/aiが入っているものがいくつかあります。\nこちらご指示ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "0572d845-6b6e-456d-b236-f7cd7367fe54",
+        "thread_ts": "1675422227.041459",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1675906910.868399",
+        "reply_users": [
+            "U04J38PLGM6"
+        ],
+        "replies": [
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1675466644.520879"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1675466826.421539"
+            },
+            {
+                "user": "U04J38PLGM6",
+                "ts": "1675906910.868399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675906910.868399"
+    },
+    {
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\n75_藤井で質問です。\n現在編集1中ですがep2台本のフォローの赤文字の部分\n\n「自然の生態系システム」「自然の物質循環」\n\nと2つ並んでいますが、\nしゃべり口調からすると、最初の「自然の生態系システム」を言い直して「自然の物質循環」と言ってるような感じなのですが、\nこれは「自然の物質循環」のほうが合っていますか？それとも両方でしょうか？",
+        "files": [
+            {
+                "id": "F04NC6JPQBT",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04MZDW22DR",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U03RA83HRN0",
+        "ts": "1675441686.274789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZJP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n75_藤井で質問です。\n現在編集1中ですがep2台本のフォローの赤文字の部分\n\n「自然の生態系システム」「自然の物質循環」\n\nと2つ並んでいますが、\nしゃべり口調からすると、最初の「自然の生態系システム」を言い直して「自然の物質循環」と言ってるような感じなのですが、\nこれは「自然の物質循環」のほうが合っていますか？それとも両方でしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ad0a9900-c9d7-45b0-bfa7-c5b792880d88",
+        "thread_ts": "1675441686.274789",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1675481565.942959",
+        "reply_users": [
+            "U03CXUXB5PF",
+            "U03RA83HRN0"
+        ],
+        "replies": [
+            {
+                "user": "U03CXUXB5PF",
+                "ts": "1675477941.020429"
+            },
+            {
+                "user": "U03RA83HRN0",
+                "ts": "1675481565.942959"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1675481565.942959"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03Q17LBJP3> <@U03CXUXB5PF>\nパーツをお渡ししたつもりだったのですが、\nあらためて見ると発注した方が良さそうですね。\n以下４つは発注します。\n①地図　アフリカのケニア　ウガンダ\n②地図　ケニアのグシイ（別名*Kisii）*\n③地図　イゲンベ\n④ケニア地図　ドゥルマ\n（モンバサの隣のmiritini）",
+        "user": "U04J38PLGM6",
+        "ts": "1675466644.520879",
+        "thread_ts": "1675422227.041459",
+        "root": {
+            "type": "message",
+            "text": "<@U03CXUXB5PF> <@U04J38PLGM6> 72石田\nたびたび失礼します。\nケニア周辺の地図系のイメージは、ai等で作成予定ですか？\n現状、googleのキャプチャと小さいpng\/aiが入っているものがいくつかあります。\nこちらご指示ください。",
+            "files": [
+                {
+                    "id": "F04MXJP8UQ3",
+                    "mode": "hidden_by_limit"
+                }
+            ],
+            "upload": false,
+            "user": "U03Q17LBJP3",
+            "display_as_bot": false,
+            "ts": "1675422227.041459",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "fyciK",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03CXUXB5PF"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U04J38PLGM6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 72石田\nたびたび失礼します。\nケニア周辺の地図系のイメージは、ai等で作成予定ですか？\n現状、googleのキャプチャと小さいpng\/aiが入っているものがいくつかあります。\nこちらご指示ください。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "client_msg_id": "0572d845-6b6e-456d-b236-f7cd7367fe54",
+            "thread_ts": "1675422227.041459",
+            "reply_count": 3,
+            "reply_users_count": 1,
+            "latest_reply": "1675906910.868399",
+            "reply_users": [
+                "U04J38PLGM6"
+            ],
+            "replies": [
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1675466644.520879"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1675466826.421539"
+                },
+                {
+                    "user": "U04J38PLGM6",
+                    "ts": "1675906910.868399"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1675906910.868399"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vxb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nパーツをお渡ししたつもりだったのですが、\nあらためて見ると発注した方が良さそうですね。\n以下４つは発注します。\n①地図　アフリカのケニア　ウガンダ\n②地図　ケニアのグシイ（別名"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Kisii）",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n③地図　イゲンベ\n④ケニア地図　ドゥルマ\n（モンバサの隣のmiritini）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b932481a-ab8e-4ee4-bc13-bcff59e37c75"
+    },
+    {
+        "type": "message",
+        "text": "<@U03Q17LBJP3> <@U03CXUXB5PF>\n以下三つはフォルダに入っているものを使ってください。\n・ザンビア地図（緑と赤）\n・地図コンゴ（緑と赤）\n・添付箇所のアフリカ地図は地球儀で",
+        "files": [
+            {
+                "id": "F04MYRR1ZBP",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04J38PLGM6",
+        "display_as_bot": false,
+        "ts": "1675466826.421539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=ln\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q17LBJP3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n以下三つはフォルダに入っているものを使ってください。\n・ザンビア地図（緑と赤）\n・地図コンゴ（緑と赤）\n・添付箇所のアフリカ地図は地球儀で"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "d48e6933-811c-4e6d-8ed9-af4b88a93e0d",
+        "thread_ts": "1675422227.041459",
+        "parent_user_id": "U03Q17LBJP3"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03RA83HRN0>\n「自然の物質循環」が正解でしょうね。\n\nそれが、自然の物質循環だとか\n私たちがまだ完全に、、\n\nって感じでしょうか。",
+        "user": "U03CXUXB5PF",
+        "ts": "1675477941.020429",
+        "thread_ts": "1675441686.274789",
+        "root": {
+            "type": "message",
+            "text": "<@U03CXUXB5PF>\n75_藤井で質問です。\n現在編集1中ですがep2台本のフォローの赤文字の部分\n\n「自然の生態系システム」「自然の物質循環」\n\nと2つ並んでいますが、\nしゃべり口調からすると、最初の「自然の生態系システム」を言い直して「自然の物質循環」と言ってるような感じなのですが、\nこれは「自然の物質循環」のほうが合っていますか？それとも両方でしょうか？",
+            "files": [
+                {
+                    "id": "F04NC6JPQBT",
+                    "mode": "hidden_by_limit"
+                },
+                {
+                    "id": "F04MZDW22DR",
+                    "mode": "hidden_by_limit"
+                }
+            ],
+            "upload": false,
+            "user": "U03RA83HRN0",
+            "ts": "1675441686.274789",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ZJP",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03CXUXB5PF"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n75_藤井で質問です。\n現在編集1中ですがep2台本のフォローの赤文字の部分\n\n「自然の生態系システム」「自然の物質循環」\n\nと2つ並んでいますが、\nしゃべり口調からすると、最初の「自然の生態系システム」を言い直して「自然の物質循環」と言ってるような感じなのですが、\nこれは「自然の物質循環」のほうが合っていますか？それとも両方でしょうか？"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "client_msg_id": "ad0a9900-c9d7-45b0-bfa7-c5b792880d88",
+            "thread_ts": "1675441686.274789",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1675481565.942959",
+            "reply_users": [
+                "U03CXUXB5PF",
+                "U03RA83HRN0"
+            ],
+            "replies": [
+                {
+                    "user": "U03CXUXB5PF",
+                    "ts": "1675477941.020429"
+                },
+                {
+                    "user": "U03RA83HRN0",
+                    "ts": "1675481565.942959"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1675481565.942959"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F6Owg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RA83HRN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n「自然の物質循環」が正解でしょうね。\n\nそれが、自然の物質循環だとか\n私たちがまだ完全に、、\n\nって感じでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "15f902c4-1af5-4023-8a47-74470beede71",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03RA83HRN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f434671b-d0bb-4b05-92e7-e64148deb076",
+        "type": "message",
+        "text": "<@U03CXUXB5PF>\nありがとうございます。\n言い直しと言葉尻がかなり難儀な感じなので、\nかなり台本からつまんでいる部分あります。\n話が通じているかに注意だと思います。",
+        "user": "U03RA83HRN0",
+        "ts": "1675481565.942959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b0ov=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CXUXB5PF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nありがとうございます。\n言い直しと言葉尻がかなり難儀な感じなので、\nかなり台本からつまんでいる部分あります。\n話が通じているかに注意だと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03CU6RQ154",
+        "user_team": "T03CU6RQ154",
+        "source_team": "T03CU6RQ154",
+        "user_profile": {
+            "avatar_hash": "28deced4c23a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-27\/3854906706293_28deced4c23a57bf1d99_72.jpg",
+            "first_name": "石橋昭孝",
+            "real_name": "石橋昭孝",
+            "display_name": "ISHIBASHI Akitaka",
+            "team": "T03CU6RQ154",
+            "name": "akichanchin2021",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675441686.274789",
+        "parent_user_id": "U03RA83HRN0"
+    }
+]
